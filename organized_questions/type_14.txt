@@ -1,0 +1,132 @@
+*** On a college entrance exam , each correct answer adds 1 point to your raw score , each unanswered question adds nothing and each incorrect answer subtracts 0.25 point. You answer 82 out of 85 questions for a raw score of 67. How many questions did you answer correctly? 
+What do You answer? --> 82 out of 85 questions
+What do you answer? --> 82 out of 85 questions
+How many questions do You answer? --> 82 out of 85 questions
+Do you answer How many questions? --> 82 out of 85 questions
+How do you answer How many questions? --> 82 out of 85 questions
+Do You answer 82 out of 85 questions? --> you answer 82
+What does each unanswered question add? --> nothing
+Does each unanswered question add nothing? --> each unanswered question adds nothing
+How many out of 85 questions do You answer? --> 82
+Where does each correct answer add 1 point? --> college entrance exam
+Does each incorrect answer subtract 0.25 point? --> each incorrect answer subtracts 0 . 25 point
+How many point does each incorrect answer subtract? --> 0 . 25
+What does each correct answer add on a college entrance exam? --> 1 point
+How many do answer for a raw score of 82 out of 85 questions? --> 67
+Does each correct answer add 1 point on a college entrance exam? --> each correct answer adds 1 point to your raw score
+How many point does each correct answer add on a college entrance exam? --> 1
+==> Solution Equation: 1.0*correct-0.25*incorrect=67.0 and correct+incorrect=82.0
+~~~
+
+*** On a test containing 120 questions , the final score is based on 1 point for each correct answer and 0.25 of a point subtracted for each incorrect answer. Allan answered all of the questions and received a final score of 100 points. How many questions did Allan answer correctly? 
+What do Allan answer? --> all of the questions
+What did Allan answer? --> all of the questions
+What did Allan receive? --> 100 points
+Who do answer How many questions? --> allan
+How many points did Allan receive? --> 100
+Do Allan answer How many questions? --> allan answered all of the questions and received a final score of 100 points . how many questions did allan answer correctly
+Who did answer all of the questions? --> allan
+Did Allan answer all of the questions? --> allan
+How do Allan answer How many questions? --> allan answered all of the questions
+Who did receive a final score of 100 points? --> allan
+Did Allan receive a final score of 100 points? --> allan answered all of the questions and received a final score of 100 points
+Did 0.25 of a point subtract for each incorrect answer? --> 120
+How many of a point did subtract for each incorrect answer? --> 0 . 25
+How many questions did answer on a test containing all of the questions? --> 120
+How many of a point subtracted for each incorrect answer is the final score based? --> 0 . 25
+Is the final score based on 1 point for each correct answer and 0.25 of a point subtracted for each incorrect answer? --> the
+How many point for each correct answer and 0.25 of a point subtracted for each incorrect answer is the final score based? --> 1
+==> Solution Equation: 1.0*right-0.25*wrong=100.0 and right+wrong=120.0
+~~~
+
+*** A woman is paid 20 dollars for each day she works and forfeits 5 dollars for each day she is idle. At the end of 25 days she nets 450 dollars. How many days did she work?
+When is she idle? --> 25 days
+When do she work? --> 25 days
+When does she work? --> 25 days
+Is she idle each day? --> 5 dollars for each day she is idle
+Is 20 dollars paid a woman? --> a woman is paid 20 dollars for each day she works
+When does she nets 450 dollars? --> at the end of 25 days
+What a woman works and forfeits? --> 5 dollars for each day she is idle
+Indicate characteristics of her. --> 25 days
+When is 20 dollars paid a woman? --> each day she works
+What does she nets at the end of 25 days? --> 450 dollars
+Does she nets 450 dollars at the end of 25 days? --> at the end of 25 days she nets 450 dollars
+a woman works and forfeits 5 dollars for each day she is idle? --> 25 days
+==> Solution Equation: 20.0*work-5.0*idle=450.0 and work+idle=25.0
+~~~
+
+*** Separate 66 into 2 parts so that 0.40 of one part exceeds 0.625 of the other part by 10. What is the smaller part? What is the larger part?
+Is the larger part What? --> what is the larger part
+Is the smaller part What? --> what is the smaller part
+What does 0.40 of one part exceeds? --> 0 . 625
+How would you describe the larger part? --> what
+How would you describe the smaller part? --> what is the smaller part ? what is the larger part
+How many does exceeds by 0.625 of the other part? --> 10
+Does 0.40 of one part exceeds 0.625 of the other part? --> 0 . 40 of one part exceeds 0 . 625 of the other part by 10
+How many of the other part does 0.40 of one part exceeds? --> 0 . 625
+How many of one part does exceeds 0.625 of the other part? --> 10
+How does 0.40 of one part exceeds 0.625 of the other part? --> separate 66 into 2 parts so that 0 . 40 of one part exceeds 0 . 625 of the other part by 10
+How many part does exceeds 0.40 of 0.625 of the other part? --> 10
+==> Solution Equation: 0.4*larger=0.625*smaller+10.0 and smaller+larger=66.0
+~~~
+
+*** In a test of 30 questions , 20 points are given for each correct answer and 5 points are deducted for each one answered incorrectly. If Maria answered all of the questions and got a score of 325 , how many did she get correct? 
+What did Maria get? --> 325
+Do she get how many? --> 325
+What did Maria answer? --> 325
+How many did Maria get? --> 325
+How did each one answer? --> 20 points are given for each correct answer and 5 points are deducted for each one answered incorrectly
+Who did get a score of 325? --> maria
+Did Maria get a score of 325? --> if maria answered all of the questions and got a score of 325
+Who did answer all of the questions? --> maria
+Did Maria answer all of the questions? --> if maria answered all of the questions and got a score of 325
+Are 20 points given for each correct answer? --> 20 points are given for each correct answer
+How many points are given for each correct answer? --> 20
+Are 5 points deducted for each one answered incorrectly? --> 5 points are deducted for each one answered incorrectly
+How many points are deducted for each one answered incorrectly? --> 5
+==> Solution Equation: 20.0*correct-5.0*incorrect=325.0 and correct+incorrect=30.0
+~~~
+
+*** Terry did all 25 problems on his test and got an 85. Scores are computed by giving 4 points for each right answer and subtracting one point for each wrong answer. How many problems did terry get right and wrong?
+What did terry do? --> 25 problems
+What did terry get? --> 85
+Did terry get an 85? --> 25
+How many did terry get? --> 25
+How are Scores computed? --> by giving 4 points for each right answer and subtracting one point for each wrong answer
+What are Scores computed by? --> giving 4 points for each right answer and subtracting one point for each wrong answer
+Does terry get How many problems? --> 25
+Did terry do all 25 problems on his test? --> terry did all 25
+How many problems on his test did terry do? --> 25
+How many point for each wrong answer are computed by giving 4 points for each right answer and subtracting? --> one
+How many points for each right answer and subtracting one point for each wrong answer are computed by giving? --> 4
+==> Solution Equation: 4.0*right-1.0*wrong=85.0 and right+wrong=25.0
+~~~
+
+*** The sum of 2 numbers is 10. 3 times one of them is more than 4 times the second by 2. Find the smaller number. Find the larger number.
+Is the sum of 2 numbers 10? --> the sum of 2 numbers is 10
+How many is one of them 3 times? --> 4
+How many is the sum of 2 numbers? --> 10
+How many numbers is the sum of 10? --> 2
+How would you describe one of them? --> more than 4 times the second by 2
+How would you describe the sum of 2 numbers? --> 10
+When is one of them more than 4 times the second by 2? --> 3 times
+Is one of them more than 4 times the second by 2 3 times? --> 3 times one of them is more than 4 times the second by 2
+How many times is more than 4 times the second by 2 3 times? --> 3
+How many of them is more than 4 times the second by 2 3 times? --> 10
+How many more than 4 times the second by 2 is one of them 3 times? --> 3
+==> Solution Equation: 3.0*large=4.0*small+2.0 and small+large=10.0
+~~~
+
+*** The sum of 2 numbers is 43. Twice the larger number exceeds 3 times the smaller number by 16. Find the number.
+Is the sum of 2 numbers 43? --> the sum of 2 numbers is 43
+How many is the sum of 2 numbers? --> 43
+How many numbers is the sum of 43? --> 2
+What does the larger number exceeds Twice? --> 3 times the smaller number by 16
+How would you describe the sum of 2 numbers? --> 43
+How many does exceeds by 3 times the smaller number Twice? --> 16
+When does the larger number exceeds 3 times the smaller number? --> twice
+Does the larger number exceeds 3 times the smaller number Twice? --> twice
+How many times the smaller number does the larger number exceeds Twice? --> 3
+==> Solution Equation: 2.0*largenumber=3.0*smallnumber+16.0 and smallnumber+largenumber=43.0
+~~~
+

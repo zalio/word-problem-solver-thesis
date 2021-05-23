@@ -1,0 +1,76 @@
+*** The maximum load that a horizontal beam can carry is directly proportional to its width. If a beam 1.5 inches wide can support a load of 250 pounds , find the load that a beam of the same type can support if its width is 3.5 inches? 
+Is its width 3.5 inches? --> if its width is 3 . 5 inches
+How would you describe its width? --> 3
+Can a beam of the same type support? --> if its width is 3 . 5 inches
+What can a beam 1.5 inches wide support? --> 250 pounds
+What can a beam of the same type support? --> if its width is 3 . 5 inches
+Can a horizontal beam carry the maximum load? --> the maximum load that a horizontal beam can carry is directly proportional to its width
+Can a beam of the same type support the load? --> if its width is 3 . 5 inches
+Can a beam 1.5 inches wide support a load of 250 pounds? --> if a beam 1 . 5 inches wide can support a load of 250 pounds
+How would you describe the maximum load that a horizontal beam can carry? --> directly proportional to its width
+Indicate characteristics of the maximum load that a horizontal beam can carry. --> the maximum load that a horizontal beam can carry is directly proportional to its width
+Is the maximum load that a horizontal beam can carry directly proportional to its width? --> the maximum load that a horizontal beam can carry is directly proportional to its width
+==> Solution Equation: 1.5*load_per_width=250.0 and 3.5*load_per_width=load
+~~~
+
+*** The weight of an object on the moon varies directly to its weight on earth. A person who weights 133 pounds on earth weighs 26.6 pounds on the moon. How many pounds would a 136-pound person weigh on the moon?
+What does A person weights on earth? --> 133 pounds
+Where does A person weights 133 pounds? --> earth
+Does A person weights 133 pounds on earth? --> a person who weights 133 pounds on earth weighs 26 . 6 pounds on the moon
+Where does the weight of an object on the moon vary to its weight? --> earth
+What does A person who weights 133 pounds on earth weigh on the moon? --> 26 . 6 pounds
+Does the weight of an object on the moon vary to its weight on earth? --> the weight of an object on the moon varies directly
+Where does A person who weights 133 pounds on earth weigh 26.6 pounds? --> the moon
+How does the weight of an object on the moon vary to its weight on earth? --> directly
+Does A person who weights 133 pounds on earth weigh 26.6 pounds on the moon? --> a person who weights 133 pounds on earth weighs 26 . 6 pounds on the moon
+==> Solution Equation: 133*ratio=26.6 and 136.0*ratio=moon_weight
+~~~
+
+*** A 5-pound bag of apples costs 3.50 dollars. At the same rate , what would be the cost of 7 pounds of apples in dollars? 
+When does a 5-pound bag of apples cost 3.50 dollars? --> * * * a 5 - pound bag of apples costs 3 . 50 dollars
+What does a 5-pound bag of apples cost at the same rate? --> 7 pounds of apples in dollars
+Would the cost of 7 pounds of apples in dollars be what? --> at the same rate , what would be the cost
+Does a 5-pound bag of apples cost 3.50 dollars at the same rate? --> at the same rate , what would be the cost of 7 pounds of apples in dollars
+How many bag of apples does cost a 3.50 dollars at the same rate? --> 7 pounds
+==> Solution Equation: 5.0*cost=3.5 and 7.0*cost=seven_cost
+~~~
+
+*** A painting is 10 inches tall and 15 inches wide. A print of the painting is 25 inches tall , how wide is the print in inches? 
+Is the print in inches how wide? --> how wide
+Indicate characteristics of a painting. --> 15 inches wide
+Is a print of the painting 25 inches tall? --> a print of the painting is 25 inches tall
+Indicate characteristics of the print in inches. --> wide
+Is a painting 10 inches tall and 15 inches wide? --> a painting is 10 inches tall and 15 inches wide
+Indicate characteristics of a print of the painting. --> 25 inches tall , how wide is the print in inches
+==> Solution Equation: 10.0*ratio=15.0 and 25.0*ratio=width
+~~~
+
+*** A weight of 80 pounds stretches a spring 4.5 inches. How far will a weight of 125 pounds stretch the spring? 
+What do a weight of 125 pounds stretch? --> 4 . 5 inches . how far will a weight of 125 pounds stretch the spring
+Do a weight of 125 pounds stretch the spring? --> how far
+Does a weight of 80 pounds stretch a spring 4.5 inches? --> stretches a spring 4 . 5 inches
+==> Solution Equation: 80.0*stretch=4.5 and 125.0*stretch=distance
+~~~
+
+*** According to Dr. Aaron R. Folsom of the University of Minnesota School of Public Health , your maximum ideal waist size is directly proportional to your hip size. For a woman with 40 inch hips , the maximum ideal waist size is 32 inches. What is the maximum waist size for a woman with 35 inch hips? 
+Is the maximum ideal waist size 32 inches? --> for a woman with 40 inch hips
+How would you describe the maximum ideal waist size? --> directly proportional to your hip size
+Indicate characteristics of your maximum ideal waist size. --> 32 inches
+Is the maximum waist size for a woman with 35 inch hips What? --> 32 inches . what is the maximum waist size
+Is your maximum ideal waist size directly proportional to your hip size? --> your maximum ideal waist size is directly proportional to your hip size
+How would you describe the maximum waist size for a woman with 35 inch hips? --> what
+Where is your maximum ideal waist size directly proportional to your hip size? --> university of minnesota school of public health
+==> Solution Equation: 40.0*ratio=32.0 and 35.0*ratio=max
+~~~
+
+*** If 2.5 costs 20 dollars , how much does 3.5 cost , in dollars? 
+What does 2.5 cost? --> 20 dollars
+Does 2.5 cost 20 dollars? --> if 2 . 5 costs 20 dollars
+How many does cost 20 dollars? --> 2 . 5
+==> Solution Equation: 2.5*cost=20.0 and 3.5*cost=answer
+~~~
+
+*** If 3.5 pounds of ground beef costs 9.77 dollars , how much does 5.6 pounds of ground beef cost? 
+==> Solution Equation: 3.5*price_pound=9.77 and 5.6*price_pound=cost
+~~~
+

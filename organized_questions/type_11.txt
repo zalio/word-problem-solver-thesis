@@ -1,0 +1,310 @@
+*** You are traveling to your mothers house that is 234 miles away. If you are currently twice as far from your house as you are from your mothers house how far have you traveled? Round to the nearest tenth mile.
+Are you from your mothers house? --> 234 miles away
+Is your mothers house 234 miles away? --> 234 miles away
+Are you traveling to your mothers house that is 234 miles away? --> you are traveling to your mothers house that is 234 miles away
+When are you twice as far from your house as you are from your mothers house? --> 234 miles away . if you are currently twice as far from your house as you are from your mothers house how far have you traveled ? round to the nearest tenth mile
+Are you twice as far from your house as you are from your mothers house currently? --> if you are currently twice
+==> Solution Equation: distance_traveled+distance_mothers=234.0 and distance_traveled=2.0*distance_mothers
+~~~
+
+*** The sum of 2 numbers is 84. One number is 3 times the other. Find the smaller number. Find the larger number.
+Is the sum of 2 numbers 84? --> the sum of 2 numbers is 84
+Is One number 3 times the other? --> one number is 3 times the other
+How many is the sum of 2 numbers? --> 84
+How would you describe One number? --> 3 times the other
+How many numbers is the sum of 84? --> 2
+How many number is 3 times the other? --> one
+How many times the other is One number? --> 3
+How would you describe the sum of 2 numbers? --> 84
+==> Solution Equation: larger+smaller=84.0 and larger=3.0*smaller
+~~~
+
+*** In college there are 15 times as many students as professors. If together the students and professors number 40000 , how many students are there in college? 
+Where are how many students? --> in college
+Where are If together the students and professors number 40000, how many students are there in college? --> in college
+How many, how many students are there in college are If together the students and professors number in college? --> 40000
+==> Solution Equation: 15.0*total_professors=total_students and total_students+total_professors=40000.0
+~~~
+
+*** A washer and a dryer cost 600 dollars combined. The price of the washer is 3 times the price of the dryer. What is the cost of the dryer?
+Is the cost of the dryer What? --> 3 times the price of the dryer
+How would you describe the cost of the dryer? --> 3 times
+How would you describe The price of the washer? --> 3 times
+Is The price of the washer 3 times the price of the dryer? --> the price of the washer is 3 times the price of the dryer
+How many times the price of the dryer is The price of the washer? --> 3
+==> Solution Equation: washer+dryer=600.0 and washer=3.0*dryer
+~~~
+
+*** The probability that San Francisco plays in the next super bowl is nine times the probability that they do not play in the next super bowl. The probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1. What is the probability that San Francisco plays in the next super bowl?
+Where do they play? --> the next super bowl
+Where does San Francisco plays? --> the next super bowl
+Is the probability that San Francisco plays in the next super bowl What? --> nine times
+How would you describe the probability that San Francisco plays in the next super bowl? --> nine times
+Where is the probability that San Francisco plays in the next super bowl the probability? --> nine times
+Is the probability that San Francisco plays in the next super bowl plus the probability that they do not play 1? --> the probability that san francisco plays in the next super bowl plus the probability that they do not play is 1
+How many is the probability that San Francisco plays in the next super bowl plus the probability that they do not play? --> 1
+How would you describe the probability that San Francisco plays in the next super bowl plus the probability that they do not play? --> 1
+How many . What is the probability that San Francisco plays in the next super bowl is the probability that San Francisco plays in the next super bowl? --> nine
+Is the probability that San Francisco plays in the next super bowl nine times the probability that they do not play in the next super bowl . the probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1 . What is the probability that San Francisco plays in the next super bowl? --> the probability that san francisco plays in the next super bowl is nine times the probability that they do not play in the next super bowl
+How many times the probability that they do not play in the next super bowl . the probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1 . What is the probability that San Francisco plays in the next super bowl is the probability that San Francisco plays in the next super bowl? --> nine
+==> Solution Equation: play_probability+not_play_probability=1.0 and play_probability=9.0*not_play_probability
+~~~
+
+*** A garden table and a bench cost 450 dollars combined. The price of the garden table is 2 times the price of the bench. What is the cost of the bench , in dollars?
+Is the cost of the bench What? --> in dollars
+How is the cost of the bench What? --> in dollars
+What do a garden table and a bench cost? --> 450 dollars
+How would you describe the cost of the bench? --> in dollars
+How would you describe The price of the garden table? --> 2 times
+Do a garden table and a bench cost 450 dollars combined? --> a garden table and a bench cost 450 dollars combined . the price of the garden table is 2 times the price of the bench
+Is The price of the garden table 2 times the price of the bench? --> the price of the garden table is 2 times the price of the bench
+How many times the price of the bench is The price of the garden table? --> 2
+==> Solution Equation: garden_table+bench=450.0 and garden_table=2.0*bench
+~~~
+
+*** The 6th graders from an elementary school are going to celebrate the end of the year by going to the local pizza parlor. There are 120 in the whole group and there are twice as many children as adults in the group. How many children are there?
+How many in the whole group are? --> 120
+What are the 6th graders from an elementary school going to celebrate? --> the end of the year
+Are the 6th graders from an elementary school going to celebrate the end of the year? --> the 6th graders from an elementary school are going to celebrate the end of the year by going to the local pizza parlor . there are 120
+How are the 6th graders from an elementary school going to celebrate the end of the year? --> going to the local pizza parlor
+What are the 6th graders from an elementary school going to celebrate the end of the year by? --> going to the local pizza parlor
+==> Solution Equation: number_children+number_adults=120.0 and number_children=2.0*number_adults
+~~~
+
+*** A swim team has 5 times as many girls as boys. There are a total of 96 people on the swim team. How many girls and boys are their on the team?
+What does a swim team has? --> 5 times as many girls as boys
+are How many girls and boys their on the team? --> 5 times as many girls as boys . there are a total of 96 people on the swim team . how many girls and boys are their on the team
+How would you describe How many girls and boys? --> 5 times as many girls as boys
+How many people on the swim team are a total of? --> 96
+Does a swim team has 5 times as many girls as boys? --> a swim team has 5 times as many girls as boys
+How many times as many girls as boys does a swim team has? --> 5
+==> Solution Equation: girls+boys=96.0 and girls=5.0*boys
+~~~
+
+*** A garden table and a bench cost 750 combined. The price of the garden table is two times the price of the bench. What is the cost of the bench?
+Is the cost of the bench What? --> two times the price
+What do a garden table and a bench cost? --> 750
+Did a garden table and a bench combine 750? --> two
+How would you describe the cost of the bench? --> two times
+How many did a garden table and a bench combine? --> 750
+Do a garden table and a bench cost 750 combined? --> the price of the garden table is two times the price of the bench
+How would you describe The price of the garden table? --> two times
+How many combined do a garden table and a bench cost? --> 750
+Is The price of the garden table two times the price of the bench? --> the price of the garden table is two times the price of the bench
+How many times the price of the bench is The price of the garden table? --> two
+==> Solution Equation: garden_table+bench=750.0 and garden_table=2.0*bench
+~~~
+
+*** There are 24 kids in Mrs Jones ' class. There are twice as many girls as boys. How many boys and girls are there?
+How many kids in Mrs Jones' class . there are twice as many girls as boys . How many boys and girls are there are? --> 24
+==> Solution Equation: boys+girls=24.0 and girls=2.0*boys
+~~~
+
+*** The greater of two numbers is 8 times the lesser and their sum is 180. Find the numbers.
+Is their sum 180? --> their sum is 180
+How many is their sum? --> 180
+How would you describe their sum? --> 180
+Is the greater of two numbers 8 times the lesser? --> the greater of two numbers is 8 times the lesser
+How would you describe the greater of two numbers? --> 8 times the lesser
+How many numbers is the greater of 8 times the lesser? --> two
+How many times the lesser is the greater of two numbers? --> 8
+==> Solution Equation: greater_number+lesser_number=180.0 and greater_number=8.0*lesser_number
+~~~
+
+*** 1 out of 2 numbers is thrice the other. If their sum is 124 , find the numbers. 
+Is their sum 124? --> if their sum is 124
+How many is their sum? --> 124
+How would you describe their sum? --> 124
+How many do find If their sum is? --> 124
+Is 1 out of 2 numbers thrice the other? --> 1 out of 2 numbers is thrice the other
+How would you describe 1 out of 2 numbers? --> thrice the other
+How many is If their sum is thrice the other? --> 124
+How many out of 2 numbers is thrice the other? --> 1
+How many numbers is 1 out of thrice the other? --> 124
+Indicate characteristics of 1 out of 2 numbers. --> if
+==> Solution Equation: number_one+number_two=124.0 and number_one=3.0*number_two
+~~~
+
+*** There are 2 numbers whose sum is 65 , such that one is 4 times as large as the other. What is the smaller number? What is the larger number? 
+Is 2 numbers 65? --> sum is 65
+How many is 2 numbers? --> 65
+How many numbers is 65? --> 2
+Is the larger number What? --> 4 times as large as the other . what is the smaller number ? what is the larger number
+Is the smaller number What? --> what is the smaller number ? what is the larger number
+Indicate characteristics of one. --> one is 4 times as large as the other . what is the smaller number ? what is the larger number
+How would you describe 2 numbers? --> 4 times as large as the other . what is the smaller number ? what is the larger number
+Is one 4 times as large as the other? --> 65
+How would you describe the larger number? --> what
+How would you describe the smaller number? --> what is the smaller number ? what is the larger number
+How many is 4 times as large as the other? --> 2 numbers whose sum is 65
+How many times as large as the other is one? --> 4
+How many is 4 times as large as the other . What is the smaller number ? What is the larger number are 2 numbers whose sum is 65, such that? --> 2 numbers whose sum is 65
+How many, such that one is 4 times as large as the other . What is the smaller number ? What is the larger number are 2 numbers whose sum is? --> 65
+How many numbers whose sum is 65, such that one is 4 times as large as the other . What is the smaller number ? What is the larger number are? --> 2
+How many times as large as the other . What is the smaller number ? What is the larger number are 2 numbers whose sum is 65, such that one is? --> 4
+==> Solution Equation: 4.0*smaller=larger and smaller+larger=65.0
+~~~
+
+*** In 1 day , a store sold 1.6 as many DVDs as CDs. The total number of DVDs and CDs sold that day was 273. How many DVDs were sold? 
+When were DVDs and CDs sold? --> 1 day
+What were a store sold in 1 day? --> dvds as cds
+When were a store sold 1.6 as many DVDs as CDs? --> 1 day
+Were a store sold 1.6 as many DVDs as CDs in 1 day? --> in 1 day , a store sold 1 . 6 as many dvds as cds . the total number of dvds and cds sold that day was 273
+How many 1.6 as many DVDs as CDs were a store sold in 1 day? --> 273
+How would you describe The total number of DVDs and CDs sold that day? --> 273
+Was The total number of DVDs and CDs sold that day 273 . How many DVDs were sold? --> how
+How many . How many DVDs were sold was The total number of DVDs and CDs sold that day? --> 273
+==> Solution Equation: dvds+cds=273.0 and dvds=1.6*cds
+~~~
+
+*** A rancher raises 5 times as many cows as horses. If he has 168 animals , how many cows does he have? 
+What do he have? --> 168
+What does he has? --> 168
+Does he has 168 animals? --> if he has 168
+Do he have how many cows? --> 168
+What does a rancher raise? --> cows
+How many animals does he has? --> 168
+Does a rancher raise 5 times as many cows as horses? --> 5 times as many cows as horses . if he has 168
+How many times as many cows as horses does a rancher raise? --> 5
+How many animals does raise If he has 5 times as many cows as horses? --> 168
+==> Solution Equation: cows+horses=168.0 and cows=5.0*horses
+~~~
+
+*** There were 42 people. There were twice as many children as adults. How many children attended?
+How many people . there were twice as many children as adults . How many children attended were? --> 42
+==> Solution Equation: 2.0*adults=children and children+adults=42.0
+~~~
+
+*** Honda day shift produced 4 times as much as second shift. The total production for the month was 5,500 cars. How many did the day shift produce? How many did the second shift produce? 
+Was The total production for the month 5,500 cars? --> the total production for the month was 5 , 500 cars
+How many cars was The total production for the month? --> 5 , 500
+How would you describe The total production for the month? --> 5 , 500 cars
+Did Honda day shift produce 4 times as much as second shift? --> 4 times
+How many times as much as second shift did Honda day shift produce? --> 4
+==> Solution Equation: day_shift+second_shift=5500.0 and day_shift=4.0*second_shift
+~~~
+
+*** The shoe store has twice as many black shoes as it does brown shoes. The total number of shoes is 66. How many brown shoes are there?
+Does it do brown shoes? --> the shoe store has twice as many black shoes as it does brown shoes
+What does the shoe store has? --> black shoes
+Is the total number of shoes 66? --> the total number of shoes is 66
+How many is the total number of shoes? --> 66
+How would you describe the total number of shoes? --> 66
+Does the shoe store has twice as many black shoes as it does brown shoes? --> the shoe store has twice as many black shoes as it does brown shoes . the total number of shoes is 66
+==> Solution Equation: black_shoes=2.0*brown_shoes and brown_shoes+black_shoes=66.0
+~~~
+
+*** A 69 inch board is cut into 2 pieces. One piece is 2 times the length of the other. What is the length of the shorter piece , in inches? What is the length of the longer piece? 
+How would you describe One piece? --> 2 times the length
+Is a 69 inch board cut into 2 pieces? --> 2 times the length of the other
+How many pieces is a 69 inch board cut? --> 2
+Is the length of the longer piece What? --> what
+Is One piece 2 times the length of the other? --> one piece is 2 times the length of the other . what is the length of the shorter piece , in inches
+How many piece is 2 times the length of the other? --> one
+Is the length of the shorter piece, in inches What? --> length
+How many times the length of the other is One piece? --> 2
+How would you describe the length of the longer piece? --> what
+How would you describe the length of the shorter piece, in inches? --> what is the length
+==> Solution Equation: shorter+longer=69.0 and longer=2.0*shorter
+~~~
+
+*** Find the two numbers whose sum is 45 and such that one is 4 times as large as the other.
+Is the two numbers 45? --> sum is 45
+How many numbers is the 45? --> two
+How many is the two numbers? --> 45
+Indicate characteristics of one. --> one is 4 times as large as the other
+Is one 4 times as large as the other? --> find the two numbers whose sum is 45
+How would you describe the two numbers? --> 45 and such that one is 4 times as large as the other
+How many is 4 times as large as the other? --> two numbers whose sum is 45
+How many times as large as the other is one? --> 4
+How many numbers whose sum is 45 and such that one is 4 times as large as the other do find the? --> two
+How many is 4 times as large as the other do find the two numbers whose sum is 45 and such that? --> one
+How many times as large as the other do find the two numbers whose sum is 45 and such that one is? --> 4
+==> Solution Equation: 4.0*smaller_number=larger_number and smaller_number+larger_number=45.0
+~~~
+
+*** Find two numbers whose sum is 14 if one number is 3 times as large as the other number.
+Is two numbers 14? --> if one number is 3 times as large as the other number
+How many numbers is 14? --> 3
+How many is two numbers? --> 14
+How would you describe two numbers? --> one number is 3 times as large as the other number
+Indicate characteristics of one number. --> 3 times as large as the other number
+Is one number 3 times as large as the other number? --> 14
+How many number is 3 times as large as the other number? --> 14
+How many times as large as the other number is one number? --> 3
+How many number is 3 times as large as the other number is if 14? --> one
+How many times as large as the other number is if one number is 14? --> 3
+How many numbers whose sum is 14 if one number is 3 times as large as the other number do find? --> two
+How many number is 3 times as large as the other number does find two numbers whose sum is 14 if? --> one
+How many if one number is 3 times as large as the other number does find two numbers whose sum is? --> 14
+How many times as large as the other number does find two numbers whose sum is 14 if one number is? --> 3
+==> Solution Equation: first_number+second_number=14.0 and first_number=3.0*second_number
+~~~
+
+*** Paul has 30 postcards. He has 4 times as many large postcards as small postcards. How many small postcards does he have? How many large postcards?
+What do he have? --> 30 postcards
+What does He has? --> 30 postcards
+What does Paul has? --> 30 postcards
+Does Paul has 30 postcards? --> he
+How many postcards does Paul has? --> 30
+Do he have How many small postcards? --> how many small postcards
+Does He has 4 times as many large postcards as small postcards? --> he has 4 times as many large postcards
+How many times as many large postcards as small postcards does He has? --> 4
+==> Solution Equation: small_postcards+large_postcards=30.0 and large_postcards=4.0*small_postcards
+~~~
+
+*** In a class of 35 students the number of girls is 0.4 of the number of boys. Find the number of girls in the class.
+How would you describe the number of girls? --> 0 . 4 of the number of boys
+Where is the number of girls 0.4 of the number of boys? --> in a class of 35 students
+Is the number of girls 0.4 of the number of boys in a class of 35 students? --> the number of girls is 0 . 4 of the number of boys
+How many of the number of boys is the number of girls in a class of 35 students? --> 0 . 4
+How many students is in a class of 0.4 of the number of boys in a class of 35 students? --> girls
+==> Solution Equation: 0.4*boys=girls and boys+girls=35.0
+~~~
+
+*** A total of 366 tickets were sold for the school play. The number of student tickets sold was two times the number of adult tickets sold. How many adult tickets were sold?
+How many tickets were sold a total of? --> 366
+For what purpose were a total of 366 tickets sold? --> school play
+How would you describe The number of student tickets sold? --> two times
+Was The number of student tickets sold two times the number of adult tickets sold? --> two times
+How many times the number of adult tickets sold was The number of student tickets sold? --> two times
+==> Solution Equation: adult_tickets+student_tickets=366.0 and student_tickets=2.0*adult_tickets
+~~~
+
+*** A piece of rope 60 meters long is cut into two pieces so that the longest piece is twice as long as the shorter piece. How long are the two pieces? 
+are the two pieces How long? --> how long
+How many pieces are the How long? --> two
+Indicate characteristics of the two pieces. --> the longest piece is twice as long as the shorter piece
+Indicate characteristics of the longest piece. --> twice as long as the shorter piece
+How many pieces is a piece of rope 60 meters long cut? --> two
+Is a piece of rope 60 meters long cut into two pieces? --> so that the longest piece is twice as long as the shorter piece
+Is the longest piece twice as long as the shorter piece? --> the longest piece is twice as long as the shorter piece
+==> Solution Equation: 2.0*shorter=longest and shorter+longest=60.0
+~~~
+
+*** A 177-inch pipe is cut into two pieces. One piece is two times the length of the other. Find the lengths of the two pieces.
+How would you describe One piece? --> two times the length of the other
+How many pipe is cut a into two pieces? --> 177 - inch
+How many pieces is a 177-inch pipe cut? --> two
+How many pieces do Find the lengths of? --> two
+How many pieces is a 177-inch pipe cut? --> two
+How many pieces do Find the lengths of? --> two
+How many pieces is a 177-inch pipe cut? --> two
+How many pieces do Find the lengths of? --> two
+Is a 177-inch pipe cut into two pieces? --> one piece is two times the length of the other
+Is One piece two times the length of the other? --> one piece is two times the length of the other
+How many piece is two times the length of the other? --> one
+How many times the length of the other is One piece? --> two
+==> Solution Equation: piece_one+piece_two=177.0 and piece_one=2.0*piece_two
+~~~
+
+*** One integer is twice another , and their sum is 96. Find the smaller and larger integer. 
+Is their sum 96? --> one integer is twice another , and their sum is 96
+How many is their sum? --> 96
+Is one integer twice another? --> one integer is twice another
+How would you describe their sum? --> 96
+How many integer is twice another? --> 96
+How would you describe one integer? --> twice another
+==> Solution Equation: 2.0*smaller=larger and smaller+larger=96.0
+~~~
+

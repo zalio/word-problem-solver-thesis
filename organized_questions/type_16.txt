@@ -1,0 +1,75 @@
+*** It takes a boat 4 hours to travel 24 miles down a river and 6 hours to return upstream to its starting point. What is the rate of the current in the river?
+Does a boat travel 24? --> 4 hours
+Is the rate of the current in the river What? --> what is the rate
+How would you describe the rate of the current in the river? --> what
+Does to travel 24 miles down a river and 6 hours to return upstream to its starting point take 4 hours? --> it takes a boat 4 hours
+==> Solution Equation: (speed_boat+speed_current)*4.0=24.0 and (speed_boat-speed_current)*6.0=24.0
+~~~
+
+*** Rowan can row 26 kilometers downstream in 2 hours. Returning upstream it takes 4 hours to complete the trip. Find his rate in still water in kilometers per hour and the rate of the current.
+When can rowan row 26 kilometers? --> downstream in 2 hours
+What does to complete the trip take? --> 4 hours
+Can rowan row 26 kilometers in 2 hours? --> rowan can row 26 kilometers downstream in 2 hours
+Does to complete the trip take 4 hours? --> returning upstream
+==> Solution Equation: (rowan_speed+current)*2.0=26.0 and (rowan_speed-current)*4.0=26.0
+~~~
+
+*** A plane flies 900 miles with a tail wind in 3 hours. The same plane takes 4 hours to make the return trip against the wind. What is the speed of the plane in still air? 
+When does a plane fly? --> 900 miles with a tail wind in 3 hours
+How does a plane fly in 3 hours? --> with a tail wind
+Is the speed of the plane in still air What? --> what is the speed
+What does to make the return trip against the wind take? --> 4 hours
+How would you describe the speed of the plane in still air? --> what is the speed
+Does to make the return trip against the wind take 4 hours? --> the same plane takes 4 hours to make the return trip against the wind
+==> Solution Equation: (speed_plane+speed_wind)*3.0=900.0 and (speed_plane-speed_wind)*4.0=900.0
+~~~
+
+*** With a tail wind , a jet flew 2000 miles in 4 hours. The jet 's return trip against the same wind required 5 hours. Find the jet 's speed and the wind speed. 
+When did a jet fly? --> 2000 miles in 4 hours
+How did a jet fly in 4 hours? --> with a tail wind
+Did The jet's return trip against the same wind require 5 hours? --> the jet ' s return trip against the same wind required 5 hours
+==> Solution Equation: (jet+wind)*4.0=2000.0 and (jet-wind)*5.0=2000.0
+~~~
+
+*** A boat travels 45 miles upstream in 5 hours. The boat travels the same distance downstream in 3 hours. What is the speed of the boat in still water in miles per hour? What is the speed of the current in miles per hour? 
+When does a boat travel? --> 45 miles upstream in 5 hours
+When does The boat travel the same distance? --> downstream in 3 hours
+How would you describe the speed of the boat? --> miles per hour
+When is the speed of the boat What in still water? --> miles per hour
+Does The boat travel the same distance in 3 hours? --> the boat travels the same distance downstream
+Is the speed of the current in miles per hour What? --> what is the speed
+Where is the speed of the boat What in miles per hour? --> in still water
+Is the speed of the boat What in still water in miles per hour? --> what is the speed
+How would you describe the speed of the current in miles per hour? --> what is the speed
+==> Solution Equation: (boat_speed+stream_speed)*3.0=45.0 and (boat_speed-stream_speed)*5.0=45.0
+~~~
+
+*** A direct flight on delta air lines from Atlanta to Paris is 4000 miles and takes approximately 8 hours going East and 10 hours going West. Although the plane averages the same airspeed , there is a headwind while traveling East , resulting in a different air speeds. What is the average air speed of the plane in miles per hour and the average wind speed? 
+When is a headwind? --> while traveling east
+What does the plane averages? --> the same airspeed
+Where is a headwind while traveling East? --> different air speeds
+Does the plane averages the same airspeed? --> although the plane averages the same airspeed
+How would you describe the average air speed of the plane? --> miles per hour
+Is A direct flight on delta air lines from Atlanta to Paris 4000 miles? --> a direct flight on delta air lines from atlanta to paris is 4000 miles
+What does A direct flight on delta air lines from Atlanta to Paris take? --> approximately 8 hours going east and 10 hours going west
+How would you describe A direct flight on delta air lines from Atlanta to Paris? --> 4000 miles
+Is the average air speed of the plane in miles per hour and the average wind speed? --> average air speed
+Does A direct flight on delta air lines from Atlanta to Paris take approximately 8 hours going East and 10 hours going West? --> a direct flight on delta air lines from atlanta to paris is 4000 miles and takes approximately 8 hours going east and 10 hours going west
+Where does A direct flight on delta air lines from Atlanta to Paris take approximately 8 hours going East and 10 hours going? --> west
+Where does A direct flight on delta air lines from Atlanta to Paris take approximately 8 hours going East and 10 hours going in hour? --> west
+==> Solution Equation: (plane+wind)*8.0=4000.0 and (plane-wind)*10.0=4000.0
+~~~
+
+*** Dave and Sandy fly from Philly to Chicago , it takes 2 hours to go West and 1.5 hours to fly East. The trip is 780 miles one way. If the wind speed is the same on each trip , find the speed of the wind and find the speed of the plane in the still air , in miles per hour. 
+What does to fly East take? --> 1 . 5 hours
+Where do Dave and Sandy fly? --> from philly to chicago
+Does to fly East take 2 hours? --> 1 . 5 hours
+Is The trip 780 miles one way? --> the trip is 780 miles one way
+Where is the wind speed the same? --> on each trip
+How would you describe the wind speed? --> if the wind speed is the same on each trip , find the speed of the wind and find the speed of the plane in the still air , in miles per hour
+Is the wind speed the same on each trip? --> if the wind speed is the same on each trip
+When do the speed of the plane find in the still air? --> if the wind speed is the same on each trip
+Where do the speed of the plane find in miles per hour? --> in the still air
+==> Solution Equation: (plane+wind)*1.5=780.0 and (plane-wind)*2.0=780.0
+~~~
+

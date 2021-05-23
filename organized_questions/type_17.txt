@@ -1,0 +1,137 @@
+*** You have 160 dollars and save 7 dollars per week. Your friend has 210 dollars and saves 5 dollars per week. After how many weeks will each of you have saved the same amount of money?
+What do you have? --> 160 dollars
+What have you save? --> 7 dollars per week
+Do you have 160 dollars? --> you have 160 dollars
+What does your friend has? --> 210 dollars
+What does your friend save After? --> 5 dollars per week
+Have you save 7 dollars per week? --> you have 160 dollars
+Does your friend has 210 dollars? --> your friend has 210 dollars and saves 5 dollars per week
+When have you save 7 dollars per week? --> 160 dollars
+What have each of you saved how many weeks? --> 7 dollars per week . your friend has 210 dollars and saves 5 dollars per week . after how many weeks will each of you have saved the same amount of money
+When does your friend save 5 dollars per week? --> 210 dollars
+Does your friend save 5 dollars per week After? --> your friend has 210 dollars and saves 5 dollars per week
+When have each of you saved the same amount of money? --> after how many weeks
+Have each of you saved the same amount of money how many weeks? --> after how many weeks
+==> Solution Equation: 160.0+7.0*week=210.0+5.0*week
+~~~
+
+*** A student is pricing 2 different picture packages. John 's Photo World charges 2.75 dollars per sheet and a one time sitting fee of 125 dollars. Sam 's Picture Emporium charges 1.50 dollars per sheet and a one time sitting fee of 140 dollars. For how many sheets of pictures do the 2 companies charge the same amount?
+What is a student pricing? --> 2 different picture packages
+What does John's Photo World charge? --> 2 . 75 dollars per sheet
+What does Sam's Picture Emporium charge? --> 1 . 50 dollars per sheet
+How many dollars does John's Photo World charge? --> 2 . 75
+Is a student pricing 2 different picture packages? --> a student is pricing 2 different picture packages
+Do the 2 companies charge how many sheets of pictures? --> how many sheets of pictures do the 2 companies charge the same amount
+How many different picture packages is a student pricing? --> 2
+How many companies do charge the how many sheets of pictures? --> 2
+How many time sitting fee of 125 dollars does John's Photo World charge? --> 2 . 75
+How many time sitting fee of 140 dollars does Sam's Picture Emporium charge? --> 1 . 50 dollars per sheet
+Does John's Photo World charge 2.75 dollars per sheet and a one time sitting fee of 125 dollars? --> john ' s photo world charges 2 . 75 dollars per sheet and a one time sitting fee of 125 dollars
+Does Sam's Picture Emporium charge 1.50 dollars per sheet and a one time sitting fee of 140 dollars? --> sam ' s picture emporium charges 1 . 50 dollars per sheet and a one time sitting fee of 140 dollars
+==> Solution Equation: 2.75*sheets+125.0=1.5*sheets+140.0
+~~~
+
+*** Safety Rent A Truck costs 41.95 dollars plus 0.29 dollars per mile. City Rentals rents the truck for 38.95 dollars plus 0.31 dollars per mile. For what mileage are the costs the same?
+Are the costs the same? --> for what mileage
+What does City Rentals rents? --> 38 . 95 dollars plus 0 . 31 dollars per mile
+Does City Rentals rents the truck? --> 38 . 95 dollars plus 0 . 31 dollars per mile
+What does safety Rent A Truck cost? --> 41 . 95 dollars plus 0 . 29 dollars per mile
+Does safety Rent A Truck cost 41.95 dollars plus 0.29 dollars per mile? --> safety rent a truck costs 41 . 95 dollars plus 0 . 29 dollars per mile
+==> Solution Equation: 41.95+0.29*miles=38.95+0.31*miles
+~~~
+
+*** Sunshine Car Rentals rents a basic car at a daily rate of 17.99 dollars plus 0.18 per mile. City Rentals rents a basic car at 18.95 dollars plus 0.16 per mile. For what mileage is the cost the same? 
+Is the cost what mileage? --> the same
+What does City Rentals rents? --> a basic car
+Does City Rentals rents a basic car? --> city rentals rents a basic car at 18 . 95 dollars plus 0 . 16 per mile
+What does sunshine Car Rentals rents? --> a basic car
+Does sunshine Car Rentals rents a basic car? --> sunshine car rentals rents a basic car at a daily rate of 17 . 99 dollars plus 0 . 18 per mile
+When does sunshine Car Rentals rents a basic car? --> daily rate of 17 . 99 dollars plus 0 . 18 per mile
+==> Solution Equation: 17.99+0.18*miles=18.95+0.16*miles
+~~~
+
+*** Safety Rent-a-Car rents an intermediate-size car at a daily rate of 21.95 dollars plus 0.19 per mile. City Rentals rent an intermediate-size car for 18.95 dollars plus 0.21 per mile. For what milage is the cost the same? 
+Is the cost what milage? --> the same
+What do City Rentals rent? --> an intermediate - size car
+What does safety Rent - a - Car rents? --> an intermediate - size car
+Do City Rentals rent an intermediate - size car? --> 18 . 95 dollars plus 0 . 21 per mile
+Does safety Rent - a - Car rents an intermediate - size car? --> 21 . 95 dollars plus 0 . 19 per mile
+When does safety Rent - a - Car rents an intermediate - size car? --> daily rate of 21 . 95 dollars plus 0 . 19 per mile
+==> Solution Equation: 21.95+0.19*miles=18.95+0.21*miles
+~~~
+
+*** The first agency charges 20.25 dollars per day and 0.14 dollars per mile. The second agency charges 18.25 dollars per day and 0.22 dollars per mile. How many miles would you have to drive before the first agency is less expensive than the second?
+What does the first agency charge? --> 20 . 25 dollars per day and 0 . 14 dollars per mile
+What does the second agency charge? --> 18 . 25 dollars per day and 0 . 22 dollars per mile
+When do you have to drive How many miles? --> before the first agency is less expensive than the second
+Indicate characteristics of the first agency. --> the first agency charges 20 . 25 dollars per day and 0 . 14 dollars per mile
+Is the first agency less expensive than the second? --> the second agency charges 18 . 25 dollars per day and 0 . 22 dollars per mile . how many miles
+Does the first agency charge 20.25 dollars per day and 0.14 dollars per mile? --> the first agency charges 20 . 25 dollars per day and 0 . 14 dollars per mile
+Does the second agency charge 18.25 dollars per day and 0.22 dollars per mile? --> the second agency charges 18 . 25 dollars per day and 0 . 22 dollars per mile
+What do you have to drive before the first agency is less expensive than the second? --> how many miles
+Do you have to drive How many miles before the first agency is less expensive than the second? --> how many miles
+==> Solution Equation: 20.25+0.14*miles=18.25+0.22*miles
+~~~
+
+*** Student Council wants to rent a banquet hall for the prom. Caesar 's charges 800 dollars to rent the room and 30 dollars for each meal. Venus Hall charges 500 dollars to rent the room and 35 dollars for each meal. How many guests must attend the prom for the costs of the two halls to be the same?
+Who do rent the room? --> caesar ' s
+What do Caesar's rent? --> 800 dollars
+What do Venus Hall rent? --> 500 dollars to rent the room and 35 dollars for each meal
+Do Caesar's rent the room? --> caesar ' s charges 800 dollars
+What do Venus Hall charges? --> 500 dollars
+Do Venus Hall rent the room? --> venus hall charges 500 dollars
+What do Student Council rent? --> a banquet hall
+What does Student Council want? --> rent a banquet hall for the prom
+What must How many guests attend? --> how many guests must attend the prom for the costs of the two halls to be the same
+Must How many guests attend the prom? --> how many
+Do the costs of the two halls be the same? --> how many guests must attend the prom
+How many halls do be the costs of the same? --> two
+How would you describe the costs of the two halls? --> the same
+Do Student Council rent a banquet hall for the prom? --> student council wants to rent a banquet hall for the prom
+Does Student Council want to rent a banquet hall for the prom? --> student council wants to rent a banquet hall for the prom
+Do Venus Hall charges 500 dollars to rent the room and 35 dollars? --> venus hall charges 500 dollars
+How many halls to be the same must attend for the costs of the prom? --> two
+==> Solution Equation: 800.0+30.0*guests=500.0+35.0*guests
+~~~
+
+*** Customers of a phone company can choose between 2 service plans for long distance calls. The first plan has a 22 dollars monthly fee and charges an additional 0.13 dollars for each minute of calls. The second plan has an 8 dollars monthly fee and charges an additional 0.18 dollars for each minute of calls. For how many minutes of calls will the costs of the two plans be equal?
+What does The first plan has? --> 22 dollars monthly fee
+What does The second plan has? --> 8 dollars monthly fee
+What does The first plan charge? --> 0 . 13 dollars for each minute of calls
+What does The second plan charge? --> 0 . 18 dollars for each minute of calls
+Do the costs of the two plans be equal? --> for how many minutes of calls
+How many plans do be the costs of equal? --> for how many minutes of calls
+What can customers of a phone company choose? --> 2 service plans for long distance calls
+Does The first plan has a 22 dollars monthly fee? --> the first plan has a 22 dollars monthly fee and charges an additional 0 . 13 dollars for each minute of calls
+Does The second plan has an 8 dollars monthly fee? --> the second plan has an 8 dollars monthly fee and charges an additional 0 . 18 dollars for each minute of calls
+How many dollars monthly fee does The first plan has? --> 22
+Does The first plan charge an additional 0.13 dollars? --> the first plan has a 22 dollars monthly fee and charges an additional 0 . 13 dollars for each minute of calls
+Indicate characteristics of the costs of the two plans. --> for how many minutes of calls
+Does The second plan charge an additional 0.18 dollars? --> the second plan has an 8 dollars monthly fee and charges an additional 0 . 18 dollars for each minute of calls
+How many service plans for long distance calls can customers of a phone company choose? --> 2
+Can customers of a phone company choose between 2 service plans for long distance calls? --> customers of a phone company can choose between 2 service plans for long distance calls
+==> Solution Equation: 22.0+0.13*minutes=8.0+0.18*minutes
+~~~
+
+*** About 4.9 million households had one brand of personal computers in 2001. The use of these computers grew at an average rate of 0.275 million households a year. In 2001 , about 2.5 millions households used another type of computer. The use of these computers grew at an average rate of 0.7 million households a year. How long will it take for the two types of computers to be in the same number of households? 
+What did about 2.5 millions households use In? --> another type of computer
+What did about 4.9 million households have in 2001? --> one brand of personal computers
+Did about 2.5 millions households use another type of computer In? --> in 2001
+Do the two types of computers be in the same number of households? --> how long will it take for the two types of computers to be in the same number of households
+When did about 2.5 millions households use another type of computer? --> 2001
+How many types of computers do be the in the same number of households? --> two
+When did about 4.9 million households have one brand of personal computers? --> 2001
+Did about 4.9 million households have one brand of personal computers in 2001? --> about 4 . 9 million households had one brand of personal computers in 2001
+How many brand of personal computers did about 4.9 million households have in 2001? --> one
+Do for the two types of computers to be in the same number of households take How long? --> how long
+How many types of computers to be in the same number of households do take for How long? --> two
+Did The use of these computers grow at an average rate of 0.7 million households a year? --> the
+Did The use of these computers grow at an average rate of 0.275 million households a year In? --> the
+How many about 2.5 millions households did use about 2.5 millions another type of computer In? --> in 2001 , about 2 . 5 millions households used another type of computer . the use of these computers grew at an average rate of 0 . 7 million households a year
+When did The use of these computers grow at an average rate of 0.275 million households a year? --> 2001
+How many at an average rate of 0.7 million households a year did The use of these computers grow? --> 0 . 275 million
+How many at an average rate of 0.275 million households a year did The use of these computers grow In? --> 0 . 7 million
+How many about 4.9 million households did have about 4.9 million one brand of personal computers in 2001? --> about 4 . 9 million households had one brand of personal computers in 2001
+==> Solution Equation: 4.9+0.275*years=2.5+0.7*years
+~~~
+

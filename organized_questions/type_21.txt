@@ -1,0 +1,111 @@
+*** Matthew has two different stocks. One of the stocks is worth twice as much per share as the other. He has 14 shares of the more valuable stock and 26 shares of the other stock. His total assets in stocks is 2106 dollars. How much is the more expensive stock per share?
+What does He has? --> two different stocks
+What does Matthew has? --> two different stocks
+Who does has two different stocks? --> matthew
+Does Matthew has two different stocks? --> matthew has two different stocks . one of the stocks is worth twice as much per share
+How many different stocks does Matthew has? --> two
+Is His total assets in stocks 2106 dollars? --> his total assets in stocks is 2106 dollars
+Indicate characteristics of One of the stocks. --> one of the stocks is worth twice as much per share
+How many shares of the other stock does He has? --> 26
+Is the more expensive stock per share How much? --> how much
+How would you describe His total assets in stocks? --> 2106 dollars
+Is One of the stocks worth twice as much per share as the other? --> one of the stocks is worth twice as much per share
+How many of the stocks is worth twice as much per share as the other? --> one
+Does He has 14 shares of the more valuable stock and 26 shares of the other stock? --> he has 14 shares of the more valuable stock and 26 shares of the other stock
+How many shares of the more valuable stock and 26 shares of the other stock does He has? --> 14
+==> Solution Equation: 14.0*expensive_stock+26.0*cheap_stock=2106.0 and expensive_stock=2.0*cheap_stock
+~~~
+
+*** Snookers Lumber can convert logs into either lumber or plywood. In a given day , the mill turns out three times as many units of plywood as lumber. It makes a profit of 30 dollars on a unit of lumber and 50 dollars on a unit of plywood. Snookers lumber must produce and sell ___ units of lumber and ___ units of plywood to make a profit of 18360 dollars? 
+What does It make? --> a profit of 30 dollars on a unit of lumber and 50 dollars on a unit of plywood
+What does snookers lumber make? --> it makes a profit of 30 dollars on a unit of lumber and 50 dollars on a unit of plywood
+What can snookers Lumber convert In? --> logs
+Can snookers Lumber convert logs In? --> either lumber or plywood
+When can snookers Lumber convert logs? --> in a given day
+Do snookers lumber _ _ units of plywood? --> snookers lumber must produce and sell
+What does the mill turn out In a given day? --> three times as many units of plywood as lumber
+What snookers lumber must produce and sell? --> _ _ _ units of lumber and _ _ _ units of plywood
+Does snookers lumber make a profit of 18360 dollars? --> snookers lumber must produce and sell _ _ _ units of lumber and _ _ _ units of plywood to make a profit of 18360 dollars
+Must snookers lumber produce units of lumber and _ _ _ units of plywood? --> snookers lumber must produce and sell _ _ _ units of lumber and _ _ _ units of plywood to make a profit of 18360 dollars
+When does the mill turn out three times as many units of plywood as lumber? --> in a given day
+snookers lumber must produce and sell units of lumber and _ _ _ units of plywood? --> snookers lumber must produce and sell _ _ _ units of lumber and _ _ _ units of plywood to make a profit of 18360 dollars
+Does the mill turn out three times as many units of plywood as lumber In a given day? --> in a given day , the mill turns out three times as many units of plywood as lumber
+How many times as many units of plywood as lumber does the mill turn out In a given day? --> three
+Does It make a profit of 30 dollars on a unit of lumber and 50 dollars on a unit of plywood? --> it makes a profit of 30 dollars
+==> Solution Equation: 30.0*lumber+50.0*plywood=18360.0 and plywood=3.0*lumber
+~~~
+
+*** Wal-Mart sells thermometers for 2 dollars and hot-water bottles for 6 dollars . In December , Wal-Mart 's total sales for these two items was 1200 dollars. Customers bought 7 times as many thermometers as hot-water bottles. How many thermometers did Wal-Mart sell? How many hot-water bottles? 
+What do Wal - Mart sell? --> thermometers for 2 dollars and hot - water bottles for 6 dollars
+What does Wal - Mart sell? --> thermometers for 2 dollars and hot - water bottles for 6 dollars
+Does Wal - Mart sell thermometers? --> wal - mart sells thermometers for 2 dollars
+Do Wal - Mart sell How many thermometers? --> wal - mart sells thermometers for 2 dollars
+When was Wal - Mart's total sales for these two items 1200 dollars? --> december
+How would you describe Wal - Mart's total sales for these two items? --> 1200 dollars
+Did Customers buy 7 times as many thermometers as hot - water bottles? --> customers bought 7 times as many thermometers as hot - water bottles
+Was Wal - Mart's total sales for these two items 1200 dollars In December? --> in december , wal - mart ' s total sales for these two items was 1200 dollars
+How many times as many thermometers as hot - water bottles did Customers buy? --> 7
+How many items was Wal - Mart's total sales for these 1200 dollars In December? --> 6
+==> Solution Equation: 2.0*thermometers+6.0*bottles=1200.0 and thermometers=7.0*bottles
+~~~
+
+*** You have exactly 537 dollars to spend on party gifts for your rich uncle 's birthday party. You decide to get watches for the ladies at 27.98 dollars each , and beepers for the men at 23.46 dollars each. You know that the number of watches required will be 3 times as much as the number of beepers. How many watches do you buy? How many beepers do you buy? 
+What do you buy? --> watches for the ladies at 27 . 98 dollars each , and beepers
+What do you have? --> watches
+What do you know? --> the number of watches required will be 3 times as much as the number of beepers
+What do you decide? --> watches for the ladies
+What do you decide to get? --> watches for the ladies
+Do you buy How many watches? --> how
+Do you buy How many beepers? --> 23 . 46 dollars each
+How many dollars each do you decide? --> 27 . 98
+How would you describe the number of watches required? --> 3 times as much
+Do you spend on party gifts for your rich uncle's birthday party? --> 537 dollars
+Do you decide to get watches for the ladies at 27.98 dollars each? --> you decide to get watches for the ladies at 27 . 98 dollars each
+Do the number of watches required be 3 times as much as the number of beepers? --> the number of watches required will be 3 times as much as the number of beepers
+How many times as much as the number of beepers do the number of watches required be? --> 3
+How many dollars do spend exactly on party gifts for your rich uncle's birthday party? --> 537
+How many dollars to spend on party gifts for your rich uncle's birthday party do you have? --> 537
+How many times as much as the number of beepers . How many watches do you buy do you know? --> 3
+Do you have exactly 537 dollars to spend on party gifts for your rich uncle's birthday party? --> you have exactly 537 dollars
+Do you decide to get watches for the ladies at 27.98 dollars each, and beepers for the men at 23.46 dollars each? --> you decide to get watches for the ladies at 27 . 98 dollars each
+Do you know that the number of watches required will be 3 times as much as the number of beepers . How many watches do you buy? --> how many
+==> Solution Equation: 27.98*watches+23.46*beepers=537.0 and watches=3.0*beepers
+~~~
+
+*** Wal-Mart sells thermometers for 2 dollars, and hot-water bottles for 6 dollars. Total sales for these 2 items during the month of January was 1,200 dollars. There were 7 times as many thermometers as hot-water bottles sold. How many thermometers were sold? How many hot-water bottles? 
+What does Wal - Mart sell? --> thermometers for 2 dollars , and hot - water bottles for 6 dollars
+Does Wal - Mart sell thermometers? --> wal - mart sells thermometers for 2 dollars
+How many times as many thermometers as hot - water bottles sold were? --> 7
+Was Total sales for these 2 items during the month of January 1,200 dollars? --> total sales for these 2 items during the month of january was 1 , 200 dollars
+How many dollars was Total sales for these 2 items during the month of January? --> 1 , 200
+How would you describe Total sales for these 2 items during the month of January? --> 1 , 200 dollars
+How many items during the month of January was Total sales for these 1,200 dollars? --> 2
+==> Solution Equation: 2.0*thermometers+6.0*hot_water_bottles=1200.0 and thermometers=7.0*hot_water_bottles
+~~~
+
+*** Maggie has a job working in an office for 10 dollars an hour and another job driving a tractor for 12 dollars an hour. One week she works in the office twice as long as she drives the tractor. Her total income for that week is 416 dollars. How many hours did she spend at the office? How many hours driving the tractor?
+What does she drive? --> a tractor
+What does Maggie has? --> a job working in an office for 10 dollars an hour
+Does she drive the tractor? --> one
+What do she spend at the office? --> how many hours
+When does she work in the office? --> one week
+Where do she spend How many hours? --> driving a tractor for 12 dollars an hour . one week she works in the office twice as long as she drives the tractor . her total income for that week is 416 dollars . how many hours did she spend at the office
+Do she spend How many hours at the office? --> how many
+Is Her total income for that week 416 dollars? --> her total income for that week is 416 dollars
+How would you describe Her total income for that week? --> 416 dollars
+Where does she work as long as she drives the tractor? --> in the office
+Does Maggie has a job working in an office for 10 dollars an hour and another job driving a tractor for 12 dollars an hour? --> maggie has a job working in an office for 10 dollars an hour and another job driving a tractor for 12 dollars an hour .
+==> Solution Equation: 10.0*office_hours+12.0*tractor_hours=416.0 and office_hours=2.0*tractor_hours
+~~~
+
+*** Adult tickets for a show cost 5.50 dollars while children 's tickets cost 2.50 dollars. If there were twice as many adults as children and the total receipts for the show were 1026 dollars. How many adults were at the show?
+What do children's tickets cost? --> 2 . 50 dollars
+Were How many adults at the show? --> twice as many adults as children and the total receipts for the show were 1026 dollars
+What does adult tickets for a show cost? --> 5 . 50 dollars
+Do children's tickets cost 2.50 dollars? --> children ' s tickets cost 2 . 50 dollars
+Does adult tickets for a show cost 5.50 dollars? --> adult tickets for a show cost 5 . 50 dollars
+Were the total receipts for the show 1026 dollars? --> if there were twice as many adults as children
+How would you describe the total receipts for the show? --> 1026 dollars
+==> Solution Equation: 5.5*adult_ticket+2.5*children_ticket=1026.0 and adult_ticket=2.0*children_ticket
+~~~
+

@@ -1,0 +1,189 @@
+*** Flying with the wind , a bird was able to make 150 kilometers per hour. If the wind was 0.5 times as strong and the bird flies against it , it could make only 30 kilometers per hour. Find the velocity of the wind in kilometers per hour. Find the velocity of the bird. 
+What could it make? --> 150 kilometers per hour
+What could a bird make? --> 150 kilometers per hour
+How would you describe a bird? --> flying with the wind , a bird was able to make 150 kilometers per hour . if the wind was 0 . 5 times as strong and the bird flies against it , it could make only 30 kilometers per hour
+How would you describe the wind? --> 0 . 5 times as strong
+Was the wind 0.5 times as strong? --> if the wind was 0 . 5 times as strong
+Indicate characteristics of a bird. --> find the velocity
+How many times as strong was the wind? --> 0 . 5
+Could a bird make 150 kilometers per hour? --> a bird was able to make 150 kilometers per hour
+Could it make only 30 kilometers per hour? --> if the wind was 0 . 5 times as strong and the bird flies against it
+Was a bird able to make 150 kilometers per hour? --> flying with the wind , a bird was able to make 150 kilometers per hour
+How many times as strong and the bird flies against it could make If the wind was only 30 kilometers per hour? --> 0 . 5
+How many times as strong and the bird flies against it, it could make only 30 kilometers per hour was If the wind was able to make 150 kilometers per hour? --> 0 . 5
+==> Solution Equation: bird+wind=150.0 and bird-0.5*wind=30.0
+~~~
+
+*** The sum of 2 numbers is 70. The larger number is 2 more than 3 times the smaller number. Find the smaller number. Find the larger number.
+Is the sum of 2 numbers 70? --> the sum of 2 numbers is 70
+How many is the sum of 2 numbers? --> 70
+How many numbers is the sum of 70? --> 2
+How would you describe the larger number? --> 2 more than 3 times the smaller number
+How would you describe the sum of 2 numbers? --> 70
+Is the larger number 2 more than 3 times the smaller number? --> the larger number is 2 more than 3 times the smaller number
+How many more than 3 times the smaller number is the larger number? --> 2
+How many 2 more than 3 times the smaller number is the larger number? --> 2
+==> Solution Equation: smaller+larger=70.0 and larger=3.0*smaller+2.0
+~~~
+
+*** One number is 3 more than twice a second number. Their sum is 27. Find the smaller number. Find the larger number.
+Is Their sum 27? --> 27
+How many is Their sum? --> 27
+How would you describe Their sum? --> 27
+How would you describe one number? --> 3 more than twice a second number
+Is one number 3 more than twice a second number? --> one number is 3 more than twice a second number
+How many number is 3 more than twice a second number? --> one
+How many more than twice a second number is one number? --> 3
+==> Solution Equation: larger_number+smaller_number=27.0 and larger_number=2.0*smaller_number+3.0
+~~~
+
+*** The carpenter saws a board that is 22 feet long into two pieces. One piece is to be 1 foot longer than twice the length of the shorter piece. Find the Length of each piece.
+What does One piece Find? --> the length of each piece
+How many pieces is a board? --> two
+What does the carpenter saw? --> a board that is 22 feet long into two pieces
+Indicate characteristics of a board. --> find the length of each piece
+How many pieces does the carpenter saw? --> two
+Is a board 22 feet long into two pieces? --> the carpenter saws a board that is 22 feet long into two pieces
+Does One piece Find the Length of each piece? --> find the length of each piece
+How many piece does Find the Length of each piece? --> two
+Does the carpenter saw a board that is 22 feet long into two pieces? --> the carpenter saws
+Is One piece to be 1 foot longer than twice the length of the shorter piece? --> one piece is to be 1 foot longer than twice the length of the shorter piece
+How many piece is to be 1 foot longer than twice the length of the shorter piece? --> one
+==> Solution Equation: piece_one+piece_two=22.0 and piece_one=2.0*piece_two+1.0
+~~~
+
+*** An airplane has a total of 387 seats. The number of coach class seats is 2 more than 4 times the number of first-class seats. How many first class and coach class seats are there on the plane?
+What does an airplane has? --> 387 seats
+How many seats does an airplane has? --> 387
+Does an airplane has a total of 387 seats? --> an airplane has a total of 387 seats
+Where are How many first class and coach class seats? --> on the plane
+How would you describe The number of coach class seats? --> 2 more than 4 times the number of first - class seats
+Is The number of coach class seats 2 more than 4 times the number of first - class seats? --> the number of coach class seats is 2 more than 4 times the number of first - class seats
+How many more than 4 times the number of first - class seats is The number of coach class seats? --> 2
+How many 2 more than 4 times the number of first - class seats is The number of coach class seats? --> the number of coach class seats is 2
+==> Solution Equation: coach_seats+first_seats=387.0 and coach_seats=4.0*first_seats+2.0
+~~~
+
+*** Find two numbers whose sum is 147 and one is 4 greather than 0.375 of the other.
+Is two numbers 147? --> sum
+How many numbers is 147? --> two numbers whose sum is 147 and one is 4
+How many is two numbers? --> 147
+How would you describe one? --> 4 greather than 0 . 375
+How many of the other is one? --> 0 . 375
+How would you describe two numbers? --> 4 greather than 0 . 375 of the other
+Is one 4 greather than 0.375 of the other? --> one is 4 greather
+How many is 4 greather than 0.375 of the other? --> 147
+How many greather than 0.375 of the other is one? --> 4
+How many of the other do find two numbers whose sum is 147 and one is 4 greather than? --> 0 . 375
+How many numbers whose sum is 147 and one is 4 greather than 0.375 of the other do find? --> two
+How many and one is 4 greather than 0.375 of the other do find two numbers whose sum is? --> 147
+How many is 4 greather than 0.375 of the other do find two numbers whose sum is 147 and? --> one is 4
+How many greather than 0.375 of the other do find two numbers whose sum is 147 and one is? --> 4
+==> Solution Equation: second_number+first_number=147.0 and first_number=0.375*second_number+4.0
+~~~
+
+*** The sum of 2 numbers is 70. The second is 10 more than 3 times the first. Find the smaller number. Find the larger number.
+Is the sum of 2 numbers 70? --> the sum of 2 numbers is 70
+How many is the sum of 2 numbers? --> 70
+How would you describe the second? --> 10 more than 3 times the first
+How many numbers is the sum of 70? --> 2
+How would you describe the sum of 2 numbers? --> 70
+Is the second 10 more than 3 times the first? --> the second is 10 more than 3 times the first
+How many more than 3 times the first is the second? --> 10
+How many 10 more than 3 times the first is the second? --> 10
+==> Solution Equation: smaller_number+larger_number=70.0 and larger_number=3.0*smaller_number+10.0
+~~~
+
+*** The sum of two numbers is 62. The greater number exceeds twice the smaller number by 5. What are the two numbers?
+Are the two numbers What? --> what
+Is the sum of two numbers 62? --> the sum of two numbers is 62
+How many numbers are the What? --> 62
+How many numbers is the sum of 62? --> 5
+How many is the sum of two numbers? --> 62
+What does the greater number exceeds? --> twice the smaller number by 5
+How would you describe the two numbers? --> the greater number exceeds twice the smaller number by 5
+How would you describe the sum of two numbers? --> 62
+How many does exceeds by twice the smaller number? --> 5
+Does the greater number exceeds twice the smaller number? --> the greater number exceeds twice the smaller number by 5
+==> Solution Equation: smaller+larger=62.0 and larger=2.0*smaller+5.0
+~~~
+
+*** The sum of 2 numbers is 138. If three times the smaller number is subtracted from the larger number , the result is 22. Find the two numbers. 
+Is the result 22? --> if three times the smaller number is subtracted from the larger number
+How many is the result? --> 22
+How many is result is 138? --> sum of 2 numbers is 138 . if three times the smaller number is subtracted from the larger number , the result is 22
+Is the sum of 2 numbers 138? --> the sum of 2 numbers is 138
+How many numbers do Find the? --> 22
+How many is the sum of 2 numbers? --> 138
+How would you describe the result? --> 22
+How many numbers is the sum of 138? --> 2
+How would you describe the sum of 2 numbers? --> 138
+When is the smaller number subtracted from the larger number? --> three times
+How many times is subtracted from the larger number three times? --> 22
+Is the smaller number subtracted from the larger number three times? --> if three times the smaller number is subtracted from the larger number
+How many times the smaller number is subtracted from the larger number is If 22? --> three
+==> Solution Equation: smaller+larger=138.0 and larger-3.0*smaller=22.0
+~~~
+
+*** The sum of two numbers is 73. The second is 7 more than 5 times the first. What is the first number and what is the second one?
+Is the second one what? --> 7
+Is the first number What? --> what
+Is the sum of two numbers 73? --> the sum of two numbers is 73
+How would you describe the second? --> 7
+How many numbers is the sum of 73? --> 5
+How many is the sum of two numbers? --> 73
+How would you describe the second one? --> 7
+How would you describe the first number? --> 7
+Is the second 7 more than 5 times the first? --> the
+How would you describe the sum of two numbers? --> 73
+How many more than 5 times the first is the second? --> 7
+How many 7 more than 5 times the first is the second? --> 73
+==> Solution Equation: first+second=73.0 and second=5.0*first+7.0
+~~~
+
+*** In the 2000-2001 baseball season , the Seattle Mariners tied a league record set by the 1906 Chicago Cubs for most wins in a season. The Mainers won 24 more than twice as many games as they lost. They played 162 regular season games. How many wins and losses did the mariners have? 
+What did They play? --> 162 regular season games
+What did The Mainers win? --> 24
+What do the mariners have? --> wins and losses
+Did They play 162 regular season games? --> they played 162
+How many regular season games did They play? --> 162
+Do the mariners have How many wins and losses? --> how many wins and losses
+Did by the 1906 Chicago Cubs set a league record? --> tied a league record set by the 1906 chicago cubs for most wins in a season
+When did by the 1906 Chicago Cubs set a league record? --> 2000 - 2001 baseball season
+Did The Mainers win 24 more than twice as many games as they lost? --> the mainers won 24
+What did the Seattle Mariners tie in the 2000 - 2001 baseball season? --> most wins in a season
+How many more than twice as many games as they lost did The Mainers win? --> 24
+Where did the Seattle Mariners tie a league record set in the 2000 - 2001 baseball season? --> most wins in a season
+When did the Seattle Mariners tie a league record set by the 1906 Chicago Cubs for most wins in a season? --> 2000 - 2001 baseball season
+Did the Seattle Mariners tie a league record set by the 1906 Chicago Cubs for most wins in a season in the 2000 - 2001 baseball season? --> in the 2000 - 2001 baseball season , the seattle mariners tied a league record set by the 1906 chicago cubs for most wins in a season
+==> Solution Equation: wins+losses=162.0 and wins=2.0*losses+24.0
+~~~
+
+*** Jack collects baseball and football cards. He has 125 cards total. The number of baseball cards he has is five more than three times the number of football cards. How many baseball and football cards does he have? 
+What do he have? --> 125 cards total
+What does He has? --> 125 cards total
+What does Jack collect? --> baseball and football cards
+Does He has 125 cards total? --> he has 125 cards total
+How many cards total does He has? --> 125
+Does he has The number of baseball cards? --> five more than three times the number of football cards
+Who does collect baseball and football cards? --> jack
+Does Jack collect baseball and football cards? --> 125
+Do he have How many baseball and football cards? --> 125
+How would you describe The number of baseball cards he has? --> five more than three times the number of football cards
+Is The number of baseball cards he has five more than three times the number of football cards? --> five more than three times the number of football cards
+How many more than three times the number of football cards is The number of baseball cards he has? --> five
+How many five more than three times the number of football cards is The number of baseball cards he has? --> five
+==> Solution Equation: baseball+football=125.0 and baseball=3.0*football+5.0
+~~~
+
+*** One number is 11 more than 3 times another number. Their sum is 55. Find the smaller number.
+Is Their sum 55? --> 55
+How many is Their sum? --> 55
+How would you describe Their sum? --> 55
+How would you describe one number? --> 11
+Is one number 11 more than 3 times another number? --> one number is 11 more than 3 times another number
+How many number is 11 more than 3 times another number? --> one
+How many 11 more than 3 times another number is one number? --> 11
+==> Solution Equation: larger=3.0*smaller+11.0 and smaller+larger=55.0
+~~~
+

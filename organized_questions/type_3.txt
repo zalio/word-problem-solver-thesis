@@ -1,0 +1,83 @@
+*** The sum of 20 and a number is 30. 
+Is the sum of 20 and a number 30? --> the sum of 20 and a number is 30
+How many and a number is the sum of 30? --> 20
+How many is the sum of 20 and a number? --> 30
+How would you describe the sum of 20 and a number? --> 30
+==> Solution Equation: 20.0+number=30.0
+~~~
+
+*** The tallest player on the basketball team is 77.75 inches tall. This is 9.5 inches taller than the shortest player. How tall is the shortest player , in inches? 
+Indicate characteristics of This. --> 9 . 5 inches taller than the shortest player
+Where is the shortest player How tall? --> inches
+Is the shortest player How tall in inches? --> how tall
+Indicate characteristics of the shortest player. --> inches
+Is This 9.5 inches taller than the shortest player? --> 9 . 5 inches taller
+Is the tallest player on the basketball team 77.75 inches tall? --> the tallest player on the basketball team is 77 . 75 inches tall
+Indicate characteristics of the tallest player on the basketball team. --> 9 . 5 inches taller than the shortest player
+==> Solution Equation: shortest=77.75-9.5
+~~~
+
+*** There are 7066 known nesting pairs of bald eagles in the lower 48 states today. This is 6649 more pairs than in 1963. How many nesting pairs of bald eagles were there in the lower 48 states in 1963?
+How would you describe This? --> 6649 more pairs than in 1963
+Is This 6649 more pairs than in 1963? --> 6649 more pairs than in 1963
+Where are 7066 known nesting pairs of bald eagles today? --> the lower 48 states
+Where were How many nesting pairs of bald eagles in 1963? --> lower 48 states
+How many states are in the lower in the lower 48 states today? --> 66
+How many states were in the lower in the lower 48 states in 1963? --> 66
+When were How many nesting pairs of bald eagles in the lower 48 states? --> 1963
+When are 7066 known nesting pairs of bald eagles in the lower 48 states? --> today
+How many known nesting pairs of bald eagles are in the lower 48 states today? --> 7066
+==> Solution Equation: 6649.0+past_pairs=7066.0
+~~~
+
+*** The sum of 5 and a number is 20. Find the number.
+Is the sum of 5 and a number 20? --> the sum of 5 and a number is 20
+How many and a number is the sum of 20? --> 5
+How would you describe the sum of 5 and a number? --> 20
+==> Solution Equation: 5.0+number=20.0
+~~~
+
+*** If your gross pay is 450 dollars , while your net pay is 315 dollars , how much do you pay in taxes? Assume that all tax dollars are not included in net pay. 
+What do you pay? --> taxes
+Do you pay how much? --> how much do you pay in taxes
+How do you pay how much? --> in taxes
+Is your net pay 315 dollars? --> 315 dollars
+Is your gross pay 450 dollars? --> if your gross pay is 450 dollars
+How would you describe your net pay? --> 315 dollars
+How would you describe your gross pay? --> 450 dollars
+Are not all tax dollars included in net pay? --> assume that all tax dollars are not included in net pay
+==> Solution Equation: taxes=450.0-315.0
+~~~
+
+*** A textbook costs a bookstore 44 dollars , and the store sells it for 55 dollars. Find the amount of profit based on the selling price. 
+Does the store sell it? --> the store sells it for 55 dollars
+What does the store sell? --> a textbook
+Does a bookstore cost 44 dollars? --> a textbook
+Did the amount of profit base on the selling price? --> find
+==> Solution Equation: profit=55.0-44.0
+~~~
+
+*** The selling price of a pair of pants is 34 dollars. If the store paid 8 dollars less for the pants , find the price that the store paid , in dollars. 
+What did the store pay? --> 8 dollars less
+Did the store pay the price? --> if the store paid 8 dollars less
+Did the store pay 8 dollars less? --> if the store paid 8 dollars less
+What do the selling price of a pair of pants find? --> the price that the store paid , in dollars
+Is the selling price of a pair of pants 34 dollars? --> the selling price of a pair of pants is 34 dollars
+How would you describe the selling price of a pair of pants? --> 34 dollars
+Do the selling price of a pair of pants find the price that the store paid, in dollars? --> if the store paid 8 dollars less for the pants
+==> Solution Equation: price_store_paid=34.0-8.0
+~~~
+
+*** A physician 's assistant measures a child and finds that his height is 41.5 inches. At his last visit to the doctor's office , the child was 38.5 inches tall. How much did the child grow , in inches? 
+How does the child grow? --> 41 . 5 inches . at his last visit to the doctor ' s office , the child was 38 . 5 inches tall . how much did the child grow , in inches
+Is his height 41.5 inches? --> his height is 41 . 5 inches
+How would you describe his height? --> 41 . 5 inches
+When was the child 38.5 inches tall? --> at his last visit to the doctor ' s office
+Indicate characteristics of the child. --> 41 . 5 inches
+What does a physician's assistant find? --> his height is 41 . 5 inches
+Does a physician's assistant measure a child? --> 41 . 5 inches
+Does a physician's assistant find that his height is 41.5 inches? --> a physician ' s assistant measures a child and finds that his height is 41 . 5 inches
+Was the child 38.5 inches tall at his last visit to the doctor's office? --> at his last visit to the doctor ' s office , the child was 38 . 5 inches tall
+==> Solution Equation: growth=41.5-38.5
+~~~
+

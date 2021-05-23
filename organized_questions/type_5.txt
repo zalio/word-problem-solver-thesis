@@ -1,0 +1,298 @@
+*** For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute. Last month , Milan 's long distance bill was 23.36 dollars. For how many minutes was Milan billed for? 
+What does Milan pay? --> 2 dollars monthly fee plus 12 cents per minute
+When did Milan billed for? --> last
+Did Milan billed for how many? --> how many minutes
+How would you describe Milan's long distance bill? --> 23 . 36 dollars
+When was Milan's long distance bill 23.36 dollars? --> last month
+Was Milan's long distance bill 23.36 dollars Last month? --> last month , milan ' s long distance bill was 23 . 36 dollars
+Does Milan pay a 2 dollars monthly fee plus 12 cents per minute? --> milan pays a 2 dollars monthly fee plus 12 cents per minute
+for what purpose does Milan pay a 2 dollars monthly fee plus 12 cents per minute? --> long distance phone service
+==> Solution Equation: 2.0+0.12*minutes=23.36
+~~~
+
+*** Trenton sells electronic supplies. Each week he earns 190 dollars plus commission equal to 4 % of his sales. This week his goal is to earn no less than 500 dollars. Write and solve an inequality to find the amount of sales he must make to reach his goal.
+What does Trenton sell? --> electronic supplies
+What must he make to reach? --> sales
+What does he earn Each week? --> 190 dollars
+Must he make to reach his goal? --> sales
+Must he make the amount of sales? --> to reach his goal .
+Does Trenton sell electronic supplies? --> trenton sells electronic supplies
+What must his goal make to reach is This week? --> no less than 500 dollars
+When does he earn 190 dollars plus commission equal to 4 % of his sales? --> each week
+Does he earn 190 dollars plus commission equal to 4 % of his sales Each week? --> each week he earns 190 dollars plus commission equal to 4 % of his sales
+When must his goal make to reach is to earn no less than 500 dollars . Write and solve an inequality to find the amount of sales he must make to reach his goal? --> each week
+Must his goal make to reach is to earn no less than 500 dollars . Write and solve an inequality to find the amount of sales he must make to reach his goal This week? --> trenton
+==> Solution Equation: 190.0+0.04*sales=500.0
+~~~
+
+*** A car rented for 29 dollars per day plus 0.08 dollars per mile. Julia paid 46.12 dollars for a 1-day rental. How far did she drive , in miles? 
+What did Julia pay? --> 46 . 12 dollars
+Do she drive How far? --> how far did she drive , in miles
+How do she drive How far? --> miles
+Who did pay 46.12 dollars? --> julia
+Did Julia pay 46.12 dollars? --> julia paid 46 . 12 dollars for a 1 - day rental
+When did Julia pay 46.12 dollars? --> 1 - day
+Did a car rented for 29 dollars per day plus 0.08 dollars per mile? --> a car rented for 29 dollars per day plus 0 . 08 dollars per mile
+==> Solution Equation: 29.0+0.08*miles_driven=46.12
+~~~
+
+*** A car rents for 30 dollars per day plus 23 cents per mile. You are on a daily budget of 76 dollars. What mileage can you go and stay within your budget?
+What do you go? --> what mileage
+Do you go What mileage? --> what mileage
+you go and stay What mileage? --> within your budget
+are You on a daily budget of 76 dollars? --> you are on a daily budget of 76 dollars
+Do a car rents for 30 dollars per day plus 23 cents per mile? --> a car rents for 30 dollars per day plus 23 cents per mile
+==> Solution Equation: 30.0+0.23*miles=76.0
+~~~
+
+*** Michael rented a truck for one day. There was a rental fee of 20.99 dollars , and there also was a charge of 25 cents for each mile. Michael paid 95.74 dollars when he returned the truck. For how many miles did he drive the truck? 
+What did he return? --> 95 . 74 dollars
+Did he return the truck? --> michael paid 95 . 74 dollars
+When do he drive the truck? --> how many miles
+What do he drive how many miles? --> the
+When did Michael rented a truck? --> one day
+Who did rented a truck for one day? --> michael
+When did Michael pay 95.74 dollars? --> when he returned the truck
+What did Michael rented for one day? --> a truck
+Do he drive the truck how many miles? --> for how many miles
+Did Michael rented a truck for one day? --> michael rented a truck for one day
+What did Michael pay when he returned the truck? --> 95 . 74 dollars
+Who did pay 95.74 dollars when he returned the truck? --> michael
+Did Michael pay 95.74 dollars when he returned the truck? --> michael paid 95 . 74 dollars
+==> Solution Equation: 20.99+0.25*miles=95.74
+~~~
+
+*** Tony planted a 4 foot tree. The tree grows at a rate of 5 feet every year. How many years will it take to be 29 feet?
+What did Tony planted? --> a 4 foot tree
+When do to be 29 feet take? --> how many years
+Who did planted a 4 foot tree? --> tony
+Did Tony planted a 4 foot tree? --> tony planted a 4 foot tree
+When does The tree grow at a rate of 5 feet? --> every year
+Does The tree grow at a rate of 5 feet every year? --> the tree grows at a rate of 5 feet every year
+==> Solution Equation: 4.0+5.0*years=29.0
+~~~
+
+*** The sum of 38 and twice a number is 124. Find the number.
+Is the sum of 38 and twice a number 124? --> 124
+How many is the sum of 38 and twice a number? --> 124
+How many and twice a number is the sum of 124? --> 38
+How would you describe the sum of 38 and twice a number? --> 124
+==> Solution Equation: 38.0+2.0*number=124.0
+~~~
+
+*** A carpenter gave an estimate of 980 dollars to build a cover over a patio. His hourly rate is 28 dollars and he expects to need 560 dollars in materials. How many hours will the job take?
+What does he expect? --> 560 dollars in materials
+What does the job take? --> how many hours
+What did a carpenter give? --> 980 dollars
+Is His hourly rate 28 dollars? --> 28 dollars
+Does the job take How many hours? --> how many hours
+Where does a carpenter build a cover? --> over a patio
+How would you describe His hourly rate? --> 28 dollars
+What does a carpenter build over a patio? --> a cover
+What does he expect to need in materials? --> 560 dollars
+Where does he expect to need 560 dollars? --> materials
+Does a carpenter build a cover over a patio? --> a carpenter gave an estimate of 980 dollars
+Did a carpenter give an estimate of 980 dollars? --> a carpenter gave an estimate of 980 dollars
+Does he expect to need 560 dollars in materials? --> he
+==> Solution Equation: 28.0*hours+560.0=980.0
+~~~
+
+*** kevin bought 3 muffins and a bottle of juice that cost 1.45 dollars. He paid a total of 3.70 dollars. How much did each muffin cost?
+What did He pay? --> 3 . 70 dollars
+What did kevin buy? --> 3 muffins and a bottle of juice
+How many dollars did He pay? --> 3 . 70
+What did a bottle of juice cost? --> 1 . 45 dollars
+Did He pay a total of 3.70 dollars? --> he paid a total of 3 . 70 dollars
+Did a bottle of juice cost 1.45 dollars? --> 1 . 45 dollars
+Did kevin buy 3 muffins and a bottle of juice that cost 1.45 dollars? --> kevin bought 3 muffins and a bottle of juice that cost 1 . 45 dollars
+How many muffins and a bottle of juice that cost 1.45 dollars did kevin buy? --> 3
+==> Solution Equation: 3.0*muffins+1.45=3.7
+~~~
+
+*** Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month. For what amount of sales will the 2 choices be equal?
+What does Juliet has? --> a choice between receiving an 1800 dollars monthly salary
+Do the 2 choices be equal? --> for what amount of sales
+How many choices do be the equal? --> 2
+What does Juliet has a choice between? --> receiving an 1800 dollars monthly salary from furniture by design or a base salary of 1600 dollars
+Indicate characteristics of the 2 choices. --> for what amount of sales will the 2 choices be equal
+What does she sell during the month . For? --> furniture
+When does she sell the amount of furniture? --> during the month
+Does she sell the amount of furniture during the month? --> juliet has a choice between receiving an 1800 dollars monthly salary from furniture by design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month
+Where does Juliet has a choice between receiving an 1800 dollars monthly salary? --> furniture by design
+Does Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month? --> juliet has a choice between receiving an 1800 dollars monthly salary from furniture by design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month
+What Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month . For? --> * * * juliet has a choice between receiving an 1800 dollars monthly salary from furniture by design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month
+What the 2 choices Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month . For? --> for what amount of sales
+==> Solution Equation: 1600.0+0.04*sales=1800.0
+~~~
+
+*** Manuel opened a savings account with an initial deposit of 177 dollars. If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars? 
+What does he want? --> save 500 dollars
+What did Manuel open? --> a savings account
+When do he save how much? --> next 19 weeks
+What do he save each week? --> dollars
+When do he save 500 dollars? --> during the next 19 weeks
+Do he save how much each week? --> how much
+What do he save during the next 19 weeks? --> 500 dollars
+Do he save 500 dollars during the next 19 weeks? --> if he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars
+Does he want to save 500 dollars during the next 19 weeks? --> if he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars
+Who did open a savings account with an initial deposit of 177 dollars? --> manuel
+Did Manuel open a savings account with an initial deposit of 177 dollars? --> manuel opened a savings account with an initial deposit of 177 dollars
+==> Solution Equation: 177.0+19.0*save=500.0
+~~~
+
+*** A mechanic charged 45 dollars an hour , plus 225 dollars for the parts. If the total bill was 450 dollars , how man hours did the job take? 
+What does the job take? --> how man hours
+What did a mechanic charge? --> 45 dollars an hour
+Was the total bill 450 dollars? --> if the total bill was 450 dollars
+Does the job take how man hours? --> how man hours
+How would you describe the total bill? --> 450 dollars
+Did a mechanic charge 45 dollars an hour, plus 225 dollars? --> a mechanic charged 45 dollars an hour , plus 225 dollars for the parts
+==> Solution Equation: 45.0*hours+225.0=450.0
+~~~
+
+*** For his long distance phone calls , John pays a 5 dollars monthly fee plus 25 cents per minute. Last month , John 's long distance bill was 12.02 dollars. For how many minutes was John billed? 
+What does John pay? --> 5 dollars monthly fee plus 25 cents per minute
+When did John billed? --> last month , john ' s long distance bill was 12 . 02 dollars . for how many minutes
+Who did billed how many minutes? --> john
+How would you describe John's long distance bill? --> 12 . 02 dollars
+When was John's long distance bill 12.02 dollars? --> last month
+Was John's long distance bill 12.02 dollars Last month? --> last month , john ' s long distance bill was 12 . 02 dollars
+Who does pay a 5 dollars monthly fee plus 25 cents per minute? --> john
+Does John pay a 5 dollars monthly fee plus 25 cents per minute? --> john pays a 5 dollars monthly fee plus 25 cents per minute
+==> Solution Equation: 5.0+0.25*minutes=12.02
+~~~
+
+*** A car rents for 50 dollars a day plus 20 cents a mile. You are on a daily budget of 88 dollars. What maximum mileage will allow you to stay within your budget?
+Do you stay within your budget? --> maximum mileage
+What will What maximum mileage allow? --> stay within your budget
+are You on a daily budget of 88 dollars? --> you are on a daily budget of 88 dollars
+Do a car rents for 50 dollars a day plus 20 cents a mile? --> a car rents for 50 dollars a day plus 20 cents a mile
+Will What maximum mileage allow you to stay within your budget? --> what maximum mileage
+==> Solution Equation: 50.0+0.20*miles=88.0
+~~~
+
+*** Rita received a 70 dollars gift card for a coffee store. She used it in buying some coffee that cost 8.58 dollars per pound. After buying the coffee , she had 35.68 dollars left on her card. How many pounds of coffee did she buy? 
+What do she buy? --> coffee
+When did She use it? --> buying some coffee
+What did rita receive? --> 70 dollars gift card
+What did some coffee cost? --> 8 . 58 dollars per pound
+Where did 35.68 dollars leave? --> on her card
+Do she buy How many pounds of coffee? --> rita received a 70 dollars gift card for a coffee store . she used it in buying some coffee that cost 8 . 58 dollars per pound
+Did She use it After buying the coffee? --> she had 35 . 68 dollars left on her card
+What did She use After buying the coffee? --> 35 . 68 dollars left on her card
+What did she have After buying the coffee? --> 35 . 68 dollars left on her card
+Did some coffee cost 8.58 dollars per pound? --> rita received a 70 dollars gift card for a coffee store . she used it in buying some coffee that cost 8 . 58 dollars per pound
+When did she have 35.68 dollars left on her card? --> after buying the coffee
+Did rita receive a 70 dollars gift card for a coffee store? --> rita received a 70 dollars gift card for a coffee store . she used it in buying some coffee that cost 8 . 58 dollars per pound
+Did she have 35.68 dollars left on her card After buying the coffee? --> after buying the coffee , she had 35 . 68 dollars left
+What used She it in buying some coffee that cost 8.58 dollars per pound . After? --> rita received a 70 dollars gift card
+What used She it in buying some coffee that cost 8.58 dollars per pound . After in? --> rita received a 70 dollars gift card
+==> Solution Equation: 70.0-8.58*pounds=35.68
+~~~
+
+*** A car rents for 30 dollars per day plus 18 cents per mile. You are on a budget of 75 dollars. What mileage would allow you to stay within your budget?
+What would What mileage allow? --> stay within your budget
+Do you stay within your budget? --> what mileage
+are You on a budget of 75 dollars? --> you are on a budget of 75 dollars
+Would What mileage allow you to stay within your budget? --> what mileage
+Do a car rents for 30 dollars per day plus 18 cents per mile? --> a car rents for 30 dollars per day plus 18 cents per mile
+==> Solution Equation: 30.0+0.18*mile=75.0
+~~~
+
+*** 0.6667 of a number increased by 0.75 is 1.6667 , what is the number? 
+==> Solution Equation: 0.6667*number+0.75=1.6667
+~~~
+
+*** If the product of 5 and a number is increased by 4 , the result is 19. What is the number? 
+Is the result 19? --> if the product of 5 and a number is increased by 4 , the result is 19
+Is the number What? --> 19
+How many is the result? --> 19
+How would you describe the result? --> 19
+How would you describe the number? --> 19
+Is the product of 5 and a number increased by 4? --> 19
+How many is the product of 5 and a number increased? --> 19
+How many and a number is increased the product of by 4? --> 19
+How many and a number is increased by 4 is if the product of 19? --> 19
+How many is if the product of 5 and a number is increased by 19? --> 19
+==> Solution Equation: 5.0*number+4.0=19.0
+~~~
+
+*** Latoya purchased a prepaid phone card for 30 dollars. Long distance calls cost 16 cents a minute using this card. Latoya used her card only once to make a long distance call. If the remaining credit on her card is 26.48 dollars , how many minutes did her call last? 
+What do Latoya make? --> long distance call
+What did Latoya purchase? --> a prepaid phone card
+When did Latoya use her card? --> once
+What did Latoya use only once? --> prepaid phone card
+What do Long distance calls cost? --> 16 cents a minute
+Did Latoya use her card only once? --> latoya used her card only once
+Do Latoya make a long distance call? --> latoya used her card only once
+Do Long distance calls cost 16 cents a minute? --> long distance calls cost 16 cents a minute
+How do Long distance calls cost 16 cents a minute? --> prepaid phone card
+Is the remaining credit on her card 26.48 dollars? --> if the remaining credit on her card is 26 . 48 dollars
+How would you describe the remaining credit on her card? --> 26 . 48 dollars
+Did Latoya purchase a prepaid phone card for 30 dollars? --> latoya purchased a prepaid phone card for 30 dollars
+==> Solution Equation: 26.48+0.16*minutes=30.0
+~~~
+
+*** Twice a number increased by 5 is 17. Find the number.
+Did a number increase by 5? --> twice
+How many did a number increase? --> twice
+When is a number increased by 5 17? --> twice
+Is a number increased by 5 17 twice? --> twice
+How many is a number increased by 17 twice? --> 17
+How would you describe a number increased by 5? --> twice
+==> Solution Equation: 2.0*number+5.0=17.0
+~~~
+
+*** 36 more than the product of three and x is the same as 48. Solve for x.
+How many is x? --> 48
+Is x the same as 48? --> x is the same as 48
+How would you describe x? --> 48
+==> Solution Equation: 3.0*x+36.0=48.0
+~~~
+
+*** Jordan 's salary is 1250 dollars a month plus a 5 % commission on all of his sales. What must the amount of his sales be , in dollars , for him to earn at least 1500 dollars each month? 
+What do him earn each month? --> 1500 dollars
+Do the amount of his sales be What? --> in dollars
+How would you describe Jordan's salary? --> 1250 dollars a month
+How do the amount of his sales be What? --> in dollars
+When do him earn at least 1500 dollars? --> each month
+Do him earn at least 1500 dollars each month? --> the amount of his sales
+How would you describe the amount of his sales? --> in dollars
+Is Jordan's salary 1250 dollars a month plus a 5 % commission on all of his sales? --> jordan ' s salary is 1250 dollars a month
+==> Solution Equation: 1250.0+0.05*sales=1500.0
+~~~
+
+*** The sum of 0.75 of a number and two is eight. Find the number. 
+Is the sum of 0.75 of a number and two eight? --> the sum of 0 . 75 of a number and two is eight
+How many of a number and two is the sum of eight? --> 0 . 75
+How many is the sum of 0.75 of a number and eight? --> two is eight
+How would you describe the sum of 0.75 of a number and two? --> eight
+==> Solution Equation: 0.75*number+2.0=8.0
+~~~
+
+*** Mitch is buying candy bars for his friends. He wants to give 2 bars to each friend , and he wants to have 10 spare bars. He can afford to buy 24 candy bars. How many friends can he treat? 
+What do he treat? --> friends
+What does He want? --> candy bars
+What does he want? --> candy bars
+What can He afford? --> 24 candy bars
+What is mitch buying? --> candy bars
+What does He want to give? --> 2 bars to each friend
+What does he want to have? --> 10 spare bars
+What can He afford to buy? --> 24 candy bars
+Is mitch buying candy bars? --> mitch is buying candy bars for his friends
+Does He want to give 2 bars? --> he wants to give 2 bars to each friend
+Do he treat How many friends? --> mitch is buying candy bars for his friends . he wants to give 2 bars to each friend , and he wants to have 10 spare bars . he can afford to buy 24
+How many spare bars does he want? --> 10
+How many candy bars can He afford? --> 24
+How many bars does He want to give? --> 2
+Does he want to have 10 spare bars? --> he wants to have 10 spare bars
+Can He afford to buy 24 candy bars? --> he can afford to buy 24 candy bars
+How many candy bars can He afford to buy? --> 24
+How many spare bars does he want to have? --> 10
+How many candy bars can He afford to buy? --> 24
+How many bars to each friend does He want? --> 2
+Does He want to give 2 bars to each friend? --> he wants to give 2 bars to each friend
+What does want to give to each friend 2 bars? --> candy bars
+==> Solution Equation: 2.0*friends+10.0=24.0
+~~~
+

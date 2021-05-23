@@ -1,0 +1,92 @@
+*** A writing workshop enrolls novelists and poets in a ratio of 5 to 3. There are 24 people at the workshop. How many novelists are there? How many poets are there?
+How many people at the workshop are? --> 24
+Does a writing workshop enroll novelists and poets? --> 5 to 3
+How does a writing workshop enroll novelists and poets? --> 5 to 3
+How many in a ratio of 5 to 3 does enroll in a ratio of 5 to novelists and poets? --> 24
+==> Solution Equation: 3.0*novelists=5.0*poets and novelists+poets=24.0
+~~~
+
+*** Kay spends 250 minutes per week exercising. Her ratio of time spent on aerobics to time spent on weight training is 3 to 2. How many minutes per week does she spend on aerobics? How many minutes per week does she spend on weight training?
+What does kay spend? --> 250 minutes per week
+Do she spend on aerobics? --> how many minutes per week
+Do she spend on weight training? --> how many minutes per week
+Did on weight training spend time? --> time spent on weight training is 3 to 2
+Does kay spend 250 minutes per week? --> exercising
+Is Her ratio of time spent on aerobics to time spent on weight training 3 to 2? --> her ratio of time spent on aerobics to time spent on weight training is 3 to 2
+How many 3 to 2 is Her ratio of time spent on aerobics to time spent on weight training? --> 250
+How would you describe Her ratio of time spent on aerobics to time spent on weight training? --> 3 to 2
+==> Solution Equation: 2.0*aerobics=3.0*weight_training and aerobics+weight_training=250.0
+~~~
+
+*** The ratio of boys to girls is 9 to 4. You know there are 91 total students. How many of them are boys? How many are girls?
+Are How many girls? --> how
+Are How many of them boys? --> how many of them are boys
+How many total students are? --> 91
+Is the ratio of boys to girls 9 to 4? --> the ratio of boys to girls is 9 to 4
+How many is the ratio of boys to girls? --> 9 to 4
+How would you describe How many of them? --> 9 to 4
+How many to 4 is the ratio of boys to girls? --> 9
+How would you describe the ratio of boys to girls? --> 9 to 4
+==> Solution Equation: 4.0*boys=9.0*girls and boys+girls=91.0
+~~~
+
+*** A new parking lot has spaces for 450 cars. The ratio of spaces for full sized cars to compact cars is 11 to 4. How many spaces are for full-sized cars? How many spaces are for compact cars?
+What does a new parking lot has? --> 450 cars
+are How many spaces for compact cars? --> how
+How many cars does a new parking lot has? --> 450
+are How many spaces for full - sized cars? --> how
+Does a new parking lot has spaces for 450 cars? --> a new parking lot has spaces for 450 cars
+Is The ratio of spaces for full sized cars to compact cars 11 to 4? --> the ratio of spaces for full sized cars to compact cars is 11 to 4
+How many 11 to 4 is The ratio of spaces for full sized cars to compact cars? --> how
+How would you describe The ratio of spaces for full sized cars to compact cars? --> 11 to 4
+==> Solution Equation: 4.0*full_size_spaces=11.0*compact_spaces and full_size_spaces+compact_spaces=450.0
+~~~
+
+*** The sum of 2 numbers is 24. Seven times the smaller number is the same as 5 times the larger number. Find the smaller number. 
+Is the sum of 2 numbers 24? --> the sum of 2 numbers is 24
+How many is the sum of 2 numbers? --> 24
+How many numbers is the sum of 24? --> 2
+How would you describe the smaller number? --> seven times the smaller number is the same as 5 times the larger number
+How would you describe the sum of 2 numbers? --> 24
+When is the smaller number the same as 5 times the larger number? --> seven times
+How many times the larger number is the smaller number Seven times? --> 5
+How many times is the same as 5 times the larger number Seven times? --> seven times the smaller number
+Is the smaller number the same as 5 times the larger number Seven times? --> the smaller number is the same as 5 times the larger number
+==> Solution Equation: 7.0*smaller=5.0*larger and smaller+larger=24.0
+~~~
+
+*** Cynthia works at a grocery store. She knows that for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans. This week she ordered a total of 12 cans. How many cans of chili beans did she order? 
+What do she order? --> 12 cans
+What does She know? --> for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans
+Where does Cynthia work? --> a grocery store
+What did she order This week? --> 12 cans
+Who does work at a grocery store? --> cynthia
+How many cans did she order This week? --> 12
+When did she order a total of 12 cans? --> this week
+When will she sell 4 cans of chili beans? --> for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans . this week
+Does she sell every 2 cans of tomato soup? --> she knows that for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans
+Do she order How many cans of chili beans? --> 12 cans
+How many cans of tomato soup does she sell? --> 2
+Did she order a total of 12 cans This week? --> this week she ordered a total of 12 cans
+What will she sell for every 2 cans of tomato soup she sells? --> 4 cans of chili beans
+How many cans . How many cans of chili beans did she order does She know? --> 12 cans
+Will she sell 4 cans of chili beans for every 2 cans of tomato soup she sells? --> for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans
+How many cans of chili beans will she sell for every 2 cans of tomato soup she sells? --> 4
+How many cans of tomato soup she sells will sell for every 4 cans of chili beans for every 2 cans of tomato soup she sells? --> 12
+How many cans of chili beans . This week she ordered a total of 12 cans . How many cans of chili beans did she order does She know? --> 4
+Does She know that for every 2 cans of tomato soup she sells, she will sell 4 cans of chili beans . This week she ordered a total of 12 cans . How many cans of chili beans did she order? --> she
+==> Solution Equation: 4.0*tomato=2.0*chili and tomato+chili=12.0
+~~~
+
+*** Two numbers are in the ratio 8 to 3. If the sum of numbers is 143 , find the numbers. 
+Is the sum of numbers 143? --> if the sum of numbers is 143
+How many is the sum of numbers? --> 143
+Are two numbers in the ratio 8 to 3? --> two numbers are in the ratio 8 to 3
+How many numbers are in the ratio 8 to 3? --> two
+How would you describe the sum of numbers? --> 143
+How many do find If the sum of numbers is? --> 143
+How many in the ratio 8 to 3 are two numbers? --> two
+How many are If the sum of numbers is in the ratio 8 to 3? --> 143
+==> Solution Equation: 3.0*number_one=8.0*number_two and number_one+number_two=143.0
+~~~
+

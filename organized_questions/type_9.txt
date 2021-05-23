@@ -1,0 +1,158 @@
+*** A 20-foot board is cut into 2 pieces. Twice the length of the shorter piece is 4 feet more than the length of the longer piece. Find the length of the shorter piece.
+How many board is cut a? --> 2 pieces
+How many pieces is cut into? --> 2
+When does the length of the shorter piece Find? --> twice
+Indicate characteristics of the length of the shorter piece. --> find the length of the shorter piece
+When is the length of the shorter piece 4 feet more than the length of the longer piece? --> twice
+Is the length of the shorter piece 4 feet more than the length of the longer piece Twice? --> twice
+==> Solution Equation: 2.0*shorter=4.0+longer and shorter+longer=20.0
+~~~
+
+*** The sum of 2 numbers is 50. The first number is 43 less than twice the second number. Find the smaller number. Find the larger number.
+Is the sum of 2 numbers 50? --> the sum of 2 numbers is 50
+How many is the sum of 2 numbers? --> 50
+How many numbers is the sum of 50? --> 2
+How would you describe the sum of 2 numbers? --> 50
+Indicate characteristics of the first number. --> find the smaller number . find the larger number
+Is the first number 43 less than twice the second number? --> the first number is 43 less than twice the second number
+How many less than twice the second number is the first number? --> 43
+==> Solution Equation: 2.0*larger_number-smaller_number=43.0 and smaller_number+larger_number=50.0
+~~~
+
+*** The sum of two numbers is 85. The difference of twice of one of them and the other one is 5. Find both numbers.
+Is them and the other one 5? --> the difference of twice
+Is the sum of two numbers 85? --> the sum of two numbers is 85
+How many is them and the other 5? --> 85 . the difference of twice
+How many numbers is the sum of 85 ? --> 5
+How many is them and the other one? --> 5
+How many . is the sum of two numbers? --> 85
+How would you describe the sum of two numbers? --> 85
+How would you describe them and the other one? --> difference of twice
+==> Solution Equation: 2.0*number-other_number=5.0 and number+other_number=85.0
+~~~
+
+*** The sum of two numbers is 104. The larger number is 1 less than twice the smaller number. Find the numbers.
+Is the sum of two numbers 104? --> the sum of two numbers is 104
+Where is the sum of two numbers? --> 104
+How many numbers is the sum of 104? --> two
+How many is the sum of two numbers? --> 104
+Indicate characteristics of the larger number. --> find
+How would you describe the sum of two numbers? --> the larger number is 1 less than twice the smaller number
+Is the larger number 1 less than twice the smaller number? --> the larger number is 1 less than twice the smaller number
+How many less than twice the smaller number is the larger number? --> 1
+==> Solution Equation: smaller+larger=104.0 and larger=2.0*smaller-1.0
+~~~
+
+*** The sum of the numbers of boys and girls in a class is 36. If twice the number of girls exceeds the number of boys by 12 , find the number of girls in the class. Find the number of boys. 
+What does the number of girls exceeds? --> boys by 12
+How many does exceeds by the number of boys? --> 12
+Does the number of girls exceeds the number of boys? --> if twice the number of girls exceeds the number of boys by 12
+Is the sum of the numbers of boys and girls in a class 36? --> the sum of the numbers of boys and girls in a class is 36
+How many is the sum of the numbers of boys and girls in a class? --> 36
+How would you describe the sum of the numbers of boys and girls in a class? --> 36
+How many do find If twice the number of girls exceeds the number of boys by? --> 12
+How many, find the number of girls in the class . Find the number of boys is If twice the number of girls exceeds the number of boys by 36? --> 12
+==> Solution Equation: 2.0*girls=12.0+boys and boys+girls=36.0
+~~~
+
+*** The larger of two numbers is 23 less than twice the smaller. The sum of the two numbers is 70. Find the two numbers.
+How many numbers is 70. Find the? --> the sum of the two numbers
+Is the sum of the two numbers 70? --> the sum of the two numbers is 70
+How many numbers is the sum of 70? --> 23
+How would you describe the larger of two numbers? --> 23
+How would you describe the sum of the two numbers? --> 70
+Is the larger of two numbers 23 less than twice the smaller? --> the larger of two numbers is 23 less than twice the smaller
+How many numbers is the larger of 23 less than twice the smaller? --> 70
+How many less than twice the smaller is the larger of two numbers? --> 23
+==> Solution Equation: 2.0*smaller-23.0=larger and smaller+larger=70.0
+~~~
+
+*** A truck and trailer together weigh 7000 pounds. The trailer weighs 200 pounds less than 0.5 as much as the truck. Find the truck 's weight. Find the trailer 's weight. 
+What does The trailer weigh? --> 200 pounds
+What do a truck and trailer weigh? --> 7000 pounds
+Do a truck and trailer weigh 7000 pounds? --> a truck and trailer together weigh 7000 pounds
+How do a truck and trailer weigh 7000 pounds? --> together
+Does The trailer weigh 200 pounds less than 0.5 as much as the truck? --> the trailer weighs 200 pounds less than 0 . 5 as much as the truck
+How many 200 pounds less than 0.5 as much as the truck does The trailer weigh? --> 200
+==> Solution Equation: truck+trailer=7000.0 and trailer=0.5*truck-200.0
+~~~
+
+*** Three times a number minus a second number is 20. The sum of the two numbers is 48. Find the two numbers.
+How many times is 20 three times? --> three times a number minus a second number
+How many numbers is 48. Find the? --> the sum of the two numbers
+Is The sum of the two numbers 48? --> the sum of the two numbers is 48
+How many numbers is The sum of 48? --> three times a number minus a second number is 20
+How many is The sum of the two numbers? --> 48
+When is a number minus a second number 20? --> three times
+Is a number minus a second number 20 three times? --> three times a number minus a second number is 20
+How would you describe The sum of the two numbers? --> 48
+How would you describe a number minus a second number? --> 20
+How many is a number minus a second number three times? --> 20
+==> Solution Equation: 3.0*number_a-number_b=20.0 and number_a+number_b=48.0
+~~~
+
+*** 1 number is 3 less than twice another number. The sum of the 2 numbers is 51. What is the smaller number? What is the larger number?
+Is the larger number What? --> 51 . what is the smaller number ? what is the larger number
+Is the smaller number What? --> what is the smaller number ? what is the larger number
+Is The sum of the 2 numbers 51? --> 51
+How would you describe 1 number? --> 3 less than twice another number
+How many numbers is The sum of 51? --> 2
+How many is The sum of the 2 numbers? --> 51
+How would you describe the larger number? --> what
+How would you describe the smaller number? --> what
+Is 1 number 3 less than twice another number? --> 1 number is 3 less than twice another number . the sum of the 2 numbers is 51
+How would you describe The sum of the 2 numbers? --> 51
+How many number is 3 less than twice another number? --> 1
+How many less than twice another number is 1 number? --> 3
+==> Solution Equation: smaller+larger=51.0 and larger=2.0*smaller-3.0
+~~~
+
+*** Two times the first number is one more than the second number. If their sum is -64 , what are the two numbers? 
+Is their sum -64? --> if their sum is - 64 , what are the two numbers
+Are the two numbers what? --> what
+How many numbers are the what? --> two times the first number is one more than the second number . if their sum is - 64
+How would you describe their sum? --> - 64
+How would you describe the two numbers? --> if their sum is - 64
+How would you describe the first number? --> one more than the second number
+When is the first number one more than the second number? --> two times
+How many times is one more than the second number two times? --> two times the first number
+Is the first number one more than the second number two times? --> two times the first number is one more than the second number
+How many more than the second number is the first number two times? --> one
+==> Solution Equation: 2.0*first_number=1.0+second_number and first_number+second_number=64.0
+~~~
+
+*** The sum of two numbers is 18. If twice the smaller number is 6 more than the larger , find the smaller number and the larger number. 
+Is the sum of two numbers 18? --> the sum of two numbers is 18
+How many numbers is the sum of 18? --> two
+How many is the sum of two numbers? --> 18
+How would you describe the smaller number? --> if twice the smaller number is 6
+Is the smaller number 6 more than the larger? --> if twice
+How would you describe the sum of two numbers? --> if twice the smaller number is 6 more than the larger , find the smaller number and the larger number
+How many more than the larger is the smaller number? --> 6
+How many more than the larger do find If twice the smaller number is? --> 6
+How many more than the larger, find the smaller number and the larger number is If twice the smaller number is 18? --> 6
+==> Solution Equation: 2.0*smaller=6.0+larger and smaller+larger=18.0
+~~~
+
+*** The number of boys in eighth grade is 16 less than twice the number of girls. There are 68 students in eighth grade. How many are girls?
+Are How many girls? --> how
+How many students in eighth grade are? --> 68
+How would you describe the number of boys in eighth grade? --> 16
+Is the number of boys in eighth grade 16 less than twice the number of girls? --> the number of boys in eighth grade is 16 less than twice the number of girls
+How many less than twice the number of girls is the number of boys in eighth grade? --> 16
+==> Solution Equation: 2.0*girls-16.0=boys and girls+boys=68.0
+~~~
+
+*** The sum of two numbers is 48. The difference between three times the smaller number and the larger number is 16. Find the smaller number and the larger number.
+Is number and the larger number 16? --> the difference between three times the smaller number
+How many is number and the larger number? --> 16
+How would you describe the sum of two numbers? --> 48
+How would you describe number and the larger number? --> the smaller number
+How many . Find the smaller number and the larger number is the sum of two numbers? --> 48 . the difference between three times the smaller number and the larger number is 16
+Is the sum of two numbers 48 . the difference between three times the smaller number and the larger number is 16 . Find the smaller number and the larger number? --> the sum of two numbers is 48
+How many numbers is the sum of 48 . the difference between three times the smaller number and the larger number is 16 . Find the smaller number and the larger number? --> two
+How many . the difference between three times the smaller number and the larger number is 16 . Find the smaller number and the larger number is the sum of two numbers? --> 48
+How many 48 . the difference between three times the smaller number and the larger number is 16 . Find the smaller number and the larger number is the sum of two numbers? --> 48
+==> Solution Equation: 3.0*smaller-larger=16.0 and smaller+larger=48.0
+~~~
+

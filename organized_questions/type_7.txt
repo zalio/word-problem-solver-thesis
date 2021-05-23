@@ -1,0 +1,166 @@
+*** The value of a sport utility vehicle this year is 16000 dollars , which is 0.8 of what its value was last year. Find the value of the vehicle last year. 
+When was its value what? --> last year
+Was its value what last year? --> 0 . 8
+How would you describe its value? --> 0 . 8 of what its value was last year
+How would you describe 16000 dollars? --> 0 . 8 of what its value was last year
+When does the value of the vehicle Find? --> last year
+Is 16000 dollars 0.8 of what its value was last year? --> the value of a sport utility vehicle
+How many of what its value was last year is 16000 dollars? --> 0 . 8
+How would you describe the value of a sport utility vehicle this year? --> 0 . 8 of what its value was last year
+What is 16000 dollars 0.8 of what its value was last year. Find the value of? --> a sport utility vehicle
+How many of what its value was last year is the value of a sport utility vehicle this year? --> 0 . 8
+What is the value of a sport utility vehicle this year 0.8 of what its value was last year. Find the value of? --> 16000 dollars
+Is the value of a sport utility vehicle this year 16000 dollars, which is 0.8 of what its value was last year? --> 0 . 8 of what its value was last year
+==> Solution Equation: 16000.0/0.8=last
+~~~
+
+*** An ice skating rink charges 5 dollars for admission and 2.50 dollars to rent skates. Jill can purchase a new pair of skates for 65 dollars. How many times would she need to go the rink to justify buying the skates rather than renting a pair?
+What do she justify? --> buying the skates
+Do rink skating ice? --> an ice skating rink charges 5 dollars for admission and 2 . 50 dollars to rent skates
+What can Jill purchase? --> a new pair of skates
+What do she need to go? --> ice skating rink
+What justify she buying? --> how many times would she need to go the rink
+Do she need to go the rink? --> how many times
+Justify she buying the skates? --> how many times
+What do she need How many times? --> buying the skates
+What does an ice skating rink rent? --> skates
+What does an ice skating rink charge? --> 5 dollars for admission and 2 . 50 dollars to rent skates
+Does an ice skating rink rent skates? --> an ice skating rink charges 5 dollars for admission and 2 . 50 dollars
+Who can purchase a new pair of skates? --> jill
+Can Jill purchase a new pair of skates? --> jill can purchase a new pair of skates for 65 dollars
+Do she justify buying the skates rather? --> how many times
+Does an ice skating rink charge 5 dollars for admission and 2.50 dollars? --> an ice skating rink charges 5 dollars for admission and 2 . 50 dollars to rent skates
+When do she need to go the rink to justify buying the skates rather than renting a pair? --> how many times
+Do she need to go the rink to justify buying the skates rather than renting a pair How many times? --> how many times
+==> Solution Equation: 65.0/2.5=times_at_rink
+~~~
+
+*** .833 of a number is -60. What is the number?
+Is the number What? --> - 60
+Is .833 of a number -60? --> - 60
+How would you describe the number? --> - 60
+==> Solution Equation: -60.0/0.833=number
+~~~
+
+*** Freeport McMoran projects that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand. What will the world grain demand be in 2010?
+How would you describe the supply? --> 0 . 75 of the world grain demand
+What does Freeport McMoran project? --> the world grain supply will be 1800000 metric tons
+When does the world grain demand be What? --> 2010
+Does the world grain demand be What in 2010? --> 0 . 75 of the world grain demand
+How would you describe the world grain supply? --> 0 . 75 of the world grain demand
+How would you describe the world grain demand? --> 0 . 75
+Does the supply be only 0.75 of the world grain demand? --> in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0 . 75 of the world grain demand
+When does the world grain supply be 1800000 metric tons? --> 2010
+Does the world grain supply be 1800000 metric tons in 2010? --> 0 . 75 of the world grain demand
+How many only 0.75 of the world grain demand does the supply be? --> 1800000 metric tons
+Who does project that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand . What will the world grain demand be in 2010? --> freeport mcmoran
+Does Freeport McMoran project that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand . What will the world grain demand be in 2010? --> freeport mcmoran projects that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0 . 75 of the world grain demand
+How many that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand . What will the world grain demand be in 2010 does Freeport McMoran project? --> 0 . 75
+==> Solution Equation: 1800000.0=0.75*demand
+~~~
+
+*** A 12 ounce can of cranberry juice sells for 84 cents. Give the unit cost in cents per ounce.
+How many ounce can? --> 12
+Does the unit cost Give in cents per ounce? --> give the unit cost in cents per ounce
+Does a 12 ounce can of cranberry juice sell for 84 cents? --> a 12 ounce can of cranberry juice sells for 84 cents
+How many ounce can of cranberry juice does sell a for 84 cents? --> 12
+==> Solution Equation: cost=84.0/12.0
+~~~
+
+*** A plane is using fuel at the rate of 9.5 gallons per hour and it has 6.3333 gallons left in its tank. How long can the plane continue to fly?
+What does it has? --> 6 . 3333 gallons left in its tank
+What is a plane using? --> fuel
+Is a plane using fuel? --> a plane is using fuel at the rate of 9 . 5 gallons per hour
+When do to fly continue? --> how long
+How is a plane using fuel? --> 9 . 5 gallons per hour
+Where did 6.3333 gallons leave? --> in its tank
+Does it has 6.3333 gallons left in its tank? --> it has 6 . 3333 gallons left in its tank
+==> Solution Equation: 9.5*hours=6.3333
+~~~
+
+*** Think of a number , half it and the result is 9. Find the number. 
+Is the result 9? --> the result is 9
+How many is the result? --> 9
+How would you describe the result? --> 9
+How many it and the result is 9 . Find the does think of a number? --> half
+How many . Find the do think of a number, half it and the result is? --> 9
+==> Solution Equation: 0.5*number=9.0
+~~~
+
+*** 1.3333 of a number is 4.82 , what is the number? 
+Is a number 4.82? --> 1 . 3333
+Is the number what? --> 4 . 82
+How many is a number? --> 4 . 82
+How would you describe a number? --> 4 . 82
+How would you describe the number? --> 4 . 82
+==> Solution Equation: 1.3333*a_number=4.82
+~~~
+
+*** A car traveled 715 kilometers in 11 hours. What was its average speed?
+Was its average speed What? --> a car traveled 715 kilometers in 11 hours . what was its average speed
+What did a car traveled in 11 hours? --> 715 kilometers
+When did a car traveled 715 kilometers? --> 11 hours
+How would you describe its average speed? --> 715 kilometers
+Did a car traveled 715 kilometers in 11 hours? --> a car traveled 715 kilometers in 11 hours
+==> Solution Equation: average_speed=715.0/11.0
+~~~
+
+*** If 120 lollipops cost 90 dollars , how much does 1 lollipop cost , in dollars? 
+What did 120 lollipops cost? --> 90 dollars
+Did 120 lollipops cost 90 dollars? --> if 120 lollipops cost 90 dollars
+How many lollipops did cost 90 dollars? --> 120
+==> Solution Equation: cost_of_1_lollipop=90.0/120.0
+~~~
+
+*** At the carnival , tickets for the rides are 0.75 dollars each , or you can buy an armband for 15 dollars and ride unlimited for one night. At how many rides does the armband cost the same as buying individual tickets? 
+What do you buy? --> an armband
+When do you ride? --> one night
+Do you buy an armband? --> 15 dollars
+How would you describe you? --> 15 dollars
+What did the armband cost the same as? --> buying individual tickets
+Did the armband cost at how many rides? --> at how many rides
+How would you describe tickets for the rides? --> 0 . 75 dollars each
+Where are tickets for the rides 0.75 dollars each? --> the carnival
+Are tickets for the rides 0.75 dollars each at the carnival? --> tickets for the rides are 0 . 75 dollars each
+==> Solution Equation: 0.75*rides=15.0
+~~~
+
+*** Soft drinks are on sale at the grocery store for 2.99 dollars for a 12 pack. How much would each can of soft drink cost if purchased individually , in dollars? 
+Do each can of soft drink? --> if purchased individually
+How many pack are soft drinks? --> 12
+Are soft drinks on sale at the grocery store for 2.99 dollars for a 12 pack? --> soft drinks are on sale at the grocery store
+==> Solution Equation: individual_cost=2.99/12.0
+~~~
+
+*** A recipe calls for 2 cups of sugar. You find that you only have 0.3333 cups of sugar left. What fraction of the recipe can you make?
+What do You find? --> 0 . 3333 cups of sugar left
+What do you have? --> 0 . 3333 cups of sugar left
+What do you make? --> 2 cups of sugar
+How many cups of sugar did leave? --> 0 . 3333
+Do you have 0.3333 cups of sugar left? --> 0 . 3333 cups of sugar left
+How many cups of sugar left do you have? --> 0 . 3333
+Do you make What fraction of the recipe? --> what fraction
+How many cups of sugar left . What fraction of the recipe can you make do You find? --> 0 . 3333
+Do You find that you only have 0.3333 cups of sugar left . What fraction of the recipe can you make? --> what fraction
+==> Solution Equation: fraction=0.3333/2.0
+~~~
+
+*** 0.4 of Joe 's income each month goes to taxes. If she pays 848 dollars in taxes each month , what is her monthly income in dollars? 
+What does she pay each month? --> 848 dollars
+Is her monthly income in dollars what? --> if she pays 848 dollars in taxes each month
+When does she pay 848 dollars in taxes? --> each month
+Does she pay 848 dollars in taxes each month? --> if she pays 848 dollars in taxes each month , what is her monthly income in dollars
+Does 0.4 of Joe's income each month go to taxes? --> 0 . 4 of joe ' s income each month goes to taxes
+How would you describe her monthly income in dollars? --> if she pays 848 dollars in taxes each month
+When does 0.4 of Joe's income each month go to taxes? --> if she pays 848 dollars in taxes each month
+How many of Joe's income each month does go to taxes? --> 0 . 4
+==> Solution Equation: 0.4*income=848.0
+~~~
+
+*** It took me 6 minutes to walk 500 meters. How fast was I travelling?
+What did take me 6 minutes? --> walk 500 meters
+What did to walk 500 meters take? --> 6 minutes
+Did to walk 500 meters take 6 minutes? --> it took me 6 minutes
+==> Solution Equation: speed=500.0/6.0
+~~~
+

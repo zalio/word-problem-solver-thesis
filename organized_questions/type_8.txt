@@ -1,0 +1,462 @@
+*** On Monday , Harold picked up three doughnuts and four large coffees for the office staff. He paid 4.91 dollars. On Tuesday Melinda picked up five doughnuts and six large coffees for the office staff. She paid 7.59 dollars. What is the cost of one doughnut? What is the cost of one large coffee? 
+What did He pay? --> 4 . 91 dollars
+What did She pay? --> 7 . 59 dollars
+Did He pay 4.91 dollars? --> he paid 4 . 91 dollars
+Did She pay 7.59 dollars? --> melinda picked up five doughnuts and six large coffees for the office staff . she paid 7 . 59 dollars
+Is the cost of one doughnut What? --> what is the cost
+What did Harold picked up on Monday? --> three doughnuts and four large coffees
+Is the cost of one large coffee What? --> what is the cost
+What did Melinda picked up on Tuesday? --> five doughnuts and six large coffees
+How many doughnut is the cost of What? --> one
+How many large coffee is the cost of What? --> six
+How would you describe the cost of one doughnut? --> what
+How would you describe the cost of one large coffee? --> what
+How many large coffees did Melinda picked up on Tuesday? --> six
+When did Melinda picked up five doughnuts and six large coffees? --> tuesday
+Did Melinda picked up five doughnuts and six large coffees on Tuesday? --> melinda picked up five doughnuts and six large coffees for the office staff . she paid 7 . 59 dollars
+How many doughnuts and six large coffees did Melinda picked up on Tuesday? --> five
+How many large coffees for the office staff did Harold picked up on Monday? --> four
+When did Harold picked up three doughnuts and four large coffees for the office staff? --> monday
+Who did picked up three doughnuts and four large coffees for the office staff on Monday? --> harold
+Did Harold picked up three doughnuts and four large coffees for the office staff on Monday? --> he paid 4 . 91 dollars
+How many doughnuts and four large coffees for the office staff did Harold picked up on Monday? --> three
+==> Solution Equation: 3.0*donuts+4.0*coffees=4.91 and 5.0*donuts+6.0*coffees=7.59
+~~~
+
+*** A manufacturer produces two models of the same toy , Model A and Model B. Model A takes 4 hours to produce and costs 8 dollars each. Model B takes 3 hours to produce and costs 7 dollars each. If the manufacturer allots a total of 5800 hours and 12,600 dollars for production each week , how many of each model will be produced? 
+Who will be produce? --> model a and model b
+What does to produce take? --> 4 hours
+Does to produce take 4 hours? --> model a
+Does to produce take 3 hours? --> model b
+What Model A produce and costs? --> 8 dollars each
+What Model B produce and costs? --> 7 dollars each
+What Model A produce and costs? --> 8 dollars each
+What Model B produce and costs? --> 7 dollars each
+What does A manufacturer produce? --> two models of the same toy
+Who produce and costs 8 dollars each? --> model a
+Who produce and costs 7 dollars each? --> model b
+Model A produce and costs 8 dollars each? --> model a takes 4 hours to produce
+Model B produce and costs 7 dollars each? --> model b
+What does the manufacturer allots each week? --> 5800 hours and 12 , 600 dollars
+When does the manufacturer allots a total of 5800 hours and 12,600 dollars for production? --> each week
+Does the manufacturer allots a total of 5800 hours and 12,600 dollars for production each week? --> if the manufacturer allots a total of 5800 hours and 12 , 600 dollars for production each week , how many of each model will be produced
+Does A manufacturer produce two models of the same toy, Model A and Model B. Model A takes 4 hours to produce and costs 8 dollars each . Model B takes 3 hours to produce and costs 7 dollars each . If the manufacturer allots a total of 5800 hours and 12,600 dollars for production each week, how many of each model will be produced? --> a manufacturer produces two models of the same toy , model a and model b . model a takes 4 hours to produce and costs 8 dollars each
+How many models of the same toy, Model A and Model B. Model A takes 4 hours to produce and costs 8 dollars each . Model B takes 3 hours to produce and costs 7 dollars each . If the manufacturer allots a total of 5800 hours and 12,600 dollars for production each week, how many of each model will be produced does A manufacturer produce? --> two
+==> Solution Equation: 4.0*model_a+3.0*model_b=5800.0 and 8.0*model_a+7.0*model_b=12600.0
+~~~
+
+*** Eldora and Finn went to an office supply store together. Eldora bought 15 boxes of paper clips and 7 packages of index cards for a total cost of 55.40 dollars. Finn bought 12 boxes of paper clips and 10 packages of index cards for a total cost of 61.70 dollars. Find the cost of one box of paper clips and the cost of one package of index cards.
+What did Finn buy? --> 12 boxes of paper clips and 10 packages of index cards
+What do Finn Find? --> the cost of one box of paper clips and the cost of one package of index cards
+What did Eldora buy? --> 15 boxes of paper clips and 7 packages of index cards
+How many packages of index cards did Finn buy? --> 10
+How many package of index cards does Finn Find? --> one
+How many packages of index cards did Eldora buy? --> 7
+Did Eldora and Finn go to an office supply store? --> eldora and finn went to an office supply store together
+Who did buy 15 boxes of paper clips and 7 packages of index cards? --> eldora
+Who did buy 12 boxes of paper clips and 10 packages of index cards? --> finn
+Did Finn buy 12 boxes of paper clips and 10 packages of index cards? --> finn
+Did Eldora buy 15 boxes of paper clips and 7 packages of index cards? --> eldora
+How many boxes of paper clips and 10 packages of index cards did Finn buy? --> 12
+How many boxes of paper clips and 7 packages of index cards did Eldora buy? --> 15
+For what purpose did Eldora buy 15 boxes of paper clips and 7 packages of index cards? --> office supply
+Who do Find the cost of one box of paper clips and the cost of one package of index cards? --> eldora and finn
+Do Finn Find the cost of one box of paper clips and the cost of one package of index cards? --> find the cost of one box of paper clips and the cost of one package of index cards .
+How many dollars did buy for a total cost of 12 boxes of paper clips and 10 packages of index cards? --> 61 . 70
+==> Solution Equation: 15.0*paperclips+7.0*index_cards=55.4 and 12.0*paperclips+10.0*index_cards=61.7
+~~~
+
+*** If 4 apples and 2 oranges equals 1 dollars and 2 apples and 3 orange equals 0.70 dollars , how much does each apple and each orange cost?
+What does 3 orange equals? --> 0 . 70 dollars
+Does 3 orange equals 0.70 dollars? --> if 4 apples and 2 oranges equals 1 dollars and 2 apples and 3 orange equals 0 . 70 dollars
+What does 4 apples and 2 oranges equals? --> 1 dollars
+How many orange does equals 0.70 dollars? --> 3
+Does 4 apples and 2 oranges equals 1 dollars? --> if 4 apples and 2 oranges equals 1 dollars
+How many apples and 2 oranges does equals 1 dollars? --> 4
+How many oranges does equals 4 apples and 1 dollars? --> 2
+==> Solution Equation: 4.0*apple+2.0*orange=1.0 and 2.0*apple+3.0*orange=0.7
+~~~
+
+*** Each unit of grain A contains 2 grams of fat and 80 calories , and unit B has 3 grams of fat and 60 calories. If the final product is to provide 18 grams of fat and 480 calories , how much of grain A and how much of grain B should be used. 
+What does unit B has? --> 3 grams of fat and 60 calories
+What is the final product? --> 18 grams of fat and 480 calories
+How many calories does unit B has? --> 60
+What is the final product to provide? --> 18 grams of fat and 480 calories
+What does each unit of grain A contain? --> 2 grams of fat and 80 calories
+How many calories is the final product? --> 480
+Does unit B has 3 grams of fat and 60 calories? --> unit b
+How many calories is the final product to provide? --> 480
+How many calories does each unit of grain A contain? --> 80
+Does each unit of grain A contain 2 grams of fat and 80 calories? --> each unit of grain a contains 2 grams of fat and 80 calories
+Is the final product to provide 18 grams of fat and 480 calories? --> if the final product is to provide 18 grams of fat and 480 calories , how much of grain a and how much of grain b should be used
+==> Solution Equation: 2.0*grain_a+3.0*grain_b=18.0 and 80.0*grain_a+60.0*grain_b=480.0
+~~~
+
+*** A motorist drove 2 hours at one speed and then for 3 hours at another speed. He covered a distance of 252 kilometers. If he had travelled 4 hours at the first speed and 1 hour at the second speed , he would have covered 244 kilometers. Find two speeds? 
+How many speeds do Find? --> two
+Had he travelled 4 hours? --> if he had travelled 4 hours at the first speed and 1 hour at the second speed
+What would He have covered? --> 244 kilometers
+What would he have covered? --> 244 kilometers
+How had he travelled 4 hours? --> at the first speed and 1 hour at the second speed
+Did a motorist drive 2 hours? --> at one speed
+How did a motorist drive 2 hours? --> at one speed
+How many speed did drive at 2 hours? --> 4
+Would he have covered 244 kilometers? --> if he had travelled 4 hours at the first speed and 1 hour at the second speed
+Would He have covered a distance of 252 kilometers? --> he covered a distance of 252 kilometers . if he had travelled 4 hours at the first speed and 1 hour at the second speed , he would have covered 244 kilometers
+==> Solution Equation: 4.0*first_speed+1.0*second_speed=244.0 and 2.0*first_speed+3.0*second_speed=252.0
+~~~
+
+*** Lakota bought 6 new compact disks and 2 used compact disks for 127.92 dollars. At the same prices , Mackenzie bought 3 new compact disks and 8 used compact disks for 133.89 dollars. Find the cost of buying a single used compact disk. 
+What do Mackenzie Find? --> the cost of buying a single used compact disk
+What do Mackenzie Find the cost of? --> buying a single used compact disk
+What did Lakota buy At the same prices? --> 6 new compact disks and 2 used compact disks
+What did Mackenzie buy At the same prices? --> 3 new compact disks and 8 used compact disks
+How many used compact disks did Lakota buy At the same prices? --> 8
+Do Mackenzie Find the cost of buying a single used compact disk? --> mackenzie bought 3 new compact disks and 8 used compact disks for 133 . 89 dollars . find the cost of buying a single used compact disk .
+How many used compact disks did Mackenzie buy At the same prices? --> 8
+When did Lakota buy 6 new compact disks and 2 used compact disks? --> 127 . 92 dollars
+When did Mackenzie buy 3 new compact disks and 8 used compact disks? --> at the same prices , mackenzie bought 3 new compact disks and 8 used compact disks for 133 . 89 dollars
+Did Lakota buy 6 new compact disks and 2 used compact disks At the same prices? --> lakota bought 6 new compact disks and 2 used compact disks for 127 . 92 dollars
+Did Mackenzie buy 3 new compact disks and 8 used compact disks At the same prices? --> mackenzie
+How many new compact disks and 2 used compact disks did Lakota buy At the same prices? --> 6
+How many new compact disks and 8 used compact disks did Mackenzie buy At the same prices? --> 3
+How many dollars did buy for 6 new compact disks and 2 used compact disks At the same prices? --> 127 . 92
+How many dollars did buy for 3 new compact disks and 8 used compact disks At the same prices? --> 133 . 89
+==> Solution Equation: 6.0*new+2.0*used=127.92 and 3.0*new+8.0*used=133.89
+~~~
+
+*** Mary can purchase roses and daisies from a flower shop. She can buy four roses and five daisies for 7.90 dollars or two roses and six daisies for 5.70 dollars. What is the individual cost for each rose and daisy?
+What can She buy? --> roses and daisies
+What can mary purchase? --> roses and daisies
+How many daisies can She buy? --> five
+Can mary purchase roses and daisies? --> mary can purchase roses and daisies from a flower shop
+Can She buy four roses and five daisies? --> 7 . 90 dollars
+How many roses and five daisies can She buy? --> four
+Is the individual cost for each rose and daisy What? --> 7 . 90 dollars or two roses and six daisies for 5 . 70 dollars
+How would you describe the individual cost for each rose and daisy? --> 7 . 90 dollars
+==> Solution Equation: 4.0*rose_cost+5.0*daisy_cost=7.9 and 2.0*rose_cost+6.0*daisy_cost=5.7
+~~~
+
+*** Best Rentals charges a daily fee plus a mileage fee for renting its cars. Barney was charged 69 dollars for 3 days and 300 miles , while Mary was charged 123 dollars for 5 days and 600 miles. Find the daily fee and find the mileage charge? 
+What do Mary find? --> the mileage charge
+What was Barney charged? --> 69 dollars
+Who was charged 69 dollars? --> barney
+What does best Rentals charge? --> a daily fee plus a mileage fee for renting its cars
+Was Barney charged 69 dollars? --> barney was charged 69 dollars for 3 days and 300 miles
+Who do find the mileage charge? --> mary
+Do Mary find the mileage charge? --> mary was charged 123 dollars for 5 days and 600 miles . find the daily fee and find the mileage charge ?
+When was 123 dollars charged Mary? --> 5 days and 600 miles
+When was Barney charged 69 dollars? --> 3 days and 300 miles
+Was 123 dollars charged Mary for 5 days and 600 miles? --> mary was charged 123 dollars
+Does best Rentals charge a daily fee plus a mileage fee for renting its cars? --> best rentals charges a daily fee plus a mileage fee
+What best Rentals charges a daily fee plus a mileage fee for renting its cars . Barney was charged 69 dollars for 3 days and 300 miles, while Mary was charged 123 dollars for? --> best rentals charges a daily fee plus a mileage fee for renting its cars . barney was charged 69 dollars for 3 days and 300 miles , while mary was charged 123 dollars for 5 days and 600 miles
+==> Solution Equation: 3.0*daily_fee+300.0*mileage_charge=69.0 and 5.0*daily_fee+600.0*mileage_charge=123.0
+~~~
+
+*** For Monday morning 's staff meeting , Jim bought 2 bags of bagels and 3 packages of cream cheese and paid 12.00 dollars. For Friday 's meeting , he bought 4 bags of bagels and 2 packages of cream cheese and paid 14.00 dollars. How much does a bag of bagels and a package of cream cheese cost , in dollars? 
+What did he pay? --> 12 . 00 dollars
+What did Jim buy? --> 2 bags of bagels and 3 packages of cream cheese
+What did Jim pay? --> 12 . 00 dollars
+What did Jim buy? --> 2 bags of bagels and 3 packages of cream cheese
+What did Jim pay? --> 12 . 00 dollars
+Did he pay 14.00 dollars? --> he bought 4 bags of bagels and 2 packages of cream cheese and paid 14 . 00 dollars
+Who did pay 12.00 dollars? --> jim
+Did Jim pay 12.00 dollars? --> jim bought 2 bags of bagels and 3 packages of cream cheese and paid 12 . 00 dollars
+How many dollars did he pay? --> 12 . 00
+How many dollars did Jim pay? --> 12 . 00
+When did Jim pay 12.00 dollars? --> monday morning ' s staff meeting
+What did he buy for Friday's meeting? --> 4 bags of bagels and 2 packages of cream cheese
+How many packages of cream cheese did Jim buy? --> 3 packages
+Who did buy 2 bags of bagels and 3 packages of cream cheese? --> jim
+Did Jim buy 2 bags of bagels and 3 packages of cream cheese? --> 12 . 00 dollars
+When did he buy 4 bags of bagels and 2 packages of cream cheese? --> friday ' s meeting
+When did Jim buy 2 bags of bagels and 3 packages of cream cheese? --> monday morning ' s staff meeting
+How many packages of cream cheese did he buy for Friday's meeting? --> 2
+How many bags of bagels and 3 packages of cream cheese did Jim buy? --> 2
+Did he buy 4 bags of bagels and 2 packages of cream cheese for Friday's meeting? --> 14 . 00 dollars
+How many bags of bagels and 2 packages of cream cheese did he buy for Friday's meeting? --> 4
+==> Solution Equation: 2.0*bagels+3.0*cream_cheese=12.0 and 4.0*bagels+2.0*cream_cheese=14.0
+~~~
+
+*** 6 ducks and 5 pigs cost 213 dollars , while 2 ducks and 9 pigs cost 269 dollars. Find the cost of a duck and a pig. 
+What did 6 ducks and 5 pigs cost? --> 213 dollars
+What did 2 ducks and 9 pigs cost? --> 269 dollars
+What did 6 ducks and 5 pigs cost? --> 213 dollars
+What did 2 ducks and 9 pigs cost? --> 269 dollars
+Did 6 ducks and 5 pigs cost 213 dollars? --> 6 ducks and 5 pigs cost 213 dollars
+Did 2 ducks and 9 pigs cost 269 dollars? --> 269 dollars
+How many dollars did 6 ducks and 5 pigs cost? --> 213
+How many dollars did 2 ducks and 9 pigs cost? --> 269
+How many ducks and 5 pigs did cost 213 dollars? --> 6
+How many pigs did cost 6 ducks and 213 dollars? --> 5
+How many ducks and 9 pigs did cost 269 dollars? --> 2
+How many pigs did cost 2 ducks and 269 dollars? --> 9
+How many dollars did cost while 2 ducks and 9 pigs cost 213 dollars? --> 269
+==> Solution Equation: 6.0*ducks_cost+5.0*pigs_cost=213.0 and 2.0*ducks_cost+9.0*pigs_cost=269.0
+~~~
+
+*** The manager of a discount clothing store received 2 shipments of Fall clothing. The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars. The second shipment at the same prices , contained 5 of the same sweaters and 15 of the same jackets. The second shipment was 550 dollars. Find the cost of 1 jacket , in dollars. 
+What did the first shipment contain? --> 10 identical sweaters and 20 identical jackets
+Was the second shipment 550 dollars? --> the second shipment was 550 dollars
+How many dollars was the second shipment? --> 550
+How would you describe the second shipment? --> 550 dollars
+How many jacket, in dollars do Find the cost of? --> 1
+What did the second shipment at the same prices contain? --> 5 of the same sweaters and 15 of the same jackets
+What did the manager of a discount clothing store receive? --> 2 shipments of fall clothing
+How many identical jackets did the first shipment contain? --> 20
+Did the first shipment contain 10 identical sweaters and 20 identical jackets? --> 800 dollars
+How many of the same jackets did the second shipment at the same prices contain? --> 15
+Did the manager of a discount clothing store receive 2 shipments of Fall clothing? --> the manager of a discount clothing store received 2 shipments of fall clothing . the cost of the first shipment
+How many identical sweaters and 20 identical jackets did the first shipment contain? --> 10
+How many shipments of Fall clothing did the manager of a discount clothing store receive? --> 2
+Did the second shipment at the same prices contain 5 of the same sweaters and 15 of the same jackets? --> the second shipment at the same prices , contained 5 of the same sweaters and 15 of the same jackets
+Was the cost of the first shipment which contained 10 identical sweaters and 20 identical jackets 800 dollars? --> the cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars
+How many identical jackets was the cost of the first shipment which contained 10 identical sweaters and 800 dollars? --> 20
+How many identical sweaters and 20 identical jackets was the cost of the first shipment which contained 800 dollars? --> 10
+How many identical jackets was the cost of the first shipment which contained 10 identical sweaters and 800 dollars? --> 20
+How many identical sweaters and 20 identical jackets was the cost of the first shipment which contained 800 dollars? --> 10
+How would you describe the cost of the first shipment which contained 10 identical sweaters and 20 identical jackets? --> 800 dollars
+==> Solution Equation: 20.0*jackets+10.0*sweaters=800.0 and 15.0*jackets+5.0*sweaters=550.0
+~~~
+
+*** Stefans school is selling tickets to a choral performance. On the first day of ticket sales the school sold 4 senior citizen tickets and 3 student tickets for 79 dollars. The school took 246 dollars on the second day by selling 12 senior citizen tickets and 10 student tickets. Find the price of a senior citizen ticket and the price of a student ticket.
+When did The school take 246 dollars? --> second day
+What did The school take on the second day? --> 246 dollars
+Did The school take 246 dollars on the second day? --> the school took 246 dollars on the second day by selling 12 senior citizen tickets and 10 student tickets
+How did The school take 246 dollars on the second day? --> by selling 12 senior citizen tickets and 10 student tickets
+How many dollars did The school take on the second day? --> 246
+What did the school sell On the first day of ticket sales? --> 4 senior citizen tickets and 3 student tickets
+What did The school take 246 dollars on the second day by? --> selling 12 senior citizen tickets and 10 student tickets
+When did the school sell 4 senior citizen tickets and 3 student tickets? --> first day of ticket sales
+How many student tickets did the school sell On the first day of ticket sales? --> 3
+Did the school sell 4 senior citizen tickets and 3 student tickets On the first day of ticket sales? --> on the first day of ticket sales the school sold 4 senior citizen tickets and 3 student tickets for 79 dollars
+How many senior citizen tickets and 10 student tickets did take by selling 246 dollars on the second day? --> 12
+How many student tickets did take by selling 12 senior citizen tickets and 246 dollars on the second day? --> 10
+How many senior citizen tickets and 3 student tickets did the school sell On the first day of ticket sales? --> 4
+==> Solution Equation: 4.0*senior_ticket_price+3.0*student_ticket_price=79.0 and 12.0*senior_ticket_price+10.0*student_ticket_price=246.0
+~~~
+
+*** 3 footballs and 1 soccer ball cost 155 dollars. 2 footballs and 3 soccer balls cost 220 dollars. Determine the cost of 1 football and the cost of one soccer ball , in dollars. 
+What do 3 footballs and 1 soccer ball cost? --> 155 dollars
+What do 2 footballs and 3 soccer balls cost? --> 220 dollars
+Do 3 footballs and 1 soccer ball cost 155 dollars? --> 3 footballs and 1 soccer ball cost 155 dollars
+Do 2 footballs and 3 soccer balls cost 220 dollars? --> 2 footballs and 3 soccer balls cost 220 dollars
+How many dollars do 3 footballs and 1 soccer ball cost? --> 155
+How many dollars do 2 footballs and 3 soccer balls cost? --> 220
+How many footballs and 1 soccer ball do cost 155 dollars? --> 3
+How many footballs and 3 soccer balls do cost 220 dollars? --> 2
+How many soccer ball does cost 3 footballs and 155 dollars? --> 220
+How many soccer balls does cost 2 footballs and 220 dollars? --> 3
+How many soccer ball, in dollars does Determine the cost of 1 football and the cost of? --> one
+How many football and the cost of one soccer ball, in dollars does Determine the cost of? --> 1
+==> Solution Equation: 3.0*football_price+1.0*soccer_ball_price=155.0 and 2.0*football_price+3.0*soccer_ball_price=220.0
+~~~
+
+*** 4 pencils and 5 pens cost a total of 2.00 dollars. 3 pencils and 4 pens cost 1.58 dollars. Find the cost of a pencil and a pen in dollars.
+What did 4 pencils and 5 pens cost? --> 2 . 00 dollars
+What did 3 pencils and 4 pens cost? --> 1 . 58 dollars
+Did 3 pencils and 4 pens cost 1.58 dollars? --> 3 pencils and 4 pens cost 1 . 58 dollars
+How many dollars did 3 pencils and 4 pens cost? --> 1 . 58
+How many pens did cost 3 pencils and 1.58 dollars? --> 4
+How many pencils and 4 pens did cost 1.58 dollars? --> 3
+How many pens did cost 3 pencils and 1.58 dollars? --> 4
+Did 4 pencils and 5 pens cost a total of 2.00 dollars? --> 4 pencils and 5 pens cost a total of 2 . 00 dollars
+How many pencils and 5 pens did cost a total of 2.00 dollars? --> 4
+How many pens did cost 4 pencils and a total of 2.00 dollars? --> 5
+How many pencils and 5 pens did cost a total of 2.00 dollars? --> 4
+==> Solution Equation: 4.0*pencil+5.0*pen=2.0 and 3.0*pencil+4.0*pen=1.58
+~~~
+
+*** You and a friend go to a Mexican restaurant. You order 2 tacos and 3 enchiladas , and your friend orders 3 tacos and 5 enchiladas. Your bill is 7.80 dollars plus tax , and your friend 's bill is 12.70 dollars plus tax. How much , in dollars , does each taco cost? How much does each enchilada cost? 
+What do you order? --> 2 tacos and 3 enchiladas
+What does your friend order? --> 3 tacos and 5 enchiladas
+How would you describe your bill? --> 7 . 80 dollars plus tax
+How many enchiladas do you order? --> 3
+Is your bill 7.80 dollars plus tax? --> your bill is 7 . 80 dollars plus tax
+Do you order 2 tacos and 3 enchiladas? --> you order 2 tacos and 3 enchiladas , and your friend orders 3 tacos and 5 enchiladas .
+How would you describe your friend's bill? --> 12 . 70 dollars plus tax
+How many enchiladas does your friend order? --> 5
+How many tacos and 3 enchiladas do you order? --> 2
+Is your friend's bill 12.70 dollars plus tax? --> your friend ' s bill is 12 . 70 dollars plus tax
+How many dollars plus tax is your friend's bill? --> 12 . 70
+Does your friend order 3 tacos and 5 enchiladas? --> 12
+Does you and a friend go to a Mexican restaurant? --> you
+How many tacos and 5 enchiladas does your friend order? --> 3
+==> Solution Equation: 2.0*tacos_cost+3.0*enhiladas_cost=7.8 and 3.0*tacos_cost+5.0*enhiladas_cost=12.7
+~~~
+
+*** For the first performance of a play in a community theater , 50 reserved-seat tickets and 80 general-admission tickets were sold. The total receipts were 980 dollars. For the second performance , 60 reserved-seat tickets and 90 general-admission tickets were sold. The total receipts were 1140 dollars. Find the price of a reserved-set ticket , in dollars. Find the price of a general-admission ticket. 
+Were The total receipts 980 dollars? --> the total receipts were 980 dollars
+Were The total receipts 1140 dollars? --> the total receipts were 1140 dollars
+How many dollars were The total receipts? --> 1140
+How would you describe The total receipts? --> 980 dollars
+How many reserved - seat tickets and 80 general - admission tickets were sold? --> 50
+How many general - admission tickets were sold 50 reserved - seat tickets and? --> 80
+How many reserved - seat tickets and 90 general - admission tickets were sold? --> 60
+How many general - admission tickets were sold 60 reserved - seat tickets and? --> 90
+==> Solution Equation: 50.0*reserved_ticket+80.0*general_ticket=980.0 and 60.0*reserved_ticket+90.0*general_ticket=1140.0
+~~~
+
+*** For a special event at the TCR spring fest , the cost of 3 adult tickets and 4 student tickets was 84 dollars and the cost of 4 adult tickets and 2 student tickets was 62 dollars. Find the admission price for an adult ticket and for a student ticket at the spring fest , in dollars. 
+Was the cost of 3 adult tickets and 4 student tickets 84 dollars? --> the cost of 3 adult tickets and 4 student tickets was 84 dollars
+Was the cost of 4 adult tickets and 2 student tickets 62 dollars? --> 62 dollars
+Where was the cost of 3 adult tickets and 4 student tickets 84 dollars? --> tcr spring fest
+How many dollars was the cost of 3 adult tickets and 4 student tickets? --> 84
+How many dollars was the cost of 4 adult tickets and 2 student tickets? --> 62
+How many adult tickets and 4 student tickets was the cost of 84 dollars? --> 3
+How many student tickets was the cost of 3 adult tickets and 84 dollars? --> 4
+How many adult tickets and 2 student tickets was the cost of 62 dollars? --> 4
+How many student tickets was the cost of 3 adult tickets and 84 dollars? --> 4
+How many adult tickets and 2 student tickets was the cost of 62 dollars? --> 4
+How many student tickets was the cost of 4 adult tickets and 62 dollars? --> 2
+How would you describe the cost of 3 adult tickets and 4 student tickets? --> 84 dollars
+How would you describe the cost of 4 adult tickets and 2 student tickets? --> 62 dollars
+How would you describe the cost of 3 adult tickets and 4 student tickets? --> 84 dollars
+How would you describe the cost of 4 adult tickets and 2 student tickets? --> 62 dollars
+==> Solution Equation: 3.0*adult+4.0*student=84.0 and 4.0*adult+2.0*student=62.0
+~~~
+
+*** 7 audio cassettes and 3 video cassettes cost rs 1110 , while 5 audio cassettes and 4 video cassettes cost rs 1350. Find the cost of an audio cassette and a video cassette. 
+What did 7 audio cassettes and 3 video cassettes cost? --> rs 1110
+What did 5 audio cassettes and 4 video cassettes cost? --> rs 1350
+What did 7 audio cassettes and 3 video cassettes cost? --> rs 1110
+Did 7 audio cassettes and 3 video cassettes cost rs 1110? --> rs 1110
+Did 5 audio cassettes and 4 video cassettes cost rs 1350? --> 5 audio cassettes and 4 video cassettes cost rs 1350
+How many did 5 audio cassettes and 4 video cassettes cost? --> rs 1350
+When did 7 audio cassettes and 3 video cassettes cost rs 1110? --> 1110
+How many audio cassettes and 3 video cassettes did cost rs 1110? --> 7
+How many video cassettes did cost 7 audio cassettes and rs 1110? --> 3
+How many audio cassettes and 4 video cassettes did cost rs 1350? --> 5
+How many video cassettes did cost 5 audio cassettes and rs 1350? --> 4
+How many did cost while 5 audio cassettes and 4 video cassettes cost rs rs 1110? --> 7
+How many video cassettes cost rs 1350 did cost while 5 audio cassettes and rs 1110? --> 4
+==> Solution Equation: 7.0*audio_cassettes+3.0*video_cassettes=1110.0 and 5.0*audio_cassettes+4.0*video_cassettes=1350.0
+~~~
+
+*** 2 teachers are going to a conference for a few days. Mrs. Jerrerson plans on spending 502 dollars on 14 meals and 4 nights in a hotel. Mrs. Lloyd plans on spending 370 dollars on 10 meals and 3 nights in a hotel. How much are they planning on spending per meal and per night for a hotel?
+When are teachers going to a conference? --> a few days
+Are teachers going to a conference for a few days? --> teachers are going to a conference for a few days
+How many meals and 3 nights in a hotel does Mrs. Lloyd plan? --> 10
+How many meals and 4 nights in a hotel does Mrs. Jerrerson plan? --> 14
+How many dollars on 14 meals and 4 nights in a hotel does Mrs. Jerrerson plan? --> 502
+Does Mrs. Lloyd plan on spending 370 dollars on 10 meals and 3 nights in a hotel? --> mrs . lloyd plans on spending 370 dollars
+Does Mrs. Jerrerson plan on spending 502 dollars on 14 meals and 4 nights in a hotel? --> mrs . jerrerson plans on spending 502 dollars on 14 meals and 4 nights in a hotel
+What Mrs. Lloyd plans on spending 370 dollars on 10 meals and 3 nights in a hotel . How much are they planning on? --> mrs . jerrerson plans on spending 502 dollars
+What Mrs. Jerrerson plans on spending 370 dollars on 10 meals and 3 nights in a hotel . How much are they planning on? --> mrs . lloyd
+==> Solution Equation: 14.0*meal+4.0*hotel=502.0 and 10.0*meal+3.0*hotel=370.0
+~~~
+
+*** If 530 pesos can buy 4 kilograms of fish and 2 kilograms of pork while 875 pesos can buy 7 kilograms of fish and 3 kilograms of pork , how much does a kilogram of fish cost? 
+What can 530 pesos buy? --> 4 kilograms of fish
+What can 875 pesos buy? --> 7 kilograms of fish and 3 kilograms of pork
+What can 530 pesos buy? --> 4 kilograms of fish
+What can 875 pesos buy? --> 7 kilograms of fish and 3 kilograms of pork
+Can 530 pesos buy 4 kilograms of fish and 2 kilograms of pork? --> if 530 pesos can buy 4 kilograms of fish and 2 kilograms of pork
+Can 875 pesos buy 7 kilograms of fish and 3 kilograms of pork? --> 875
+How many pesos can buy 4 kilograms of fish and 2 kilograms of pork? --> 530
+How many pesos can buy 7 kilograms of fish and 3 kilograms of pork? --> 875
+How many pesos can buy while 4 kilograms of fish and 2 kilograms of pork? --> 530
+==> Solution Equation: 4.0*fish+2.0*pork=530.0 and 7.0*fish+3.0*pork=875.0
+~~~
+
+*** A customer walks into an electronics store and buys 5 MP3 players and 8 sets of headphones , paying 840 dollars. A 2nd customer buys 3 MP3 players and 4 sets of headphones , and pays 480 dollars. How much does an MP3 player cost? How much does a set of headphones cost? 
+What does a customer buy? --> 5 mp3 players and 8 sets of headphones
+What does a 2nd customer buy? --> 3 mp3 players and 4 sets of headphones
+What does a 2nd customer pay? --> 480 dollars
+What do a set of headphones cost? --> 480 dollars
+Does a 2nd customer pay 480 dollars? --> 480 dollars
+Do a set of headphones cost How much? --> 480 dollars
+How many dollars does a 2nd customer pay? --> 480
+Does a customer walk into an electronics store? --> 840 dollars
+How many sets of headphones does a customer buy? --> 8
+How many sets of headphones does a 2nd customer buy? --> 4
+Does a customer buy 5 MP3 players and 8 sets of headphones? --> 840 dollars
+How many players and 8 sets of headphones does a customer buy? --> 5
+Does a 2nd customer buy 3 MP3 players and 4 sets of headphones? --> 480 dollars
+How many MP3 players and 8 sets of headphones does a customer buy? --> 5
+How many players and 4 sets of headphones does a 2nd customer buy? --> 3
+How many dollars does buy paying 5 MP3 players and 8 sets of headphones? --> 840
+==> Solution Equation: 5.0*mpthree+8.0*headphone=840.0 and 3.0*mpthree+4.0*headphone=480.0
+~~~
+
+*** A hotel purchased 38 bath towels and 61 washcloths for a total cost of 791.50 dollars. A second purchase of 54 bath towels and 50 washcloths , at the same prices , cost 923 dollars. Find the individual prices of the bath towels and washcloths. 
+What did a hotel purchase? --> 38 bath towels and 61 washcloths
+How many washcloths did a hotel purchase? --> 61
+Did a hotel purchase 38 bath towels and 61 washcloths? --> a hotel purchased 38 bath towels and 61 washcloths for a total cost of 791 . 50 dollars
+How many bath towels and 61 washcloths did a hotel purchase? --> 38
+How many dollars did purchase for a total cost of 38 bath towels and 61 washcloths? --> 791 . 50
+What does a second purchase of 54 bath towels and 50 washcloths, at the same prices cost? --> 923 dollars
+Does a second purchase of 54 bath towels and 50 washcloths, at the same prices cost 923 dollars? --> a second purchase of 54 bath towels and 50 washcloths , at the same prices , cost 923 dollars
+How many washcloths, at the same prices do cost a second purchase of 54 bath towels and 923 dollars? --> 50
+How many bath towels and 50 washcloths, at the same prices does cost a second purchase of 923 dollars? --> 54
+==> Solution Equation: 38.0*bath_towel+61.0*washcloth=791.5 and 54.0*bath_towel+50.0*washcloth=923.0
+~~~
+
+*** Arthur bought 3 hamburgers and 4 hot dogs for 10 dollars. The next day , he bought 2 hamburgers and 3 hot dogs for 7 dollars. How much does a hot dog cost? 
+What did Arthur buy? --> 3 hamburgers and 4 hot dogs
+What did he buy The next day? --> 2 hamburgers and 3 hot dogs for 7 dollars
+How many hot dogs did Arthur buy? --> 7
+How many hot dogs did he buy The next day? --> 7 dollars
+Did Arthur buy 3 hamburgers and 4 hot dogs? --> 10 dollars
+When did he buy 2 hamburgers and 3 hot dogs? --> the next day
+How many hamburgers and 4 hot dogs did Arthur buy? --> 3
+Did he buy 2 hamburgers and 3 hot dogs The next day? --> 7 dollars
+How many hamburgers and 3 hot dogs did he buy The next day? --> 2
+==> Solution Equation: 3.0*hamburgers+4.0*hot_dogs=10.0 and 2.0*hamburgers+3.0*hot_dogs=7.0
+~~~
+
+*** 3 Pairs of jeans and 6 shirts costs 104.25 dollars. The cost of 4 jeans and 5 shirts is 112.15 dollars. Find the cost of each pair of jeans and each shirt.
+What does Pairs of jeans and 6 shirts cost? --> 104 . 25 dollars
+Is The cost of 4 jeans and 5 shirts 112.15 dollars? --> the cost of 4 jeans and 5 shirts is 112 . 15 dollars
+How many dollars is The cost of 4 jeans and 5 shirts? --> 112 . 15
+Does Pairs of jeans and 6 shirts cost 104.25 dollars? --> 3 pairs of jeans and 6 shirts costs 104 . 25 dollars
+How many dollars does Pairs of jeans and 6 shirts cost? --> 104 . 25
+How would you describe The cost of 4 jeans and 5 shirts? --> 112 . 15 dollars
+How many jeans and 5 shirts is The cost of 112.15 dollars? --> 4
+How many shirts is The cost of 4 jeans and 112.15 dollars? --> 5
+How many shirts does cost Pairs of jeans and 104.25 dollars? --> 6
+==> Solution Equation: 3.0*jeans+6.0*shirts=104.25 and 4.0*jeans+5.0*shirts=112.15
+~~~
+
+*** One unit of whole wheat flour has 13.6 grams of protein and 2.5 grams of fat. One unit of whole milk has 3.4 grams of protein and 3.7 grams of fat. To the nearest tenth , find the number of units of whole wheat flour and whole milk that must be mixed to make dough that has 75 grams of protein and 15 grams of fat. 
+What does dough has? --> 75 grams of protein and 15 grams of fat
+What does one unit of whole milk has? --> 3 . 4 grams of protein and 3 . 7 grams of fat
+What does one unit of whole wheat flour has? --> 13 . 6 grams of protein and 2 . 5 grams of fat
+Does dough has 75 grams of protein and 15 grams of fat? --> find the number of units of whole wheat flour and whole milk that must be mixed
+Does one unit of whole milk has 3.4 grams of protein and 3.7 grams of fat? --> one unit of whole milk has 3 . 4 grams of protein and 3 . 7 grams of fat
+How many unit of whole milk does has 3.4 grams of protein and 3.7 grams of fat? --> one
+Does one unit of whole wheat flour has 13.6 grams of protein and 2.5 grams of fat? --> one unit of whole wheat flour has 13 . 6 grams of protein and 2 . 5 grams of fat .
+How many unit of whole wheat flour does has 13.6 grams of protein and 2.5 grams of fat? --> one
+==> Solution Equation: 13.6*whole_wheat+3.4*whole_milk=75.0 and 2.5*whole_wheat+3.7*whole_milk=15.0
+~~~
+
+*** Mrs.Martin bought 3 cups of coffee and 2 bagels and spent 12.75 dollars. Mr.Martin bought 2 cups of coffee and 5 bagels and spent 14.00 dollars. Find the cost of one cup of coffee and the cost of one bagel.
+What did Mr . Martin buy? --> 2 cups of coffee and 5 bagels
+What did Mrs . Martin buy? --> 3 cups of coffee and 2 bagels
+What did Mr . Martin spend? --> 14 . 00 dollars
+What did Mrs . Martin spend? --> 12 . 75 dollars
+How many bagels did Mr . Martin buy? --> 5
+Did Mr . Martin spend 14.00 dollars? --> mr . martin bought 2 cups of coffee and 5 bagels and spent 14 . 00 dollars
+How many bagels did Mrs . Martin buy? --> 2
+Did Mrs . Martin spend 12.75 dollars? --> mrs . martin bought 3 cups of coffee and 2 bagels and spent 12 . 75 dollars
+How many dollars did Mrs . Martin spend? --> 12 . 75
+Did Mr . Martin buy 2 cups of coffee and 5 bagels? --> mr . martin
+Did Mrs . Martin buy 3 cups of coffee and 2 bagels? --> mrs . martin bought 3 cups of coffee and 2 bagels and spent 12 . 75 dollars
+How many cups of coffee and 5 bagels did Mr . Martin buy? --> 2
+How many cups of coffee and 2 bagels did Mrs . Martin buy? --> 3
+How many bagel does Find the cost of one cup of coffee and the cost of? --> 5
+==> Solution Equation: 3.0*coffee+2.0*bagel=12.75 and 2.0*coffee+5.0*bagel=14.0
+~~~
+
+*** Six apples and three oranges cost 1.77 dollars. Two apples and five oranges cost 1.27 dollars. Find the cost of each apple and the cost of an orange. 
+What do Two apples and five oranges cost? --> 1 . 27 dollars
+What do six apples and three oranges cost? --> 1 . 77 dollars
+Do Two apples and five oranges cost 1.27 dollars? --> two apples and five oranges cost 1 . 27 dollars
+Do six apples and three oranges cost 1.77 dollars? --> six apples and three oranges cost 1 . 77 dollars
+How many oranges do cost six apples and 1.77 dollars? --> three
+How many oranges do cost Two apples and 1.27 dollars? --> five
+How many apples and five oranges do cost 1.27 dollars? --> two
+How many apples and three oranges do cost 1.77 dollars? --> six
+==> Solution Equation: 6.0*apples+3.0*oranges=1.77 and 2.0*apples+5.0*oranges=1.27
+~~~
+

@@ -1,0 +1,549 @@
+*** A 68-foot pipe is cut into 2 pieces , one of which is 12 feet less than the other. What is the length of the shorter piece in feet? 
+Indicate characteristics of one of which. --> 12 feet less than the other
+Is one of which 12 feet less than the other? --> one of which is 12 feet less
+How many pieces is 12 feet less than the other? --> 2
+Is the length of the shorter piece in feet What? --> what is the length
+How many of which is 12 feet less than the other? --> 2
+How many feet less than the other is one of which? --> 12
+How many feet less than the other is a 68-foot pipe cut? --> 12
+How would you describe the length of the shorter piece in feet? --> 12 feet
+How many of which is 12 feet less than the other is a 68-foot pipe cut? --> 2
+Is a 68-foot pipe cut into 2 pieces, one of which is 12 feet less than the other? --> a 68 - foot pipe is cut into 2 pieces , one of which is 12 feet less
+How many pipe is cut a into 2 pieces, one of which is 12 feet less than the other? --> 68 - foot
+==> Solution Equation: shorter+longer=68.0 and longer-12.0=shorter
+~~~
+
+*** Find 2 numbers whose sum is 64 and whose difference is 4. What is the smaller number? What is the larger number?
+Is whose sum 64? --> sum is 64 and whose difference is 4
+How many is whose sum? --> 64
+Is whose difference 4? --> difference is 4
+Is the larger number What? --> what is the larger number
+Is the smaller number What? --> what is the smaller number ? what is the larger number
+How many is whose difference? --> 4
+How would you describe whose sum? --> 64
+How would you describe whose difference? --> 4
+How would you describe the larger number? --> what
+How would you describe the smaller number? --> what
+How many numbers whose sum is 64 and whose difference is 4 . What is the smaller number ? What is the larger number do find? --> 2
+How many and whose difference is 4 . What is the smaller number ? What is the larger number does find 2 numbers whose sum is? --> 64
+How many . What is the smaller number ? What is the larger number does find 2 numbers whose sum is 64 and whose difference is? --> 4
+==> Solution Equation: large+small=64.0 and large-small=4.0
+~~~
+
+*** The difference between two numbers is 20 and their sum is 48. Find the numbers.
+Is their sum 48? --> 48
+How many is their sum? --> 48
+How would you describe their sum? --> 48
+Is the difference between two numbers 20? --> 20
+How many numbers is the difference between 20? --> 48
+How many is the difference between two numbers? --> 20
+How would you describe the difference between two numbers? --> 20
+==> Solution Equation: larger+smaller=48.0 and larger-smaller=20.0
+~~~
+
+*** Find two numbers whose sum is 106 and whose difference is 64.
+Is whose sum 106? --> 106
+How many is whose sum? --> 106
+Is whose difference 64? --> 64
+How many is whose difference? --> 64
+How would you describe whose sum? --> 106
+How would you describe whose difference? --> 64
+How many numbers whose sum is 106 and whose difference is 64 do find? --> two
+How many do find two numbers whose sum is 106 and whose difference is? --> 64
+How many and whose difference is 64 does find two numbers whose sum is? --> 106
+==> Solution Equation: number+other_number=106.0 and number-other_number=64.0
+~~~
+
+*** The difference between two numbers is 3. Their sum is 13. Find the numbers. What is the larger number? What is the smaller number?
+Is their sum 13? --> 13
+How many is their sum? --> 13
+Is the larger number What? --> what is the larger number
+Is the smaller number What? --> 13 . find the numbers . what is the larger number ? what is the smaller number
+How would you describe their sum? --> 13
+Is the difference between two numbers 3? --> the difference between two numbers is 3
+How would you describe the larger number? --> what
+How would you describe the smaller number? --> what
+How many numbers is the difference between 3? --> 13
+How many is the difference between two numbers? --> 3
+How would you describe the difference between two numbers? --> 3
+==> Solution Equation: larger+smaller=13.0 and larger-smaller=3.0
+~~~
+
+*** Jane has a dress shop. She has space for 200 dresses. She sells only red and blue dresses. After reading several fashion magazines she decides to stock her shelves with 34 more blue dresses than red dresses. How many blue dresses and red dresses should she stock?
+What does She has? --> 200 dresses
+What do she stock? --> 34 more blue dresses than red dresses
+What does Jane has? --> a dress shop
+What does She sell? --> red and blue dresses
+Do she stock her shelves? --> she decides to stock her shelves with 34 more blue dresses than red dresses
+Who does has a dress shop? --> jane
+Does Jane has a dress shop? --> jane has a dress shop . she has space for 200 dresses
+How many dresses does She has? --> 200
+Does She has space for 200 dresses? --> she has space for 200 dresses
+Does She sell only red and blue dresses? --> she sells only red and blue dresses
+Do she stock How many blue dresses and red dresses? --> 34
+What does she decide After reading several fashion magazines? --> to stock her shelves with 34 more blue dresses than red dresses
+How many more blue dresses than red dresses do stock with her shelves? --> 34
+When does she decide to stock her shelves with 34 more blue dresses than red dresses . How many blue dresses and red dresses should she stock? --> after reading several fashion magazines
+How many more blue dresses than red dresses . How many blue dresses and red dresses should she stock does she decide After reading several fashion magazines? --> 34
+Does she decide to stock her shelves with 34 more blue dresses than red dresses . How many blue dresses and red dresses should she stock After reading several fashion magazines? --> she decides to stock her shelves with 34 more blue dresses than red dresses
+==> Solution Equation: blue_dresses=34.0+red_dresses and blue_dresses+red_dresses=200.0
+~~~
+
+*** A company 's profit for the first half of the year is 2750000 dollars greater than the profit for the second half. If the total annual profit is 3635000 dollars , find the profit for the first half-year and the second half-year. 
+Is the total annual profit 3635000 dollars? --> if the total annual profit is 3635000 dollars
+How would you describe the total annual profit? --> 3635000 dollars
+How would you describe a company's profit for the first half of the year? --> 2750000 dollars
+Indicate characteristics of a company's profit for the first half of the year. --> 2750000 dollars greater than the profit for the second half
+Is a company's profit for the first half of the year 2750000 dollars greater than the profit for the second half? --> a company ' s profit for the first half of the year is 2750000 dollars greater than the profit for the second half
+==> Solution Equation: first+second=3635000.0 and first=2750000.0+second
+~~~
+
+*** The state market has 27 more apples than oranges. There are 301 apples and oranges all together. How many apples are in the market?
+How would you describe there? --> 301
+Are How many apples in the market? --> 27
+How many more apples than oranges does has? --> 27
+Are there 301 apples and oranges all together? --> there are 301
+How many apples and oranges all together are there? --> 301
+==> Solution Equation: apples+oranges=301.0 and apples=27.0+oranges
+~~~
+
+*** A washer-dryer combination costs 1,200 dollars. If the washer costs 220 dollars more than the dryer , what does the washer cost? How much does the dryer cost? 
+Do 220 dollars more? --> 1 , 200 dollars
+What does the washer cost? --> 220 dollars
+What does a washer - dryer combination cost? --> 1 , 200 dollars
+Does a washer - dryer combination cost 1,200 dollars? --> 220 dollars
+Does the washer cost 220 dollars more than the dryer? --> if
+==> Solution Equation: washer_cost+dryer_cost=1200.0 and washer_cost=220.0+dryer_cost
+~~~
+
+*** Riza was 25 when her first son was born. Today the sum of their ages is 105. How old is Riza and her son now?
+When was Riza 25? --> when her first son was born
+How would you describe Riza? --> 25
+When was her first son born? --> 25
+Is Riza and her son How old now? --> 105
+When is Riza and her son How old? --> 105
+Who was 25 when her first son was born? --> riza
+Was Riza 25 when her first son was born? --> 25
+Indicate characteristics of Riza and her son. --> 105
+How would you describe the sum of their ages? --> 105
+Indicate characteristics of the sum of their ages. --> 105
+When is the sum of their ages 105 . How old is Riza and her son now? --> riza was 25
+Is the sum of their ages 105 . How old is Riza and her son now Today? --> 105
+How many . How old is Riza and her son now is the sum of their ages Today? --> 105
+==> Solution Equation: riza+son=105.0 and riza=25.0+son
+~~~
+
+*** Together , Jane and Jill have 32 dolls. Jill has 6 more dolls than Jane does. How many dolls does Jane have? How many does Jill have? 
+What do Jane have? --> 32
+What do Jill have? --> 6
+What does Jill has? --> 6
+Who do have How many? --> jane and jill
+Do Jill have How many? --> 6
+What do Jane and Jill have? --> 32 dolls
+Who do have How many dolls? --> jane and jill
+Do Jane have How many dolls? --> 32
+Do Jane and Jill have 32 dolls? --> 6
+How do Jane and Jill have 32 dolls? --> 6
+How many dolls do Jane and Jill have? --> 32
+Who does has 6 more dolls than Jane does? --> jill
+Does Jill has 6 more dolls than Jane does? --> jill has 6
+How many more dolls than Jane does does Jill has? --> 6
+==> Solution Equation: Janes_dolls+Jills_dolls=32.0 and Jills_dolls=6.0+Janes_dolls
+~~~
+
+*** Jerry Weller received 20,196 more votes than opponent John Pavich. If the total number of votes was 196,554 , find the number of votes for Jerry. Find the number of votes for John. 
+What did Jerry Weller receive? --> 20 , 196 more votes
+Was the total number of votes 196,554? --> if the total number of votes was 196 , 554
+How many was the total number of votes? --> 196 , 554
+How would you describe the total number of votes? --> 196 , 554
+How many do find If the total number of votes was? --> 196 , 554
+Who did receive 20,196 more votes than opponent John Pavich? --> jerry weller
+Did Jerry Weller receive 20,196 more votes than opponent John Pavich? --> jerry weller received 20 , 196 more votes
+How many more votes than opponent John Pavich did Jerry Weller receive? --> 20 , 196
+How many, find the number of votes for Jerry . Find the number of votes for John did receive If the total number of votes was 20,196 more votes than opponent John Pavich? --> 196 , 554
+==> Solution Equation: jerry_weller_votes+john_pavich_votes=196554.0 and jerry_weller_votes=20196.0+john_pavich_votes
+~~~
+
+*** There are 27 students in an Algebra 1 class. There are 5 fewer girls than boys. How many girls are in the class?
+Are How many girls in the class? --> there are 5 fewer girls than boys . how many girls are in the class
+How many fewer girls than boys are? --> 5
+How many students in an Algebra 1 class are? --> 27
+How many class are 27 students in an Algebra? --> 5
+==> Solution Equation: boys+girls=27.0 and boys=5.0+girls
+~~~
+
+*** During the 1998-1999 Little League season , the Tigers played 57 games. They lost 21 more games than they won. They did n't tie any. How many games did they win that season? 
+Do They tie any? --> they did n ' t tie any
+What do They tie? --> they did n ' t tie any
+What did the Tigers play? --> 57 games
+What do they win that season? --> how many games
+Did the Tigers play 57 games? --> 1998 - 1999 little league season , the tigers played 57 games
+When do they win How many games? --> 1998 - 1999
+How many games did the Tigers play? --> 57
+Do they win How many games that season? --> how many games did they win that season
+When did They lose 21 more games than they won? --> 1998 - 1999
+What did They lose during the 1998 - 1999 Little League season? --> 21 more games
+Did They lose 21 more games than they won during the 1998 - 1999 Little League season? --> they lost
+Where did They lose 21 more games than they won during the 1998 - 1999 Little League season? --> during the 1998 - 1999 little league season , the tigers played 57 games
+How many more games than they won did They lose during the 1998 - 1999 Little League season? --> 21
+==> Solution Equation: lost+won=57.0 and lost=21.0+won
+~~~
+
+*** One number exceeds another by 10 and their sum is 34. Find the larger number.
+Is their sum 34? --> their sum is 34
+How many is their sum? --> 34
+What does one number exceeds? --> another by 10
+Does one number exceeds another? --> one number exceeds another by 10
+How would you describe their sum? --> 34
+How many does exceeds by another? --> 10
+How many number does exceeds another? --> 10
+==> Solution Equation: larger+smaller=34.0 and larger=10.0+smaller
+~~~
+
+*** The sum of two numbers is 40 , one number is 8 more than the other. Find the numbers. 
+Is the sum of two numbers 40? --> the sum of two numbers is 40
+How would you describe one number? --> 8 more
+How many numbers is the sum of 40? --> 8
+Is one number 8 more than the other? --> one number is 8 more than the other
+How many more than the other is one number? --> 8
+How would you describe the sum of two numbers? --> 40
+==> Solution Equation: x+y=40.0 and x=8.0+y
+~~~
+
+*** The difference between two numbers is 9. Find the numbers , if their sum is 46. 
+Is their sum 46? --> if their sum is 46
+How many is their sum? --> 46
+How would you describe their sum? --> 46
+How many is 9. Find if their sum is? --> 46
+Is the difference between two numbers 9? --> the difference between two numbers is 9
+How many numbers is the difference between 9? --> 46
+How many is the difference between two numbers? --> 9
+How would you describe the difference between two numbers? --> 9
+==> Solution Equation: number_one+number_two=46.0 and number_one-number_two=9.0
+~~~
+
+*** There are 3 more girls than boys in Tom 's class , and the sum of girls and boys is 41. How many boys are in the class? How many girls are in the class? 
+Are How many boys in the class? --> 41
+Is the sum of girls and boys 41? --> 41
+Are How many girls in the class? --> 41
+How many is the sum of girls and boys? --> 41
+How would you describe the sum of girls and boys? --> 41
+How many more girls than boys in Tom's class are? --> 3
+==> Solution Equation: girls+boys=41.0 and girls=3.0+boys
+~~~
+
+*** During a sale an automobile dealer sold 69 cars and trucks. If she sold 27 more cars than trucks how many trucks did she sell?
+What do she sell? --> 69 cars and trucks
+What did she sell? --> 69 cars and trucks
+Do she sell how many trucks? --> if she sold 27 more cars than trucks how many trucks did she sell
+Did she sell 27 more cars than trucks? --> if she sold 27
+How many more cars than trucks did she sell? --> 27
+What did an automobile dealer sell during a sale? --> 69 cars and trucks
+When did an automobile dealer sell 69 cars and trucks? --> during a sale
+Did an automobile dealer sell 69 cars and trucks during a sale? --> 69
+How many cars and trucks did an automobile dealer sell during a sale? --> 69
+How many more cars than trucks how many trucks did she sell did sell If she sold 69 cars and trucks during a sale? --> 27
+==> Solution Equation: car+truck=69.0 and truck=car-27.0
+~~~
+
+*** The second of two numbers is 4 more than the first. The sum is 56. Find the first and second numbers. 
+Is the sum 56? --> the sum is 56
+How many is the sum? --> 56
+How would you describe the sum? --> 56
+Is the second of two numbers 4 more than the first? --> the second of two numbers is 4 more
+Indicate characteristics of the second of two numbers. --> find
+How many numbers is the second of 4 more than the first? --> two
+How many more than the first is the second of two numbers? --> 4
+==> Solution Equation: 4.0+first=second and second+first=56.0
+~~~
+
+*** The sum of 2 numbers is 64 and their difference is 18. What is the first number? What is the second number?
+Is their difference 18? --> 64
+Is the first number What? --> what
+Is the second number What? --> 18
+Is the sum of 2 numbers 64? --> 18
+How many is their difference? --> 18
+How many is the sum of 2 numbers? --> 64
+How many numbers is the sum of 64? --> 18
+How would you describe their difference? --> 18
+How would you describe the first number? --> what
+How would you describe the second number? --> what
+How would you describe the sum of 2 numbers? --> 64
+==> Solution Equation: first+second=64.0 and first-second=18.0
+~~~
+
+*** High school graduating class is made up of 466 students. There are 212 more girls than boys. How many boys are in the class? 
+Are How many boys in the class? --> 212
+How many more girls than boys are? --> 212
+Is of 466 students made high school graduating class? --> 212 more girls than boys
+How many students is made of high school graduating class? --> 466
+==> Solution Equation: 212.0+boys=girls and girls+boys=466.0
+~~~
+
+*** A peach and a apple cost 70 cents. The peach is more expensive than the apple by 60 cents. What is the cost a peach , in cents? What is the cost of an apple , in cents? 
+When is the cost a peach? --> 70 cents
+Is the cost a peach in cents? --> 70 cents . the peach is more expensive than the apple by 60 cents . what is the cost a peach
+Is the cost of an apple What? --> cents
+How would you describe the cost? --> 70 cents . the peach is more expensive than the apple by 60 cents . what is the cost a peach , in cents
+What do a peach and a apple cost? --> 70 cents
+Do a peach and a apple cost 70 cents? --> a peach and a apple cost 70 cents
+Indicate characteristics of The peach. --> the peach is more expensive than the apple by 60 cents
+How would you describe the cost of an apple? --> cents
+Is The peach more expensive than the apple by 60 cents? --> the peach is more expensive than the apple by 60 cents
+==> Solution Equation: peach+apple=70.0 and peach-apple=60.0
+~~~
+
+*** The sum of two numbers is 52 , and their difference is 6. What are the numbers? 
+Are the numbers What? --> what are the numbers
+Is their difference 6? --> 52 , and their difference is 6
+How many is their difference? --> 6
+Is the sum of two numbers 52? --> 52
+How many numbers is the sum of 52? --> 6
+How would you describe the numbers? --> what
+How would you describe their difference? --> 6
+How would you describe the sum of two numbers? --> 52
+==> Solution Equation: first_number+second_number=52.0 and first_number-second_number=6.0
+~~~
+
+*** The sum of two numbers is 32 and the difference is 14. Find the two numbers.
+How many numbers do Find the? --> 32
+Is the sum of two numbers 32? --> 32
+How many numbers is the sum of 32? --> 14
+How many numbers is the difference? --> 14
+How many is the sum of two numbers? --> 32
+How many numbers is the difference? --> 14
+How would you describe the difference? --> 14
+Is the difference 14 . Find the two numbers? --> the difference is 14
+How would you describe the sum of two numbers? --> 32
+How many . Find the two numbers is the difference? --> 14
+==> Solution Equation: number_one+number_two=32.0 and number_one-number_two=14.0
+~~~
+
+*** The total cost of a shirt and a sweater is 80.34 dollars. If the price of the shirt is 7.43 dollars less than the sweater , what was the price of the shirt , in dollars? 
+Was the price of the shirt, in dollars what? --> if the price of the shirt is 7 . 43 dollars less than the sweater
+How would you describe the price of the shirt? --> 7 . 43 dollars less than the sweater
+Indicate characteristics of the price of the shirt. --> if the price of the shirt is 7 . 43 dollars less than the sweater
+Is the total cost of a shirt and a sweater 80.34 dollars? --> the total cost of a shirt and a sweater is 80 . 34 dollars
+How would you describe the price of the shirt, in dollars? --> if the price of the shirt is 7 . 43 dollars less than the sweater
+Is the price of the shirt 7.43 dollars less than the sweater? --> if the price of the shirt is 7 . 43 dollars less than the sweater
+How would you describe the total cost of a shirt and a sweater? --> 80 . 34 dollars
+==> Solution Equation: shirt+sweater=80.34 and shirt=sweater-7.43
+~~~
+
+*** Yuri has a board that 98 inches long. He wishes to cut the board into 2 pieces so that one piece will be 10 inches longer than the other. What should the length of the shorter piece be , in inches? What will the length of the longer piece be? 
+What does He wish? --> to cut the board into 2 pieces
+What does Yuri has? --> a board that 98 inches long
+What does He wish to cut? --> the board into 2 pieces
+Does He wish to cut the board? --> he wishes to cut the board into 2 pieces so that one piece will be 10 inches longer than the other
+Indicate characteristics of one piece. --> 10 inches longer
+Does Yuri has a board that 98 inches long? --> yuri has a board that 98 inches long
+Does the length of the longer piece be What? --> what
+How many pieces does wish to cut into the board? --> 2
+Does one piece be 10 inches longer than the other? --> one piece will be 10 inches longer than the other
+Where does the length of the shorter piece be What? --> in inches
+How would you describe the length of the longer piece? --> inches
+How would you describe the length of the shorter piece? --> in inches
+How many piece does be 10 inches longer than the other? --> 2
+Does the length of the shorter piece be What in inches? --> what
+How many piece will be 10 inches longer than the other does wish to cut so that the board? --> 2
+How many piece will be 10 inches longer than the other . What should the length of the shorter piece be, in inches ? What will the length of the longer piece be does He wish? --> one
+How many pieces so that one piece will be 10 inches longer than the other . What should the length of the shorter piece be, in inches ? What will the length of the longer piece be does He wish? --> 2
+Does He wish to cut the board into 2 pieces so that one piece will be 10 inches longer than the other . What should the length of the shorter piece be, in inches ? What will the length of the longer piece be? --> what
+==> Solution Equation: longer+shorter=98.0 and longer=10.0+shorter
+~~~
+
+*** The sum of two consecutive even integers is at most 30. What are the greatest possible consecutive even integers?
+How many is the sum of two consecutive even integers? --> 30
+Is the sum of two consecutive even integers at most 30? --> the sum of two consecutive even integers is at most 30
+Are the greatest possible consecutive even integers What? --> what are the greatest possible consecutive even integers
+How many consecutive even integers is the sum of at most 30? --> two
+How would you describe the greatest possible consecutive even integers? --> 30
+==> Solution Equation: number_one+number_two=30.0 and number_two-number_one=2.0
+~~~
+
+*** 1. Find the 2 numbers whose sum is 108 and whose difference is 24.
+Is whose sum 108? --> sum
+How many is whose sum? --> 108
+Is whose difference 24? --> difference is 24
+How many is whose difference? --> 24
+How would you describe whose sum? --> 108
+How would you describe whose difference? --> 24
+How many do Find the 2 numbers whose sum is 108 and whose difference is? --> 24
+How many and whose difference is 24 does Find the 2 numbers whose sum is? --> 108
+==> Solution Equation: bigger+smaller=108.0 and bigger-smaller=24.0
+~~~
+
+*** During 2005 major league baseball season , the Chicago White Sox played 162 games. They won 36 more than they lost. How many games did they win , and how many did they lose? 
+What do they win? --> 36
+What do they lose? --> 36
+Do they lose how many? --> they won 36 more than they lost . how many games did they win , and how many did they lose
+Do they win How many games? --> 36
+When did They win 36 more than they lost? --> 2005
+When did the Chicago White Sox play 162 games? --> 2005
+What did They win during 2005 major league baseball season? --> 36
+What did the Chicago White Sox play during 2005 major league baseball season? --> 162 games
+Did They win 36 more than they lost during 2005 major league baseball season? --> they won 36
+Did the Chicago White Sox play 162 games during 2005 major league baseball season? --> they won 36
+How many more than they lost did They win during 2005 major league baseball season? --> 36
+How many games did the Chicago White Sox play during 2005 major league baseball season? --> 162
+==> Solution Equation: win+lose=162.0 and win=36.0+lose
+~~~
+
+*** The US Senate had a total of 99 Democrats and Republicans. There were 11 more Republicans than Democrats. How many Democrats and Republicans were there in the Senate?
+What did The US Senate have? --> 99 democrats and republicans
+How many more Republicans than Democrats were? --> 11
+Where were How many Democrats and Republicans? --> the us senate had a total of 99
+How many Democrats and Republicans did The US Senate have? --> 99
+Did The US Senate have a total of 99 Democrats and Republicans? --> the us senate had a total of 99
+==> Solution Equation: republicans+democrats=99.0 and republicans-democrats=11.0
+~~~
+
+*** The total cost of a pair of pants and a belt was 70.93 dollars. If the price of the pair of pants was 2.93 dollars less than the belt , what was the price of the pair of pants? 
+Was the price of the pair of pants what? --> if the price of the pair of pants was 2 . 93 dollars less than the belt
+How would you describe the price of the pair of pants? --> 2 . 93 dollars less than the belt
+Indicate characteristics of the price of the pair of pants. --> if the price of the pair of pants was 2 . 93 dollars less than the belt
+Was the total cost of a pair of pants and a belt 70.93 dollars? --> the total cost of a pair of pants and a belt was 70 . 93 dollars
+Was the price of the pair of pants 2.93 dollars less than the belt? --> if the price of the pair of pants was 2 . 93 dollars less than the belt
+How would you describe the total cost of a pair of pants and a belt? --> 70 . 93 dollars
+==> Solution Equation: belt+pants=70.93 and pants=belt-2.93
+~~~
+
+*** Marco has 150 coins , all nickels and dimes. He has 12 more dimes than nickels. How many nickels and how many dimes does he have? 
+What do he have? --> 150 coins
+What does He has? --> 150 coins
+What does Marco has? --> 150 coins
+Do he have how many dimes? --> 12
+Who does has 150 coins, all nickels and dimes? --> marco
+Does Marco has 150 coins, all nickels and dimes? --> marco has 150
+How many coins, all nickels and dimes does Marco has? --> 150
+Does He has 12 more dimes than nickels . How many nickels and how many dimes does? --> he has 12
+How many more dimes than nickels . How many nickels and how many dimes does does He has? --> 12
+==> Solution Equation: 12.0+nickels=dimes and dimes+nickels=150.0
+~~~
+
+*** A farmer grows only sunflowers and flax on his 240 acre farm. This year he wants to plant 80 more acres of sunflowers than flax. How many acres of sunflowers does the farmer need to plant? How many acres of flax?
+What do he need to plant? --> 80
+What does he want This year? --> 80 more acres of sunflowers than flax
+What do the farmer need to plant? --> sunflowers and flax
+What does a farmer grow on his 240 acre farm? --> sunflowers and flax
+Do the farmer need How many acres of sunflowers? --> how
+Where does a farmer grow only sunflowers and flax? --> 240 acre farm
+Do the farmer need to plant How many acres of sunflowers? --> 80
+Do he need to plant 80 more acres of sunflowers than flax? --> this year he wants to plant 80
+Does a farmer grow only sunflowers and flax on his 240 acre farm? --> 240
+When does he want to plant 80 more acres of sunflowers than flax . How many acres of sunflowers does the farmer need to plant ? How many acres of flax? --> this year
+Does he want to plant 80 more acres of sunflowers than flax . How many acres of sunflowers does the farmer need to plant ? How many acres of flax This year? --> how
+==> Solution Equation: sunflowers+flax=240.0 and sunflowers=80.0+flax
+~~~
+
+*** Ilida went to Minewaska Sate Park one day this summer. All of the people at the park were either hiking or bike riding. There were 178 more hikers than bike riders. If there were a total of 676 people at the park , how many were hiking? How many were riding their bikes? 
+What were How many riding? --> bikes
+Where did Ilida go this summer? --> minewaska sate park
+Were How many riding their bikes? --> how many were riding their bikes
+When did Ilida go to Minewaska Sate Park? --> one day this summer
+How many more hikers than bike riders were? --> 178
+How many people at the park were a total of? --> 676
+Did Ilida go to Minewaska Sate Park this summer? --> ilida went to minewaska sate park one day
+What riding How many . There were 178 more hikers than? --> bike riders
+Were All of the people at the park hiking or bike riding? --> hiking or bike riding
+Indicate characteristics of All of the people at the park. --> all of the people at the park were either hiking or bike riding
+What were All of the people at the park 178 more hikers than? --> bike riders
+What were 178 more hikers than bike riders 178 more hikers than? --> hiking
+==> Solution Equation: hikers+bikers=676.0 and hikers=178.0+bikers
+~~~
+
+*** The number of grocery items on two grocery lists differs by 7. The total number of items is 33. How many items are on each list?
+Is the total number of items 33? --> the total number of items is 33
+Are How many items on each list? --> how many items are on each list
+How many is the total number of items? --> 33
+How would you describe the total number of items? --> 33
+Does the number of grocery items on two grocery lists differ by 7? --> differs by 7
+How many does the number of grocery items on two grocery lists differ? --> 7
+How many grocery lists does differ the number of grocery items on by 7? --> two
+==> Solution Equation: first_list+second_list=33.0 and first_list-second_list=7.0
+~~~
+
+*** A baseball team has home games on Wednesday and Saturday. The two games together earn 5,182.50 dollars for the team. Wednesdays game generates 142.50 dollars less than Saturdays game. How much money was taken in at Wednesday 's game? How much money was taken in at Saturday 's game? 
+When was How much money taken? --> saturdays game . how much money was taken in at wednesday ' s game
+Where was How much money taken? --> wednesday ' s game
+What do The two games together earn? --> 5 , 182 . 50 dollars
+When was How much money taken at's game? --> saturday
+When does a baseball team has home games? --> wednesday and saturday
+Do The two games together earn 5,182.50 dollars? --> the two games together earn 5 , 182 . 50 dollars for the team . wednesdays game generates 142 . 50 dollars less than saturdays game
+How many games together do earn The 5,182.50 dollars? --> two
+What does a baseball team has on Wednesday and Saturday? --> home games
+Does a baseball team has home games on Wednesday and Saturday? --> a baseball team has home games on wednesday and saturday
+Does Wednesdays game generate 142.50 dollars less than Saturdays game? --> wednesdays game generates 142 . 50 dollars less than saturdays game
+==> Solution Equation: wed_game+sat_game=5182.5 and wed_game=sat_game-142.5
+~~~
+
+*** A high school graduating class is made up of 485 students. There are 69 more girls than boys. How many boys are in the class?
+are How many boys in the class? --> 69 more girls than boys . how many boys are in the class
+How many more girls than boys are? --> 69
+Is of 485 students made a high school graduating class? --> a high school graduating class is made up of 485 students . there are 69 more girls than boys
+How many students is made of a high school graduating class? --> 485
+==> Solution Equation: boys+girls=485.0 and boys=girls-69.0
+~~~
+
+*** The world 's oldest bride was 19 yr older than her groom. Together , their ages totaled 185 years. How old was the bride? How old was the groom? 
+Was the bride How old? --> 19 yr older than her groom . together , their ages totaled 185 years . how old
+Was the groom How old? --> 19 yr older than her groom . together , their ages totaled 185 years . how old was the bride ? how old
+What did their ages totaled? --> 185 years
+Did their ages totaled 185 years? --> together , their ages totaled 185 years
+How did their ages totaled 185 years? --> 19 yr older than her groom
+Indicate characteristics of the bride. --> 19 yr older
+Indicate characteristics of the groom. --> 19 yr older
+Indicate characteristics of the bride. --> 19 yr older
+Indicate characteristics of the groom. --> 19 yr older
+Indicate characteristics of the world's oldest bride. --> 19 yr older
+Was the world's oldest bride 19 yr older than her groom? --> 19 yr older
+==> Solution Equation: bride+groom=185.0 and bride=19.0+groom
+~~~
+
+*** A bottle of wine with a cork cost 2.10 dollars. A bottle of wine without a cork costs 2.00 dollars more than the cork. What is the price of the cork?
+Is the price of the cork What? --> what
+What do a bottle of wine with a cork cost? --> 2 . 10 dollars
+How would you describe the price of the cork? --> what
+Do a bottle of wine with a cork cost 2.10 dollars? --> a bottle of wine with a cork cost 2 . 10 dollars
+Does a bottle of wine without a cork cost 2.00 dollars more than the cork? --> a bottle of wine without a cork
+==> Solution Equation: wine+cork=2.1 and wine=2.0+cork
+~~~
+
+*** On a canoe trip , Rita paddled upstream at an average speed of 2 miles per hour relative to the riverbank. On the return trip downstream, her average speed was 3 miles per hour. Find Rita 's paddling speed in still water and the speed of the river 's current. 
+When did Rita paddled on a canoe trip? --> upstream
+How would you describe her average speed? --> 2 miles per hour
+When was her average speed 3 miles per hour? --> on the return trip downstream
+Where did Rita paddled on the return trip downstream? --> still
+How did Rita paddled on a canoe trip on the return trip downstream? --> 3 miles per hour
+Was her average speed 3 miles per hour on the return trip downstream? --> on the return trip downstream , her average speed was 3 miles per hour
+==> Solution Equation: speed_rita+speed_current=3.0 and speed_rita-speed_current=2.0
+~~~
+
+*** Find two numbers whose sum is 55 and whose difference is 15.
+Is whose sum 55? --> sum
+Is whose difference 15? --> 15
+How many is whose difference? --> 15
+How would you describe whose sum? --> 55
+How would you describe whose difference? --> 15
+How many numbers whose sum is 55 and whose difference is 15 do find? --> two
+How many do find two numbers whose sum is 55 and whose difference is? --> 15
+==> Solution Equation: larger+smaller=55.0 and larger-smaller=15.0
+~~~
+
+*** The total number of Democrats and Republicans in the House of Representatives was 434. There were 30 more Republicans then Democrats. How many Democrats and Republicans were there in the Senate?
+How many more Republicans then Democrats were? --> 30
+Where were How many Democrats and Republicans? --> 434
+Was the total number of Democrats and Republicans in the House of Representatives 434? --> 434
+How many was the total number of Democrats and Republicans in the House of Representatives? --> 434
+How would you describe the total number of Democrats and Republicans in the House of Representatives? --> 434
+==> Solution Equation: democrats+republicans=434.0 and democrats=republicans-30.0
+~~~
+
+*** A plane flying with a tail wind flew at a speed of 460 miles per hour , relative to the ground. When flying against the tailwind , it flew at a speed of 310 miles per hour. Find the speed of the tailwind. 
+When did it fly? --> when flying against the tailwind , it flew at a speed of 310 miles per hour
+When did a plane flying with a tail wind fly? --> 460 miles per hour
+How did it fly When flying against the tailwind? --> 310 miles per hour
+How did a plane flying with a tail wind fly When flying against the tailwind, it flew at a speed of 310? --> find the speed of the tailwind
+==> Solution Equation: plane+tail_wind=460.0 and plane-tail_wind=310.0
+~~~
+

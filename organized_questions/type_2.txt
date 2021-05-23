@@ -1,0 +1,265 @@
+*** Find a number so that 10 less than 0.6667 the number is 0.25 the number.
+Is the number 0.25 the number? --> 10 less than 0 . 6667
+How would you describe the number? --> 0 . 25
+How many the number is the number? --> 25
+How many the number does find so that 10 less than 0.6667 the number is? --> 0 . 25
+How many less than 0.6667 the number is 0.25 the number does find so that? --> 10
+==> Solution Equation: 0.6667*number-10.0=0.25*number
+~~~
+
+*** Suppose you invest 1,500 dollars in equipment to put pictures on T-shirts. You buy each T-shirt for 3 dollars. After you have placed the pictures on a shirt , you sell it for 20 dollars. How many T-shirts must you sell to break even? 
+What do you sell? --> 20 dollars
+What do you invest? --> 1 , 500 dollars
+When do you sell it? --> after you have placed the pictures on a shirt , you sell it for 20 dollars
+What have you placed? --> pictures
+Do you invest 1,500 dollars? --> suppose you invest 1 , 500 dollars in equipment to put pictures on t - shirts
+Have you placed the pictures? --> after you have placed the pictures on a shirt
+Do pictures put on T - shirts? --> suppose you invest 1 , 500 dollars in equipment to put pictures on t - shirts
+When do You buy each T - shirt? --> 3 dollars
+Do you sell How many T - shirts? --> 20 dollars
+Do you sell it After you have placed the pictures on a shirt? --> 20 dollars
+What do You buy After you have placed the pictures on a shirt? --> 20 dollars
+What do you sell After you have placed the pictures on a shirt? --> 20 dollars
+Do You buy each T - shirt After you have placed the pictures on a shirt? --> you sell it for 20 dollars
+==> Solution Equation: 1500.0+3.0*shirts=20.0*shirts
+~~~
+
+*** 0.5 of a certain number is 10 more than 0.1667 of a number. Find the number.
+How would you describe 0.5 of a certain number? --> 10 more than 0 . 1667 of a number
+Is 0.5 of a certain number 10 more than 0.1667 of a number? --> 0 . 5 of a certain number is 10
+How many of a certain number is 10 more than 0.1667 of a number? --> 0 . 5
+How many more than 0.1667 of a number is 0.5 of a certain number? --> 10
+How many 10 more than 0.1667 of a number is 0.5 of a certain number? --> 10
+==> Solution Equation: 0.5*number=0.1667*number+10.0
+~~~
+
+*** 0.5 of a number is 2 more than 0.25 of the number. Find the number.
+How would you describe 0.5 of a number? --> 2 more than 0 . 25 of the number
+How many of the number is 0.5 of a number? --> 2
+Is 0.5 of a number 2 more than 0.25 of the number? --> 2 more
+How many of a number is 2 more than 0.25 of the number? --> 0 . 5
+How many 2 more than 0.25 of the number is 0.5 of a number? --> 2
+==> Solution Equation: 0.5*number=2.0+0.25*number
+~~~
+
+*** A small publishing company is planning to publish a new book. The production costs will include one-time fixed costs and variable costs. The one-time fixed costs will amount to 35,630 dollars. The variable costs will be 11.50 dollars per book. The publisher will sell the finished product to bookstores at a price of 20.25 dollars per book. How many books must the publisher print and sell so that the production costs will equal the money obtained from sales? 
+What does The publisher sell? --> 20 . 25 dollars per book
+Did the money obtain from sales? --> production costs will equal the money obtained from sales
+How many did obtain the from sales? --> money
+What will the production costs equal? --> money obtained from sales
+Does the publisher sell How many books? --> how
+How would you describe The variable costs? --> 11 . 50 dollars per book
+What does a small publishing company publish? --> a new book
+Does The publisher sell the finished product? --> the publisher will sell the finished product to bookstores at a price of 20 . 25 dollars per book
+What does sell to bookstores the finished product? --> 20 . 25 dollars per book
+Will The variable costs be 11.50 dollars per book? --> the variable costs will be 11 . 50 dollars per book
+Does a small publishing company publish a new book? --> a small publishing company is planning to publish a new book
+How many obtained from sales will the production costs? --> money
+Will The one - time fixed costs amount to 35,630 dollars? --> the one - time fixed costs will amount to 35 , 630 dollars
+What will one - time fixed costs and variable costs include? --> 11 . 50 dollars per book
+How many obtained from sales will the production costs equal? --> money
+How many - time fixed costs will amount The to 35,630 dollars? --> one - time
+Will the production costs equal the money obtained from sales? --> how many books
+Will one - time fixed costs and variable costs include The production costs? --> the production costs will include one - time fixed costs and variable costs .
+How many - time fixed costs and variable costs will include The production costs? --> 35 , 630 dollars
+How many obtained from sales do sell so that the production costs will equal How many books? --> how many books
+==> Solution Equation: 20.25*books-11.5*books=35630.0
+~~~
+
+*** Three times a number is the same as the difference of twice the number and seven. Find the number.
+How would you describe a number? --> three times a number is the same as the difference of twice the number and seven
+How many is a number three times? --> seven
+When is a number the same as the difference of twice the number and seven? --> three times
+Is a number the same as the difference of twice the number and seven three times? --> three times
+How many times is the same as the difference of twice the number and seven three times? --> three
+==> Solution Equation: 3.0*number=2.0*number-7.0
+~~~
+
+*** Find the number whose double is 45 greater than its half?
+How many is the number? --> 45
+Indicate characteristics of the number. --> double is 45 greater than its half
+Is the number 45 greater than its half? --> double
+How many greater than its half is the number? --> 45
+How many do find the number whose double is 45 greater than its? --> 45
+How many greater than its half does find the number whose double is? --> 45
+==> Solution Equation: 2.0*number=45.0+0.5*number
+~~~
+
+*** Goran will rent a car for the weekend. He can choose 1 of 2 plans. The first plan has an initial fee of 65 dollars and costs an additional 0.40 dollars per mile driven. The second plan has no initial fee but costs 0.60 dollars per mile driven. How many miles would Goran need to drive for the 2 plans to cost the same?
+Who do need? --> goran
+What can He choose? --> 1 of 2 plans
+What do the 2 plans cost? --> 0 . 60 dollars per mile driven
+When will Goran rent a car? --> weekend
+Can He choose 1 of 2 plans? --> he can choose 1 of 2 plans
+What do Goran need to drive? --> how many miles
+What does The first plan has? --> an initial fee of 65 dollars
+How many plans can He choose? --> 2
+Do the 2 plans cost the same? --> how many miles
+What does The second plan has? --> no initial fee but costs 0 . 60 dollars per mile driven
+What does The first plan cost? --> 0 . 40 dollars per mile driven
+What does The second plan has? --> no initial fee but costs 0 . 60 dollars per mile driven
+What does The first plan cost? --> 0 . 40 dollars per mile driven
+What does The second plan cost? --> 0 . 60 dollars per mile driven
+How many of 2 plans can He choose? --> 1
+How many plans do cost the the same? --> 2
+Who will rent a car for the weekend? --> goran
+Who do need to drive How many miles? --> goran
+What will Goran rent for the weekend? --> a car
+Will Goran rent a car for the weekend? --> goran will rent a car for the weekend
+Do Goran need to drive How many miles? --> how many miles
+Does The second plan has no initial fee? --> the second plan has no initial fee
+How many plans to cost the same do need to drive for? --> how many miles
+Does The first plan has an initial fee of 65 dollars? --> the first plan has an initial fee of 65 dollars
+Does The second plan cost 0.60 dollars per mile driven? --> the second plan has no initial fee but costs 0 . 60 dollars per mile driven
+How many plans to cost the same do need to drive for How many miles? --> how
+Does The first plan cost an additional 0.40 dollars per mile driven? --> the first plan has an initial fee of 65 dollars and costs an additional 0 . 40 dollars per mile driven
+==> Solution Equation: 65.0+0.4*miles=0.6*miles
+~~~
+
+*** Twice a number equals 25 less than triple the same number. What is the number?
+Is the number What? --> 25
+What does a number equals twice? --> 25
+How would you describe the number? --> 25
+When does a number equals 25 less than triple the same number? --> twice
+Does a number equals 25 less than triple the same number twice? --> twice
+How many less than triple the same number does a number equals twice? --> 25
+==> Solution Equation: 2.0*number=3.0*number-25.0
+~~~
+
+*** Sara and Jim both decided to save some money each week. Sara has already saved 4100 dollars , and she plans to save 10 dollars a week. Jim plans to save 15 dollars a week. In how many weeks will Jim and Sara have saved the same amount? 
+What does she plan? --> save 10 dollars a week
+What does Jim plan? --> 15 dollars a week
+What have she save? --> 4100 dollars
+What have Jim save? --> 15 dollars a week
+What does she plan? --> save 10 dollars a week
+What does Jim plan? --> 15 dollars a week
+What have she save? --> 4100 dollars
+What have Jim save? --> 15 dollars a week
+What have Sara saved already? --> 4100 dollars
+Who have save 15 dollars a week? --> sara and jim
+Have she save 10 dollars a week? --> sara has already saved 4100 dollars , and she plans to save 10 dollars a week
+Have Jim save 15 dollars a week? --> jim plans to save 15 dollars a week
+What did Sara and Jim both decide? --> to save some money each week
+When have Sara saved 4100 dollars? --> each week
+Who have saved 4100 dollars already? --> sara
+Have Sara saved 4100 dollars already? --> sara has already saved 4100 dollars
+Who does plan to save 15 dollars a week? --> jim
+Does she plan to save 10 dollars a week? --> sara has already saved 4100 dollars , and she plans to save 10 dollars a week
+Does Jim plan to save 15 dollars a week? --> jim plans to save 15 dollars a week
+What have Sara and Jim both save each week? --> some money
+What have Jim and Sara saved how many weeks? --> 15
+When have Sara and Jim both save some money? --> each week
+When have Jim and Sara saved the same amount? --> in how many weeks
+Have Sara and Jim both save some money each week? --> sara
+Have Jim and Sara saved the same amount how many weeks? --> in how many weeks
+Did Sara and Jim both decide to save some money each week? --> sara and jim both decided to save some money each week
+==> Solution Equation: 4100.0+10.0*weeks=15.0*weeks
+~~~
+
+*** The product of 10 and a number is the same as 36 less twice that same number. Find the number.
+How would you describe the product of 10 and a number? --> the same as 36 less twice that same number
+How many less twice that same number is the product of 10 and a number? --> 36
+Is the product of 10 and a number the same as 36 less twice that same number? --> the product of 10 and a number is the same as 36 less twice that same number
+How many and a number is the product of the same as 36 less twice that same number? --> 10
+==> Solution Equation: 10.0*number=2.0*number-36.0
+~~~
+
+*** The difference between 3 times a number and 1 is the same as twice a number. Find the number.
+How would you describe the difference between 3 times a number and 1? --> the same as twice a number
+Is the difference between 3 times a number and 1 the same as twice a number? --> the difference between 3 times a number and 1 is the same as twice a number
+How many times a number and 1 is the difference between the same as twice a number? --> 3
+How many is the difference between 3 times a number and the same as twice a number? --> 1
+==> Solution Equation: 3.0*number-1.0=2.0*number
+~~~
+
+*** Northwest Molded molds plastic handles which cost 0.60 dollars per handle to mold. The fixed cost to run the molding machine is 7640 dollars per week. If the company sells the handles for 4.60 dollars each , how many handles must be molded and sold weekly to break even? 
+What does the company sell? --> 4 . 60 dollars each
+What did plastic handles cost? --> 0 . 60 dollars per handle to mold
+When did how many handles sell? --> weekly
+Does the company sell the handles? --> if the company sells the handles for 4 . 60 dollars each
+When must how many handles be molded? --> weekly
+Did plastic handles cost 0.60 dollars per handle? --> northwest molded molds
+How would you describe The fixed cost to run the molding machine? --> 7640 dollars per week
+Is The fixed cost to run the molding machine 7640 dollars per week? --> the fixed cost to run the molding machine is 7640 dollars per week
+==> Solution Equation: 4.6*handles-0.6*handles=7640.0
+~~~
+
+*** A small publishing company has a 1 time product cost for editing and printing of 56,430.00 dollars. Variable cost per book is 8.25 dollars. The publisher is selling the book to the store for 21.75 dollars. How many books must the publisher print and sell so that the production cost will equal the money obtained from sells? 
+Did the money obtain from sells? --> production cost will equal the money obtained from sells
+What will the production cost equal? --> the money obtained from sells
+Is Variable cost per book 8.25 dollars? --> variable cost per book is 8 . 25 dollars
+Does the publisher sell How many books? --> 21 . 75 dollars
+What does a small publishing company has? --> a 1 time product cost for editing and printing of 56 , 430 . 00 dollars
+How would you describe Variable cost per book? --> 8 . 25 dollars
+Will the production cost equal the money obtained from sells? --> how many books
+Does a small publishing company has a 1 time product cost for editing and printing of 56,430.00 dollars? --> a small publishing company has a 1 time product cost for editing and printing of 56 , 430 . 00 dollars
+How many time product cost for editing and printing of 56,430.00 dollars does a small publishing company has? --> 1
+==> Solution Equation: 21.75*books-8.25*books=56430.0
+~~~
+
+*** If 6 is subtracted from three times a number , the difference is twice the number. What is the number? 
+Is the number What? --> twice
+How would you describe the number? --> twice the number
+Is the difference twice the number? --> twice
+How would you describe the difference? --> twice
+How many times a number is 6 subtracted? --> twice
+Is 6 subtracted from three times a number? --> twice the number
+How many is subtracted from three times a number? --> 6
+How many times a number is if 6 is subtracted from twice the number? --> twice
+How many is subtracted from three times a number is if twice the number? --> 6
+==> Solution Equation: 3.0*number-6.0=2.0*number
+~~~
+
+*** The difference between 0.75 of a line and 0.4 of the same line is 28 centimeters. Find the length of the line.
+Is the difference between 0.75 of a line and 0.4 of the same line 28 centimeters? --> 28 centimeters
+How many of a line and 0.4 of the same line is the difference between 28 centimeters? --> 0 . 75
+How would you describe the difference between 0.75 of a line and 0.4 of the same line? --> 28 centimeters
+How many of the same line is the difference between 0.75 of a line and 28 centimeters? --> 0 . 4
+==> Solution Equation: 0.75*length_of_line-0.4*length_of_line=28.0
+~~~
+
+*** Seven times a number is the same as 12 more than 3 times the number. Find the number.
+How would you describe a number? --> seven times a number is the same as 12 more than 3 times the number
+When is a number the same as 12 more than 3 times the number? --> seven times
+How many more than 3 times the number is a number seven times? --> 12
+Is a number the same as 12 more than 3 times the number seven times? --> seven times
+How many times is the same as 12 more than 3 times the number seven times? --> seven
+How many the same as 12 more than 3 times the number is a number seven times? --> seven
+==> Solution Equation: 7.0*number=12.0+3.0*number
+~~~
+
+*** Find a number such that 1 more than 0.6667 the number is 0.75 the number.
+Is the number 0.75 the number? --> 1 more than 0 . 6667
+How would you describe the number? --> 0 . 75
+How many the number is the number? --> 0 . 75
+How many the number does find a number such that 1 more than 0.6667 the number is? --> 0 . 75
+How many more than 0.6667 the number is 0.75 the number does find a number such that? --> 1
+How many a number such that 1 more than 0.6667 the number is 0.75 the number does find a number such that 1 more than 0.6667 the number is 0.75? --> find
+==> Solution Equation: 1.0+0.6667*number=0.75*number
+~~~
+
+*** Your cell phone company offers two text-messaging plans. Plan A costs 0.25 dollars per text message , plus a monthly fee of 9 dollars. The other plan costs 0.40 dollars per text message with no monthly fee. For how many text messages will both plans cost the same amount? 
+What does Plan A cost? --> 0 . 25 dollars per text message
+What did both plans cost? --> 0 . 40 dollars
+What does The other plan cost? --> 0 . 40 dollars per text message with no monthly fee
+Did both plans cost the same amount? --> for how many text messages
+What does your cell phone company offer? --> two text - messaging plans
+Does The other plan cost 0.40 dollars per text message? --> the other plan costs 0 . 40 dollars per text message with no monthly fee
+When does The other plan cost 0.40 dollars per text message? --> text - messaging plans . plan a costs 0 . 25 dollars per text message , plus a monthly fee of 9 dollars . the other plan costs 0 . 40 dollars per text message with no monthly fee . for how many text messages
+Does Plan A cost 0.25 dollars per text message, plus a monthly fee of 9 dollars? --> plan a costs 0 . 25 dollars per text message
+What offers your cell phone company two text - messaging plans . Plan A costs 0.25 dollars per text message, plus a monthly fee of 9 dollars . The other plan costs 0.40 dollars per text message with no monthly fee . For? --> your cell phone company
+What your the same amount cell phone company offers two text - messaging plans . Plan A costs 0.25 dollars per text message, plus a monthly fee of 9 dollars . The other plan costs 0.40 dollars per text message with no monthly fee . For? --> for how many text messages
+Does your cell phone company offer two text - messaging plans . Plan A costs 0.25 dollars per text message, plus a monthly fee of 9 dollars . The other plan costs 0.40 dollars per text message with no monthly fee . For how many text messages will both plans cost the? --> for how many text messages will both plans cost the same amount
+How many text - messaging plans . Plan A costs 0.25 dollars per text message, plus a monthly fee of 9 dollars . The other plan costs 0.40 dollars per text message with no monthly fee . For how many text messages will both plans cost the does your cell phone company offer? --> two
+==> Solution Equation: 9.0+0.25*texts=0.4*texts
+~~~
+
+*** Steve invests in a circus production. The coast includes an overhead of 81000 dollars , plus production costs of 7000 dollars per performance. A sold-out performance brings in 16000 dollars , Determine the number of sold-out performances , x , needed to break even. 
+Who does invest in a circus production? --> steve
+What does A sold - out performance bring? --> 16000 dollars
+Does Steve invest in a circus production? --> steve invests in a circus production
+Does A sold - out performance bring 16000 dollars? --> a sold - out performance brings in 16000 dollars
+Does an overhead of 81000 dollars, plus production costs of 7000 dollars per performance include The coast? --> the coast
+==> Solution Equation: 81000.0+7000.0*x=16000.0*x
+~~~
+

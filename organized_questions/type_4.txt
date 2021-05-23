@@ -1,0 +1,72 @@
+*** The difference between 2 times a number and -8 is -12. Find the number.
+Is the difference between 2 times a number and -8 -12? --> - 12
+How many is the difference between 2 times a number and -8? --> - 12
+How many times a number and -8 is the difference between -12? --> 2
+==> Solution Equation: 2.0*number--8.0=-12.0
+~~~
+
+*** 0.20 of a number decreased by 4 is equal to 6. Find the number.
+Did 0.20 of a number decrease by 4? --> 0 . 20 of a number decreased by 4
+How many of a number did decrease by 4? --> 0 . 20
+How many did 0.20 of a number decrease? --> 4
+How many is 0.20 of a number decreased by 4? --> 6
+Is 0.20 of a number decreased by 4 equal to 6? --> equal to 6
+How many of a number decreased by 4 is equal to 6? --> 0 . 20
+How many is 0.20 of a number decreased by equal to 6? --> 4
+Indicate characteristics of 0.20 of a number decreased by 4. --> find the number
+==> Solution Equation: 0.2*number-4.0=6.0
+~~~
+
+*** 17 is 4 less than 8 times a number. Find the number.
+How many 4 less than 8 times a number is 4 less than 8 times a? --> 17
+==> Solution Equation: 8.0*number-4.0=17.0
+~~~
+
+*** The difference of 3 times a number and 5 is 40. Find the number.
+Is the difference of 3 times a number and 5 40? --> 40
+How many times a number and 5 is the difference of 40? --> 3
+How many is the difference of 3 times a number and 40? --> 40
+How would you describe the difference of 3 times a number and 5? --> 40
+==> Solution Equation: 3.0*number-5.0=40.0
+~~~
+
+*** A water flow restrictor has reduced the flow of water to 2 gallons per minute. This amount is 1 gallon per minute less than 0.6 the original flow rate. Find the original rate in gallons per minute.
+When does the original rate Find? --> gallons per minute
+How would you describe This amount? --> 1 gallon per minute less than 0 . 6 the original flow rate
+What has a water flow restrictor reduced? --> flow of water to 2 gallons per minute
+Has a water flow restrictor reduced the flow of water? --> a water flow restrictor has reduced the flow of water to 2 gallons per minute
+Is This amount 1 gallon per minute less than 0.6 the original flow rate? --> 1 gallon per minute less than 0 . 6 the original flow rate
+How many 1 gallon per minute less than 0.6 the original flow rate is This amount? --> 2
+==> Solution Equation: 0.6*original-1.0=2.0
+~~~
+
+*** You make candles and sell them for 15 dollars each. The material to make up to 20 candles costs 20 dollars. How many candles must you sell to have a profit of 85 dollars?
+What do you sell? --> candles
+Do you sell them? --> 15 dollars each
+What do you make up to? --> 20 candles
+Do you make up to candles? --> 20
+Do you sell How many candles? --> 15 dollars each
+What does The material to make up to 20 candles cost? --> 20 dollars
+Does The material to make up to 20 candles cost 20 dollars? --> the material to make up to 20 candles costs 20 dollars
+How many The material to make up to 20 candles does cost The material to make up to 20 20 dollars? --> 20 dollars
+==> Solution Equation: 85.0=15.0*number_of_candles-20.0
+~~~
+
+*** 7 less than 4 times a number equals 13. What is the number?
+Is the number What? --> 13
+Does a number equals 13? --> * * * 7 less than 4 times
+What does a number equals? --> 13
+How many does a number equals? --> 13
+How would you describe the number? --> 13
+==> Solution Equation: 4.0*number-7.0=13.0
+~~~
+
+*** The length of a rectangular field is 24 meters. This is 3 meters less than twice the width. Find the width.
+How would you describe This? --> 3 meters less than twice the width
+Indicate characteristics of This. --> 3 meters less than twice the width
+Is This 3 meters less than twice the width? --> 3 meters less than twice the width
+Is the length of a rectangular field 24 meters? --> the length of a rectangular field is 24 meters . this is 3 meters less than twice the width
+How would you describe the length of a rectangular field? --> 24 meters
+==> Solution Equation: 2.0*width-3.0=24.0
+~~~
+

@@ -1,0 +1,63 @@
+*** The Kings won two less than three times as many games as they lost. They played 82 games. How many wins and losses did the team have? 
+What did they play? --> 82
+What do the team have? --> wins and losses
+What did the Kings win? --> two less than three times as many games
+Did they play 82 games? --> they played 82
+How many games did they play? --> 82
+Do the team have How many wins and losses? --> how many wins and losses
+Did the Kings win two less than three times as many games as they lost? --> the kings won two less than three times as many games as they lost
+How many less than three times as many games as they lost did the Kings win? --> two
+How many two less than three times as many games as they lost did the Kings win? --> won two
+==> Solution Equation: won+lost=82.0 and won=3.0*lost-2.0
+~~~
+
+*** The second number is 3 less than twice the first number. Their sum is 57. Find the second number.
+Is their sum 57? --> their sum is 57
+How would you describe their sum? --> 57
+Indicate characteristics of the second number. --> find
+Is the second number 3 less than twice the first number? --> the second number is 3 less than twice the first number
+How many less than twice the first number is the second number? --> 3
+==> Solution Equation: second_number=2.0*first_number-3.0 and first_number+second_number=57.0
+~~~
+
+*** 1 number is 9 less than twice another , and their sum is 42. Find the two numbers. 
+Is their sum 42? --> * * * 1 number is 9 less than twice another , and their sum is 42
+How would you describe 1 number? --> 9 less than twice another
+How would you describe their sum? --> 42
+How many numbers is 42. Find the? --> two
+Is 1 number 9 less than twice another? --> 1 number is 9 less than twice another
+How many number is 9 less than twice another? --> * * * 1
+How many less than twice another is 1 number? --> 9
+==> Solution Equation: first_number+second_number=42.0 and first_number=2.0*second_number-9.0
+~~~
+
+*** One number is 3 less than twice another. If their sum is 39 , find the numbers. 
+Is their sum 39? --> if their sum is 39
+How many is their sum? --> 39
+When do the numbers find? --> if their sum is 39
+How would you describe their sum? --> 39
+How many do find If their sum is? --> 39
+How would you describe one number? --> 3 less than twice another
+Indicate characteristics of one number. --> if
+Is one number 3 less than twice another? --> one number is 3 less than twice another
+When is one number 3 less than twice another? --> if their sum is 39
+How many number is 3 less than twice another? --> one
+How many less than twice another is one number? --> 3
+How many is If their sum is 3 less than twice another? --> 39
+==> Solution Equation: larger+smaller=39.0 and larger=2.0*smaller-3.0
+~~~
+
+*** Class A and class B donated their class fund totaling 127 dollars to an orphanage. If the amount donated by class A is 7 dollars short of 0.6667 of the amount donated by class B. How much did Class A Donate? How much to class B donate?
+Did by class A donate the amount? --> 7 dollars short of 0 . 6667
+Did by class B. donate the amount? --> 0 . 6667
+What did class A and class B donate? --> 127 dollars
+Indicate characteristics of the amount donated by class A. --> 7 dollars short of 0 . 6667
+Did class A and class B donate their class fund totaling 127 dollars? --> 7 dollars short of 0 . 6667
+Where did class A and class B donate their class fund totaling 127 dollars? --> an orphanage
+How many of the amount donated by class B. is the amount donated by class A? --> 0 . 6667
+Is the amount donated by class A 7 dollars short of 0.6667 of the amount donated by class B? --> if the amount donated by class a is 7 dollars short of 0 . 6667
+Where is the amount donated by class A class B the amount donated by 7 dollars short of 0.6667 of the amount donated by class class B? --> 127 dollars to an orphanage
+How many of the amount donated by class B. How much did class A Donate ? How much to class B donate did donate If the amount donated by class A is 7 dollars short of their class fund totaling 127 dollars? --> 0 . 6667
+==> Solution Equation: class_a+class_b=127.0 and class_a=0.6667*class_b-7.0
+~~~
+

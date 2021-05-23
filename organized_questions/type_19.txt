@@ -1,0 +1,88 @@
+*** Mary began walking home from school , heading south at a rate of 4 miles per hour. Sharon left school at the same time heading north at 6 miles per hour. How long will it take for them to be 3 miles apart? 
+What did mary begin? --> walking home from school
+Do them be 3 miles apart? --> how long will it take for them to be 3 miles apart
+When did Sharon leave school? --> 6 miles per hour
+Who did leave school at 6 miles per hour? --> sharon
+What did Sharon leave at 6 miles per hour? --> school
+Did Sharon leave school at 6 miles per hour? --> sharon
+Do for them to be 3 miles apart take How long? --> how long
+Did mary begin walking home from school, heading south at a rate of 4 miles per hour . Sharon left school at the same time heading north at 6 miles per hour . How long will it take for them to be 3 miles apart? --> how
+==> Solution Equation: 4.0*hours+6.0*hours=3.0
+~~~
+
+*** A plane travels due East at 325 miles per hour and another plane travels due west at 275 miles per hour. If they leave at the same time , and from the same place , in how many hours will they be 2100 miles apart? 
+When do they leave? --> at the same time
+Does a plane travel due East? --> 325 miles per hour
+Where does a plane travel due? --> east
+How does a plane travel due East? --> 325 miles per hour
+When do they be 2100 miles apart? --> if they leave at the same time , and from the same place , in how many hours
+Does another plane travel due west? --> 275 miles per hour
+How does another plane travel due west? --> 275 miles per hour
+Do they be 2100 miles apart in how many hours? --> if they leave at the same time , and from the same place , in how many hours
+==> Solution Equation: 325.0*hours+275.0*hours=2100.0
+~~~
+
+*** Two airplanes left the same airport traveling in opposite directions. If one airplane averages 400 miles per hour and the other 250 miles per hour , how many hours will it take for the distance between them be 1625 miles? 
+What did two airplanes leave? --> the same airport
+When do it take how many hours? --> 1625 miles
+Did two airplanes leave the same airport? --> two airplanes left the same airport traveling in opposite directions
+Does the distance between them be 1625 miles? --> how many hours
+How many airplanes did leave the same airport? --> two
+How would you describe the distance between them? --> 1625 miles
+What do it take for the distance between them be 1625 miles? --> how many hours
+Do it take how many hours for the distance between them be 1625 miles? --> if one airplane averages 400 miles per hour and the other 250 miles per hour , how many hours
+==> Solution Equation: 250.0*hours+400.0*hours=1625.0
+~~~
+
+*** Two cars leave the same point , traveling in opposite directions. If one travels at a constant speed of 52 miles per hour and the other travels at a constant speed of 58 miles per hour. In how many hours will they be 385 miles apart? 
+How does one travel? --> at a constant speed of 52 miles per hour
+What do two cars leave? --> the same point
+When do they be 385 miles apart? --> in how many hours
+Do two cars leave the same point? --> two cars leave the same point , traveling in opposite directions . if one travels at a constant speed of 52 miles per hour and the other travels at a constant speed of 58 miles per hour
+How many cars do leave the same point? --> two
+Do they be 385 miles apart In how many hours? --> in how many hours
+==> Solution Equation: 52.0*hours+58.0*hours=385.0
+~~~
+
+*** When 4 times the number is added to 7 times the number the result is 55. What is the number?
+Is the number What? --> 55
+when is the result 55? --> when 4 times the number is added to 7 times
+How would you describe the result? --> 55
+How would you describe the number? --> 55
+Is the number added to 7 times the number? --> 55
+How many times the number is the number added? --> 55
+Is the result 55 when 4 times the number is added to 7 times the number? --> 55
+How many times the number is added to 7 times the number is when 55 when 4 times the number is added to 7 times the number? --> 4
+How many times the number is when 4 times the number is added to 55 when 4 times the number is added to 7 times the number? --> 55
+==> Solution Equation: 4.0*number+7.0*number=55.0
+~~~
+
+*** 2 trains leave simultaneously traveling on the same track in opposite directions at speeds of 50 and 64 miles per hour. How many hours will it take before they are 285 miles apart?
+How many trains do leave? --> 2
+Are they 285 miles apart? --> how many hours
+How many miles apart are they? --> 285
+When do it take How many hours? --> before they are 285 miles apart
+What do it take before they are 285 miles apart? --> hours
+Do it take How many hours before they are 285 miles apart? --> how many hours
+How many miles apart do take before they are How many hours before they are 285 miles apart? --> how many hours
+==> Solution Equation: 50.0*hours+64.0*hours=285.0
+~~~
+
+*** 2 teams of scientists leave a university at the same time in special vans to search for tornadoes. the 1st team travel east at 20 miles per hour and the 2nd team travels west at 30 miles per hour. their radios have a range of 125 miles. How much time will pass before the scientists lose radio contact?
+What do their radios have? --> a range of 125 miles
+What do the scientists lose? --> radio contact
+When will How much time pass? --> before the scientists lose radio contact
+How many team does travel the? --> 2
+How many miles do their radios have? --> 125
+How many miles per hour do travel at? --> 30 miles per hour
+Do the scientists lose radio contact? --> how much time will pass before the scientists lose radio contact
+Do their radios have a range of 125 miles? --> their radios have a range of 125 miles
+Do 2 teams of scientists search for tornadoes? --> 2 teams of scientists leave a university at the same time in special vans to search for tornadoes
+When do 2 teams of scientists leave a university? --> at the same time
+What do 2 teams of scientists leave at the same time? --> special vans
+How many teams of scientists do search for tornadoes? --> 2
+Do 2 teams of scientists leave a university at the same time? --> 2 teams of scientists leave a university at the same time in special vans to search for tornadoes
+How many teams of scientists do leave a university at the same time? --> 2
+==> Solution Equation: 20.0*hours+30.0*hours=125.0
+~~~
+

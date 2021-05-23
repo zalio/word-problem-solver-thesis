@@ -1,0 +1,344 @@
+*** A semi truck travels on a paved road for 2 hours at an average speed of 20 miles per hour faster than it travels on a dirt road. The time spent on the dirt is 3 hours. If the entire trip is 200 miles , how fast is the truck traveling on the dirt road? 
+Where does it travel? --> on a paved road
+Where did The time spend? --> on the dirt
+Is the entire trip 200 miles? --> if the entire trip is 200 miles , how fast is the truck traveling on the dirt road
+Is The time spent on the dirt 3 hours? --> the time spent on the dirt is 3 hours
+How would you describe the entire trip? --> 200 miles
+Where does a semi truck travel for 2 hours? --> paved road
+When does a semi truck travel on a paved road? --> 2 hours
+Is the truck traveling on the dirt road how fast? --> if the entire trip is 200 miles , how fast
+How would you describe The time spent on the dirt? --> 3 hours
+How does a semi truck travel on a paved road for 2 hours? --> faster
+Indicate characteristics of the truck traveling on the dirt road. --> if
+==> Solution Equation: 2.0*paved_speed+3.0*dirt_speed=200.0 and paved_speed=20.0+dirt_speed
+~~~
+
+*** Hockey teams receive 2 points for a win and 1 point for a tie. The wild cats once won a championship with 60 points. They won 9 more games than they tied. How many wins and how many ties did the Wildcats have?
+What did They win? --> 9 more games
+What do the Wildcats have? --> how many wins and how many ties
+What do hockey teams receive? --> 2 points for a win and 1 point for a tie
+What did The wild cats win once? --> a championship
+Do hockey teams receive 2 points? --> 2 points for a win and 1 point for a tie
+Do the Wildcats have how many ties? --> 9 more games than they tied . how many wins and how many ties
+How many points do hockey teams receive? --> 2 points for a win and 1 point for a tie
+Did They win 9 more games than they tied? --> they won 9
+When did The wild cats win a championship? --> once won a championship with 60 points
+Did The wild cats win a championship once? --> the wild cats once won a championship with 60 points
+How did The wild cats win a championship once? --> 60 points
+How many more games than they tied did They win? --> 9
+How many point do receive for a win and 2 points? --> 1 point for a tie
+How many points did win with a championship once? --> 60
+==> Solution Equation: 2.0*wins+1.0*tie=60.0 and wins=9.0+tie
+~~~
+
+*** Norman and Suzanne Scarpulla own 35 shares of Mcdonald 's stocks and 69 shares of the Ohio Art Company stock. On a particular day in 2011 , their stock portfolio consisting of these two stocks was worth 2,814 dollars. The Mcdonalds stock was 70 dollars more per share than the Ohio Art Company stock. What was the price of McDonalds stock on that day? What was the cost of the Ohio Art Company stock on that day? 
+What do Norman and Suzanne Scarpulla own? --> 35 shares of mcdonald ' s stocks and 69 shares of the ohio art company stock
+When was the price of McDonalds stock What? --> 2011
+Indicate characteristics of The Mcdonalds stock. --> 70 dollars more per share
+Was the price of McDonalds stock What on that day? --> 70 dollars more per share
+How would you describe the price of McDonalds stock? --> 70 dollars more per share
+Where do Norman and Suzanne Scarpulla own 35 shares? --> mcdonald ' s stocks
+When was the cost of the Ohio Art Company stock What? --> 2011
+Was the cost of the Ohio Art Company stock What on that day? --> 70 dollars more per share than the ohio art company stock . what was the price of mcdonalds stock on that day ? what was the cost
+How would you describe the cost of the Ohio Art Company stock? --> 70
+Where was The Mcdonalds stock the Ohio Art Company 70 dollars more per share? --> on a particular day in 2011 , their stock portfolio consisting of these two stocks was worth 2 , 814 dollars . the mcdonalds stock was 70 dollars more per share than the ohio art company stock . what was the price of mcdonalds stock on that day
+Indicate characteristics of their stock portfolio consisting of these two stocks. --> the
+How many shares of the Ohio Art Company stock do Norman and Suzanne Scarpulla own? --> 69
+When was their stock portfolio consisting of these two stocks worth 2,814 dollars? --> 2011
+Was The Mcdonalds stock 70 dollars more per share than the Ohio Art Company stock? --> the mcdonalds stock was 70 dollars more per share than the ohio art company stock
+Where do Norman and Suzanne Scarpulla own 35 shares of Mcdonald's stocks and 69 shares? --> ohio art company stock
+Was their stock portfolio consisting of these two stocks worth 2,814 dollars On a particular day in 2011? --> the
+How many stocks was their stock portfolio consisting of these worth 2,814 dollars On a particular day in 2011? --> two
+Do Norman and Suzanne Scarpulla own 35 shares of Mcdonald's stocks and 69 shares of the Ohio Art Company stock? --> norman and suzanne scarpulla own 35 shares of mcdonald ' s stocks and 69 shares of the ohio art company stock
+How many shares of Mcdonald's stocks and 69 shares of the Ohio Art Company stock do Norman and Suzanne Scarpulla own? --> 35
+==> Solution Equation: 35.0*mcdonalds_stock+69.0*ohio_art_stock=2814.0 and mcdonalds_stock=70.0+ohio_art_stock
+~~~
+
+*** The difference between two numbers is 6. If you double both numbers , the sum is 36. Find the two numbers. 
+Is the sum 36? --> if you double both numbers , the sum is 36
+What do you double? --> both numbers
+How many is the sum? --> 36
+Do you double both numbers? --> if you double both numbers , the sum is 36
+How would you describe the sum? --> 36
+How many numbers is 36. Find the? --> two numbers
+Is the difference between two numbers 6? --> the difference between two numbers is 6
+How many numbers is the difference between 6? --> 36
+How many is the difference between two numbers? --> 6
+How would you describe the difference between two numbers? --> 6
+==> Solution Equation: 2.0*number_one+2.0*number_two=36.0 and number_one-number_two=6.0
+~~~
+
+*** Juan and Peter both leave a shopping center at the same time going in opposite directions. Juan is on his bike and travels 3 miles per hour faster than Peter who is on his skateboard. After 1.5 hours they are 19.5 miles apart. How fast does Peter travel?
+Who do travel? --> juan and peter
+Who does travel? --> juan and peter
+Who is on his bike? --> juan
+Is Juan on his bike? --> juan
+How does Juan travel? --> bike
+Who is on his skateboard? --> peter
+Is Peter on his skateboard? --> peter
+When are they 19.5 miles apart? --> 1 . 5 hours
+Are they 19.5 miles apart After 1.5 hours? --> after
+What do Juan and Peter both leave at the same time? --> a shopping center
+When do Juan and Peter both leave a shopping center? --> at the same time
+Do Juan and Peter both leave a shopping center at the same time? --> juan and peter both leave a shopping center at the same time
+==> Solution Equation: 1.5*juan+1.5*peter=19.5 and juan=3.0+peter
+~~~
+
+*** 3 times a number is added to 5 times a number to get 54. The second number is 2 less than the first. What is the smaller number? What is the larger number?
+How many do get? --> 54
+Is the larger number What? --> smaller number
+Is the smaller number What? --> what is the smaller number ? what is the larger number
+How would you describe the larger number? --> what
+How would you describe the smaller number? --> what is the smaller number ? what is the larger number
+When is a number added to 5 times a number? --> 3 times
+Is The second number 2 less than the first? --> the second number is 2 less than the first
+Indicate characteristics of The second number. --> 2 less
+Is a number added to 5 times a number 3 times? --> 54
+How many times a number is a number added 3 times? --> 5
+How many less than the first is The second number? --> 2
+How many times is added to 5 times a number 3 times? --> 54
+How many is added to get to 5 times a number 3 times? --> 54
+==> Solution Equation: 3.0*larger+5.0*smaller=54.0 and smaller=larger-2.0
+~~~
+
+*** For a matinee , a movie theater charges 4.50 dollars for children and 6.75 dollars for adults. At today 's matinee , there are 20 more children than adults and the total receipts are 405 dollars. How many children are at today 's matinee? 
+What does a movie theater charge? --> 4 . 50 dollars for children and 6 . 75 dollars for adults
+Are the total receipts 405 dollars? --> 20 more children than adults
+How many more children than adults are? --> 20
+Are How many children at today's matinee? --> there are 20 more children
+How would you describe the total receipts? --> 405 dollars
+Does a movie theater charge 4.50 dollars for children and 6.75 dollars for adults? --> a movie theater charges 4 . 50 dollars for children and 6 . 75 dollars for adults .
+for what purpose does a movie theater charge 4.50 dollars for children and 6.75 dollars for adults? --> a matinee
+==> Solution Equation: 4.5*children+6.75*adults=405.0 and children=20.0+adults
+~~~
+
+*** 2 similar tables and 6 similar chairs cost 6600 dollars. If the table cost 500 dollars more than a chair , what is the cost , in dollars , of the table? What is the cost of the chair? 
+What did the table cost? --> 500 dollars
+Is the cost of the chair What? --> what
+Is the cost, in dollars, of the table what? --> if the table cost 500 dollars more than a chair
+How would you describe the cost of the chair? --> what
+Did the table cost 500 dollars more than a chair? --> if the table cost 500 dollars more than a chair , what is the cost , in dollars , of the table
+How would you describe the cost, in dollars, of the table? --> if the table cost 500 dollars more than a chair
+Did similar tables and 6 similar chairs cost 6600 dollars? --> similar tables and 6 similar chairs cost 6600 dollars
+How many dollars did similar tables and 6 similar chairs cost? --> 6600
+How many similar chairs did cost similar tables and 6600 dollars? --> 6
+==> Solution Equation: 2.0*table+6.0*chair=6600.0 and 500.0+chair=table
+~~~
+
+*** Norbert sold 23 books on Thursday for a certain price. On Friday , he sold 35 of the same books , but he charged 0.50 dollars less per book. He made 490.00 dollars in total. How much did the book sell for on Thursday? How much did the book sell for on Friday? 
+What did He make? --> 490 . 00 dollars
+What did he charge? --> 0 . 50 dollars less per book
+When do the book sell for? --> friday
+What did he sell On Friday? --> 35 of the same books
+When did Norbert sell 23 books? --> thursday
+When do the book sell How much? --> friday
+Do the book sell for on Friday? --> how
+What did Norbert sell on Thursday? --> 23 books
+Did He make 490.00 dollars in total? --> he
+When did he sell 35 of the same books? --> friday
+Did Norbert sell 23 books on Thursday? --> norbert sold 23 books on thursday for a certain price
+Do the book sell How much on Thursday? --> how much
+Did he charge 0.50 dollars less per book? --> on friday
+Did he sell 35 of the same books On Friday? --> on friday , he sold 35 of the same books , but he charged 0 . 50 dollars less per book
+How many books did Norbert sell on Thursday? --> 23
+How many of the same books did he sell On Friday? --> 35
+==> Solution Equation: 23.0*thursday+35.0*friday=490.0 and thursday-0.5=friday
+~~~
+
+*** Two planes start from Chicago at the same time and fly in opposite directions , one averaging a speed of 40 miles per hour greater than the other. If they are 2000 miles apart after 5 hours , find their average speeds. 
+How many planes do fly? --> two
+When do two planes start? --> at the same time
+When are they 2000 miles apart? --> after 5 hours
+Are they 2000 miles apart after 5 hours? --> if they are 2000 miles apart after 5 hours , find their average speeds
+How many planes do start at the same time? --> two
+Where do two planes start at the same time? --> chicago
+How many averaging a speed of 40 miles per hour greater than the other . If they are 2000 miles apart after does fly opposite directions? --> two
+==> Solution Equation: 5.0*plane_one+5.0*plane_two=2000.0 and plane_one=40.0+plane_two
+~~~
+
+*** 2 automobiles start out from two points 600 kilometers apart and travel toward each other.The automobile from the east travels at 10 kilometers faster than the automobile from the west. If they meet after 5 hours , what is the average speed of each automobile? 
+When do they meet? --> after 5 hours
+Is the average speed of each automobile what? --> if they meet after 5 hours , what is the average speed
+Do 2 automobiles start out 600 kilometers apart? --> 2 automobiles start out from two points 600 kilometers apart
+How many automobiles do start out 600 kilometers apart? --> two
+How many points do start out from 600 kilometers apart? --> two
+How would you describe the average speed of each automobile? --> if they meet after 5 hours
+==> Solution Equation: 5.0*east_automobile+5.0*west_automobile=600.0 and east_automobile=10.0+west_automobile
+~~~
+
+*** 2 snails are 264 centimeters apart. They craw toward each other at rates that differ by 6 centimeters per minute. After 22 minutes they meet. How fast is each snail crawling?
+How do They craw? --> toward each other at rates that differ by 6 centimeters per minute
+When do they meet? --> after 22 minutes
+How do each snail crawling? --> fast
+Are 2 snails 264 centimeters apart? --> 2 snails are 264 centimeters apart
+How many centimeters apart are 2 snails? --> 264
+How many snails are 264 centimeters apart? --> 2
+Do rates differ by 6 centimeters per minute? --> they craw toward each other at rates that differ by 6 centimeters per minute
+How many minutes do meet After After 22 minutes? --> 264
+==> Solution Equation: 22.0*snail_one_speed+22.0*snail_two_speed=264.0 and snail_one_speed=6.0+snail_two_speed
+~~~
+
+*** A freight train and an express train leave towns 390 kilometers apart , traveling toward one another. The freight train travels 30 kilometers per hour slower than the express train. They pass one another 3 hours later. How fast is the freight train , in miles per hour? How fast is the express train? 
+When do They pass one? --> 3 hours later
+Is the freight train How fast? --> how fast is the freight train , in miles per hour
+Is the express train How fast? --> how fast
+Do They pass one 3 hours later? --> they pass one another
+What do They pass 3 hours later? --> one
+Indicate characteristics of the freight train. --> the freight train travels 30 kilometers per hour slower
+Indicate characteristics of the express train. --> the freight train travels 30 kilometers per hour slower
+Indicate characteristics of the freight train. --> the freight train travels 30 kilometers per hour slower
+Indicate characteristics of the express train. --> the freight train travels 30 kilometers per hour slower
+Where do a freight train and an express train leave towns? --> 390 kilometers apart
+What do a freight train and an express train leave 390 kilometers apart? --> towns
+Do a freight train and an express train leave towns 390 kilometers apart? --> the
+==> Solution Equation: 3.0*freight+3.0*express=390.0 and freight=express-30.0
+~~~
+
+*** Steve purchased tickets to a circus for 7 adults and 2 children. The total cost was 172 dollars. The cost of a child 's ticket was 4 dollars less than the cost of an adult 's ticket. Find the price of an adult 's ticket and a child 's ticket.
+What did Steve purchase? --> tickets to a circus
+Was The total cost 172 dollars? --> the total cost was 172 dollars
+How many dollars was The total cost? --> 172
+Who did purchase tickets to a circus? --> steve
+How would you describe The total cost? --> 172 dollars
+Did Steve purchase tickets to a circus? --> steve purchased tickets to a circus for 7 adults and 2 children
+How would you describe The cost of a child's ticket? --> 4 dollars less than the cost of an adult ' s ticket
+Indicate characteristics of The cost of a child's ticket. --> 4 dollars less than the cost of an adult ' s ticket
+How many adults and 2 children did purchase for tickets to a circus? --> 7
+How many children did purchase for 7 adults and tickets to a circus? --> 2
+Was The cost of a child's ticket 4 dollars less than the cost of an adult's ticket? --> the cost of a child ' s ticket was 4 dollars less than the cost of an adult ' s ticket
+==> Solution Equation: 7.0*adult_ticket+2.0*child_ticket=172.0 and child_ticket=adult_ticket-4.0
+~~~
+
+*** Two cyclists start at the same point and travel in opposite directions. One cyclist travels 8 kilometers per hour faster than the other. If the two cyclists are 270 kilometers apart after 5 hours what is the rate of each cyclist?
+Where do two cyclists start? --> the same point
+How does One cyclist travel? --> 8 kilometers per hour
+How many cyclist does travel? --> 8 kilometers per hour
+Is the rate of each cyclist what? --> if the two cyclists are 270 kilometers apart after 5 hours
+How many cyclists do start at the same point? --> two
+When are the two cyclists 270 kilometers apart? --> after 5 hours
+Are the two cyclists 270 kilometers apart after 5 hours? --> if the two cyclists are 270 kilometers apart
+How many cyclists are the 270 kilometers apart after 5 hours? --> two
+How many cyclists are 270 kilometers apart after 5 does travel If? --> two
+==> Solution Equation: 5.0*cyclist_one+5.0*cyclist_two=270.0 and cyclist_one=8.0+cyclist_two
+~~~
+
+*** David bought 3 hamburgers and 2 servings of french fries at Diane 's Drive Up for 6.25 dollars. If a serving of fries costs 0.25 cents more then a hamburger , what is the cost of a hamburger and what is the cost of a serving of french fries? 
+Is the cost of a hamburger what? --> what is the cost of a hamburger
+What does a serving of fries cost? --> 0 . 25 cents
+What did David buy at Diane's Drive Up? --> 3 hamburgers and 2 servings of french fries
+Is the cost of a serving of french fries what? --> what
+How would you describe the cost of a hamburger? --> if a serving of fries costs 0 . 25 cents
+How would you describe the cost of a serving of french fries? --> what
+Does a serving of fries cost 0.25 cents more then a hamburger? --> if a serving of fries costs 0 . 25 cents more then a hamburger
+Where did David buy 3 hamburgers and 2 servings of french fries? --> diane ' s drive up
+How many cents more then a hamburger does a serving of fries cost? --> 0 . 25
+How many servings of french fries did David buy at Diane's Drive Up? --> 2
+Who did buy 3 hamburgers and 2 servings of french fries at Diane's Drive Up? --> david
+Did David buy 3 hamburgers and 2 servings of french fries at Diane's Drive Up? --> david bought 3 hamburgers and 2 servings of french fries at diane ' s drive up for 6 . 25 dollars
+How many hamburgers and 2 servings of french fries did David buy at Diane's Drive Up? --> 3
+How many dollars did buy for 3 hamburgers and 2 servings of french fries at Diane's Drive Up? --> 6 . 25
+How many cents more then a hamburger did buy If a serving of fries costs 3 hamburgers and 2 servings of french fries at Diane's Drive Up? --> 0 . 25
+==> Solution Equation: 3.0*hamburger+2.0*french_fries=6.25 and french_fries=0.25+hamburger
+~~~
+
+*** 2 cars start at the same place and time , and travel in opposite directions. One car is traveling 15 kilometers per hour faster than the other. After 5 hours , the 2 cars are 275 km apart. Find the speed of each car. 
+Where do 2 cars start? --> the same place and time
+When is One car traveling? --> 15 kilometers per hour faster
+When are the 2 cars 275 km apart? --> after 5 hours
+How is One car traveling After 5 hours? --> 15 kilometers per hour faster than the other
+How many car is traveling After 5 hours? --> 2
+Are the 2 cars 275 km apart After 5 hours? --> after 5 hours , the 2 cars are 275 km apart
+How many km apart are the 2 cars After 5 hours? --> 275
+How many cars are the 275 km apart After 5 hours? --> 2
+How many cars do start at the same place and time? --> 2
+==> Solution Equation: 5.0*slower_car+5.0*faster_car=275.0 and 15.0+slower_car=faster_car
+~~~
+
+*** 2 high speed trains are 380 miles apart and traveling toward each other. They meet in 4 hours. If one train is 15 miles per hour faster than the other , find the speed of the slower train in miles per hour. Find the speed of the faster train. 
+What do They find? --> the speed of the faster train
+When do They meet? --> 4 hours
+Indicate characteristics of one train. --> if one train is 15 miles per hour faster than the other
+Are 2 high speed trains 380 miles apart? --> 2 high speed trains are 380 miles apart
+How many high speed trains are 380 miles apart? --> 2
+Is one train 15 miles per hour faster than the other? --> if one train is 15 miles per hour faster than the other
+How many train is 15 miles per hour faster than the other? --> one
+Do They find the speed of the slower train in miles per hour? --> if one train is 15 miles per hour faster than the other
+How many train is 15 miles per hour faster than the other do meet If in 4 hours? --> 2
+How many train is 15 miles per hour faster than the other do find If the speed of the slower train in miles per hour? --> 2
+==> Solution Equation: 4.0*slower_train+4.0*faster_train=380.0 and 15.0+slower_train=faster_train
+~~~
+
+*** An auditorium has 500 balcony seats and 1800 main-level seats. If tickets for balcony seats will cost 15 dollars less than tickets for main-level seats , what should the prices be for the main-level seats and prices for the balcony seats , so that the total revenue from a sellout performance will be 84,500? 
+What does an auditorium has? --> 500 balcony seats and 1800 main - level seats
+How would you describe the prices? --> if tickets for balcony seats will cost 15 dollars less than tickets for main - level seats , what should the prices be for the main - level seats and prices for the balcony seats
+What will tickets for balcony seats cost? --> 15 dollars less
+How many main - level seats does an auditorium has? --> 1800
+Will the total revenue from a sellout performance be 84,500? --> if tickets for balcony seats will cost 15 dollars less than tickets for main - level seats , what should the prices be for the main - level seats and prices for the balcony seats
+How many will the total revenue from a sellout performance be? --> 84 , 500
+How would you describe the total revenue from a sellout performance? --> 84 , 500
+Does an auditorium has 500 balcony seats and 1800 main - level seats? --> if tickets for balcony seats will cost 15 dollars less than tickets for main - level seats
+How many balcony seats and 1800 main - level seats does an auditorium has? --> 500
+How many will be so that the total revenue from a sellout performance will be? --> 84 , 500
+Will tickets for balcony seats cost 15 dollars less than tickets for main - level seats? --> if tickets for balcony seats will cost 15 dollars less than tickets for main - level seats
+How many does has If tickets for balcony seats will cost 15 dollars less than tickets for main - level seats, what should the prices be for the main - level seats and prices for the balcony seats, so that the total revenue from a sellout performance will be 500 balcony seats and 1800 main - level seats? --> 84 , 500
+==> Solution Equation: 500.0*balcony+1800.0*main=84500.0 and balcony=main-15.0
+~~~
+
+*** The cost of 12 gallons of regular gasoline and 18 gallons of premium gasoline is 44.46 dollars. Premium costs 0.22 dollars more per gallon than regular. What is the cost per gallon of each type of gasoline?
+Is the cost per gallon of each type of gasoline What? --> what is the cost
+Does Premium cost 0.22 dollars more per gallon than regular? --> premium costs 0 . 22 dollars more per gallon than regular
+How would you describe the cost per gallon of each type of gasoline? --> what
+Is the cost of 12 gallons of regular gasoline and 18 gallons of premium gasoline 44.46 dollars? --> the cost of 12 gallons of regular gasoline and 18 gallons of premium gasoline is 44 . 46 dollars
+How would you describe the cost of 12 gallons of regular gasoline and 18 gallons of premium gasoline? --> 44 . 46 dollars
+==> Solution Equation: 12.0*cost_regulargas+18.0*cost_premiumgas=44.46 and cost_premiumgas=0.22+cost_regulargas
+~~~
+
+*** Hockey teams receive 2 points when they win and 1 point when they tie. 1 season , a team won a championship with 60 points. They won 12 games more than they tied. How many wins and ties did the team have? 
+When do they win? --> 12 games more than they tied
+When do they tie? --> when they tie
+What do the team have? --> wins
+Did They win 12 games? --> they won 12 games
+How many games did They win? --> 12
+What did a team win 1 season? --> 60 points
+When did a team win a championship? --> 1 season
+When do hockey teams receive 2 points? --> when they win
+Did a team win a championship 1 season? --> a team won a championship with 60 points
+Do the team have How many wins and ties? --> how many
+What do hockey teams receive when they win? --> 2 points
+Do hockey teams receive 2 points when they win? --> 2 points when they win
+How many season did win a championship 1 season? --> 60 points
+How many points did win with a championship 1 season? --> 60
+How many points do hockey teams receive when they win? --> 2
+==> Solution Equation: 2.0*win+1.0*tie=60.0 and win=12.0+tie
+~~~
+
+*** At Al 's Rent-a-Center , it costs 30 dollars more per month to rent a leather couch than it does to rent a microfiber couch. Pauline rented a leather couch for 8 months and then exchanged it for a microfiber couch , which she rented for 12 months. She paid a total of 1620 dollars to rent these couches. Solve this system of equations to find the monthly rental charge for the leather couch , in dollars. Find the monthly rental charge for the microfiber couch. 
+What do She rent? --> a leather couch
+What did She pay? --> 1620 dollars
+What do She rent? --> a leather couch
+What do She find? --> monthly rental charge for the microfiber couch
+What do She Find? --> monthly rental charge for the microfiber couch
+What do She Solve? --> system of equations
+Who did exchange then it? --> pauline
+Do She rent these couches? --> she paid a total of 1620 dollars
+Did Pauline exchange then it? --> microfiber couch
+What did Pauline exchange then? --> a microfiber couch
+What did she rented for 12 months? --> microfiber couch
+When did Pauline exchange then it? --> 12
+Did She pay a total of 1620 dollars? --> she paid a total of 1620 dollars to rent these couches
+What did Pauline rented for 8 months? --> a leather couch
+Do She Solve this system of equations? --> solve this system of equations to find the monthly rental charge for the leather couch , in dollars
+When did she rented a microfiber couch? --> 12 months
+When did Pauline rented a leather couch? --> 8 months
+When do She Solve this system of equations? --> to find the monthly rental charge for the leather couch , in dollars
+Who did rented a leather couch for 8 months? --> pauline
+Did Pauline rented a leather couch for 8 months? --> pauline rented a leather couch for 8 months
+Did she rented a microfiber couch for 12 months? --> pauline
+Do She Find the monthly rental charge for the microfiber couch? --> find the monthly rental charge for the microfiber couch .
+What does to rent a leather couch cost at Al's Rent - a - Center? --> 30 dollars more per month
+Where does to rent a leather couch cost 30 dollars more per month? --> al ' s rent - a - center
+Do She find the monthly rental charge for the leather couch, in dollars? --> solve this system of equations to find the monthly rental charge for the leather couch , in dollars
+Does to rent a leather couch cost 30 dollars more per month at Al's Rent - a - Center? --> it costs 30 dollars more per month to rent a leather couch
+==> Solution Equation: 8.0*leather+12.0*microfiber=1620.0 and leather=30.0+microfiber
+~~~
+

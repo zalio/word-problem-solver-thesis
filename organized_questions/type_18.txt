@@ -1,0 +1,585 @@
+*** Colombian coffee beans cost 5.50 dollars per pound, while Peruvian coffee beans cost 4.25 dollars per pound. We want to mix the beans together so as to produce a 40-pound bag , costing 4.60 dollars per pound. How many pounds of Columbian beans and how many pounds of Peruvian beans should be used? 
+What do We want? --> mix the beans together so as to produce a 40 - pound bag
+What do We produce? --> 40 - pound bag
+What do We want to mix? --> beans together so as to produce a 40 - pound bag
+Do We want to mix the beans? --> we want to mix the beans together so as to produce a 40 - pound bag
+Where do We want to mix the beans? --> 40 - pound bag
+What do Peruvian coffee beans cost? --> 4 . 25 dollars per pound
+What do colombian coffee beans cost? --> 5 . 50 dollars per pound
+Do Peruvian coffee beans cost 4.25 dollars per pound? --> peruvian coffee beans cost 4 . 25 dollars per pound
+Do colombian coffee beans cost 5.50 dollars per pound? --> colombian coffee beans cost 5 . 50 dollars per pound
+Where do colombian coffee beans cost 5.50 dollars per pound? --> colombian coffee beans
+Do We produce a 40-pound bag, costing 4.60 dollars per pound? --> we want to mix the beans together
+Where do We want beans dollars per pound beans dollars per pound to mix the beans together so as to produce a 40-pound bag, costing 4.60 dollars per pound . How many pounds? --> colombian coffee beans cost 5 . 50 dollars per pound , while peruvian coffee beans cost 4 . 25 dollars per pound . we want to mix the beans together so as to produce a 40 - pound bag , costing 4 . 60 dollars per pound
+Do We want to mix the beans together so as to produce a 40-pound bag, costing 4.60 dollars per pound . How many pounds of Columbian beans and how many pounds of Peruvian beans should be used? --> how
+==> Solution Equation: 5.5*columbian_pounds+4.25*peruvian_pounds=40.0*4.6 and columbian_pounds+peruvian_pounds=40.0
+~~~
+
+*** A chemist needs to make 30 ounces of a 25 % alcohol solution by mixing together a 15 % alcohol solution with a 40 % alcohol solution. How many ounces of the 15 % solution should he use? How many ounces of the 40 % solution?
+What do he use? --> 30 ounces of a 25 % alcohol solution by mixing together a 15 % alcohol solution with a 40 % alcohol solution . how many ounces of the 15 % solution
+What does a chemist need? --> 30 ounces of a 25 % alcohol solution
+What does a chemist need to make? --> 30 ounces
+Do he use How many ounces of the 15 % solution? --> how many ounces
+Does a chemist need to make 30 ounces of a 25 % alcohol solution? --> 30
+How does a chemist need to make 30 ounces of a 25 % alcohol solution? --> by mixing together a 15 % alcohol solution with a 40 % alcohol solution
+What does a chemist need to make 30 ounces of a 25 % alcohol solution by? --> mixing together a 15 % alcohol solution with a 40 % alcohol solution
+Does a chemist need to make 30 ounces of a 25 % alcohol solution by mixing together a 15 % alcohol solution with a 40 % alcohol solution? --> a chemist needs to make 30 ounces
+==> Solution Equation: 0.15*fifteen_solution+0.40*forty_solution=0.25*30.0 and fifteen_solution+forty_solution=30.0
+~~~
+
+*** Arianne is mixing a solution for Chemistry class. She has a 25 % copper solution and a 50 % copper solution. How many milliliters of the 25 % solution and 50 % solution should she mix to make 1000 milliliters of a 45 % solution?
+What does She has? --> a 25 % copper solution and a 50 % copper solution
+What is Arianne mixing? --> a solution for chemistry class
+What do she mix to make? --> 1000 milliliters
+Is Arianne mixing a solution for Chemistry class? --> arianne is mixing a solution for chemistry class
+Do she mix to make 1000 milliliters of a 45 % solution? --> how many milliliters
+How many milliliters of a 45 % solution does she mix to make? --> 1000
+Does She has a 25 % copper solution and a 50 % copper solution? --> she has a 25 % copper solution and a 50 % copper solution . how many milliliters of the 25 % solution and 50 % solution should she mix to make 1000
+Do she mix How many milliliters of the 25 % solution and 50 % solution? --> how many milliliters
+How many milliliters of a 45 % solution does mix to make How many milliliters of the 25 % solution and 50 % solution? --> 1000
+==> Solution Equation: 0.25*twentyfive_solution+0.50*fifty_solution=0.45*1000.0 and twentyfive_solution+fifty_solution=1000.0
+~~~
+
+*** Find the amount of 6 percent acid solution and the amount of a 14 percent acid solution that Pat should combine to prepare 50 cubic-centimeters of 12 percent solution.
+Who should combine the amount of 6 percent acid solution and the amount of a 14 percent acid solution? --> pat
+Should Pat combine the amount of 6 percent acid solution and the amount of a 14 percent acid solution? --> find the amount of 6 percent acid solution and the amount of a 14 percent acid solution that pat should combine
+For what purpose should Pat combine the amount of 6 percent acid solution and the amount of a 14 percent acid solution? --> to prepare 50 cubic - centimeters of 12 percent solution
+==> Solution Equation: 0.06*six_acid+0.14*fourteen_acid=0.12*50.0 and six_acid+fourteen_acid=50.0
+~~~
+
+*** Anne and Nancy use a metal alloy that is 24.9 % copper to make jewelry. How many ounces of a 20 % alloy must be mixed with a 27 % alloy to form 100 ounces of the desired alloy?
+What do Anne and Nancy use? --> a metal alloy that is 24 . 9 % copper
+Is a metal alloy 24.9 % copper? --> a metal alloy that is 24 . 9 % copper
+How would you describe a metal alloy? --> 24 . 9 % copper
+Do Anne and Nancy use a metal alloy that is 24.9 % copper? --> anne and nancy use a metal alloy that is 24 . 9 % copper to make jewelry
+Must How many ounces of a 20 % alloy be mixed with a 27 % alloy? --> how many ounces of a 20 % alloy must be mixed with a 27 % alloy to form 100
+For what purpose must How many ounces of a 20 % alloy be mixed with a 27 % alloy? --> to form 100 ounces of the desired alloy
+==> Solution Equation: 0.20*twenty_alloy+0.27*twentyseven_alloy=100.0*0.249 and twenty_alloy+twentyseven_alloy=100.0
+~~~
+
+*** One gallon container is full of a 75 % alcohol solution. How much must be drained off and replaced by a 50 % alcohol solution to produce one gallon of 65 % alcohol solution?
+Did How much replace by a 50 % alcohol solution? --> how much
+Indicate characteristics of one gallon container. --> full of a 75 % alcohol solution
+Is one gallon container full of a 75 % alcohol solution? --> one gallon container is full of a 75 % alcohol solution
+==> Solution Equation: 0.75*left+0.50*drained=0.65*1.0 and left+drained=1.0
+~~~
+
+*** How many liters of a 60 % acid solution must be mixed with a 75 % acid solution to get 20 liters of a 72 % solution?
+how many liters of a 72 % solution do get? --> 20
+Must how many liters of a 60 % acid solution be mixed with a 75 % acid solution? --> how many liters of a 60 % acid solution must be mixed with a 75 % acid solution to get 20
+how many liters of a 72 % solution must be mixed to get with a 75 % acid solution? --> 20
+==> Solution Equation: 0.60*sixty_liters+0.75*seventy_five_liters=0.72*20.0 and sixty_liters+seventy_five_liters=20
+~~~
+
+*** An embossing shop etches metal with acid solutions. The owner is discussing a certain job with the job supervisor , and they decide to use 30 ounces of a 40 % solution. Upon checking the acid solution supplies , the supervisor has found some 25 % acid solution and some 50 % acid solution , but there is no 40 % acid solution. The owner explains to the supervisor how the two existing solutions can be mixed to obtain a 40 % acid solution. How much of each solution is needed? 
+What do they decide? --> to use 30 ounces of a 40 % solution
+What do they decide to use? --> 30 ounces of a 40 % solution
+What does The owner explain? --> how the two existing solutions can be mixed to obtain a 40 % acid solution
+What is The owner discussing? --> a certain job
+Do an embossing shop etches metal? --> an embossing shop etches metal with acid solutions
+Is The owner discussing a certain job? --> the owner is discussing a certain job with the job supervisor
+Do they decide to use 30 ounces of a 40 % solution? --> they decide to use 30 ounces of a 40 % solution .
+What do they decide to use 30 ounces of a 40 % solution . Upon? --> checking the acid solution supplies
+What has the supervisor found Upon checking the acid solution supplies? --> some 25 % acid solution and some 50 % acid solution
+When has the supervisor found some 25 % acid solution and some 50 % acid solution? --> upon checking the acid solution supplies
+How many existing solutions can be mixed to obtain a 40 % acid solution does The owner explain? --> two
+Does The owner explain how the two existing solutions can be mixed to obtain a 40 % acid solution? --> the owner explains to the supervisor
+Has the supervisor found some 25 % acid solution and some 50 % acid solution Upon checking the acid solution supplies? --> the supervisor has found some 25 % acid solution and some 50 % acid solution
+Do they decide to use 30 ounces of a 40 % solution . Upon checking the acid solution supplies, the supervisor has found some 25 % acid solution and some 50 % acid solution, but there is no 40 % acid solution? --> they decide to use 30 ounces of a 40 % solution .
+==> Solution Equation: 0.25*twentyfive_solution+0.50*fifty_solution=0.40*30.0 and twentyfive_solution+fifty_solution=30.0
+~~~
+
+*** A special tea blend is made from two varieties of herbal tea , one that costs 4.00 dollars per kilogram and another that costs 2.00 dollars per kilogram. How many kilograms of each type are needed to make 20 kilograms of a blend worth 2.50 dollars per kilogram? 
+What does one cost? --> 4 . 00 dollars per kilogram
+What does another cost? --> 2 . 00 dollars per kilogram
+Does one cost 4.00 dollars per kilogram? --> one that costs 4 . 00 dollars per kilogram
+Does another cost 2.00 dollars per kilogram? --> two varieties of herbal tea
+How many does cost 4.00 dollars per kilogram? --> two
+How many that costs 4.00 dollars per kilogram and another that costs 2.00 dollars per kilogram . is a special tea blend made? --> two
+Is a special tea blend made from two varieties of herbal tea, one that costs 4.00 dollars per kilogram and another that costs 2.00 dollars per kilogram? --> a special tea blend is made from two varieties of herbal tea
+How many varieties of herbal tea, one that costs 4.00 dollars per kilogram and another that costs 2.00 dollars per kilogram . is a special tea blend made? --> two
+==> Solution Equation: 2.0*cheap_tea+4.0*expensive_tea=20.0*2.5 and cheap_tea+expensive_tea=20.0
+~~~
+
+*** 1 blend of coffee sells for 9.00 dollars per pound and another blend sells for 8.00 dollars per pound. You want to make a 20 pound blend that sells for 8.40 dollars per pound. How many pounds of the 8 dollars per pound coffee do you need? How many pounds of the 9 dollars per pound coffee do you need?
+What do You want? --> make a 20 pound blend that sells for 8 . 40 dollars per pound
+What do you need? --> 20 pound blend that sells for 8 . 40 dollars per pound
+What do You want to make? --> a 20 pound blend
+Do you need the 9 dollars per pound coffee? --> how many pounds
+Does another blend sell for 8.00 dollars per pound? --> 20
+Does a 20 pound blend sell for 8.40 dollars per pound? --> how many pounds
+Does 1 blend of coffee sell for 9.00 dollars per pound? --> 1 blend of coffee sells for 9 . 00 dollars per pound
+How many blend of coffee does sell for 9.00 dollars per pound? --> 1
+Do you need How many pounds of the 8 dollars per pound coffee? --> how many pounds
+Do You want to make a 20 pound blend that sells for 8.40 dollars per pound . How many pounds of the 8 dollars per pound coffee do you need ? How many pounds of the 9 dollars per pound coffee do you need? --> how many pounds
+==> Solution Equation: 8.0*eight_coffee+9.0*nine_coffee=20.0*8.4 and eight_coffee+nine_coffee=20.0
+~~~
+
+*** One canned juice drink is 30 % orange juice ; another is 5 % orange juice. How many liters of each should be mixed together in order to get 25 liters that is 10 % orange juice?
+Is another 5 % orange juice? --> 25
+How would you describe another? --> 5 % orange juice
+Is 25 liters 10 % orange juice? --> 25
+How would you describe 25 liters? --> 10 % orange juice
+How many liters is 10 % orange juice? --> 25
+Is one canned juice drink 30 % orange juice? --> one canned juice drink is 30 % orange juice
+How would you describe one canned juice drink? --> 30 % orange juice
+How many canned juice drink is 30 % orange juice? --> one
+How many liters that is 10 % orange juice does get? --> 25
+How many liters that is 10 % orange juice should be mixed in order to get? --> 25
+==> Solution Equation: 0.30*first+0.05*second=25.0*0.10 and first+second=25.0
+~~~
+
+*** Soybean meal is 16 % protein and cornmeal is 8 %. How many pounds of each should be mixed together in order to get a 320 pound mixture that is 15 % protein?
+Is cornmeal 8 %? --> cornmeal is 8 %
+Is soybean meal 16 % protein? --> soybean meal is 16 %
+How would you describe cornmeal? --> 8 %
+How would you describe soybean meal? --> 16 % protein
+Is a 320 pound mixture 15 % protein? --> how many pounds
+How would you describe a 320 pound mixture? --> 15 % protein
+==> Solution Equation: 0.16*soybean_meal+0.08*cornmeal=320.0*0.15 and soybean_meal+cornmeal=320.0
+~~~
+
+*** Soybean meal is 18 % protein , cornmeal is 9 % protein. How many pounds of each Soybean meal and how many pounds of cornmeal should be mixed together in order to get 360-pound mixture that is 17 % protein? 
+Is cornmeal 9 % protein? --> cornmeal is 9 %
+Is soybean meal 18 % protein? --> soybean meal is 18 % protein
+How would you describe cornmeal? --> 9 % protein
+How many mixture is 17 % protein? --> 360 - pound
+Is 360-pound mixture 17 % protein? --> how
+How would you describe soybean meal? --> 18 % protein
+How would you describe 360-pound mixture? --> 17 % protein
+How many mixture that is 17 % protein does get? --> 360 - pound
+How should how many pounds of cornmeal be mixed? --> how many pounds of cornmeal should be mixed together in order to get 360
+How many mixture that is 17 % protein should be mixed in order to get? --> 360 - pound
+==> Solution Equation: 0.18*soybean_meal+0.09*cornmeal=360.0*0.17 and soybean_meal+cornmeal=360.0
+~~~
+
+*** A dealer has some hard candy worth 2.00 dollars a pound and some worth 3.00 dollars a pound. He wishes to make a mixture of 80 pounds that he can sell for 2.20 dollars a pound. How many pounds of 2-dollar candy does he need? How many pounds of 3-dollar candy does he need? 
+What do he need? --> 80 pounds
+What does He wish? --> to make a mixture of 80 pounds
+Can he sell 80 pounds? --> 80 pounds that he can sell for 2 . 20 dollars a pound
+What does a dealer has? --> some hard candy worth 2 . 00 dollars a pound and some worth 3 . 00 dollars a pound
+What does He wish to make? --> a mixture of 80 pounds
+How many candy does he need? --> 3 . 00 dollars a pound . he wishes to make a mixture of 80 pounds that he can sell for 2 . 20 dollars a pound . how many pounds
+Do he need How many pounds of 2-dollar candy? --> how many pounds
+Do he need How many pounds of 3-dollar candy? --> how
+Does He wish to make a mixture of 80 pounds that he can sell for 2.20 dollars a pound? --> he wishes to make a mixture of 80 pounds that he can sell for 2 . 20 dollars a pound
+Does a dealer has some hard candy worth 2.00 dollars a pound and some worth 3.00 dollars a pound? --> a dealer has some hard candy worth 2 . 00 dollars a pound and some worth 3 . 00 dollars a pound
+==> Solution Equation: 2.0*two_dollars+3.0*three_dollars=80.0*2.2 and two_dollars+three_dollars=80.0
+~~~
+
+*** One thousand quarts of milk testing 4 % butterfat are to be reduced to 3 %. How many quarts of cream testing 23 % butterfat must be separated from the milk to produce the required result?
+What does How many quarts of cream testing? --> 23 % butterfat must be separated from the milk
+Does How many quarts of cream testing 23 % butterfat? --> how many quarts
+What are to 3 % to be reduced to 3 % . How many quarts of? --> milk
+Are one thousand quarts of milk testing 4 % butterfat to be reduced to 3 %? --> one thousand quarts of milk testing 4 % butterfat are to be reduced to 3 %
+Must How many quarts of cream testing 23 % butterfat be separated from the milk? --> how many
+How many one thousand quarts of milk testing 4 % butterfat are to be reduced one thousand quarts of milk testing 4 % to 3 %? --> one thousand quarts of milk testing 4 % butterfat are to be reduced to 3 %
+==> Solution Equation: 0.03*reduced_milk+0.23*cream=1000.0*0.04 and reduced_milk+cream=1000.0
+~~~
+
+*** A chemist has one solution that is 15 % acid and a second that is 25 % acid. How many liters of each should be mixed together to get 100 liters that is 18 % acid?
+Is a second 25 % acid? --> 100 liters that is 18 % acid
+What does a chemist has? --> one solution that is 15 % acid and a second that is 25 % acid
+Is 100 liters 18 % acid? --> 100
+How many liters is 18 % acid? --> 100
+How would you describe a second? --> 25 % acid
+How would you describe 100 liters? --> 18 % acid
+How would you describe one solution? --> 15 % acid
+How many liters that is 18 % acid does get? --> 100
+How should How many liters of each be mixed? --> how many liters of each should be mixed together to get 100 liters
+How many liters that is 18 % acid does a chemist has? --> 100
+How many liters that is 18 % acid should be mixed to get? --> 100
+Is one solution 15 % acid and a second that is 25 % acid? --> one solution that is 15 % acid
+How many solution is 15 % acid and a second that is 25 % acid? --> one
+Does a chemist has one solution that is 15 % acid and a second that is 25 % acid . How many liters of each should be mixed together to get 100 liters that is 18 % acid? --> how
+How many solution that is 15 % acid and a second that is 25 % acid . How many liters of each should be mixed together to get 100 liters that is 18 % acid does a chemist has? --> how
+==> Solution Equation: 0.15*fifteen_acid+0.25*twentyfive_acid=0.18*100.0 and fifteen_acid+twentyfive_acid=100.0
+~~~
+
+*** A dealer has some hard candy worth 2 dollars a pound and some worth 3 dollars a pound. He wishes to make a mixture of 80 pounds that he can sell for 2.20 dollars per pound. How many pounds of each kind should he use?
+What do he use? --> 80 pounds
+What does He wish? --> to make a mixture of 80 pounds
+Can he sell 80 pounds? --> he wishes to make a mixture of 80 pounds that he can sell for 2 . 20 dollars per pound
+What does a dealer has? --> some hard candy worth 2 dollars a pound and some worth 3 dollars a pound
+What does He wish to make? --> a mixture of 80 pounds
+Do he use How many pounds of each kind? --> how many pounds
+Does He wish to make a mixture of 80 pounds that he can sell for 2.20 dollars per pound? --> he wishes to make a mixture of 80 pounds that he can sell for 2 . 20 dollars per pound
+Does a dealer has some hard candy worth 2 dollars a pound and some worth 3 dollars a pound? --> a dealer has some hard candy worth 2 dollars a pound and some worth 3 dollars a pound
+==> Solution Equation: 2.0*two_dollars+3.0*three_dollars=80.0*2.2 and two_dollars+three_dollars=80.0
+~~~
+
+*** Jackie has coffee that sells for 9 dollars per pound and coffee that sells for 4 dollars per pound. How many pounds of 9 dollars coffee and how many pounds of 4 dollars coffee must be mixed to get 20 pounds of coffee that sells for 8.25 dollars per pound?
+What does jackie has? --> coffee that sells for 9 dollars per pound
+Does coffee sell for 9 dollars per pound? --> jackie has coffee that sells for 9 dollars per pound
+Does coffee sell for 4 dollars per pound? --> jackie has coffee that sells for 9 dollars per pound and coffee that sells for 4 dollars per pound
+Must how many pounds of 4 dollars be mixed? --> how many pounds of 4 dollars coffee must be mixed to get 20
+Indicate characteristics of how many pounds of 4 dollars. --> 20
+Does 20 pounds of coffee sell for 8.25 dollars per pound? --> how many pounds of 4 dollars coffee must be mixed
+Does jackie has coffee that sells for 9 dollars per pound and coffee that sells for 4 dollars per pound . How many pounds of 9 dollars coffee and how many pounds of 4 dollars coffee must be mixed to get 20 pounds of coffee that sells for 8.25 dollars per pound? --> jackie has coffee that sells for 9 dollars per pound and coffee that sells for 4 dollars per pound . how many pounds
+==> Solution Equation: 9.0*nine_coffee+4.0*four_coffee=20.0*8.25 and nine_coffee+four_coffee=20.0
+~~~
+
+*** A garage owner wants to fill a 55 gallon drum with a 20 percent winter mixture of antifreeze for his customers. How many gallons of 100 percent antifreeze should he mix with some 10 percent antifreeze mixture in order to fill the drum?
+What do he mix? --> 100
+What do he fill? --> 55 gallon drum
+Do he fill the drum? --> how many gallons of 100 percent antifreeze should he mix with some 10 percent antifreeze mixture in order to fill the drum
+What does a garage owner want? --> fill a 55 gallon drum with a 20 percent winter mixture of antifreeze for his customers
+What does a garage owner fill? --> 55 gallon drum
+Does a garage owner fill a 55 gallon drum? --> a garage owner wants to fill a 55 gallon drum with a 20 percent winter mixture of antifreeze for his customers
+When does a garage owner fill a 55 gallon drum? --> * * * a garage owner wants to fill a 55 gallon drum with a 20 percent winter mixture of antifreeze for his customers
+Do he mix How many gallons of 100 percent antifreeze? --> how many gallons
+Does a garage owner want mix with some 10 percent antifreeze mixture in order to fill the drum? --> how many gallons
+==> Solution Equation: 1.0*hundred_antifreeze+0.10*ten_antifreeze=55.0*0.20 and hundred_antifreeze+ten_antifreeze=55.0
+~~~
+
+*** You are making 10 tons of concrete that is 62 % cement by mixing a 20 % cement mixture with a 80 % cement mixture. How much of the 80 % cement mixture must you use? Answer in units of tons.
+What do you use? --> 62 % cement by mixing a 20 % cement mixture with a 80 % cement mixture
+What are you making? --> 10 tons of concrete
+Is 10 tons of concrete 62 % cement? --> 62 %
+How is 10 tons of concrete 62 % cement? --> by mixing a 20 % cement mixture with a 80 % cement mixture
+How would you describe 10 tons of concrete? --> 62 % cement
+What is 10 tons of concrete 62 % cement by? --> mixing a 20 % cement mixture with a 80 % cement mixture
+Do you use How much of the 80 % cement mixture? --> how much of the 80 % cement mixture must you use ? answer in units of tons
+What are you making 10 tons of concrete that is 62 % cement by? --> mixing a 20 % cement mixture with a 80 % cement mixture
+Are you making 10 tons of concrete that is 62 % cement by mixing a 20 % cement mixture with a 80 % cement mixture? --> you are making 10 tons of concrete that is 62 % cement by mixing a 20 % cement mixture with a 80 % cement mixture . how much of the 80 % cement mixture must you use ? answer in units of tons
+==> Solution Equation: 0.20*twenty_mix+0.80*eighty_mix=10.0*0.62 and twenty_mix+eighty_mix=10.0
+~~~
+
+*** Tim and Judy mix two kinds of feed for pedigreed dogs. They wish to make 35 pounds of feed worth 0.36 dollars per pound by mixing one kind worth 0.18 dollars per pound with another worth 0.53 dollars per pound. How many pounds of the cheaper kind should they use in the mix?
+What do They wish? --> 35 pounds of feed worth 0 . 36 dollars per pound
+What do Tim and Judy mix? --> two kinds of feed
+What do They wish to make? --> 35 pounds of feed worth 0 . 36 dollars per pound
+What do they use in the mix? --> how many pounds of the cheaper kind
+Where do they use How many pounds of the cheaper kind? --> in the mix
+Do Tim and Judy mix two kinds of feed for pedigreed dogs? --> tim and judy mix two kinds of feed for pedigreed dogs . they wish to make 35 pounds of feed worth 0 . 36 dollars per pound
+Do they use How many pounds of the cheaper kind in the mix? --> how many pounds
+How many kinds of feed for pedigreed dogs do Tim and Judy mix? --> two
+Do They wish to make 35 pounds of feed worth 0.36 dollars per pound? --> they wish to make 35 pounds of feed worth 0 . 36 dollars per pound by mixing one kind worth 0 . 18 dollars per pound with another worth 0 . 53 dollars per pound
+How do They wish to make 35 pounds of feed worth 0.36 dollars per pound? --> by mixing one kind worth 0 . 18 dollars per pound with another worth 0 . 53 dollars per pound
+What do They wish to make 35 pounds of feed worth 0.36 dollars per pound by? --> mixing one kind worth 0 . 18 dollars per pound with another worth 0 . 53 dollars per pound
+How many kind worth 0.18 dollars per pound with another worth 0.53 dollars per pound do They wish? --> one
+How many kind worth 0.18 dollars per pound with another worth 0.53 dollars per pound do wish to make by mixing 35 pounds of feed worth 0.36 dollars per pound? --> one
+Do They wish to make 35 pounds of feed worth 0.36 dollars per pound by mixing one kind worth 0.18 dollars per pound with another worth 0.53 dollars per pound? --> they wish to make 35 pounds of feed worth 0 . 36 dollars per pound by mixing one kind worth 0 . 18 dollars per pound with another worth 0 . 53 dollars per pound
+==> Solution Equation: 0.18*cheaper_feed+0.53*expensive_feed=35.0*0.36 and cheaper_feed+expensive_feed=35.0
+~~~
+
+*** How many liters of 5 % saline solution and 25 % saline solution must be mixed together to get 10 liters of 18 % saline solution?
+how many liters of 18 % saline solution do get? --> 10
+how many liters of 18 % saline solution must be mixed to get? --> 10
+==> Solution Equation: 0.05*five_saline+0.25*twentyfive_saline=0.18*10.0 and five_saline+twentyfive_saline=10.0
+~~~
+
+*** A mixture of water and antifreeze in a car is 10 % antifreeze. In colder climates this mixture should contain 50 % antifreeze. If the radiator contains 4 gallons of fluid , how many gallons of radiator fluid should be drained and replaced with a mixture containing 80 % antifreeze? 
+What does this mixture contain? --> water and antifreeze in a car is 10 % antifreeze
+What does the radiator contain? --> 4 gallons of fluid
+Does this mixture contain 50 % antifreeze? --> in colder climates
+Does the radiator contain 4 gallons of fluid? --> if the radiator contains 4 gallons of fluid
+Is a mixture of water and antifreeze in a car 10 % antifreeze? --> a mixture of water and antifreeze in a car is 10 % antifreeze
+Indicate characteristics of a mixture of water and antifreeze in a car. --> 10 % antifreeze
+Did how many gallons of radiator fluid replace with a mixture containing 80 % antifreeze? --> 4 gallons
+Should how many gallons of radiator fluid be drained with a mixture containing 80 % antifreeze? --> 4 gallons of fluid , how many gallons
+==> Solution Equation: 0.10*ten_antifreeze+0.80*eighty_antifreeze=4.0*0.50 and ten_antifreeze+eighty_antifreeze=4.0
+~~~
+
+*** A chemist has two solutions. One has 40 % the other 25 % concentrate. How many liters of each solution must be mixed to obtain 129 liters of 34 % solution?
+What does One has? --> 40 % the other 25 % concentrate
+What does a chemist has? --> two solutions
+Does a chemist has two solutions? --> a chemist has two solutions . one has 40 % the other 25 % concentrate
+How many solutions does a chemist has? --> two
+Does One has 40 % the other 25 % concentrate? --> one has 40 %
+How many liters of 34 % solution must be mixed to obtain? --> 129
+==> Solution Equation: 0.40*solution_one_liters+0.25*solution_two_liters=0.34*129.0 and solution_one_liters+solution_two_liters=129.0
+~~~
+
+*** A chemist has a solution that is 18 % alcohol and one that is 50 % alcohol. He wants to make 80 liters of a 30 % solution. How many liters of the 18 % solution should he add? How many liters of the 30 % solution should he add? 
+What do he add? --> how
+What does He want? --> to make 80 liters of a 30 % solution
+Is one 50 % alcohol? --> 50 % alcohol
+What does a chemist has? --> a solution that is 18 % alcohol and one that is 50 % alcohol
+How many is 50 % alcohol? --> 80
+What does He want to make? --> 80 liters
+How would you describe one? --> 18 % alcohol and one that is 50 % alcohol
+How would you describe a solution? --> 18 % alcohol and one that is 50 % alcohol
+How many that is 50 % alcohol is a solution? --> 80
+Do he add How many liters of the 18 % solution? --> how many liters
+Do he add How many liters of the 30 % solution? --> 80
+How many liters of a 30 % solution does He want? --> 80
+How many that is 50 % alcohol does a chemist has? --> 80
+Does He want to make 80 liters of a 30 % solution? --> he wants to make 80
+How many liters of a 30 % solution does He want to make? --> 80
+Is a solution 18 % alcohol and one that is 50 % alcohol? --> a chemist has a solution that is 18 % alcohol and one that is 50 % alcohol
+Does a chemist has a solution that is 18 % alcohol and one that is 50 % alcohol? --> a chemist has a solution that is 18 % alcohol and one that is 50 % alcohol
+==> Solution Equation: 0.18*eighteen_liters+0.50*fifty_liters=0.30*80.0 and eighteen_liters+fifty_liters=80.0
+~~~
+
+*** X pounds of candy valued at 3.50 dollars per pound is mixed with Y pounds of candy valued at 4.30 dollars per pound to produce 10 pounds of a mixture selling for 4 dollars per pound. Find X and Y , the number of pounds of each type. 
+Did X pounds of candy value at 3.50 dollars per pound? --> x pounds of candy valued at 3 . 50 dollars per pound is mixed with y pounds of candy valued at 4 . 30 dollars per pound
+Did Y pounds of candy value at 4.30 dollars per pound? --> y pounds of candy valued at 4 . 30 dollars per pound
+Do X pounds of Find X and Y, the number of pounds of each type? --> find x and y
+What do X pounds of candy valued at 3.50 dollars per pound produce? --> 10 pounds
+Do X pounds of candy valued at 3.50 dollars per pound produce 10 pounds of a mixture selling for 4 dollars per pound? --> mixed with y pounds of candy valued at 4 . 30 dollars per pound
+==> Solution Equation: 3.5*x+4.3*y=10.0*4.0 and x+y=10.0
+~~~
+
+*** The grocer has peanuts for 3.75 dollars a pound and walnuts for 2.75 dollars a pound. How many pounds of peanuts and walnuts must we mix to get 40 pounds of mixture to sell for 3.00 dollars per pound. 
+What do we mix to get? --> 40 pounds
+What does the grocer has? --> peanuts
+Do we mix How many pounds of peanuts and walnuts? --> how many pounds of peanuts and walnuts must we mix to get 40
+Do 40 pounds of mixture sell for 3.00 dollars per pound? --> how many pounds of peanuts and walnuts must we mix to get 40 pounds of mixture to sell for 3 . 00 dollars per pound
+Do we mix to get 40 pounds of mixture to sell for 3.00 dollars per pound? --> how many pounds of peanuts and walnuts
+Does the grocer has peanuts for 3.75 dollars a pound and walnuts for 2.75 dollars a pound . How many pounds of peanuts and walnuts must we mix to get 40 pounds of mixture to sell for 3.00 dollars per pound? --> the grocer has peanuts for 3 . 75 dollars a pound and walnuts for 2 . 75 dollars a pound . how many pounds of peanuts and walnuts must we mix to get 40
+==> Solution Equation: 3.75*peanuts+2.75*walnuts=3.0*40.0 and peanuts+walnuts=40.0
+~~~
+
+*** One solution contains 50 % alcohol and another solution contains 80 % alcohol. How many liters of 50 % alcohol and 80 % alcohol should be mixed to produce 10.5 liters of a 70 % alcohol solution?
+What does one solution contain? --> 50 % alcohol
+What does another solution contain? --> 80 % alcohol
+Does one solution contain 50 % alcohol? --> one solution contains 50 % alcohol
+Does another solution contain 80 % alcohol? --> 10
+How many solution does contain 50 % alcohol? --> one
+How many liters of a 70 % alcohol solution should be mixed to produce? --> 10 . 5
+==> Solution Equation: 0.50*fifty_alcohol+0.80*eighty_alcohol=0.70*10.5 and fifty_alcohol+eighty_alcohol=10.5
+~~~
+
+*** A candy store wishes to mix 2 types of candy to get 5 pounds of 2 dollars per pound candy. If candy A costs 3.20 dollars per pound and candy B costs 1.70 dollars per pound , how many pounds of candy A and candy B should be mixed? 
+What does a candy store get? --> 5 pounds of 2 dollars per pound candy
+What does a candy store wish? --> to mix 2 types of candy
+What should a candy store be mix? --> 2 types of candy
+Should a candy store be mix 2 types of candy? --> a candy store wishes to mix 2 types of candy to get 5 pounds
+Should how many pounds of candy a and candy B be mixed? --> how many pounds
+Does a candy store get 5 pounds of 2 dollars per pound candy? --> a candy store wishes to mix 2 types of candy
+Indicate characteristics of how many pounds of candy a and candy B. --> if candy a costs 3 . 20 dollars per pound and candy b costs 1 . 70 dollars per pound
+Does a candy store wish pound, how many pounds of candy a and candy B should be mixed? --> if candy a costs 3 . 20 dollars per pound and candy b costs 1 . 70 dollars per pound
+==> Solution Equation: 3.2*candy_A+1.7*candy_B=5.0*2.0 and candy_A+candy_B=5.0
+~~~
+
+*** a grocer wants to mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo. How many kilos of each should he mix to get a mixture of 42 kilos?
+What do he mix? --> nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo . how many kilos of each should he mix to get a mixture of 42 kilos
+What do he mix to get? --> 42 kilos
+What does a grocer mix? --> nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo . how many kilos of each should he mix to get a mixture of 42 kilos
+What does a grocer want? --> to mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo
+How many kilos do he mix to get? --> 42
+Do he mix How many kilos of each? --> how many kilos
+How many kilos does a grocer want? --> 42
+How many per kilo could nuts sell? --> rs 5
+Could nuts sell for rs 7 per kilo? --> rs 5 per kilo
+How many per kilo does a grocer mix? --> rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo . how many kilos of each should he mix to get a mixture of 42
+How many per kilo could a mixture sell? --> rs 5
+Could a mixture sell for rs 5 per kilo? --> 42
+Do he mix to get a mixture of 42 kilos? --> how many kilos
+How many per kilo does make a mixture which could sell for rs? --> 5
+How many kilos do mix to get a mixture of How many kilos of each? --> 42
+How many per kilo in order to make a mixture which could sell for rs 5 per kilo do a grocer mix? --> rs 7
+How many per kilo in order to make a mixture which could sell for rs 5 per kilo could nuts sell? --> rs 7 per kilo
+How many per kilo . How many kilos of each should he mix to get a mixture of 42 kilos does a grocer want? --> how many
+How many per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo do a grocer mix? --> rs 4 per kilo
+How many per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo could nuts sell? --> rs 4 per kilo
+Could nuts sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo? --> mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo . how many kilos of each should he mix to get a mixture of 42
+Does a grocer mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo? --> a grocer wants to mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo . how many kilos of each should he mix to get a mixture of 42 kilos
+How many per kilo in order to make a mixture which could sell for rs 5 per kilo . How many kilos of each should he mix to get a mixture of 42 kilos does a grocer want? --> how many
+Does a grocer want to mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo . How many kilos of each should he mix to get a mixture of 42 kilos? --> how many kilos of each should he mix to get a mixture of 42
+==> Solution Equation: 4.0*four_nuts+7.0*seven_nuts=42.0*5.0 and four_nuts+seven_nuts=42.0
+~~~
+
+*** How many milliliters of a 10 % HCL solution should be combined with a 60 % HCL solution in order to get 50 milliliters of a 30 % HCL solution?
+how many milliliters of a 30 % HCL solution do get? --> 50
+Should how many milliliters of a 10 % HCL solution be combined with a 60 % HCL solution? --> how many milliliters
+Where should how many milliliters of a 10 % HCL solution be combined with a 60 % HCL solution? --> 50
+Where should how many milliliters of a 10 % HCL solution be combined % HCL with a 60 % HCL % HCL? --> 50
+how many milliliters of a 30 % HCL solution should be combined in order to get with a 60 % HCL solution? --> 50
+==> Solution Equation: 0.10*ml_ten_HCL+0.60*ml_sixty_HCL=0.30*50.0 and ml_ten_HCL+ml_sixty_HCL=50.0
+~~~
+
+*** Maria added a white vinegar solution of acetic acid in water. There are 2 strengths of white vinegar, a 5 % solution and a 10 % solution. How many milliliters of the 5 % solution and the 10% solution must she mix to make 50 milliliters of a 9 % vinegar solution?
+What do she mix? --> white vinegar solution of acetic acid in water
+What did Maria add in water? --> white vinegar solution of acetic acid
+Where did Maria add a white vinegar solution of acetic acid? --> water
+Who did add a white vinegar solution of acetic acid in water? --> maria
+Did Maria add a white vinegar solution of acetic acid in water? --> maria added a white vinegar solution of acetic acid in water
+How many milliliters of a 9 % vinegar solution does mix to make? --> 50
+Do she mix How many milliliters of the 5 % solution and the 10 % solution? --> 50
+How many strengths of white vinegar, a 5 % solution and a 10 % solution are? --> 2
+How many milliliters of a 9 % vinegar solution does mix to make How many milliliters of the 5 % solution and the 10 % solution? --> 50
+==> Solution Equation: 0.05*five_solution+0.10*ten_solution=0.09*50.0 and five_solution+ten_solution=50.0
+~~~
+
+*** Joey makes 100 pounds of a coffee mix. Columbian coffee selling for 8.75 dollars per pound is mixed with Brazilian coffee selling for 3.75 dollars per pound. The final mix sells for 6.35 dollars per pound. How much of each type of coffee is used in the mix?
+What does Joey make? --> 100 pounds of a coffee mix
+Does Joey make 100 pounds of a coffee mix? --> joey makes 100 pounds of a coffee mix .
+Where is How much of each type of coffee used? --> in the mix
+Does The final mix sell for 6.35 dollars per pound? --> the final mix sells for 6 . 35 dollars per pound
+Does Columbian coffee selling for 8.75 dollars per pound? --> columbian coffee selling for 8 . 75 dollars per pound is mixed with brazilian coffee selling for 3 . 75 dollars per pound
+Indicate characteristics of Columbian coffee selling for 8.75 dollars per pound. --> columbian coffee selling for 8 . 75 dollars per pound is mixed with brazilian coffee selling for 3 . 75 dollars per pound
+Is Columbian coffee selling for 8.75 dollars per pound mixed with Brazilian coffee selling for 3.75 dollars per pound? --> mixed with brazilian coffee selling for 3 . 75 dollars per pound
+==> Solution Equation: 8.75*columbian+3.75*brazilian=100.0*6.35 and columbian+brazilian=100.0
+~~~
+
+*** To make 10 kilograms of aluminum alloy with 60 % aluminum , a scientist wants to use 2 metals with 45 % and 70 % aluminum content respectively. How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix?
+What do she mix? --> how many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum
+What does a scientist want? --> to make 10 kilograms of aluminum alloy with 60 % aluminum , a scientist wants to use 2 metals
+What does a scientist make to? --> 10 kilograms of aluminum alloy with 60 % aluminum
+What does a scientist want to use? --> 2 metals
+Does a scientist make to 10 kilograms of aluminum alloy? --> a scientist wants to use 2 metals with 45 % and 70 % aluminum content
+How does a scientist make to 10 kilograms of aluminum alloy? --> use 2 metals with 45 % and 70 % aluminum content
+Does a scientist want to use 2 metals with 45 % and 70 % aluminum content respectively? --> a scientist wants to use 2 metals with 45 % and 70 % aluminum content
+Do she mix How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum? --> how many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix
+How many metals with 45 % and 70 % aluminum content respectively does a scientist want to use? --> 2
+How many metals with 45 % and 70 % aluminum content respectively . How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix does a scientist want? --> 2
+Does a scientist want to use 2 metals with 45 % and 70 % aluminum content respectively . How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix? --> how
+==> Solution Equation: 0.45*fortyfive_aluminum+0.70*seventy_aluminum=10.0*0.60 and fortyfive_aluminum+seventy_aluminum=10.0
+~~~
+
+*** A chemist is mixing a solution that is 32 % sodium and another solution that is 12 % sodium. How many liters of 32 % and 12 % solution should the chemist use to produce 50 liters of the solution that is 20 % sodium?
+Is the solution 20 % sodium? --> 50
+What does the chemist produce? --> 50 liters
+Is another solution 12 % sodium? --> 50
+How would you describe a solution? --> 32 % sodium
+How would you describe the solution? --> 32 % sodium
+How would you describe another solution? --> 12 % sodium
+Is a solution 32 % sodium and another solution that is 12 % sodium? --> mixing
+Does the chemist produce 50 liters of the solution that is 20 % sodium? --> how many liters of 32 % and 12 % solution
+How many liters of the solution that is 20 % sodium does the chemist produce? --> 50
+==> Solution Equation: 0.32*thirtytwo_solution+0.12*twelve_solution=0.20*50.0 and thirtytwo_solution+twelve_solution=50.0
+~~~
+
+*** White vinegar is a solution of acetic acid in water. There are two strengths of white vinegar , a 5 % solution and a 10 % solution. How many milliliters of each solution must be mixed to make 50 milliliters of a 9 % vinegar solution? 
+How would you describe white vinegar? --> a solution of acetic acid in water
+Is white vinegar a solution of acetic acid in water? --> white vinegar is a solution of acetic acid in water . there are two strengths of white vinegar
+How many milliliters of a 9 % vinegar solution must be mixed to make? --> 50
+How many strengths of white vinegar, a 5 % solution and a 10 % solution are? --> two
+==> Solution Equation: 0.05*five_vinegar+0.10*ten_vinegar=0.09*50.0 and five_vinegar+ten_vinegar=50.0
+~~~
+
+*** A 40 % acid solution and a 55 % acid solution must be mixed to produce 60 liters of a 45 % acid solution. How many liters of 40 % acid solution should be used? How many liters of 55 % acid solution should be used?
+How many liters of a 45 % acid solution must be mixed to produce? --> 60
+==> Solution Equation: 0.40*forty_acid+0.55*fiftyfive_acid=0.45*60 and forty_acid+fiftyfive_acid=60.0
+~~~
+
+*** A petroleum company has two different sources of crude oil. The first source provides crude oil that is 25 % hydrocarbons and the second one provides crude oil that is 75 % hydrocarbons. In order to obtain 50 gallons of crude oil that is 55 % hydrocarbons , how many gallons of crude oil must be used from each of the two sources? 
+Is crude oil 25 % hydrocarbons? --> the first source provides crude oil that is 25 % hydrocarbons
+Is crude oil 75 % hydrocarbons? --> the second one provides crude oil that is 75 % hydrocarbons
+Is crude oil 55 % hydrocarbons? --> 50 gallons
+What does the second one provide? --> crude oil that is 75 % hydrocarbons
+How would you describe crude oil? --> 25 % hydrocarbons
+What does a petroleum company has? --> two different sources of crude oil
+What does The first source provide? --> crude oil that is 25 % hydrocarbons
+Where must how many gallons of crude oil be used? --> each of the two sources
+Does a petroleum company has two different sources of crude oil? --> a petroleum company has two different sources of crude oil
+Does the second one provide crude oil that is 75 % hydrocarbons? --> the second one provides crude oil that is 75 % hydrocarbons
+Does The first source provide crude oil that is 25 % hydrocarbons? --> the first source provides crude oil that is 25 % hydrocarbons
+How many different sources of crude oil does a petroleum company has? --> two
+How many does provide the second crude oil that is 75 % hydrocarbons? --> 50 gallons
+How many different sources of crude oil does a petroleum company has? --> two
+How many sources must be used from each of from each of the two sources? --> how many gallons
+==> Solution Equation: 0.25*first_source+0.75*second_source=50.0*0.55 and first_source+second_source=50.0
+~~~
+
+*** A 40 % sugar solution is added to an 85 % sugar solution to create 1800 milliliters of a 60 % solution. How many milliliters of the 40 % solution should be used? How many millileters of the 85 % solution?
+How many milliliters of a 60 % solution does create? --> 1800
+Is a 40 % sugar solution added to an 85 % sugar solution? --> 1800
+For what purpose is a 40 % sugar solution added to an 85 % sugar solution? --> to create 1800 milliliters of a 60 % solution
+How many milliliters of a 60 % solution is added to create to an 85 % sugar solution? --> 1800
+==> Solution Equation: 0.40*forty_solution+0.85*eightyfive_solution=0.60*1800 and forty_solution+eightyfive_solution=1800.0
+~~~
+
+*** A merchant wants to combine peanuts selling 2.40 dollars per pound and cashews selling for 6.00 dollars per pound to form 60 pounds which will sell at 3.00 dollars per pound. What amount of peanuts and what amount of cashews must be used?
+What does a merchant want? --> to combine peanuts selling 2 . 40 dollars per pound and cashews selling for 6 . 00 dollars per pound to form 60 pounds
+Will 60 pounds sell at 3.00 dollars per pound? --> peanuts selling 2 . 40 dollars per pound and cashews selling for 6 . 00 dollars per pound
+Does a merchant want to combine of cashews must be used? --> peanuts selling 2 . 40 dollars per pound and cashews selling for 6 . 00 dollars per pound to form 60 pounds which will sell at 3 . 00 dollars per pound . what amount of peanuts and what amount of cashews must be used
+Does a merchant want to combine peanuts selling 2.40 dollars per pound and cashews selling for 6.00 dollars per pound to form 60 pounds which will sell at 3.00 dollars per pound . What amount of peanuts and what amount of cashews must be used? --> what amount of peanuts and what amount of cashews must be used
+==> Solution Equation: 2.4*peanut_pounds+6.0*cashew_pounds=60.0*3.0 and peanut_pounds+cashew_pounds=60.0
+~~~
+
+*** E-Chem Testing has a solution that is 80 % base and another that is 30 % base. A technician needs 150 liters of a solution that is 62 % base. The 150 liters will be prepared by mixing the two solutions on hand. How much of the 80 % base and the 30 % base should be used?
+Is another 30 % base? --> 30 % base
+Is a solution 80 % base? --> a solution that is 80 % base
+Is a solution 62 % base? --> a solution that is 62 % base
+What does A technician need? --> 150 liters of a solution that is 62 % base
+What does E - Chem Testing has? --> a solution that is 80 % base and another that is 30 % base
+How would you describe another? --> 30 % base
+How would you describe a solution? --> 80 % base and another that is 30 % base
+How will The 150 liters be prepared? --> by mixing the two solutions on hand
+How many liters will be prepared The? --> 150
+What will The 150 liters be prepared by? --> mixing the two solutions on hand
+How many solutions on hand will be prepared by mixing? --> 150 liters
+Does A technician need 150 liters of a solution that is 62 % base? --> a technician needs 150 liters of a solution that is 62 % base
+How many liters of a solution that is 62 % base does A technician need? --> 150
+Does E - Chem Testing has a solution that is 80 % base and another that is 30 % base? --> e - chem testing has a solution that is 80 % base and another that is 30 % base .
+==> Solution Equation: 0.80*eighty_base+0.30*thirty_base=0.62*150.0 and eighty_base+thirty_base=150.0
+~~~
+
+*** To make a weak solution of 24 liters of 4 % acid , a lab technician will use some premixed solutions : one is 2 % acid and the other is 5 % acid. How many liters of each , respectively , should he use to obtain the desired solution? 
+Is one 2 % acid? --> one
+How many is 2 % acid? --> 24
+Is the other 5 % acid? --> 24
+What do he use to obtain? --> how many liters of each , respectively , should he use to obtain the desired solution
+How would you describe one? --> 2 % acid and the other is 5 % acid
+What does a lab technician use? --> premixed solutions
+How would you describe the other? --> 5 % acid
+What does a lab technician make to? --> a weak solution of 24 liters of 4 % acid
+Do he use to obtain the desired solution? --> how many liters
+Do he use How many liters of each, respectively? --> 24
+Does a lab technician use some premixed solutions? --> 24
+How many liters of 4 % acid do a lab technician make to? --> 24
+Does a lab technician make to a weak solution of 24 liters of 4 % acid? --> premixed solutions
+How many liters of 4 % acid do use to make a weak solution of some premixed solutions? --> 24
+==> Solution Equation: 0.02*two_acid+0.05*five_acid=0.04*24.0 and two_acid+five_acid=24.0
+~~~
+
+*** Soybean meal is 16 % protein ; cornmeal is 8 % protein. How many pounds of each should be mixed together in order to get a 320-pound mixture that is 13 % protein?
+Is cornmeal 8 % protein? --> cornmeal is 8 %
+Is soybean meal 16 % protein? --> soybean meal is 16 % protein
+How would you describe cornmeal? --> 8 % protein
+How many mixture is a 13 % protein? --> 320
+How would you describe soybean meal? --> 16 % protein
+Is a 320-pound mixture 13 % protein? --> how many pounds
+How would you describe a 320-pound mixture? --> 13 % protein
+How many mixture that is 13 % protein does get a? --> 320 - pound
+How many mixture that is 13 % protein should be mixed in order to get a? --> 320 - pound
+==> Solution Equation: 0.16*soybean_meal+0.08*cornmeal=320.0*0.13 and soybean_meal+cornmeal=320.0
+~~~
+
+*** The Coffee Counter charges 9.00 dollars per pound for Kenyan French Roast coffee and 8.00 dollars per pound for Sumatran coffee. How many pounds of Kenyan French Roast and Sumatran should be used to make a 20-pound blend that sells for 8.40 dollars per pound?
+What does The Coffee Counter charge? --> 9 . 00 dollars per pound
+How many blend does sell a for 8.40 dollars per pound? --> 20 - pound
+Does a 20-pound blend sell for 8.40 dollars per pound? --> how many pounds
+Where does The Coffee Counter charge 9.00 dollars per pound? --> kenyan french roast coffee
+What should How many pounds of Kenyan French Roast and Sumatran be used? --> make a 20 - pound blend
+How many blend that sells for 8.40 dollars per pound should be used to make a? --> 20 - pound
+How many blend that sells for 8.40 dollars per pound does The Coffee Counter charge? --> 20 - pound
+Where does The Coffee Counter charge 9.00 dollars per pound for Kenyan French Roast coffee and 8.00 dollars per pound? --> sumatran coffee
+How many blend that sells for 8.40 dollars per pound should How many pounds of Kenyan French Roast and Sumatran be used? --> 20
+Should How many pounds of Kenyan French Roast and Sumatran be used to make a 20-pound blend that sells for 8.40 dollars per pound? --> how many pounds
+Does The Coffee Counter charge 9.00 dollars per pound for Kenyan French Roast coffee and 8.00 dollars per pound for Sumatran coffee . How many pounds of Kenyan French Roast and Sumatran should be used to make a 20-pound blend that sells for 8.40 dollars per pound? --> the coffee counter charges 9 . 00 dollars per pound for kenyan french roast coffee and 8 . 00 dollars per pound for sumatran coffee
+==> Solution Equation: 9.0*kenyan+8.0*sumatran=20.0*8.4 and kenyan+sumatran=20.0
+~~~
+
+*** A chemist has two acid solutions. One solution is 20 % pure acid and the other is 60 % pure acid. How much of 20 % pure acid and 60 % pure acid is needed to produce 80 square-centimeters of a solution that is 45 % pure acid?
+What does a chemist has? --> two acid solutions
+Is the other 60 % pure acid? --> 60 % pure acid
+Is a solution 45 % pure acid? --> how much of 20 % pure acid and 60 % pure acid is needed to produce 80 square - centimeters
+Is One solution 20 % pure acid? --> one solution is 20 % pure acid
+How would you describe the other? --> 60 % pure acid
+How would you describe a solution? --> 20 % pure acid and the other is 60 % pure acid . how much of 20 % pure acid and 60 % pure acid is needed to produce 80 square - centimeters
+How would you describe One solution? --> 20 % pure acid
+How many solution is 20 % pure acid? --> two
+Does a chemist has two acid solutions? --> a chemist has two acid solutions . one solution is 20 % pure acid and the other is 60 % pure acid
+How many acid solutions does a chemist has? --> two
+For what purpose is How much of 20 % pure acid and 60 % pure acid needed? --> to produce 80 square - centimeters
+==> Solution Equation: 0.20*twenty_acid+0.60*sixty_acid=0.45*80.0 and twenty_acid+sixty_acid=80.0
+~~~
+
+*** A cosmetologist has a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution. The cosmetologist needs 300 milliliters of a 5 % hydrogen peroxide solution. Find how many milliliters of each solution the cosmetologist needs to mix together.
+What does a cosmetologist has? --> a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution
+What does the cosmetologist mix? --> 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution
+What does The cosmetologist need? --> 300 milliliters of a 5 % hydrogen peroxide solution
+What does the cosmetologist need? --> 300 milliliters of a 5 % hydrogen peroxide solution
+Does the cosmetologist mix how many milliliters of each solution? --> find how many milliliters of each solution the cosmetologist needs to mix together
+Does the cosmetologist need how many milliliters of each solution? --> 300
+How does the cosmetologist mix how many milliliters of each solution? --> find how many milliliters of each solution the cosmetologist needs to mix together
+Does The cosmetologist need 300 milliliters of a 5 % hydrogen peroxide solution? --> the cosmetologist needs 300 milliliters of a 5 % hydrogen peroxide solution
+How many milliliters of a 5 % hydrogen peroxide solution does The cosmetologist need? --> 300
+Does a cosmetologist has a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution? --> a cosmetologist has a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution .
+==> Solution Equation: 0.07*seven_peroxide+0.04*four_peroxide=0.05*300.0 and seven_peroxide+four_peroxide=300.0
+~~~
+
