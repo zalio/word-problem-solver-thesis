@@ -15,7 +15,7 @@ https://github.com/OnurKeklik/Qg-Iztech
 - SVAMP762 (762 math problems)
 - SVAMP1000 (1000 math problems)
 
-## Steps for Replication Our Paper's Results
+## Steps for Replication of Our Paper's Results
 
 1. Generate questions from the math problems:
 - Select one of the datasets.
