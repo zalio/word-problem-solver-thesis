@@ -1,0 +1,1096 @@
+*** They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs, How many chairs do they have in the backyard?
+What do they have? --> if they have 11 sets of tables and each set has 13 chairs
+What did they decide? --> they decided to hold the party in their backyard
+What does each set has? --> 13
+Does each set has 13 chairs? --> 13
+Do they have 11 sets of tables? --> 13
+What do they have in the backyard? --> how many chairs
+How many chairs does each set has? --> 13
+Where do they have How many chairs? --> how
+How many sets of tables do they have? --> 11
+Where did they decide to hold the party? --> in their backyard
+Do they have How many chairs in the backyard? --> 13
+What did they decide to hold in their backyard? --> they decided to hold the party in their backyard . if they have 11 sets of tables and each set has 13
+Did they decide to hold the party in their backyard? --> 13
+How many chairs, How many chairs do they have in the backyard did they decide? --> 13
+How many sets of tables and each set has 13 chairs, How many chairs do they have in the backyard did they decide? --> 11
+Did they decide to hold the party in their backyard . If they have 11 sets of tables and each set has 13 chairs, How many chairs do they have in the backyard? --> 13
+==> Solution Equation: 11*13=x
+~~~
+
+*** An industrial machine worked for 5 minutes. It can make 4 shirts a minute. How many shirts did machine make?
+What do It make? --> it can make 4 shirts a minute
+What does machine make? --> 4 shirts a minute
+Do It make 4 shirts a minute? --> 4
+Does machine make How many shirts? --> 4
+How many shirts a minute do It make? --> 4
+When did an industrial machine work? --> 5 minutes
+==> Solution Equation: 4*5=x
+~~~
+
+*** Luke played 177 rounds of a trivia game. If he gained 46 points in each round, How many points did he score in the game?
+What did Luke play? --> 177 rounds
+Where did he gain 46 points? --> if he gained 46 points in each round
+What do he score in the game? --> how many points
+What did he gain in each round? --> 46
+Where do he score How many points? --> how
+Did he gain 46 points in each round? --> luke played 177
+Do he score How many points in the game? --> 46
+Who did play 177 rounds of a trivia game? --> luke
+How many points did he gain in each round? --> 46
+Did Luke play 177 rounds of a trivia game? --> 46
+How many rounds of a trivia game did Luke play? --> 177
+How many points in each round, How many points did he score in the game did play If he gained 177 rounds of a trivia game? --> 46
+==> Solution Equation: 177*46=x
+~~~
+
+*** Matthew had some crackers. If Matthew gave 2 crackers to each of his 11 friends, How many crackers did Matthew have?
+What do Matthew have? --> matthew had some crackers
+What did Matthew have? --> some crackers
+What did Matthew give? --> 2
+Who did give 2 crackers? --> matthew
+Who did have some crackers? --> matthew
+Did Matthew give 2 crackers? --> 11
+Who do have How many crackers? --> matthew
+Did Matthew have some crackers? --> 2
+Do Matthew have How many crackers? --> 2 crackers to each of his 11
+How many crackers did Matthew give? --> 2
+What did give to each of his 11 friends 2 crackers? --> matthew gave 2
+How many friends did give to each of his 2 crackers? --> 11
+==> Solution Equation: 11*2=x
+~~~
+
+*** If each bag has 41 cookies and you had 53 bags of cookies, How many cookies would you have?
+What do you have? --> 53
+What did you have? --> 53
+What does each bag has? --> 41
+Does each bag has 41 cookies? --> 53
+Do you have How many cookies? --> 41
+Did you have 53 bags of cookies? --> 41
+How many cookies does each bag has? --> 41
+How many bags of cookies did you have? --> 53
+==> Solution Equation: 53*41=x
+~~~
+
+*** The Razorback shop makes $ 5 dollars off each jersey and $ 215 off each t-shirt. During the Arkansas and Texas tech game they sold 20 t-shirts and 64 jerseys. How much money did they make from selling the t-shirts?
+What do they make? --> the razorback shop makes $ 5 dollars off each jersey and $ 215 off each t - shirt
+What do they make from? --> the razorback shop makes $ 5 dollars off each jersey and $ 215 off each t - shirt
+Do they make How much money? --> $ 5 dollars off each jersey and $ 215
+Why do they make How much money? --> the razorback shop makes $ 5 dollars off each jersey and $ 215 off each t - shirt
+What does the Razorback shop make? --> the razorback shop makes $ 5 dollars off each jersey and $ 215 off each t - shirt
+When did they sell 20 t - shirts and 64 jerseys? --> during the arkansas and texas tech game
+What did they sell During the Arkansas and Texas tech game? --> 20 t - shirts and 64 jerseys
+How many jerseys did they sell During the Arkansas and Texas tech game? --> 64
+Did they sell 20 t - shirts and 64 jerseys During the Arkansas and Texas tech game? --> $ 5 dollars off each jersey and $ 215
+Does the Razorback shop make $ 5 dollars off each jersey and $ 215 off each t - shirt? --> $ 5 dollars off each jersey and $ 215
+Where did they sell 20 t - shirts and 64 jerseys During the Arkansas and Texas tech game? --> $ 5 dollars off each jersey and $ 215
+How many t - shirts and 64 jerseys did they sell During the Arkansas and Texas tech game? --> 20
+==> Solution Equation: 215*20=x
+~~~
+
+*** Emily is making bead necklaces for her friends where each necklace takes 5 beads. She made 4 necklaces. How many beads did Emily have?
+What did She make? --> 4 necklaces
+What do Emily have? --> 5 beads . she made 4 necklaces . how many beads
+Did She make 4 necklaces? --> 5
+Who do have How many beads? --> 5
+Do Emily have How many beads? --> 5
+How many necklaces did She make? --> 4
+What does each necklace take where? --> 5 beads
+Where does each necklace take 5 beads? --> emily is making bead necklaces for her friends where each necklace takes 5 beads . she made 4
+Does each necklace take 5 beads where? --> emily is making bead necklaces for her friends
+How many beads does each necklace take where? --> 5
+Where is Emily making bead necklaces for her friends? --> 5 beads
+What is Emily making where each necklace takes 5 beads? --> emily is making bead necklaces
+Who is making bead necklaces for her friends where each necklace takes 5 beads? --> emily
+Is Emily making bead necklaces for her friends where each necklace takes 5 beads? --> emily
+How many beads is making where each necklace takes bead necklaces for her friends where each necklace takes 5 beads? --> emily
+==> Solution Equation: 4*5=x
+~~~
+
+*** Faye was placing her pencils into 14 rows with 11 pencils in each row. How many pencils does she have?
+What do she have? --> 11
+What was Faye placing? --> 11
+Was Faye placing her pencils? --> 11
+Do she have How many pencils? --> 11
+How many rows was placing into her pencils? --> 14
+How many pencils in each row was placing with her pencils? --> 11
+==> Solution Equation: 14*11=x
+~~~
+
+*** There are 6 baskets of peaches. Each basket has 16 red peaches and 18 green peaches. How many red peaches are in the baskets altogether?
+What does Each basket has? --> each basket has 16 red peaches and 18 green peaches
+How many baskets of peaches are? --> 6
+Are How many red peaches in the baskets? --> 16
+How would you describe How many red peaches? --> 16
+How many green peaches does Each basket has? --> 18
+Does Each basket has 16 red peaches and 18 green peaches? --> 6
+How many red peaches and 18 green peaches does Each basket has? --> 16
+==> Solution Equation: 16*6=x
+~~~
+
+*** There are 141 pots. Each pot has 71 flowers and 91 sticks in it. How many flowers are there in all?
+How many pots are? --> 141
+What does Each pot has in it? --> 71
+How many sticks does Each pot has in it? --> 91
+Where does Each pot has 71 flowers and 91 sticks? --> each pot has 71 flowers and 91 sticks in it
+Does Each pot has 71 flowers and 91 sticks in it? --> 71
+How many flowers and 91 sticks does Each pot has in it? --> 71
+==> Solution Equation: 141*71=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 38 sacks per day and that each sack containes 42 oranges. How many sacks of oranges will they have after 49 days of harvest?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 38 sacks per day and that each sack containes 42 oranges
+What do they harvest? --> 38 sacks per day
+What did he go to see? --> the oranges being harvested
+What does each sack containes? --> 42 oranges
+Do they harvest 38 sacks per day? --> 42 oranges
+Does each sack containes 42 oranges? --> 38
+How many sacks per day do they harvest? --> 38
+How many oranges does each sack containes? --> 42
+What do they have after 49 days of harvest? --> how many sacks of oranges
+When do they have How many sacks of oranges? --> how
+Did he go to see the oranges being harvested? --> 38
+Do they have How many sacks of oranges after 49 days of harvest? --> 38
+How many oranges . How many sacks of oranges will they have after 49 days of harvest did he find out? --> 42
+How many sacks per day and that each sack containes 42 oranges . How many sacks of oranges will they have after 49 days of harvest did he find out? --> 38
+Did he find out that they harvest 38 sacks per day and that each sack containes 42 oranges . How many sacks of oranges will they have after 49 days of harvest? --> how many
+==> Solution Equation: 38*49=x
+~~~
+
+*** Faye was placing her pencils into rows with 22 pencils in each row. She had 6 packs of pencils each one having 14 pencils. How many pencils does she have?
+What do she have? --> 22
+What did She have? --> she had 6 packs of pencils each one having 14 pencils
+What was Faye placing? --> 22 pencils in each row
+Was Faye placing her pencils? --> 22
+Do she have How many pencils? --> 22
+How many pencils did She have? --> 22
+How many having 14 pencils did She have? --> 6 packs
+How many pencils in each row was placing with her pencils? --> 22
+Did She have 6 packs of pencils each one having 14 pencils? --> faye
+How many packs of pencils each one having 14 pencils did She have? --> 6
+==> Solution Equation: 6*14=x
+~~~
+
+*** Emily is making bead necklaces for her friends. She made 11 necklaces and each necklace takes 28 beads. How many beads did Emily have?
+What did She make? --> 11
+What do Emily have? --> 28 beads . how many beads
+What is Emily making? --> 11
+Did She make 11 necklaces? --> 28
+Who do have How many beads? --> 28 beads
+What does each necklace take? --> 28
+Who is making bead necklaces? --> emily is making bead necklaces for her friends . she made 11 necklaces and each necklace takes 28
+Do Emily have How many beads? --> 28
+Is Emily making bead necklaces? --> 28
+How many necklaces did She make? --> 11
+Does each necklace take 28 beads? --> 28
+How many beads does each necklace take? --> 28
+==> Solution Equation: 11*28=x
+~~~
+
+*** A mailman has to give 9 pieces of junk mail to each house in each block. If there are 20 houses on a block, How many pieces of junk mail should he give in each block?
+What does a mailman give? --> 9
+What do he give in each block? --> 9
+How many houses on a block are? --> 20
+Does a mailman give 9 pieces of junk mail? --> 9
+Where do he give How many pieces of junk mail? --> 9
+How many pieces of junk mail do a mailman give? --> 9
+Do he give How many pieces of junk mail in each block? --> 9
+What does give to each house in each block 9 pieces of junk mail? --> a mailman
+==> Solution Equation: 9*20=x
+~~~
+
+*** Paige was helping her mom plant flowers and together they planted some seeds. They put 10 seeds in each flower bed. If there are 45 flowerbeds, How many seeds did they plant?
+What do They put? --> they put 10 seeds in each flower bed
+What do they plant? --> they put 10 seeds in each flower bed
+Do They put 10 seeds? --> paige was helping her mom plant flowers and together they planted some seeds . they put 10 seeds in each flower bed
+What did they planted? --> they put 10 seeds in each flower bed
+What was paige helping? --> paige was helping her mom plant flowers
+How many flowerbeds are? --> 45
+How many seeds do They put? --> 10
+Did they planted some seeds? --> paige was helping her mom plant flowers and together they planted some seeds . they put 10
+Do they plant How many seeds? --> 10
+How did they planted some seeds? --> paige was helping her mom plant flowers and together they planted some seeds
+Was paige helping her mom plant flowers? --> 10
+==> Solution Equation: 10*45=x
+~~~
+
+*** Frank had some pieces of candy. If he put them into 26 bags with 33 pieces in each bag, How many pieces of candy did he have?
+What did he put? --> if he put them into 26 bags
+What do he have? --> frank had some pieces of candy
+Did he put them? --> 26 bags
+What did Frank have? --> some pieces of candy
+Who did have some pieces of candy? --> frank
+Did Frank have some pieces of candy? --> 33
+Do he have How many pieces of candy? --> frank had some pieces of candy . if he put them into 26 bags with 33
+How many bags with 33 pieces in each bag did put into them? --> 26
+How many pieces in each bag did put into 26 bags with them? --> 33
+How many bags with 33 pieces in each bag did have If he put them into some pieces of candy? --> 26
+How many pieces in each bag did have If he put them into 26 bags with some pieces of candy? --> 33
+==> Solution Equation: 26*33=x
+~~~
+
+*** The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas game, How much money did they make from selling the t-shirts during the arkansas game?
+What do they make? --> $ 98 dollars off each t - shirt sold
+What do they make from? --> t - shirt sold
+Do they make How much money? --> $ 98 dollars
+When did they sell 89 t - shirts? --> if they sold 89 t - shirts during the arkansas game
+What did they sell during the Arkansas game? --> 89 t - shirts
+When did they sell a total of 163 t - shirts? --> during the arkansas game and the texas tech game
+Did they sell 89 t - shirts during the Arkansas game? --> $ 98 dollars
+Does the Razorback t - shirt shop make game they sold? --> $ 98 dollars off each t - shirt sold . during the arkansas game and the texas tech game they sold a total of 163 t - shirts
+Where did they sell 89 t - shirts during the Arkansas game? --> how
+How many t - shirts did they sell during the Arkansas game? --> 89
+What did they sell During the Arkansas game and the Texas tech game? --> 163 t - shirts
+How many t - shirts did they sell During the Arkansas game and the Texas tech game? --> 163
+What sold they 89 t-shirts during the Arkansas game, How much money did they make from? --> how much money did they make from selling the t - shirts during the arkansas game
+Did they sell a total of 163 t - shirts During the Arkansas game and the Texas tech game? --> $ 98 dollars
+Where did they sell a total of 163 t - shirts During the Arkansas game and the Texas tech game? --> the razorback t - shirt shop makes $ 98 dollars
+How many t - shirts during the Arkansas game, How much money did they make from selling the t - shirts during the arkansas game did sell If they sold a total of 163 t - shirts During the Arkansas game and the Texas tech game? --> how
+==> Solution Equation: 89*98=x
+~~~
+
+*** Brenda's mother made cookies for 14. If each of them had 30 cookies, How many cookies did she prepare?
+What do she prepare? --> brenda ' s mother made cookies for 14 . if each of them had 30 cookies , how many cookies
+What did each of them have? --> 30
+What did Brenda's mother make? --> 14
+How many did make for cookies? --> 14
+Do she prepare How many cookies? --> 14
+Did Brenda's mother make cookies? --> 14
+Did each of them have 30 cookies? --> 14
+How many cookies did each of them have? --> 30
+How many cookies did make If each of them had cookies? --> 30
+==> Solution Equation: 14*38=x
+~~~
+
+*** Rachel has 4 apple trees. She picked 7 apples from each of her trees. Now the trees have a total 29 apples still on them. How many apples did Rachel pick in all?
+What did She picked? --> 7
+What does Rachel has? --> rachel has 4 apple trees
+What do Rachel pick in? --> 7 apples
+Did She picked 7 apples? --> 7
+What do the trees have Now? --> 29
+Who does has 4 apple trees? --> rachel
+Does Rachel has 4 apple trees? --> 7
+How many apples did She picked? --> 7
+Who do pick in How many apples? --> rachel has 4 apple trees . she picked 7
+Do Rachel pick in How many apples? --> 7
+How many apple trees does Rachel has? --> 4
+How many apples still on them do the trees have Now? --> 29
+Do the trees have a total 29 apples still on them Now? --> rachel has 4 apple trees . she picked 7
+When do the trees have a total 29 apples still on them? --> now the trees have a total 29 apples still on them
+==> Solution Equation: 4*7=x
+~~~
+
+*** The Ferris wheel in paradise park has 2 small seats and 23 large seats. Each small seat can hold 14 people and large seat can hold 54 people. How many people can ride the Ferris wheel on small seats?
+What can large seat hold? --> 54
+What can Each small seat hold? --> 14
+Can large seat hold 54 people? --> 14
+Can Each small seat hold 14 people? --> 2 small seats and 23 large seats . each small seat can hold 14
+How many people can large seat hold? --> 54
+How many people can Each small seat hold? --> 14
+What can How many people ride on small seats? --> 14
+What does the Ferris wheel in paradise park has? --> the ferris wheel in paradise park has 2 small seats and 23 large seats
+Where can How many people ride the Ferris wheel? --> 14 people and large seat can hold 54 people . how many people can ride the ferris wheel on small seats
+Can How many people ride the Ferris wheel on small seats? --> 14
+How many large seats does the Ferris wheel in paradise park has? --> 23
+Does the Ferris wheel in paradise park has 2 small seats and 23 large seats? --> 14
+==> Solution Equation: 2*14=x
+~~~
+
+*** Frank was reading through his favorite book. He read 22 pages per day and it took him 569 days to finish the book. How many pages are there in the book?
+What did He read? --> 22 pages per day
+What do him finish? --> it took him 569 days
+Do him finish the book? --> 569 days
+Where are How many pages? --> 22 pages per day and it took him 569 days to finish the book . how many pages are there in the book
+What did take him 569 days? --> it took him 569 days to finish the book
+Did He read 22 pages per day? --> 22
+What did to finish the book take? --> 569 days
+How many pages per day did He read? --> 22
+Did to finish the book take 569 days? --> 22
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 22
+==> Solution Equation: 22*569=x
+~~~
+
+*** Bryan took a look at his books and magazines. If he has 9 books and 46 magazines in each of his 10 bookshelves, How many magazines does he have in total?
+What do he have? --> 46 magazines
+What did bryan take? --> a look at his books and magazines
+Do he have How many magazines? --> 46
+Where does he has 9 books and 46 magazines? --> if he has 9 books and 46 magazines in each of his 10 bookshelves
+What does he has in each of his 10 bookshelves? --> 46
+Did bryan take a look at his books and magazines? --> 46
+How many magazines does he has in each of his 10 bookshelves? --> 46
+Does he has 9 books and 46 magazines in each of his 10 bookshelves? --> bryan
+How many books and 46 magazines does he has in each of his 10 bookshelves? --> 9
+How many magazines in did take If he has 9 books and a look at his books and magazines? --> 46
+How many books and 46 magazines in did take If he has a look at his books and magazines? --> 9
+How many bookshelves does has in each of his 9 books and 46 magazines in each of his 10 bookshelves? --> bryan
+==> Solution Equation: 46*10=x
+~~~
+
+*** Shirley sold 25 cases of boxes of trefoils. How many boxes of trefoils does she need to deliver if each case has 14 boxes?
+What do she need? --> 14 boxes
+What did Shirley sell? --> 25
+Do she need to deliver? --> 14
+What does each case has? --> 14
+What do she need to deliver? --> how many boxes of trefoils does she need to deliver if each case has 14 boxes
+Does each case has 14 boxes? --> how
+How many boxes does each case has? --> 14
+Who did sell 25 cases of boxes of trefoils? --> shirley
+Did Shirley sell 25 cases of boxes of trefoils? --> 14
+Do she need to deliver How many boxes of trefoils? --> 14
+How many boxes do need if each case has to deliver? --> 14
+How many cases of boxes of trefoils did Shirley sell? --> 25
+==> Solution Equation: 25*14=x
+~~~
+
+*** We ordered 17 pizzas. Each pizza has 4 slices. If there are 25 of us, How many slices of pizza are there altogether?
+What did we order? --> 17 pizzas
+How many of us are? --> 25
+Did we order 17 pizzas? --> 4
+What does Each pizza has? --> 4 slices
+How many pizzas did we order? --> 17
+Does Each pizza has 4 slices? --> 4
+When are How many slices of pizza? --> 4
+How many slices does Each pizza has? --> 4
+How many of us does has If there are 4 slices? --> 25
+==> Solution Equation: 17*4=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day and that each sack containes 35 oranges. How many oranges do they harvest per day?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 8 sacks per day and that each sack containes 35 oranges
+What do they harvest? --> 8 sacks per day
+What did he go to see? --> the oranges being harvested
+What do they harvest per day? --> 8 sacks
+Do they harvest 8 sacks per day? --> 35
+Does 35 oranges containes each sack? --> 8 sacks per day and that each sack containes 35
+When do they harvest How many oranges? --> 8 sacks per day
+How many sacks per day do they harvest? --> 8
+Do they harvest How many oranges per day? --> 8 sacks per day and that each sack containes 35
+How many oranges does containes each sack? --> 35
+Did he go to see the oranges being harvested? --> 35
+How many oranges . How many oranges do they harvest per day did he find out? --> 35
+How many sacks per day and that each sack containes 35 oranges . How many oranges do they harvest per day did he find out? --> 8
+Did he find out that they harvest 8 sacks per day and that each sack containes 35 oranges . How many oranges do they harvest per day? --> how many
+==> Solution Equation: 8*35=x
+~~~
+
+*** The Ferris wheel in paradise park has 3 small seats and 7 large seats. Each small seat can hold 16 people and large seat can hold 12 people. How many people can ride the Ferris wheel on large seats?
+What can large seat hold? --> 12
+What can Each small seat hold? --> 16
+Can large seat hold 12 people? --> large seat can hold 12
+Can Each small seat hold 16 people? --> 12
+How many people can large seat hold? --> 12
+How many people can Each small seat hold? --> 16
+What can How many people ride on large seats? --> 12
+What does the Ferris wheel in paradise park has? --> the ferris wheel in paradise park has 3 small seats and 7 large seats
+Where can How many people ride the Ferris wheel? --> 12
+Can How many people ride the Ferris wheel on large seats? --> 12
+How many large seats does the Ferris wheel in paradise park has? --> 7
+Does the Ferris wheel in paradise park has 3 small seats and 7 large seats? --> 12
+How many small seats and 7 large seats does the Ferris wheel in paradise park has? --> 3
+==> Solution Equation: 7*12=x
+~~~
+
+*** There are 20 houses in a block. If a mailman has to give 32 pieces of junk mail to each house in each block, How many pieces of junk mail should he give each block?
+What do he give? --> 32
+What does a mailman give? --> 32
+How many houses in a block are? --> 20
+Do he give How many pieces of junk mail? --> 32
+Does a mailman give 32 pieces of junk mail? --> 32
+How many pieces of junk mail do a mailman give? --> 32
+What does give to each house in each block 32 pieces of junk mail? --> mailman has to give 32
+How many pieces of junk mail to each house in each block are If a mailman has to give? --> 32
+==> Solution Equation: 32*20=x
+~~~
+
+*** There are 7 baskets of peaches. Each basket has 10 red peaches and 2 green peaches. How many green peaches are in the baskets altogether?
+What does Each basket has? --> each basket has 10 red peaches and 2 green peaches
+How many baskets of peaches are? --> 7
+Are How many green peaches in the baskets? --> 2
+How many green peaches does Each basket has? --> 2
+How would you describe How many green peaches? --> 2
+Does Each basket has 10 red peaches and 2 green peaches? --> 7
+How many red peaches and 2 green peaches does Each basket has? --> 10
+==> Solution Equation: 2*7=x
+~~~
+
+*** A mailman has to give 4 pieces of junk mail to each house in each of the 81 blocks. If there are 12 houses in each block, How many pieces of junk mail should he give in each block?
+What do he give in each block? --> if
+How many houses in each block are? --> 12
+Where do he give How many pieces of junk mail? --> if
+Where does a mailman give 4 pieces of junk mail? --> a mailman has to give 4 pieces of junk mail to each house in each of the 81 blocks
+What does a mailman give in each of the 81 blocks? --> 4
+Do he give How many pieces of junk mail in each block? --> 4
+Does a mailman give 4 pieces of junk mail in each of the 81 blocks? --> 4
+How many pieces of junk mail do a mailman give in each of the 81 blocks? --> 4
+What does give to each house 4 pieces of junk mail in each of the 81 blocks? --> a mailman
+How many blocks do give in each of 4 pieces of junk mail in each of the 81 blocks? --> 12
+==> Solution Equation: 4*12=x
+~~~
+
+*** There are some bananas in Philip's banana collection. If the bananas are organized into 140 groups of size 187, How many bananas does he have in his collection?
+What do he have in his collection? --> how many bananas
+Where do he have How many bananas? --> how many bananas does he have in his collection
+How many are the bananas organized? --> 140
+Do he have How many bananas in his collection? --> philip ' s banana collection . if the bananas are organized into 140 groups of size 187
+How many groups of size 187 are the bananas organized? --> 140
+Are the bananas organized into 140 groups of size 187? --> 140 groups of size 187
+==> Solution Equation: 140*187=x
+~~~
+
+*** He also had 56 aquariums for saltwater animals and 10 aquariums for freshwater animals. Each aquarium has 39 animals in it. How many saltwater animals does Tyler have?
+What did he have? --> 56
+What do Tyler have? --> 56
+What does Each aquarium has? --> 39
+Does Each aquarium has 39 animals in it? --> 56
+Do Tyler have How many saltwater animals? --> 56
+How many animals in it does Each aquarium has? --> 39
+How many aquariums for freshwater animals did he have? --> 10
+Did he have 56 aquariums for saltwater animals and 10 aquariums for freshwater animals? --> 39
+How many aquariums for saltwater animals and 10 aquariums for freshwater animals did he have? --> 56
+==> Solution Equation: 56*39=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day. How many oranges do they harvest per day if each sack contains 28 oranges?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 66 sacks per day
+What do they harvest? --> 66 sacks per day
+What did he go to see? --> the oranges being harvested
+What does each sack contain? --> 28 oranges
+How many oranges did he find out? --> 66 sacks per day
+Do they harvest 66 sacks per day? --> 66 sacks per day . how many oranges do they harvest per day if each sack contains 28
+Do they harvest How many oranges? --> 66 sacks per day
+Does each sack contain 28 oranges? --> 66
+How many sacks per day do they harvest? --> 66
+How many oranges does each sack contain? --> 28
+Did he go to see the oranges being harvested? --> 66
+How many oranges do harvest if each sack contains How many oranges? --> 28
+How many sacks per day . How many oranges do they harvest per day if each sack contains 28 oranges did he find out? --> 66
+Did he find out that they harvest 66 sacks per day . How many oranges do they harvest per day if each sack contains 28 oranges? --> how many
+==> Solution Equation: 66*28=x
+~~~
+
+*** Adam could fit 10 action figures on each shelf in his room. His room has could hold 8 action figures. How many total shelves did his room have?
+What has His room could hold? --> 8 action figures
+What could adam fit in his room? --> adam could fit 10 action figures
+Where could adam fit 10 action figures? --> his
+Do his room have How many total shelves? --> his room has could hold 8
+Has His room could hold 8 action figures? --> 10
+Could adam fit 10 action figures in his room? --> adam could fit 10 action figures on each shelf
+How many action figures has His room could hold? --> 8
+How many action figures could adam fit in his room? --> 10
+==> Solution Equation: 8*10=x
+~~~
+
+*** The Razorback shop makes $ 76 dollars off each jersey and $ 204 off each t-shirt. During the Arkansas and Texas tech game they sold 158 t-shirts and 2 jerseys. How much money did they make from selling the jerseys?
+What do they make? --> the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t - shirt
+What do they make from? --> the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t - shirt
+Do they make How much money? --> $ 76 dollars
+Why do they make How much money? --> the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t - shirt
+What does the Razorback shop make? --> the razorback shop makes $ 76 dollars off each jersey and $ 204 off each t - shirt
+When did they sell 158 t - shirts and 2 jerseys? --> during the arkansas and texas tech game
+How many off each t - shirt does the Razorback shop make? --> $ 204
+What did they sell During the Arkansas and Texas tech game? --> they sold 158 t - shirts and 2 jerseys
+How many jerseys did they sell During the Arkansas and Texas tech game? --> 2
+Did they sell 158 t - shirts and 2 jerseys During the Arkansas and Texas tech game? --> $ 76 dollars
+Does the Razorback shop make $ 76 dollars off each jersey and $ 204 off each t - shirt? --> $ 76
+How many t - shirts and 2 jerseys did they sell During the Arkansas and Texas tech game? --> 158
+Where did they sell 158 t - shirts and 2 jerseys During the Arkansas and Texas tech game? --> the razorback shop makes $ 76 dollars
+==> Solution Equation: 76*2=x
+~~~
+
+*** Emily is making bead necklaces for her 44 friends. She made 26 necklaces and each necklace takes 2 beads. How many beads did Emily have?
+What did She make? --> 26
+What do Emily have? --> 26 necklaces and each necklace takes 2 beads . how many beads
+What is Emily making? --> 26
+Did She make 26 necklaces? --> 2
+Who do have How many beads? --> emily is making bead necklaces for her 44 friends . she made 26 necklaces and each necklace takes 2 beads
+What does each necklace take? --> 2 beads
+Who is making bead necklaces? --> emily
+Do Emily have How many beads? --> 2
+Is Emily making bead necklaces? --> 26
+How many necklaces did She make? --> 26
+Does each necklace take 2 beads? --> 26
+How many beads does each necklace take? --> 2
+How many friends is making for her bead necklaces? --> 44
+==> Solution Equation: 26*2=x
+~~~
+
+*** For the walls of the house John would use large planks of wood. Each plank needs 2 pieces of nails to be secured and he would use 16 planks. How many nails does John need for the house wall?
+What do he use? --> 16 planks
+What do John use? --> 16 planks
+What do John need? --> 16 planks . how many nails
+Do he use 16 planks? --> john would use large planks of wood . each plank needs 2 pieces of nails
+What does Each plank need? --> 2 pieces of nails
+How many planks do he use? --> 16
+Who do need How many nails? --> 16
+Do John need How many nails? --> 16
+Who do use large planks of wood? --> john
+Do John use large planks of wood? --> john
+How many pieces of nails be secured? --> 2
+Does Each plank need 2 pieces of nails to be secured? --> 16
+How many pieces of nails to be secured does Each plank need? --> 2
+==> Solution Equation: 16*2=x
+~~~
+
+*** Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day. How many drums of grapes would be filled in 146 days?
+What did he save? --> he saved checking on the grapevines for his last stop
+What would they be fill? --> 244 drums of grapes per day and 47 drums of raspberries per day
+How would you describe he? --> his favorite
+What was by 294 of the pickers told? --> he was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day
+Saved he checking on the grapevines? --> he saved checking on the grapevines for his last stop
+Did he save checking on the grapevines? --> 244
+When would How many drums of grapes be filled? --> 244
+How many drums of raspberries per day would they be fill? --> 47
+Would they be fill 244 drums of grapes per day and 47 drums of raspberries per day? --> he was told by 294 of the pickers
+How many drums of grapes per day and 47 drums of raspberries per day would they be fill? --> 244
+How many drums of raspberries per day . How many drums of grapes would be filled in 146 days was by 294 of the pickers told? --> 47
+How many drums of grapes per day and 47 drums of raspberries per day . How many drums of grapes would be filled in 146 days was by 294 of the pickers told? --> 244
+Was by 294 of the pickers told that they fill 244 drums of grapes per day and 47 drums of raspberries per day . How many drums of grapes would be filled in 146 days? --> how
+How many of the pickers was told by that they fill 244 drums of grapes per day and 47 drums of raspberries per day . How many drums of grapes would be filled in 146 days? --> 294
+==> Solution Equation: 244*146=x
+~~~
+
+*** A book has 31 chapters. Each chapter is 61 pages long. How many pages does the book have altogether?
+What does a book has? --> 31 chapters
+What do the book have? --> 61
+Does a book has 31 chapters? --> 61
+Is Each chapter 61 pages long? --> 61
+Do the book have How many pages? --> 61
+How many chapters does a book has? --> 31
+How many pages long is Each chapter? --> 61
+Indicate characteristics of Each chapter. --> 61
+==> Solution Equation: 31*61=x
+~~~
+
+*** Being his favorite, he saved checking on the grapevines for his last stop. He was told by 235 of the pickers that they fill 100 drums of raspberries per day and 221 drums of grapes per day. How many drums of grapes would be filled in 77 days?
+What did he save? --> he saved checking on the grapevines
+What would they be fill? --> they fill 100 drums of raspberries per day and 221 drums of grapes per day
+How would you describe he? --> his favorite
+What was by 235 of the pickers told? --> he was told by 235 of the pickers that they fill 100 drums of raspberries per day and 221 drums of grapes per day
+Saved he checking on the grapevines? --> he saved checking on the grapevines for his last stop
+Did he save checking on the grapevines? --> he saved checking on the grapevines for his last stop
+When would How many drums of grapes be filled? --> 221
+How many drums of grapes per day would they be fill? --> 221
+Would they be fill 100 drums of raspberries per day and 221 drums of grapes per day? --> he was told by 235 of the pickers
+How many drums of raspberries per day and 221 drums of grapes per day would they be fill? --> 100
+How many drums of grapes per day . How many drums of grapes would be filled in 77 days was by 235 of the pickers told? --> 221
+How many drums of raspberries per day and 221 drums of grapes per day . How many drums of grapes would be filled in 77 days was by 235 of the pickers told? --> 100
+Was by 235 of the pickers told that they fill 100 drums of raspberries per day and 221 drums of grapes per day . How many drums of grapes would be filled in 77 days? --> how
+How many of the pickers was told by that they fill 100 drums of raspberries per day and 221 drums of grapes per day . How many drums of grapes would be filled in 77 days? --> 235
+==> Solution Equation: 221*77=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 31 sacks of ripe oranges and 24 sacks of unripe oranges per day. How many sacks of unripe oranges will they have after 45 days of harvest?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 31 sacks of ripe oranges and 24
+What do they harvest? --> they harvest 31 sacks of ripe oranges and 24 sacks of unripe oranges per day
+What did he go to see? --> the oranges being harvested
+What do they have after 45 days of harvest? --> unripe oranges
+Did he go to see the oranges being harvested? --> 24
+When do they have How many sacks of unripe oranges? --> 24
+How many sacks of unripe oranges per day do they harvest? --> 24
+Do they have How many sacks of unripe oranges after 45 days of harvest? --> 24
+Do they harvest 31 sacks of ripe oranges and 24 sacks of unripe oranges per day? --> they harvest 31
+How many sacks of ripe oranges and 24 sacks of unripe oranges per day do they harvest? --> 31
+How many sacks of unripe oranges per day . How many sacks of unripe oranges will they have after 45 days of harvest did he find out? --> 24
+How many sacks of ripe oranges and 24 sacks of unripe oranges per day . How many sacks of unripe oranges will they have after 45 days of harvest did he find out? --> 31
+Did he find out that they harvest 31 sacks of ripe oranges and 24 sacks of unripe oranges per day . How many sacks of unripe oranges will they have after 45 days of harvest? --> how
+==> Solution Equation: 24*45=x
+~~~
+
+*** The Razorback shop makes $ 67 dollars off each t-shirt and $ 165 off each jersey. During the Arkansas and Texas tech game they sold 74 t-shirts and 156 jerseys. How much money did they make from selling the jerseys?
+What do they make? --> the razorback shop makes $ 67 dollars off each t - shirt and $ 165 off each jersey
+What do they make from? --> the razorback shop makes $ 67 dollars off each t - shirt and $ 165 off each jersey
+Do they make How much money? --> $ 67 dollars
+Why do they make How much money? --> the razorback shop makes $ 67 dollars off each t - shirt and $ 165 off each jersey
+What does the Razorback shop make? --> the razorback shop makes $ 67 dollars off each t - shirt and $ 165 off each jersey
+When did they sell 74 t - shirts and 156 jerseys? --> during the arkansas and texas tech game
+What did they sell During the Arkansas and Texas tech game? --> they sold 74 t - shirts and 156 jerseys
+How many jerseys did they sell During the Arkansas and Texas tech game? --> 156
+Did they sell 74 t - shirts and 156 jerseys During the Arkansas and Texas tech game? --> $ 67 dollars
+Does the Razorback shop make $ 67 dollars off each t - shirt and $ 165 off each jersey? --> $ 67 dollars off each t - shirt and $ 165
+Where did they sell 74 t - shirts and 156 jerseys During the Arkansas and Texas tech game? --> the razorback shop makes $ 67 dollars
+How many t - shirts and 156 jerseys did they sell During the Arkansas and Texas tech game? --> 74
+==> Solution Equation: 165*156=x
+~~~
+
+*** After resting they decided to go for a swim. The depth of the water is 5 times Ron's height. Dean is 11 feet shorter than Ron. If Ron stands at 12 feet, How deep was the water?
+Was the water How deep? --> 5 times ron ' s height
+Who does stand at 12 feet? --> ron
+Does Ron stand at 12 feet? --> 5 times ron ' s height
+Who is 11 feet shorter than Ron? --> dean
+Indicate characteristics of Dean. --> dean is 11 feet shorter than ron
+Did they decide to go for a swim? --> 5 times ron ' s height
+Is Dean 11 feet shorter than Ron? --> dean
+What did they decide after resting? --> they decided to go for a swim
+Indicate characteristics of the water. --> the depth of the water is 5 times ron ' s height
+When did they decide to go for a swim? --> after resting
+How would you describe The depth of the water? --> 5 times ron ' s height
+Did they decide to go for a swim after resting? --> 5 times ron ' s height
+Is The depth of the water 5 times Ron's height? --> dean
+How many times Ron's height is The depth of the water? --> 5
+==> Solution Equation: 12*5=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 65 sacks of unripe oranges and 46 sacks of ripe oranges per day. How many sacks of unripe oranges will they have after 6 days of harvest?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 65
+What do they harvest? --> 65 sacks of unripe oranges and 46 sacks of ripe oranges per day
+What did he go to see? --> the oranges being harvested
+What do they have after 6 days of harvest? --> 65 sacks of unripe oranges and 46 sacks of ripe oranges per day . how many sacks of unripe oranges
+Did he go to see the oranges being harvested? --> 65
+When do they have How many sacks of unripe oranges? --> 65
+How many sacks of ripe oranges per day do they harvest? --> 46
+Do they have How many sacks of unripe oranges after 6 days of harvest? --> 65
+Do they harvest 65 sacks of unripe oranges and 46 sacks of ripe oranges per day? --> they harvest 65
+How many sacks of unripe oranges and 46 sacks of ripe oranges per day do they harvest? --> 65
+How many sacks of ripe oranges per day . How many sacks of unripe oranges will they have after 6 days of harvest did he find out? --> 46
+How many sacks of unripe oranges and 46 sacks of ripe oranges per day . How many sacks of unripe oranges will they have after 6 days of harvest did he find out? --> 65
+Did he find out that they harvest 65 sacks of unripe oranges and 46 sacks of ripe oranges per day . How many sacks of unripe oranges will they have after 6 days of harvest? --> how
+==> Solution Equation: 65*6=x
+~~~
+
+*** Robin has 21 packages of gum and 45 packages of candy. There are 9 pieces in each package. How many pieces of candies does Robin have?
+What do Robin have? --> robin has 21 packages of gum and 45 packages of candy
+What does Robin has? --> robin has 21 packages of gum and 45 packages of candy
+How many pieces in each package are? --> 9
+Who do have How many pieces of candies? --> robin
+Do Robin have How many pieces of candies? --> 9
+How many packages of candy does Robin has? --> 45
+Who does has 21 packages of gum and 45 packages of candy? --> robin
+Does Robin has 21 packages of gum and 45 packages of candy? --> 9
+How many packages of gum and 45 packages of candy does Robin has? --> 21
+==> Solution Equation: 45*9=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 25 sacks of unripe oranges and 5 sacks of ripe oranges per day. How many sacks of ripe oranges will they have after 73 days of harvest?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 25 sacks of unripe oranges and 5 sacks of ripe oranges per day
+What do they harvest? --> 25 sacks of unripe oranges and 5 sacks of ripe oranges per day
+What did he go to see? --> the oranges being harvested
+What do they have after 73 days of harvest? --> how many sacks of ripe oranges
+Did he go to see the oranges being harvested? --> 25
+When do they have How many sacks of ripe oranges? --> how many sacks of ripe oranges will they have after 73 days of harvest
+How many sacks of ripe oranges per day do they harvest? --> 5
+Do they have How many sacks of ripe oranges after 73 days of harvest? --> 25
+Do they harvest 25 sacks of unripe oranges and 5 sacks of ripe oranges per day? --> they harvest 25
+How many sacks of unripe oranges and 5 sacks of ripe oranges per day do they harvest? --> 25
+How many sacks of ripe oranges per day . How many sacks of ripe oranges will they have after 73 days of harvest did he find out? --> 5
+How many sacks of unripe oranges and 5 sacks of ripe oranges per day . How many sacks of ripe oranges will they have after 73 days of harvest did he find out? --> 25
+Did he find out that they harvest 25 sacks of unripe oranges and 5 sacks of ripe oranges per day . How many sacks of ripe oranges will they have after 73 days of harvest? --> how many
+==> Solution Equation: 5*73=x
+~~~
+
+*** The school is planning a field trip. The school has 84 classrooms. 95 school buses are fully filled with 118 seats on each school bus. How many students are in the school?
+What does the school has? --> 84 classrooms
+What is the school planning? --> the school is planning a field trip
+Does the school has 84 classrooms? --> 84
+Is the school planning a field trip? --> the school is planning a field trip . the school has 84 classrooms
+Are How many students in the school? --> 84
+How many classrooms does the school has? --> 84
+How many seats on each school bus are 95 school buses? --> 118
+How many seats on each school bus are 95 school buses fully filled? --> 118
+Are 95 school buses fully filled with 118 seats on each school bus? --> 95
+How are 95 school buses fully filled with 118 seats on each school bus? --> 95 school buses are fully filled with 118 seats on each school bus
+How many school buses are fully filled with 118 seats on each school bus? --> 95
+==> Solution Equation: 95*118=x
+~~~
+
+*** Faye was placing her pencils and crayons into 30 rows with 71 crayons and 24 pencils in each row. How many pencils does she have?
+What do she have? --> 24
+What was Faye placing? --> 24
+Do she have How many pencils? --> 24
+Was Faye placing her pencils and crayons? --> 24
+How many rows with 71 crayons and 24 pencils in each row was placing into her pencils and crayons? --> 30
+How many crayons and 24 pencils in each row was placing into 30 rows with her pencils and crayons? --> 71
+How many pencils in each row was placing into 30 rows with 71 crayons and her pencils and crayons? --> 24
+==> Solution Equation: 30*24=x
+~~~
+
+*** Lewis earns $ 403 every week during the 233 weeks of harvest. If he has to pay $ 49 rent every week, How much money does he earn during harvest season?
+When does lewis earn $ 403? --> every week
+When do he earn How much money? --> $ 403 every week
+When does he has to pay $ 49 rent? --> if he has to pay $ 49 rent every week
+What does he has to pay every week? --> $ 49 rent
+What do he earn during harvest season? --> $ 403 every week
+Does he has to pay $ 49 rent every week? --> $ 403
+Do he earn How much money during harvest season? --> $ 403
+What does lewis earn during the 233 weeks of harvest? --> $ 403 every week
+Does lewis earn $ 403 during the 233 weeks of harvest? --> $ 403
+==> Solution Equation: 403*233=x
+~~~
+
+*** Every day Ryan spends 6 hours on learning english and 5 hours on learning chinese. If he learns for 2 days, How many hours does he spend on learning english in all?
+When does he learn? --> 6 hours
+What do he spend on? --> 6 hours
+What does Ryan spend every day? --> 6 hours
+Do he spend on learning english in all? --> 6 hours on learning english and 5 hours on learning chinese . if he learns for 2 days , how many hours
+When does Ryan spend 6 hours on learning english and 5 hours? --> every day
+Does Ryan spend 6 hours on learning english and 5 hours every day? --> 6 hours on learning english and 5 hours on learning chinese
+What Ryan spends 6 hours on learning english and 5 hours on learning chinese . If he learns for 2 days, How many hours does he spend on? --> learning english in all
+==> Solution Equation: 6*2=x
+~~~
+
+*** If each pack costs 81 dollars, How much will it cost to buy 33 packs of dvds?
+What does each pack cost? --> 81 dollars
+Does each pack cost 81 dollars? --> dvds
+What do to buy 33 packs of dvds cost? --> how
+How many packs of dvds do cost to buy? --> 33
+Do to buy 33 packs of dvds cost How much? --> 81 dollars
+How many packs of dvds do cost to buy How much? --> 81 dollars
+==> Solution Equation: 81*33=x
+~~~
+
+*** Faye had 31 packs of pencils each one having 6 pencils. She was placing her pencils into rows with 19 pencils in each row. How many pencils does she have?
+What do she have? --> 31
+What did Faye have? --> 31
+What was She placing? --> 19 pencils in each row
+Was She placing her pencils? --> 19
+Do she have How many pencils? --> 6
+How many pencils did Faye have? --> 31
+How many having 6 pencils did Faye have? --> 31
+How many pencils in each row was placing with her pencils? --> 19
+Did Faye have 31 packs of pencils each one having 6 pencils? --> 31
+How many packs of pencils each one having 6 pencils did Faye have? --> 31
+==> Solution Equation: 31*6=x
+~~~
+
+*** The school has 304 grades and each grade has 75 students, How many students were there in total?
+What does the school has? --> 304 grades
+What does each grade has? --> 75
+How were How many students? --> 75
+Does the school has 304 grades? --> 75
+Does each grade has 75 students? --> 304
+How many grades does the school has? --> 304
+How many students does each grade has? --> 75
+==> Solution Equation: 304*75=x
+~~~
+
+*** Faye was placing her pencils and crayons into 19 rows with 4 pencils and 27 crayons in each row. How many pencils does she have?
+What do she have? --> 4
+What was Faye placing? --> 4
+Do she have How many pencils? --> 4
+Was Faye placing her pencils and crayons? --> 4
+How many rows was placing into her pencils and crayons? --> 19
+How many crayons in each row was placing with 4 pencils and her pencils and crayons? --> 27
+How many pencils and 27 crayons in each row was placing with her pencils and crayons? --> 4
+==> Solution Equation: 19*4=x
+~~~
+
+*** The Razorback t-shirt shop makes $ 87 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 95 t-shirts. If they sold 47 t-shirts during the Arkansas game, How much money did they make from selling the t-shirts?
+What do they make? --> $ 87 dollars
+What do they make from? --> t - shirt sold
+Do they make How much money? --> $ 87 dollars
+When did they sell 47 t - shirts? --> during the arkansas game
+What did they sell during the Arkansas game? --> 47 t - shirts
+When did they sell a total of 95 t - shirts? --> during the arkansas game and the texas tech game
+Did they sell 47 t - shirts during the Arkansas game? --> $ 87 dollars
+Does the Razorback t - shirt shop make game, How much? --> $ 87 dollars
+Where did they sell 47 t - shirts during the Arkansas game? --> how much money
+How many t - shirts did they sell during the Arkansas game? --> 47
+What did they sell During the Arkansas game and the Texas tech game? --> 95 t - shirts
+How many t - shirts did they sell During the Arkansas game and the Texas tech game? --> 95
+What sold they 47 t-shirts during the Arkansas game, How much money did they make from? --> selling the t - shirts
+Did they sell a total of 95 t - shirts During the Arkansas game and the Texas tech game? --> $ 87 dollars
+Where did they sell a total of 95 t - shirts During the Arkansas game and the Texas tech game? --> the razorback t - shirt shop makes $ 87 dollars
+How many t - shirts during the Arkansas game, How much money did they make from selling the t - shirts did sell If they sold a total of 95 t - shirts During the Arkansas game and the Texas tech game? --> 47
+==> Solution Equation: 87*95=x
+~~~
+
+*** Every day Ryan spends 5 hours on learning english and 4 hours on learning chinese. If he learns for 6 days, How many hours does he spend on learning chinese in all?
+When does he learn? --> 4 hours
+What do he spend on? --> 4 hours
+What does Ryan spend every day? --> 5 hours on learning english and 4
+Do he spend on learning chinese? --> 4 hours
+When does Ryan spend 5 hours on learning english and 4 hours? --> every day
+Does Ryan spend 5 hours on learning english and 4 hours every day? --> 4 hours on learning chinese
+What Ryan spends 5 hours on learning english and 4 hours on learning chinese . If he learns for 6 days, How many hours does he spend on? --> learning chinese in all
+==> Solution Equation: 4*6=x
+~~~
+
+*** Rebecca wants to split a collection of eggs into groups of 11. If each group has 2 eggs, How many eggs does Rebecca have?
+What do Rebecca have? --> how
+What does Rebecca want? --> 11
+What does each group has? --> 2
+How many does Rebecca want? --> 11
+Does each group has 2 eggs? --> 11
+Do Rebecca have How many eggs? --> 2
+What does Rebecca want to split? --> 11
+How many eggs does each group has? --> 2
+Does Rebecca want to split a collection of eggs? --> 11
+How many does want to split into groups of a collection of eggs? --> 11
+Does Rebecca want to split a collection of eggs into groups of 11? --> 2
+==> Solution Equation: 11*2=x
+~~~
+
+*** Adam could fit 11 action figures on each shelf in his room. His room has 4 shelves and 40 cabinets. How many total action figures could his shelves hold?
+What does His room has? --> 4 shelves and 40 cabinets
+What do his shelves hold? --> 11
+What could adam fit in his room? --> 11
+How many cabinets does His room has? --> 40
+Where could adam fit 11 action figures? --> adam could fit 11 action figures on each shelf in his room
+Does His room has 4 shelves and 40 cabinets? --> 11
+Could adam fit 11 action figures in his room? --> adam could fit 11
+Do his shelves hold How many total action figures? --> adam could fit 11
+How many action figures could adam fit in his room? --> 11
+==> Solution Equation: 11*4=x
+~~~
+
+*** The ring toss game at the carnival made 144 dollars per day. They were at the carnival for 22 days. How much money did they make?
+What do they make? --> 144 dollars per day
+Where do ring toss? --> 144 dollars per day
+Do they make How much money? --> 144 dollars per day
+When were they at the carnival? --> they were at the carnival for 22 days
+Were they at the carnival for 22 days? --> 144 dollars per day
+What did the ring toss game at the carnival make? --> 144 dollars per day
+Did the ring toss game at the carnival make 144 dollars per day? --> 144 dollars per day
+==> Solution Equation: 144*22=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 82 sacks of ripe oranges and 61 sacks of unripe oranges per day. How many sacks of ripe oranges will they have after 25 days of harvest?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 82 sacks of ripe oranges and 61 sacks of unripe oranges per day
+What do they harvest? --> 82 sacks of ripe oranges and 61 sacks of unripe oranges per day
+What did he go to see? --> the oranges being harvested
+What do they have after 25 days of harvest? --> how many sacks of ripe oranges
+Did he go to see the oranges being harvested? --> 82
+When do they have How many sacks of ripe oranges? --> 82
+How many sacks of unripe oranges per day do they harvest? --> 61
+Do they have How many sacks of ripe oranges after 25 days of harvest? --> 82
+Do they harvest 82 sacks of ripe oranges and 61 sacks of unripe oranges per day? --> they harvest 82
+How many sacks of ripe oranges and 61 sacks of unripe oranges per day do they harvest? --> 82
+How many sacks of unripe oranges per day . How many sacks of ripe oranges will they have after 25 days of harvest did he find out? --> 61
+How many sacks of ripe oranges and 61 sacks of unripe oranges per day . How many sacks of ripe oranges will they have after 25 days of harvest did he find out? --> 82
+Did he find out that they harvest 82 sacks of ripe oranges and 61 sacks of unripe oranges per day . How many sacks of ripe oranges will they have after 25 days of harvest? --> how
+==> Solution Equation: 82*25=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 67 sacks per day and that each sack containes 12 oranges. How many oranges are harvested if they harvest a total of 35 sacks of oranges?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 67 sacks per day and that each sack containes 12 oranges
+What do they harvest? --> 67 sacks per day
+What did he go to see? --> the oranges being harvested
+Do they harvest 67 sacks per day? --> 12 oranges
+Does 12 oranges containes each sack? --> 12
+How many sacks per day do they harvest? --> 67
+How many oranges does containes each sack? --> 12
+How many sacks of oranges did he find out? --> 35
+How many sacks of oranges do they harvest? --> 35
+Did he go to see the oranges being harvested? --> 67 sacks per day and that each sack containes 12
+Do they harvest a total of 35 sacks of oranges? --> how many oranges are harvested
+How many sacks of oranges are harvested if they harvest a total of? --> 35
+How many oranges . How many oranges are harvested if they harvest a total of 35 sacks of oranges did he find out? --> how many
+How many sacks per day and that each sack containes 12 oranges . How many oranges are harvested if they harvest a total of 35 sacks of oranges did he find out? --> 67
+Did he find out that they harvest 67 sacks per day and that each sack containes 12 oranges . How many oranges are harvested if they harvest a total of 35 sacks of oranges? --> how many
+==> Solution Equation: 12*35=x
+~~~
+
+*** He also had 74 aquariums for freshwater animals and 22 aquariums for saltwater animals. Each aquarium has 46 animals in it. How many saltwater animals does Tyler have?
+What did he have? --> 22
+What do Tyler have? --> 22
+What does Each aquarium has? --> 46
+Who do have How many saltwater animals? --> 22
+Does Each aquarium has 46 animals in it? --> 22
+Do Tyler have How many saltwater animals? --> 22
+How many animals in it does Each aquarium has? --> 46
+How many aquariums for saltwater animals did he have? --> 22
+Did he have 74 aquariums for freshwater animals and 22 aquariums for saltwater animals? --> 46
+How many aquariums for freshwater animals and 22 aquariums for saltwater animals did he have? --> 74
+==> Solution Equation: 22*46=x
+~~~
+
+*** Lewis earns $ 368 every week during the 1359 weeks of harvest. If he has to pay $ 388 rent every week, How much money does he pay as rent during the harvest season?
+What do he pay every week? --> $
+When do he pay $ 388 rent? --> if he has to pay $ 388 rent every week
+When does lewis earn $ 368? --> every week
+When do he pay How much money? --> if he has to pay $ 388 rent every week
+Do he pay $ 388 rent every week? --> lewis
+What do he pay during the harvest season? --> rent
+Do he pay How much money during the harvest season? --> $ 388 rent every week , how much money does he pay as rent
+What does lewis earn during the 1359 weeks of harvest? --> $ 368 every week
+Does lewis earn $ 368 during the 1359 weeks of harvest? --> lewis earns $ 368 every week
+==> Solution Equation: 388*1359=x
+~~~
+
+*** The Razorback shop makes $ 62 dollars off each t-shirt and $ 99 off each jersey. During the Arkansas and Texas tech game they sold 183 t-shirts and 31 jerseys. How much money did they make from selling the t-shirts?
+What do they make? --> the razorback shop makes $ 62 dollars off each t - shirt and $ 99 off each jersey
+What do they make from? --> the razorback shop makes $ 62 dollars off each t - shirt and $ 99 off each jersey
+Do they make How much money? --> $ 62 dollars
+Why do they make How much money? --> $ 62 dollars
+What does the Razorback shop make? --> the razorback shop makes $ 62 dollars off each t - shirt and $ 99 off each jersey
+When did they sell 183 t - shirts and 31 jerseys? --> during the arkansas and texas tech game
+What did they sell During the Arkansas and Texas tech game? --> 183 t - shirts and 31 jerseys
+How many jerseys did they sell During the Arkansas and Texas tech game? --> 31
+Did they sell 183 t - shirts and 31 jerseys During the Arkansas and Texas tech game? --> $ 62 dollars
+Does the Razorback shop make $ 62 dollars off each t - shirt and $ 99 off each jersey? --> $ 62
+How many t - shirts and 31 jerseys did they sell During the Arkansas and Texas tech game? --> 183
+Where did they sell 183 t - shirts and 31 jerseys During the Arkansas and Texas tech game? --> $ 62 dollars
+==> Solution Equation: 62*183=x
+~~~
+
+*** Faye was placing her pencils and crayons into 16 rows with 6 crayons and 21 pencils in each row. How many crayons does she have?
+What do she have? --> 6
+What was Faye placing? --> 6
+Do she have How many crayons? --> 6
+Was Faye placing her pencils and crayons? --> 6
+How many rows was placing into her pencils and crayons? --> 16
+How many pencils in each row was placing with 6 crayons and her pencils and crayons? --> 21
+How many crayons and 21 pencils in each row was placing with her pencils and crayons? --> 6
+==> Solution Equation: 16*6=x
+~~~
+
+*** Faye was placing her pencils and crayons into 7 rows with 36 pencils and 30 crayons in each row. How many crayons does she have?
+What do she have? --> 30
+What was Faye placing? --> 30
+Do she have How many crayons? --> 30
+Was Faye placing her pencils and crayons? --> 30
+When was Faye placing her pencils and crayons? --> faye was placing her pencils and crayons into 7 rows with 36 pencils and 30
+How many rows was placing into her pencils and crayons? --> 7
+How many pencils and 30 crayons in each row was placing with her pencils and crayons? --> 36
+How many crayons in each row was placing with 36 pencils and her pencils and crayons? --> 30
+==> Solution Equation: 7*30=x
+~~~
+
+*** In Haley's class 11 are boys who love to play marbles. If Haley gives 9 marbles to each boy, How many marbles did she have?
+What do she have? --> how
+What do boys love? --> to play marbles
+What does Haley give? --> if haley gives 9 marbles
+Who does give 9 marbles? --> haley
+What do who love to play? --> boys
+How would you describe 11? --> 9
+Does Haley give 9 marbles? --> 9
+Do who love to play marbles? --> boys
+Do boys love to play marbles? --> 11
+Do she have How many marbles? --> 9
+How many marbles does Haley give? --> 9
+What does give to each boy 9 marbles? --> haley
+Where are 11 boys who love to play marbles? --> in haley ' s class
+Are 11 boys who love to play marbles in Haley's class? --> 9
+How many are boys who love to play marbles in Haley's class? --> 11
+How many marbles to each boy are If Haley gives boys who love to play marbles in Haley's class? --> 9
+==> Solution Equation: 11*9=x
+~~~
+
+*** An industrial machine can make 6 shirts a minute. It worked for 5 minutes yesterday and for 12 minutes today. How many shirts did machine make today?
+When did It work? --> it worked for 5 minutes yesterday and for 12 minutes
+What does machine make today? --> 12 minutes today . how many shirts
+What does an industrial machine make? --> 6 shirts a minute
+When does machine make How many shirts? --> 6 shirts a minute
+Does machine make How many shirts today? --> 6
+Does an industrial machine make 6 shirts a minute? --> 6
+How many shirts a minute do an industrial machine make? --> 6
+==> Solution Equation: 6*12=x
+~~~
+
+*** After resting they decided to go for a swim. The depth of the water is 16 times Ron's height. Dean is 9 feet taller than Ron. If Ron stands at 13 feet, How deep was the water?
+Was the water How deep? --> 16 times ron ' s height
+Who does stand at 13 feet? --> ron
+Does Ron stand at 13 feet? --> 16 times ron ' s height
+Who is 9 feet taller than Ron? --> dean
+Is Dean 9 feet taller than Ron? --> dean
+Indicate characteristics of Dean. --> dean is 9 feet taller than ron
+Did they decide to go for a swim? --> 16 times ron ' s height
+What did they decide after resting? --> they decided to go for a swim
+Indicate characteristics of the water. --> the depth of the water is 16 times ron ' s height
+When did they decide to go for a swim? --> after resting
+How would you describe The depth of the water? --> 16 times ron ' s height
+Did they decide to go for a swim after resting? --> 16 times ron ' s height
+Is The depth of the water 16 times Ron's height? --> dean
+How many times Ron's height is The depth of the water? --> 16
+==> Solution Equation: 13*16=x
+~~~
+
+*** Debby bought some water bottles when they were on sale. She drank 109 bottles a day. If the bottles lasted for 74 days, How many bottles had she bought?
+What did she buy? --> debby bought some water bottles when they were on sale
+What do She drank? --> 109 bottles a day
+When were they on sale? --> 109
+Were they on sale when? --> 109
+Did she buy How many bottles? --> 109
+Do She drank 109 bottles a day? --> debby
+Did the bottles last for 74 days? --> 109
+When do She drank 109 bottles a day? --> she drank 109 bottles a day
+How many bottles a day do She drank? --> 109
+When did Debby buy some water bottles? --> debby bought some water bottles when they were on sale
+What did Debby buy when they were on sale? --> debby bought some water bottles
+Who did buy some water bottles when they were on sale? --> debby
+Did Debby buy some water bottles when they were on sale? --> 109
+==> Solution Equation: 109*74=x
+~~~
+
+*** Robin has 28 packages of gum and 13 packages of candy. There are 4 pieces in each package. How many pieces of gum does Robin have?
+What do Robin have? --> robin has 28
+What does Robin has? --> robin has 28
+Who do have How many pieces of gum? --> robin
+How many pieces in each package are? --> 4
+Do Robin have How many pieces of gum? --> 4
+How many packages of candy does Robin has? --> 13
+Who does has 28 packages of gum and 13 packages of candy? --> robin
+Does Robin has 28 packages of gum and 13 packages of candy? --> 28
+How many packages of gum and 13 packages of candy does Robin has? --> 28
+==> Solution Equation: 28*4=x
+~~~
+
+*** White t - shirts can be purchased in packages of 53. If mom buys 57 packages of white t - shirts and 34 trousers, How many white t - shirts will she have?
+What do she have? --> 57
+What does mom buy? --> 57
+How many trousers does mom buy? --> 34
+How can white t - shirts be purchased? --> 53
+Do she have How many white t - shirts? --> 57
+How many can be purchased in packages of? --> 53
+Does mom buy 57 packages of white t - shirts and 34 trousers? --> 53
+How many packages of white t - shirts and 34 trousers does mom buy? --> 57
+How many packages of white t - shirts and 34 trousers can be purchased If mom buys? --> 57
+How many trousers can be purchased If mom buys 57 packages of white t - shirts and? --> 34
+==> Solution Equation: 53*57=x
+~~~
+
+*** Bryan took a look at his books and magazines. If he has 27 books and 80 magazines in each of his 23 bookshelves, How many books does he have in total?
+What do he have? --> 27
+What does he has? --> 27
+What did bryan take? --> a look at his books and magazines
+Do he have How many books? --> 27
+How many bookshelves does he has? --> 23
+Did bryan take a look at his books and magazines? --> 27
+How many magazines in each of his 23 bookshelves does he has? --> 80
+Does he has 27 books and 80 magazines in each of his 23 bookshelves? --> bryan took a look at his books and magazines . if he has 27
+How many books and 80 magazines in each of his 23 bookshelves does he has? --> 27
+==> Solution Equation: 27*23=x
+~~~
+
+*** Luke gained 146 points in each round of a game. If he played 157 rounds of a trivia game, How many points did he score in the game?
+What did he play? --> luke gained 146 points in each round of a game . if he played 157 rounds
+What do he score in the game? --> 146 points in each round of a game . if he played 157 rounds of a trivia game , how many points
+Where did Luke gain 146 points? --> each round of a game
+Where do he score How many points? --> 146
+Did he play 157 rounds of a trivia game? --> 146
+Do he score How many points in the game? --> 146
+What did Luke gain in each round of a game? --> 146
+How many rounds of a trivia game did he play? --> 157
+Who did gain 146 points in each round of a game? --> luke
+Did Luke gain 146 points in each round of a game? --> 146
+How many points did Luke gain in each round of a game? --> 146
+How many rounds of a trivia game did gain If he played 146 points in each round of a game? --> 157
+==> Solution Equation: 157*146=x
+~~~
+
+*** Being his favorite, he saved checking on the grapevines after 57 stops. He was told by 252 of the pickers that they fill 108 drums of grapes per day. How many drums of grapes would be filled in 58 days?
+What would they be fill? --> 108 drums of grapes per day
+How would you describe he? --> his favorite
+What did he save after 57 stops? --> he saved checking on the grapevines
+What was by 252 of the pickers told? --> he was told by 252 of the pickers that they fill 108 drums of grapes per day
+Saved he checking on the grapevines? --> he saved checking on the grapevines after 57 stops
+When did he save checking on the grapevines? --> he saved checking on the grapevines after 57 stops
+When would How many drums of grapes be filled? --> 108
+Would they be fill 108 drums of grapes per day? --> he was told by 252 of the pickers
+How many drums of grapes per day would they be fill? --> 108
+Did he save checking on the grapevines after 57 stops? --> 108
+How many stops did save after checking on the grapevines after 57 stops? --> 108
+How many drums of grapes per day . How many drums of grapes would be filled in 58 days was by 252 of the pickers told? --> 108
+Was by 252 of the pickers told that they fill 108 drums of grapes per day . How many drums of grapes would be filled in 58 days? --> how many
+How many of the pickers was told by that they fill 108 drums of grapes per day . How many drums of grapes would be filled in 58 days? --> 252
+==> Solution Equation: 108*58=x
+~~~
+
