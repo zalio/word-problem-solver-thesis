@@ -1,0 +1,2432 @@
+*** The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collection, How many groups are there?
+Where are a total of 180 bananas? --> if
+How many are the bananas in Philip's collection organized? --> 18
+How many bananas are a total of in Philip's banana collection? --> 180
+Are the bananas in Philip's collection organized into groups of size 18? --> 180
+How many bananas in Philip's banana collection are organized If there are a total of into groups of size 18? --> 180
+==> Solution Equation: 180/18=x
+~~~
+
+*** Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially, How many crackers and cakes did each person eat?
+What did Matthew give? --> matthew gave equal numbers of crackers and cakes to his 28 friends
+What does each person eat? --> how many crackers and cakes
+What did he have initially? --> 13
+How many cakes did he have initially? --> 15
+When did he have 13 crackers and 15 cakes? --> if he had 13 crackers and 15 cakes initially
+Did he have 13 crackers and 15 cakes initially? --> matthew gave equal numbers of crackers and cakes to his 28
+Who did give equal numbers of crackers and cakes? --> matthew
+Does each person eat How many crackers and cakes? --> 13
+How many crackers and 15 cakes did he have initially? --> 13
+Did Matthew give equal numbers of crackers and cakes? --> 28 friends
+What did give to his 28 friends equal numbers of crackers and cakes? --> matthew
+How many friends did give to his equal numbers of crackers and cakes? --> 28
+How many crackers and 15 cakes initially did give If he had equal numbers of crackers and cakes? --> 13
+How many cakes initially did give If he had 13 crackers and equal numbers of crackers and cakes? --> 15
+==> Solution Equation: 28/28=x
+~~~
+
+*** Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money. How much did each candy bar cost?
+What did He buy? --> he bought 2 candy bar for $ 4
+Who does has $ 3? --> dan
+Does Dan has $ 3? --> $ 4 , each one costing the same amount of money
+What does Dan has? --> $ 3
+Did He buy 2 candy bar? --> $ 4
+How many candy bar did He buy? --> 2
+How many did buy each one costing the same amount of 2 candy bar? --> $ 4
+==> Solution Equation: 4/2=x
+~~~
+
+*** There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets, How many baskets of peaches are there?
+What does Each basket has? --> each basket has 4 red peaches and 3 green peaches
+How many green peaches does Each basket has? --> 3
+How many peaches in all baskets are a total of? --> 7
+Does Each basket has 4 red peaches and 3 green peaches? --> 7
+How many red peaches and 3 green peaches does Each basket has? --> 4
+==> Solution Equation: 7/7=x
+~~~
+
+*** There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups, How big is each group of oranges?
+Is each group of oranges How big? --> 178
+How many groups are organized into? --> 178
+How many groups are oranges organized? --> 178
+Are oranges organized into 178 groups? --> 178
+Are the bananas organized into 47 groups? --> 178
+How many groups are the bananas organized? --> 47
+Indicate characteristics of each group of oranges. --> if the bananas are organized into 47 groups and oranges are organized into 178 groups
+How many bananas and 356 oranges in Philip's collection are? --> 142
+How many oranges in Philip's collection are 142 bananas and? --> 356
+How would you describe 142 bananas and 356 oranges in Philip's collection? --> if the bananas are organized into 47 groups and oranges are organized into 178 groups
+How many groups are If the bananas are organized into 47 groups and oranges are organized into? --> 178
+How many groups and oranges are organized into 178 groups are If the bananas are organized into? --> 47
+==> Solution Equation: 356/178=x
+~~~
+
+*** Emily is making bead necklaces for her 43 friends. She had 20 beads and she was able to make 5 necklaces. How many beads did each necklace need?
+What do she make? --> 5 necklaces
+What did She have? --> 20 beads
+What is emily making? --> emily is making bead necklaces
+Did She have 20 beads? --> 20 beads
+Do she make 5 necklaces? --> 20 beads
+What do each necklace need? --> how many beads
+How many necklaces was she? --> 5
+How many beads did She have? --> 20
+How many necklaces do she make? --> 5
+Indicate characteristics of her. --> 20
+How many friends is emily making? --> 43
+Was she able to make 5 necklaces? --> 20 beads
+Do each necklace need How many beads? --> 20 beads and she was able to make 5
+Is emily making bead necklaces for her 43 friends? --> 20 beads
+==> Solution Equation: 20/5=x
+~~~
+
+*** Frank put 11 pieces of candy in each bag. If he had 22 pieces of candy, How many bags would he have?
+What do he have? --> 22 pieces of candy
+What did he have? --> 22 pieces of candy
+What did Frank put? --> 11
+Do he have How many bags? --> 11
+Who did put 11 pieces of candy? --> frank
+Did he have 22 pieces of candy? --> 11
+Did Frank put 11 pieces of candy? --> 22
+How many pieces of candy did he have? --> 11
+How many pieces of candy did Frank put? --> 11
+How many pieces of candy did put If he had 11 pieces of candy? --> 22
+==> Solution Equation: 22/11=x
+~~~
+
+*** Emily is making bead necklaces for her 72 friends. She has 6 beads and each necklace takes 3 beads. How many necklaces can Emily make?
+What does She has? --> she has 6 beads
+What do emily make? --> emily is making bead necklaces for her 72 friends
+What is emily making? --> emily is making bead necklaces
+Does She has 6 beads? --> emily is making bead necklaces for her 72 friends . she has 6
+How many beads does She has? --> 6
+What does each necklace take? --> 3 beads
+Does each necklace take 3 beads? --> 6
+How many friends is emily making? --> 72
+Do emily make How many necklaces? --> 72
+How many beads does each necklace take? --> 3
+Is emily making bead necklaces for her 72 friends? --> emily
+==> Solution Equation: 6/3=x
+~~~
+
+*** He also had 26 aquariums for saltwater animals. The aquarium had 52 saltwater animals in total and every aquarium had the same number of animals. How many saltwater animals does each aquarium have?
+What did he have? --> 26
+What do each aquarium have? --> every aquarium had the same number of animals
+What did every aquarium have? --> every aquarium had the same number of animals
+What did The aquarium have in total? --> 52
+Did he have 26 aquariums for saltwater animals? --> 52
+When did The aquarium have 52 saltwater animals? --> the aquarium had 52
+Do each aquarium have How many saltwater animals? --> 52
+Did every aquarium have the same number of animals? --> 52
+Did The aquarium have 52 saltwater animals in total? --> 52
+How many aquariums for saltwater animals did he have? --> 26
+How many saltwater animals did The aquarium have in total? --> 52
+==> Solution Equation: 52/26=x
+~~~
+
+*** An industrial machine made 9 shirts yesterday and 8 shirts today. It can make 2 shirts a minute. How many minutes did the machine work today?
+What can It make? --> 2 shirts a minute
+When do the machine work? --> it can make 2 shirts a minute
+Can It make 2 shirts a minute? --> it can make 2 shirts a minute
+How many shirts a minute can It make? --> 2
+When did an industrial machine make 9 shirts? --> 9 shirts yesterday
+What did an industrial machine make yesterday? --> 9 shirts
+Did an industrial machine make 9 shirts yesterday? --> 2 shirts a minute
+How many shirts did an industrial machine make yesterday? --> 9
+==> Solution Equation: 8/2=x
+~~~
+
+*** Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs. How many eggs will each group have?
+What does Rebecca has? --> rebecca has 4 marbles and 15 eggs
+What does Rebecca want? --> rebecca wants to split a collection of eggs into 3 groups
+What do each group have? --> 15 eggs
+How many eggs does Rebecca has? --> 15
+What does Rebecca want to split? --> rebecca wants to split a collection of eggs into 3 groups
+Do each group have How many eggs? --> 15
+How many groups does Rebecca want? --> 3
+Does Rebecca has 4 marbles and 15 eggs? --> 15
+How many marbles and 15 eggs does Rebecca has? --> 4
+Does Rebecca want to split a collection of eggs? --> 15
+How many groups does want to split into a collection of eggs? --> 3
+Does Rebecca want to split a collection of eggs into 3 groups? --> 15
+==> Solution Equation: 15/3=x
+~~~
+
+*** Brenda's mother made 14 cookies for 2 guests. If each of them had the same number of cookies, How many did each of them have?
+What do each of them have? --> if each of them had the same number of cookies
+What did each of them have? --> if
+What did Brenda's mother make? --> 14
+Do each of them have How many? --> 14
+Did Brenda's mother make 14 cookies? --> 14
+How many guests did make for 14 cookies? --> 2
+How many cookies did Brenda's mother make? --> 14
+Did each of them have the same number of cookies? --> 14
+==> Solution Equation: 14/2=x
+~~~
+
+*** The Razorback t-shirt shop made $ 51 dollars from selling 3 t-shirt during the Arkansas and Texas tech game they. What is the cost of each t-shirt?
+Is the cost of each t - shirt What? --> $ 51 dollars
+What did the Razorback t - shirt shop make? --> $ 51 dollars
+How would you describe the cost of each t - shirt? --> $ 51 dollars
+Did the Razorback t - shirt shop make $ 51 dollars? --> selling 3 t - shirt during the arkansas and texas tech game they
+Where did the Razorback t - shirt shop make $ 51 dollars? --> selling 3 t - shirt
+What did the Razorback t - shirt shop make $ 51 dollars from? --> selling 3 t - shirt
+How many t - shirt during the Arkansas and Texas tech game they . What is the cost of each t - shirt did make from selling $ 51 dollars? --> 3
+==> Solution Equation: 51/3=x
+~~~
+
+*** Frank was reading through his favorite book. It took him 16 days to finish the book. If the book had 112 pages, How many pages did he read per day?
+What do him finish? --> it took him 16 days
+What did the book have? --> 112 pages
+Do him finish the book? --> 16 days
+What do he read per day? --> how many pages
+Did the book have 112 pages? --> 112
+When do he read How many pages? --> 112 pages , how many pages did he read per day
+How many pages did the book have? --> 112
+Do he read How many pages per day? --> 112
+Did to finish the book take 16 days? --> 112
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 112
+How many pages, How many pages did he read per day did take If the book had 16 days? --> 112
+==> Solution Equation: 112/16=x
+~~~
+
+*** You had 26 bags with equal number of cookies. If you had 15 candies and 52 cookies in total, How many cookies does each bag have?
+What did you have? --> you had 26 bags
+What do each bag have? --> 52
+What did you have in total? --> 52
+Do each bag have How many cookies? --> 52
+How many cookies did you have in total? --> 52
+When did you have 15 candies and 52 cookies? --> if you had 15 candies and 52 cookies in total
+Did you have 15 candies and 52 cookies in total? --> 26
+Did you have 26 bags with equal number of cookies? --> 52
+How many candies and 52 cookies did you have in total? --> 15
+How many bags with equal number of cookies did you have? --> 26
+How many candies and 52 cookies in total did have If you had 26 bags with equal number of cookies? --> 15
+How many cookies in total did have If you had 15 candies and 26 bags with equal number of cookies? --> 52
+==> Solution Equation: 52/26=x
+~~~
+
+*** Each pot has 40 flowers in it. There are 400 flowers in total. How many pots are there in all?
+What does each pot has in it? --> 40
+How many flowers in total are? --> 400
+Where does each pot has 40 flowers? --> 400
+Does each pot has 40 flowers in it? --> 400
+How many flowers does each pot has in it? --> 40
+==> Solution Equation: 400/40=x
+~~~
+
+*** Mom buys 70 white t - shirts in total. If white t - shirts can be purchased in packages and mom buys 14 packages, How many white t - shirts does each package have?
+What does mom buy? --> 70
+Does mom buy 14 packages? --> 70 white t - shirts in total . if white t - shirts can be purchased in packages and mom buys 14
+What do each package have? --> 14
+How many packages does mom buy? --> 14
+Where can white t - shirts be purchased? --> in packages
+Does mom buy 70 white t - shirts in total? --> 14
+Do each package have How many white t - shirts? --> 14
+How many white t - shirts in total does mom buy? --> 70
+How many packages does buy If white t - shirts can be purchased in packages and mom buys 70 white t - shirts in total? --> 14
+==> Solution Equation: 70/14=x
+~~~
+
+*** Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 10 crackers and 8 cakes initially, How many cakes did each person eat?
+What did Matthew give? --> matthew gave equal numbers of crackers and cakes to his 4 friends
+What does each person eat? --> how many cakes
+What did he have initially? --> if he had 10 crackers and 8
+Does each person eat How many cakes? --> 8
+How many cakes did he have initially? --> 8
+When did he have 10 crackers and 8 cakes? --> if he had 10 crackers and 8 cakes initially
+Did he have 10 crackers and 8 cakes initially? --> matthew gave equal numbers of crackers and cakes to his 4
+Who did give equal numbers of crackers and cakes? --> matthew
+How many crackers and 8 cakes did he have initially? --> 10
+Did Matthew give equal numbers of crackers and cakes? --> 8
+What did give to his 4 friends equal numbers of crackers and cakes? --> matthew
+How many friends did give to his equal numbers of crackers and cakes? --> 4
+How many crackers and 8 cakes initially did give If he had equal numbers of crackers and cakes? --> 10
+How many cakes initially did give If he had 10 crackers and equal numbers of crackers and cakes? --> 8
+==> Solution Equation: 8/4=x
+~~~
+
+*** Paige was helping her mom plant flowers and they put 10 seeds in each flower bed. If they planted 60 seeds altogther, How many flower beds did they have?
+What did they put? --> 10 seeds
+What do they have? --> how many flower beds
+Did they put 10 seeds? --> 60
+What was paige helping? --> paige was helping her mom plant flowers
+Did they planted 60 seeds? --> 10
+How many seeds did they put? --> 10
+How many seeds did they planted? --> 60
+Do they have How many flower beds? --> 10
+Was paige helping her mom plant flowers? --> 10
+How many seeds altogther did put If they planted 10 seeds? --> 60
+==> Solution Equation: 60/10=x
+~~~
+
+*** Frank was reading through his favorite book. He read 8 pages per day. If the book had 576 pages, How many days did he take to finish the book?
+What do he take? --> days
+What did He read? --> 8 pages per day
+What did the book have? --> 576 pages
+Do he take How many days? --> 576 pages , how many days
+What do he take to finish? --> how many days
+Did He read 8 pages per day? --> frank
+Did the book have 576 pages? --> 8 pages per day . if the book had 576 pages , how many days
+Do he take to finish the book? --> days
+How many pages did the book have? --> 576
+How many pages per day did He read? --> 8
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 8 pages per day
+==> Solution Equation: 576/8=x
+~~~
+
+*** Carol was sending out birthday invitations to 10 friends. If each package of invitations she bought had 2 invitations in it, How many packs does she need so that no friend gets left out?
+What do she need? --> how many packs
+What out carol was sending? --> birthday invitations to 10 friends
+Do she need How many packs? --> how many packs does she need so that no friend gets left out
+Does no friend get left out? --> 10 friends . if each package of invitations she bought had 2 invitations in it , how many packs
+Out no friend gets left out? --> 10 friends . if each package of invitations she bought had 2 invitations in it , how many packs
+Did she buy each package of invitations? --> 2
+Out carol was sending birthday invitations? --> 10
+How many friends out was sending to birthday invitations? --> 10
+What did each package of invitations she bought have in it? --> 2
+Where did each package of invitations she bought have 2 invitations? --> if each package of invitations she bought had 2 invitations in it
+Did each package of invitations she bought have 2 invitations in it? --> 10
+How many invitations did each package of invitations she bought have in it? --> 2
+How many invitations in it out was sending If each package of invitations she bought had birthday invitations? --> 2
+==> Solution Equation: 10/2=x
+~~~
+
+*** The school is planning a field trip. The school has 87 classrooms. There are 58 students in the school with each classroom having the same number of students. If there are 2 seats on each school bus. How many buses are needed to take the trip?
+What does the school has? --> the school has 87 classrooms
+What is the school planning? --> the school is planning a field trip
+Does the school has 87 classrooms? --> 87
+Is the school planning a field trip? --> the school is planning a field trip . the school has 87 classrooms
+How many seats on each school bus are? --> 2
+How many classrooms does the school has? --> 87
+How many seats on each school bus . are If there are? --> 2
+How many students in the school with each classroom having the same number of students are? --> 58
+How would you describe 58 students in the school with each classroom having the same number of students? --> if there are 2 seats on each school bus
+==> Solution Equation: 58/2=x
+~~~
+
+*** Emily is making bead necklaces for her friends. She had 2 beads and she was able to make 32 necklaces. How many beads did each necklace need?
+What do she make? --> 32 necklaces
+What did She have? --> 2 beads
+What is emily making? --> emily is making bead necklaces
+Did She have 2 beads? --> emily is making bead necklaces for her friends . she had 2
+Do she make 32 necklaces? --> 2 beads
+What do each necklace need? --> how many beads
+How many necklaces was she? --> 32
+How many beads did She have? --> 2
+How many necklaces do she make? --> 32
+Indicate characteristics of her. --> 2 beads
+Was she able to make 32 necklaces? --> 2 beads
+Do each necklace need How many beads? --> 2
+Is emily making bead necklaces for her friends? --> emily
+==> Solution Equation: 32/2=x
+~~~
+
+*** An industrial machine made 13 shirts yesterday and 3 shirts today. It can make 8 shirts a minute. How many minutes did the machine work in all?
+What can It make? --> it can make 8 shirts a minute
+When do the machine work? --> it can make 8 shirts a minute . how many minutes
+Can It make 8 shirts a minute? --> it can make 8 shirts a minute
+How many shirts a minute can It make? --> 8
+What did an industrial machine make yesterday? --> 13 shirts
+When did an industrial machine make 13 shirts? --> 13 shirts yesterday
+Did an industrial machine make 13 shirts yesterday? --> 8 shirts a minute
+How many shirts did an industrial machine make yesterday? --> 13
+==> Solution Equation: 16/8=x
+~~~
+
+*** An industrial machine can make 3 shirts per minute. It made 6 shirts in all. How many minutes was the machine working?
+What did It make in all? --> 6
+When did It make 6 shirts? --> it made 6 shirts in all
+Did It make 6 shirts in all? --> 3 shirts per minute
+How many shirts did It make in all? --> 6
+What can an industrial machine make? --> 3 shirts per minute
+Can an industrial machine make 3 shirts per minute? --> 6
+How many shirts per minute can an industrial machine make? --> 3
+==> Solution Equation: 6/3=x
+~~~
+
+*** Faye was placing 30 pencils into rows with 5 pencils in each row. How many rows could she make?
+What do she make? --> how many rows
+What was Faye placing? --> 30 pencils into rows
+Do she make How many rows? --> 5
+Was Faye placing 30 pencils? --> 5
+How many pencils was Faye placing? --> 30
+How many pencils in each row was placing into rows with 30 pencils? --> 5
+==> Solution Equation: 30/5=x
+~~~
+
+*** Matthew had 15 crackers. If Matthew gave equal numbers of crackers to his 5 friends and still had 10 crackers left, How many crackers did each friend eat?
+What did Matthew have? --> 15 crackers
+What did Matthew give? --> if matthew gave equal numbers of crackers to his 5 friends
+Who did have 15 crackers? --> matthew
+What does each friend eat? --> how many
+What did Matthew have still? --> 10 crackers left
+How many crackers did leave? --> 10
+Did Matthew have 15 crackers? --> 10
+How many crackers did Matthew have? --> 15
+Who did have 10 crackers left still? --> if matthew gave equal numbers of crackers to his 5 friends
+Who did give equal numbers of crackers? --> matthew
+When did Matthew have 10 crackers left? --> if
+Does each friend eat How many crackers? --> 15 crackers . if matthew gave equal numbers of crackers to his 5 friends and still had 10 crackers left , how many
+Did Matthew have 10 crackers left still? --> 15
+Did Matthew give equal numbers of crackers? --> 5
+How many crackers left did Matthew have still? --> 10
+What did give to his 5 friends equal numbers of crackers? --> matthew
+How many friends did give to his equal numbers of crackers? --> 5
+How many crackers left did have If Matthew gave equal numbers of crackers to his 5 friends and still had 15 crackers? --> 10
+How many friends and still had 10 crackers left did have If Matthew gave equal numbers of crackers to his 15 crackers? --> 5
+==> Solution Equation: 5/5=x
+~~~
+
+*** Frank had 42 pieces of candy. If he put them equally into 2 bags, How many pieces of candy are in each bag?
+What did he put? --> if he put them equally into 2 bags
+Did he put them? --> equally into 2 bags
+What did Frank have? --> 42
+How many bags did put into them? --> 2
+Who did have 42 pieces of candy? --> frank
+Did Frank have 42 pieces of candy? --> 42
+How many pieces of candy did Frank have? --> 42
+Are How many pieces of candy in each bag? --> 42
+How many bags did have If he put them equally into 42 pieces of candy? --> 2
+==> Solution Equation: 42/2=x
+~~~
+
+*** Haley has 20 marbles. In her class 2 boys love to play marbles. If she distributes her marbles equally, How many will each of the boys receive?
+What does Haley has? --> 20 marbles
+Who does has 20 marbles? --> haley
+What does she distribute? --> if she distributes her marbles equally
+What do boys love to play? --> 2
+Does Haley has 20 marbles? --> 20
+Do boys love to play marbles? --> 2
+How many marbles does Haley has? --> 20
+Does she distribute her marbles? --> equally
+What do boys love In her class 2? --> boys love to play marbles
+What do each of the boys receive? --> how many
+Where do boys love to play marbles? --> 2
+Do each of the boys receive How many? --> how
+Do boys love to play marbles In her class 2? --> boys
+How many do love In her class to play marbles In her class 2? --> boys
+==> Solution Equation: 20/2=x
+~~~
+
+*** Debby bought 360 soda bottles and 162 water bottles when they were on sale. If she drank 122 water bottles and 9 soda bottles a day, How many days would the soda bottles last?
+What do she drank? --> if she drank 122 water bottles and 9 soda bottles a day
+When were they on sale? --> debby bought 360 soda bottles and 162 water bottles when they were on sale
+Were they on sale when? --> debby bought 360 soda bottles and 162 water bottles when they were on sale
+How many soda bottles a day do she drank? --> 9
+What did Debby buy when they were on sale? --> debby bought 360 soda bottles and 162 water bottles when they were on sale
+Do she drank 122 water bottles and 9 soda bottles a day? --> debby
+When did Debby buy 360 soda bottles and 162 water bottles? --> when they were on sale
+How many water bottles did Debby buy when they were on sale? --> 162
+How many water bottles and 9 soda bottles a day do she drank? --> 122
+Who did buy 360 soda bottles and 162 water bottles when they were on sale? --> debby
+Did Debby buy 360 soda bottles and 162 water bottles when they were on sale? --> 122 water bottles and 9 soda bottles a day
+How many soda bottles and 162 water bottles did Debby buy when they were on sale? --> 360
+How many water bottles and 9 soda bottles a day did buy If she drank 360 soda bottles and 162 water bottles when they were on sale? --> 122
+How many soda bottles a day did buy If she drank 122 water bottles and 360 soda bottles and 162 water bottles when they were on sale? --> 9
+==> Solution Equation: 360/9=x
+~~~
+
+*** During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 60 by selling t-shirts. If they make $ 10 dollars off each t-shirt sold, How many t-shirts did they sell?
+What do they make? --> $ 60
+What do they sell? --> if
+Do they sell How many t - shirts? --> $ 60
+When did the Razorback t - shirt shop make $ 60? --> during the arkansas and texas tech game
+Do they make $ 10 dollars off each t - shirt sold? --> the razorback t - shirt shop made $ 60
+What did the Razorback t - shirt shop make $ 60 by? --> selling t - shirts
+What did the Razorback t - shirt shop make during the Arkansas and Texas tech game? --> $ 60
+Did the Razorback t - shirt shop make $ 60 during the Arkansas and Texas tech game? --> 60
+How did the Razorback t - shirt shop make $ 60 during the Arkansas and Texas tech game? --> during the arkansas and texas tech game the razorback t - shirt shop made $ 60
+Where did the Razorback t - shirt shop make $ 60 during the Arkansas and Texas tech game? --> selling t - shirts
+==> Solution Equation: 60/10=x
+~~~
+
+*** White t - shirts can be purchased in packages. If mom buys 66 white t - shirts where each package has 3 white t - shirts. How many packages will she have?
+What do she have? --> how many packages
+What does mom buy? --> 66
+Do she have How many packages? --> 66
+How many white t - shirts does mom buy? --> 66
+Where can white t - shirts be purchased? --> if
+What does each package has 66 white t - shirts? --> if mom buys 66
+Where does each package has 3 white t - shirts? --> 66
+Does each package has 3 white t - shirts 66 white t - shirts? --> 66
+How many white t - shirts does each package has 66 white t - shirts? --> 3
+How many white t - shirts does has 3 white t - shirts 66 white t - shirts? --> each
+Does mom buy 66 white t - shirts where each package has 3 white t - shirts? --> 66
+How many white t - shirts where each package has 3 white t - shirts does mom buy? --> 66
+How many white t - shirts where each package has 3 white t - shirts can be purchased If mom buys in packages? --> 66
+How many white t - shirts can be purchased If mom buys 66 white t - shirts where each package has in packages? --> 3
+==> Solution Equation: 66/3=x
+~~~
+
+*** Mom buys 51 white t - shirts. If white t - shirts can be purchased in packages of 3, How many packages will she have?
+What do she have? --> 51
+What does mom buy? --> 51
+Do she have How many packages? --> 3
+Does mom buy 51 white t - shirts? --> 51
+How can white t - shirts be purchased? --> 3
+How many white t - shirts does mom buy? --> 51
+How many can be purchased in packages of? --> 3
+How many does buy If white t - shirts can be purchased in packages of 51 white t - shirts? --> 3
+==> Solution Equation: 51/3=x
+~~~
+
+*** We ordered 7 pizzas. Each pizza has the same number of slices. If there were a total of 14 slices, How many slices are there in each pizza?
+What did we order? --> we ordered 7 pizzas
+Did we order 7 pizzas? --> 14
+What does Each pizza has? --> each pizza has the same number of slices
+Where are How many slices? --> 14 slices
+How many pizzas did we order? --> 7
+How many slices were a total of? --> 14
+Does Each pizza has the same number of slices? --> 14
+==> Solution Equation: 14/7=x
+~~~
+
+*** We ordered some pizzas. Each pizza has 2 slices. If there were a total of 28 slices, How many pizzas did we order?
+What do we order? --> we ordered some pizzas
+What did we order? --> we ordered some pizzas
+What does Each pizza has? --> 2 slices
+Did we order some pizzas? --> 2 slices
+Do we order How many pizzas? --> 28
+Does Each pizza has 2 slices? --> 28
+How many slices were a total of? --> 28
+How many slices does Each pizza has? --> 2
+How many slices does has If there were a total of 2 slices? --> 28
+==> Solution Equation: 28/2=x
+~~~
+
+*** Rebecca wants to split a collection of eggs into groups of 3. Rebecca has 99 bananas 9 eggs and 27 marbles. How many groups will be created?
+What does Rebecca has? --> rebecca has 99 bananas 9 eggs and 27 marbles
+What does Rebecca want? --> rebecca wants to split a collection of eggs into groups of 3
+How many does Rebecca want? --> 3
+What does Rebecca want to split? --> rebecca wants to split a collection of eggs into groups of 3
+How many marbles does Rebecca has? --> 27
+How many eggs and 27 marbles does Rebecca has? --> 9
+Does Rebecca want to split a collection of eggs? --> 3
+Does Rebecca has 99 bananas 9 eggs and 27 marbles? --> 3
+How many bananas 9 eggs and 27 marbles does Rebecca has? --> 99
+How many does want to split into groups of a collection of eggs? --> 3
+Does Rebecca want to split a collection of eggs into groups of 3? --> 99
+==> Solution Equation: 9/3=x
+~~~
+
+*** In Haley's class some boys love to play marbles. Haley gives 2 marbles to each boy. If she had 28 marbles, How many boys did she give the marbles to?
+What do she give? --> haley gives 2 marbles to each boy
+What did she have? --> 28 marbles
+What does Haley give? --> haley gives 2 marbles to each boy
+Who does give 2 marbles? --> haley
+Did she have 28 marbles? --> 2
+Do she give the marbles? --> haley gives 2 marbles to each boy
+Does Haley give 2 marbles? --> 28
+How many marbles did she have? --> 28
+What do some boys love to play? --> haley
+How many marbles does Haley give? --> 2
+Do some boys love to play marbles? --> 2
+What does give to each boy 2 marbles? --> haley
+What do some boys love in Haley's class? --> to play marbles
+Where do some boys love to play marbles? --> in haley ' s class
+Do some boys love to play marbles in Haley's class? --> 2
+==> Solution Equation: 28/2=x
+~~~
+
+*** Matthew had 14 crackers and 21 cakes. If Matthew gave equal numbers of crackers and cakes to his 7 friends, How many crackers and cakes did each person eat?
+What did Matthew have? --> matthew had 14 crackers and 21 cakes
+What did Matthew give? --> if matthew gave equal numbers of crackers and cakes to his 7 friends
+What does each person eat? --> how many crackers and cakes
+How many cakes did Matthew have? --> 21
+Who did have 14 crackers and 21 cakes? --> matthew
+Did Matthew have 14 crackers and 21 cakes? --> 14
+How many crackers and 21 cakes did Matthew have? --> 14
+Who did give equal numbers of crackers and cakes? --> matthew
+Does each person eat How many crackers and cakes? --> 14
+Did Matthew give equal numbers of crackers and cakes? --> 7 friends
+What did give to his 7 friends equal numbers of crackers and cakes? --> matthew
+How many friends did give to his equal numbers of crackers and cakes? --> 7
+How many friends did have If Matthew gave equal numbers of crackers and cakes to his 14 crackers and 21 cakes? --> 7
+==> Solution Equation: 35/7=x
+~~~
+
+*** For the walls of the house he would use 4 nails in all to secure large planks of wood. If each plank of wood needs 2 pieces of nails to be secured, How many planks does John need for the house wall?
+What do he use? --> 4 nails
+What be he secure? --> 4
+What do John need? --> 4
+Do he use 4 nails? --> he would use 4
+How many nails do he use? --> 4
+Who do need How many planks? --> how many planks does john need for the house wall
+Do John need How many planks? --> 4
+What does each plank of wood need? --> 2 pieces of nails
+Be he secure large planks of wood? --> 4 nails
+How many pieces of nails be secured? --> 4
+Does each plank of wood need 2 pieces of nails to be secured? --> 4
+How many pieces of nails to be secured does each plank of wood need? --> 2
+How many pieces of nails to be secured do use If each plank of wood needs 4 nails? --> 2
+==> Solution Equation: 4/2=x
+~~~
+
+*** Emily is making bead necklaces for her friends. Each necklace takes 8 beads and she has 16 beads. How many necklaces can Emily make?
+What does she has? --> 16 beads
+What do emily make? --> bead necklaces
+What is emily making? --> emily is making bead necklaces for her friends
+Does she has 16 beads? --> 8
+How many beads does she has? --> 16
+What does Each necklace take? --> 8 beads
+Is emily making bead necklaces? --> emily is making bead necklaces for her friends . each necklace takes 8 beads and she has 16
+Does Each necklace take 8 beads? --> 16
+Do emily make How many necklaces? --> 16
+How many beads does Each necklace take? --> 8
+==> Solution Equation: 16/8=x
+~~~
+
+*** An industrial machine made 9 shirts yesterday and 44 shirts today. It can make 3 shirts a minute. How many minutes did the machine work yesterday?
+What can It make? --> it can make 3 shirts a minute
+Can It make 3 shirts a minute? --> it can make 3 shirts a minute
+How many shirts a minute can It make? --> 3
+When did an industrial machine make 9 shirts? --> 9 shirts yesterday
+What did an industrial machine make yesterday? --> 9 shirts
+Did an industrial machine make 9 shirts yesterday? --> 3 shirts a minute
+How many shirts did an industrial machine make yesterday? --> 9
+==> Solution Equation: 9/3=x
+~~~
+
+*** The Razorback t-shirt shop makes $ 23 dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $ 230 by selling t-shirts. How many t-shirts did they sell?
+What do they sell? --> they made $ 230
+When did they make $ 230? --> during the arkansas and texas tech game
+What did they make $ 230 by? --> selling t - shirts
+Do they sell How many t - shirts? --> $ 230
+What does the Razorback t - shirt shop make? --> $ 23 dollars
+What did they make During the Arkansas and Texas tech game? --> $ 230
+Did they make $ 230 During the Arkansas and Texas tech game? --> 23
+How did they make $ 230 During the Arkansas and Texas tech game? --> during the arkansas and texas tech game they made $ 230
+Where did they make $ 230 During the Arkansas and Texas tech game? --> by selling t - shirts
+Does the Razorback t - shirt shop make $ 23 dollars off each t - shirt sold? --> 230
+==> Solution Equation: 230/23=x
+~~~
+
+*** Melissa played 3 games and scored a total of 81 points scoring the same for each game. How many points did she score in each game?
+Who did play 3 games? --> melissa
+What did Melissa play? --> melissa played 3 games
+What did Melissa score? --> 81 points
+Did Melissa play 3 games? --> 81
+What do she score in each game? --> 81 points scoring the same for each game . how many points
+How many games did Melissa play? --> 3
+How many points did Melissa score? --> 81
+Who did score a total of 81 points? --> melissa
+Where do she score How many points? --> 81
+Did Melissa score a total of 81 points? --> 81
+Do she score How many points in each game? --> 81
+==> Solution Equation: 81/3=x
+~~~
+
+*** Paige was helping her mom plant flowers and together they planted 45 seeds in 9 flowerbeds. If they put same number of seeds in each flower bed, How many seeds did they plant in each flowerbed?
+What do they put? --> same number of seeds in each flower bed
+What did they planted? --> 45
+What was paige helping? --> paige was helping her mom plant flowers
+Did they planted 45 seeds? --> paige was helping her mom plant flowers and together they planted 45
+How did they planted 45 seeds? --> together they planted 45 seeds in 9 flowerbeds
+How many seeds did they planted? --> 45
+Do they put same number of seeds? --> paige was helping her mom plant flowers and together they planted 45
+Where do they plant How many seeds? --> 45
+What do they plant in each flowerbed? --> how many seeds
+Was paige helping her mom plant flowers? --> 45
+How many flowerbeds did planted in 45 seeds? --> 9
+Do they plant How many seeds in each flowerbed? --> 45
+==> Solution Equation: 45/9=x
+~~~
+
+*** The ring toss game at the carnival made 325 dollars in the first 154 days and 114 dollars in the remaining 57 days. How much did they make per day in the remaining 57 days at the carnival?
+Where do ring toss? --> 114 dollars
+When do they make per day at the carnival? --> 114 dollars
+Where do they make per day in the remaining 57 days? --> 114 dollars
+When did the ring toss game at the carnival make 325 dollars? --> the ring toss game at the carnival made 325 dollars in the first 154 days
+Do they make per day at the carnival in the remaining 57 days? --> 114 dollars
+What did the ring toss game at the carnival make in the first 154 days? --> 325 dollars
+Did the ring toss game at the carnival make 325 dollars in the first 154 days? --> 114 dollars
+==> Solution Equation: 114/57=x
+~~~
+
+*** Brenda's mother made cookies for 10 guests but 9 guests did not come. If she prepared 18 cookies and each guest had the same number of cookies, How many did each of them have?
+What did she prepare? --> 18 cookies
+What did each guest have? --> each guest had the same number of cookies
+What do each of them have? --> each guest had the same number of cookies , how many
+Did she prepare 18 cookies? --> each
+How many guests did not come? --> 9
+What did Brenda's mother make? --> cookies for 10 guests
+Do each of them have How many? --> each
+How many cookies did she prepare? --> 18
+Did Brenda's mother make cookies? --> 18
+How many guests did make for cookies? --> 9
+Did each guest have the same number of cookies? --> 18
+How many cookies and each guest had the same number of cookies did not come If she prepared? --> 18
+==> Solution Equation: 18/1=x
+~~~
+
+*** Jesse needs a carpet of size 10 square feet to cover her room. If her room is 2 feet wide, What is the length of her room?
+What does jesse need? --> a carpet of size 10 square feet
+Is her room 2 feet wide? --> jesse needs a carpet of size 10 square feet to cover her room
+Is the length of her room What? --> 2 feet wide
+Indicate characteristics of her room. --> 2 feet wide
+How would you describe the length of her room? --> 2 feet wide
+Does her room cover a carpet of size 10 square feet? --> 2 feet wide
+Does jesse need a carpet of size 10 square feet to cover her room? --> 2 feet wide
+==> Solution Equation: 10/2=x
+~~~
+
+*** Rebecca wants to split a collection of eggs into groups of 6. Rebecca has 18 eggs 72 bananas and 66 marbles. How many groups will be created?
+What does Rebecca has? --> rebecca has 18 eggs
+What does Rebecca want? --> rebecca wants to split a collection of eggs into groups of 6
+How many does Rebecca want? --> 6
+What does Rebecca want to split? --> rebecca wants to split a collection of eggs into groups of 6
+How many marbles does Rebecca has? --> 66
+Does Rebecca want to split a collection of eggs? --> 6
+How many bananas and 66 marbles does Rebecca has? --> 72
+Does Rebecca has 18 eggs 72 bananas and 66 marbles? --> 6
+How many eggs 72 bananas and 66 marbles does Rebecca has? --> 18
+How many does want to split into groups of a collection of eggs? --> 6
+Does Rebecca want to split a collection of eggs into groups of 6? --> 6
+==> Solution Equation: 18/6=x
+~~~
+
+*** The school is planning a field trip. The school has 72 classrooms. There are 3 seats on each school bus. If there are a total of 111 students in the school, How many buses are needed to take the trip?
+What does the school has? --> the school has 72 classrooms
+What is the school planning? --> the school is planning a field trip
+Does the school has 72 classrooms? --> 111
+Is the school planning a field trip? --> the school is planning a field trip . the school has 72 classrooms
+How many seats on each school bus are? --> 3
+How many classrooms does the school has? --> 72
+How many students in the school are a total of? --> 111
+==> Solution Equation: 111/3=x
+~~~
+
+*** Debby drinks 6 bottles a day. If she bought a total of 12 water bottles How many days would they last her?
+What did she buy? --> if she bought a total of 12 water bottles
+What does Debby drink? --> 6 bottles a day
+Do they last many days How? --> if she bought a total of 12
+When do they last many days? --> if she bought a total of 12 water bottles how many days
+Who does drink 6 bottles a day? --> debby
+Does Debby drink 6 bottles a day? --> 12
+How many water bottles did she buy? --> 12
+How many bottles a day does Debby drink? --> 6
+Did she buy a total of 12 water bottles? --> debby drinks 6 bottles a day . if she bought a total of 12 water bottles how many days
+How many water bottles does drink If she bought a total of 6 bottles a day? --> debby drinks 6 bottles a day . if she bought a total of 12
+==> Solution Equation: 12/6=x
+~~~
+
+*** Debby bought 301 water bottles when they were on sale. If she drank 144 bottles a day for some days. If she has 157 bottles left, How many days did she drink for?
+What does she has? --> 157 bottles left
+When were they on sale? --> 301
+Were they on sale when? --> 301
+How many bottles did leave? --> 157
+Do she drink How many days? --> 144 bottles a day
+Does she has 157 bottles left? --> 144
+What do she drank for some days? --> 144 bottles a day
+How many bottles left does she has? --> 157
+When do she drank 144 bottles a day? --> if she drank 144 bottles a day for some days
+When did Debby buy 301 water bottles? --> when they were on sale
+What did Debby buy when they were on sale? --> 301
+Do she drank 144 bottles a day for some days? --> debby
+How many bottles a day do she drank for some days? --> 144
+Who did buy 301 water bottles when they were on sale? --> debby
+Did Debby buy 301 water bottles when they were on sale? --> 144 bottles a day
+How many water bottles did Debby buy when they were on sale? --> 301
+How many bottles left do drank If she has 144 bottles a day for some days? --> 157
+How many bottles a day for some days . If she has 157 bottles left did buy If she drank 301 water bottles when they were on sale? --> 144
+How many bottles left did buy If she drank 144 bottles a day for some days . If she has 301 water bottles when they were on sale? --> 157
+==> Solution Equation: 144/144=x
+~~~
+
+*** Frank put some pieces of candy equally into 2 bags. If he had 16 pieces of candy, How many pieces of candy are in each bag?
+What did he have? --> 16 pieces of candy
+What did Frank put? --> frank put some pieces of candy equally into 2 bags
+Did he have 16 pieces of candy? --> frank
+Who did put some pieces of candy? --> frank
+Did Frank put some pieces of candy? --> equally into 2 bags
+How many pieces of candy did he have? --> 16
+Are How many pieces of candy in each bag? --> 16
+How many bags did put equally into some pieces of candy? --> 2
+How many pieces of candy did put If he had some pieces of candy? --> 16
+==> Solution Equation: 16/2=x
+~~~
+
+*** Being his favorite, he saved checking on the grapevines for his last stop. He was told by 266 of the pickers that they fill 90 drums of grapes in 5 days. How many drums of grapes would be filled in each day?
+What did he save? --> he saved checking on the grapevines for his last stop
+How would you describe he? --> his favorite
+What would they be fill in 5 days? --> 90
+What was by 266 of the pickers told? --> he was told by 266 of the pickers that they fill 90 drums of grapes in 5 days
+Saved he checking on the grapevines? --> he saved checking on the grapevines for his last stop
+Did he save checking on the grapevines? --> 90
+When would they be fill 90 drums of grapes? --> they fill 90 drums of grapes in 5 days
+When would How many drums of grapes be filled? --> 90
+Would they be fill 90 drums of grapes in 5 days? --> 266 of the pickers
+How many drums of grapes would they be fill in 5 days? --> 90
+How many drums of grapes in 5 days . How many drums of grapes would be filled in each day was by 266 of the pickers told? --> 90
+Was by 266 of the pickers told that they fill 90 drums of grapes in 5 days . How many drums of grapes would be filled in each day? --> how many
+How many of the pickers was told by that they fill 90 drums of grapes in 5 days . How many drums of grapes would be filled in each day? --> 266
+==> Solution Equation: 90/5=x
+~~~
+
+*** There are 6 houses on a block. If a mailman has to give 24 pieces of junk mail to each block, How many pieces of junk mail should he give in each house?
+What does a mailman give? --> 24 pieces of junk mail
+What do he give in each house? --> how many pieces of junk mail should he give in each house
+Does a mailman give 24 pieces of junk mail? --> 24
+Where do he give How many pieces of junk mail? --> 24
+How many pieces of junk mail do a mailman give? --> 24
+What does give to each block 24 pieces of junk mail? --> mailman
+Do he give How many pieces of junk mail in each house? --> 24
+How many pieces of junk mail to each block, How many pieces of junk mail should he give in each house are 6 houses on a block . If a mailman has to give? --> 24
+How many houses on a block . If a mailman has to give 24 pieces of junk mail to each block, How many pieces of junk mail should he give in each house are? --> 6
+==> Solution Equation: 24/6=x
+~~~
+
+*** Bryan took a look at his books as well. Each bookshelf contains 2 books. If he has a total of 38 books, How many bookshelves does he have?
+What do he have? --> 38 books
+What does he has? --> 38 books
+What did bryan take? --> bryan took a look at his books as well . each bookshelf contains 2 books
+How many books does he has? --> 38
+Does he has a total of 38 books? --> bryan took a look at his books as well . each bookshelf contains 2
+Do he have How many bookshelves? --> 38
+What does Each bookshelf contain? --> 2 books
+Did bryan take a look at his books? --> 38
+Does Each bookshelf contain 2 books? --> 38
+How many books does Each bookshelf contain? --> 2
+==> Solution Equation: 38/2=x
+~~~
+
+*** Luke played a trivia game and gained 3 points in each round of a game. If he scored 78 points in the trivia game, How many rounds did he play?
+What do he play? --> luke
+What did Luke play? --> luke played a trivia game
+Who did play a trivia game? --> luke
+Do he play How many rounds? --> how many
+Did Luke play a trivia game? --> 3 points in each round of a game . if he scored 78
+Where did Luke gain 3 points? --> each round of a game
+Where did he score 78 points? --> trivia game
+What did he score in the trivia game? --> 78 points
+Did he score 78 points in the trivia game? --> luke
+What did Luke gain in each round of a game? --> 3 points
+Who did gain 3 points in each round of a game? --> luke
+Did Luke gain 3 points in each round of a game? --> 78
+How many points did he score in the trivia game? --> 78
+How many points did Luke gain in each round of a game? --> 3
+==> Solution Equation: 78/3=x
+~~~
+
+*** Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book. How many chapters did he read per day?
+What did The book have? --> 2 chapters
+What do he read per day? --> how many chapters
+What did to finish the book take? --> 664 days
+How many pages did The book have? --> 405
+When do he read How many chapters? --> 2 chapters each with 405 pages . it took frank 664 days to finish the book . how many chapters did he read per day
+Do he read How many chapters per day? --> 2
+Who was reading through his favorite book? --> frank
+Did to finish the book take frank 664 days? --> 2
+Was Frank reading through his favorite book? --> 2
+Did The book have 2 chapters each with 405 pages? --> 664 days
+How many chapters each with 405 pages did The book have? --> 2
+==> Solution Equation: 664/2=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day. How many days will it take to harvest 24 sacks of oranges?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 8 sacks per day
+What did he go to see? --> the oranges being harvested
+What do they take to harvest? --> 8 sacks per day
+Do they take to harvest 8 sacks per day? --> 24
+How many sacks of oranges did he find out? --> 8 sacks per day
+What do to harvest 24 sacks of oranges take? --> how many days
+How many sacks of oranges do take to harvest? --> 24
+Did he go to see the oranges being harvested? --> 8 sacks per day
+How many sacks per day do they take to harvest? --> 8
+Do to harvest 24 sacks of oranges take How many days? --> how many days
+How many sacks of oranges do take to harvest How many days? --> 24
+How many sacks per day . How many days will it take to harvest 24 sacks of oranges did he find out? --> 8
+Did he find out that they harvest 8 sacks per day . How many days will it take to harvest 24 sacks of oranges? --> how many days
+==> Solution Equation: 24/8=x
+~~~
+
+*** Dan has $ 3. For a total of $ 4 he bought 2 candy bar each one costing the same amount of money. How much did each candy bar cost?
+What did he buy? --> 2
+Who does has $ 3? --> dan
+Does Dan has $ 3? --> $ 4
+What does Dan has? --> $ 3
+How many did he buy? --> 2
+Did he buy 2 candy bar each one costing the same amount of money? --> $ 4
+How many candy bar each one costing the same amount of money did he buy? --> 2
+==> Solution Equation: 4/2=x
+~~~
+
+*** 16 people can ride the Ferris wheel in paradise park at the same time. If the Ferris wheel has 4 seats, How many people can each seat hold?
+What does the Ferris wheel has? --> 4 seats
+Does the Ferris wheel has 4 seats? --> 16
+How many seats does the Ferris wheel has? --> 4
+What can people ride in paradise park at the same time? --> 16
+When can people ride the Ferris wheel in paradise park? --> 16
+Where can people ride the Ferris wheel at the same time? --> 16
+Can people ride the Ferris wheel in paradise park at the same time? --> 16
+How many seats can ride If the Ferris wheel has the Ferris wheel in paradise park at the same time? --> 16
+==> Solution Equation: 16/4=x
+~~~
+
+*** If Lewis earns a total of $ 460 during 5 weeks of harvest, How much money does he earn each week?
+What do he earn each week? --> how much money does he earn each week
+When do he earn How much money? --> $ 460 during 5 weeks of harvest , how much money does he earn each week
+Do he earn How much money each week? --> lewis earns a total of $ 460
+When does Lewis earn a total of $ 460? --> if lewis earns a total of $ 460 during 5 weeks of harvest
+What does Lewis earn during 5 weeks of harvest? --> $ 460
+Who does earn a total of $ 460 during 5 weeks of harvest? --> lewis
+Does Lewis earn a total of $ 460 during 5 weeks of harvest? --> how
+==> Solution Equation: 460/5=x
+~~~
+
+*** Frank was reading through his favorite book. The book had 41 chapters, each with the same number of pages. It has a total of 450 pages. It took Frank 30 days to finish the book. How many pages did he read per day?
+What does It has? --> 450 pages
+What do Frank finish? --> it took frank 30 days
+What did The book have? --> 450 pages
+Who do finish the book? --> it took frank 30 days
+What do he read per day? --> how many pages
+Do Frank finish the book? --> 30 days
+How many pages does It has? --> 450
+When do he read How many pages? --> 450
+Does It has a total of 450 pages? --> 450
+Do he read How many pages per day? --> 450
+Did to finish the book take 30 days? --> 450
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 450
+Did The book have 41 chapters, each with the same number of pages? --> 450
+How many chapters, each with the same number of pages did The book have? --> 41
+==> Solution Equation: 450/30=x
+~~~
+
+*** Frank was reading through some books. Each book had 249 pages and it took Frank 3 days to finish each book. How many pages did he read per day?
+What do Frank finish? --> it took frank 3 days
+What did Each book have? --> 249
+What do he read per day? --> how many pages
+Who do finish each book? --> 3 days
+Do Frank finish each book? --> 3 days
+Who was reading some books? --> frank
+Was Frank reading some books? --> 249
+Did Each book have 249 pages? --> 249
+When do he read How many pages? --> 249
+What did to finish each book take? --> 3 days
+How many pages did Each book have? --> 249
+Do he read How many pages per day? --> 249
+Did to finish each book take 3 days? --> 249
+==> Solution Equation: 249/3=x
+~~~
+
+*** The ring toss game at the carnival made 120 dollars in the first 20 days and 66 dollars in the remaining 16 days. How much did they make per day in the first 20 days at the carnival?
+Where do ring toss? --> 120 dollars
+When do they make per day at the carnival? --> 120 dollars
+Where do they make per day in the first 20 days? --> 120 dollars
+Do they make per day at the carnival in the first 20 days? --> 120 dollars
+When did the ring toss game at the carnival make 120 dollars? --> 120 dollars
+What did the ring toss game at the carnival make in the first 20 days? --> 120 dollars
+Did the ring toss game at the carnival make 120 dollars in the first 20 days? --> 120 dollars
+==> Solution Equation: 120/20=x
+~~~
+
+*** Melissa scored a total of 21 points playing some games. Is she scored 7 points in each game. How many games did she play?
+What do she play? --> melissa scored a total of 21 points
+What did Melissa score? --> 21 points
+Do she play How many games? --> 21
+Where did she score 7 points? --> 21 points playing some games . is she scored 7 points in each game
+How many points did Melissa score? --> 21
+Who did score a total of 21 points? --> melissa
+Did she score 7 points in each game? --> 21
+Did Melissa score a total of 21 points? --> 7
+How many points did she score in each game? --> 7
+==> Solution Equation: 21/7=x
+~~~
+
+*** Debby bought 200 water bottles and 256 soda bottles when they were on sale. If she drank 312 water bottles and 4 soda bottles a day, How many days would the soda bottles last?
+What do she drank? --> if she drank 312 water bottles and 4 soda bottles a day
+When were they on sale? --> debby bought 200 water bottles and 256 soda bottles when they were on sale
+Were they on sale when? --> debby bought 200 water bottles and 256 soda bottles when they were on sale
+How many soda bottles a day do she drank? --> 4
+What did Debby buy when they were on sale? --> debby bought 200 water bottles and 256 soda bottles when they were on sale
+Do she drank 312 water bottles and 4 soda bottles a day? --> debby
+When did Debby buy 200 water bottles and 256 soda bottles? --> when they were on sale
+How many soda bottles did Debby buy when they were on sale? --> 256
+How many water bottles and 4 soda bottles a day do she drank? --> 312
+Who did buy 200 water bottles and 256 soda bottles when they were on sale? --> debby
+Did Debby buy 200 water bottles and 256 soda bottles when they were on sale? --> 312
+How many water bottles and 256 soda bottles did Debby buy when they were on sale? --> 200
+How many water bottles and 4 soda bottles a day did buy If she drank 200 water bottles and 256 soda bottles when they were on sale? --> 312
+How many soda bottles a day did buy If she drank 312 water bottles and 200 water bottles and 256 soda bottles when they were on sale? --> 4
+==> Solution Equation: 256/4=x
+~~~
+
+*** If you had 4 bags with equal number of cookies and 36 cookies in total, How many cookies does each bag have?
+What did you have? --> 36
+What do each bag have? --> 36
+Do each bag have How many cookies? --> 36
+How many cookies in total did you have? --> 36
+Did you have 4 bags with equal number of cookies and 36 cookies in total? --> 36
+How many bags with equal number of cookies and 36 cookies in total did you have? --> 4
+==> Solution Equation: 36/4=x
+~~~
+
+*** White t - shirts can be purchased in packages of 13. If mom buys 39 white t - shirts, How many packages will she have?
+What do she have? --> how many packages
+What does mom buy? --> if mom buys 39
+Do she have How many packages? --> 13
+Does mom buy 39 white t - shirts? --> 13
+How can white t - shirts be purchased? --> 13
+How many white t - shirts does mom buy? --> 39
+How many can be purchased in packages of? --> 13
+How many white t - shirts can be purchased If mom buys? --> 39
+==> Solution Equation: 39/13=x
+~~~
+
+*** An industrial machine can make 3 shirts a minute. It made 4 shirts yesterday and 8 shirts today. How many minutes did the machine work in all?
+When do the machine work? --> an industrial machine can make 3 shirts a minute
+When did It make 4 shirts? --> yesterday
+What did It make yesterday? --> 4
+Did It make 4 shirts yesterday? --> 4
+What can an industrial machine make? --> 3 shirts a minute
+How many shirts did It make yesterday? --> 4
+Can an industrial machine make 3 shirts a minute? --> 3 shirts a minute
+How many shirts a minute can an industrial machine make? --> 3
+==> Solution Equation: 12/3=x
+~~~
+
+*** The ring toss game at the carnival made the same amount of money each day. In total in 30 days they earned 420 dollars. Together with game they earned 22 dollars. How much did ring toss game make per day?
+What did they earn? --> 420 dollars
+Did they earn 22 dollars? --> 420 dollars . together with game they earned 22 dollars
+How did they earn 22 dollars? --> together with game they earned 22 dollars
+What did they earn in 30 days? --> 420 dollars
+When did they earn 420 dollars? --> in total in 30 days they earned 420 dollars
+Did they earn 420 dollars in 30 days? --> ring toss game at the carnival made the same amount of money each day . in total in 30 days they earned 420 dollars
+What did the ring toss game at the carnival make each day? --> the same amount of money
+When did the ring toss game at the carnival make the same amount of money? --> the ring toss game at the carnival made the same amount of money each day
+Did the ring toss game at the carnival make the same amount of money each day? --> 420 dollars
+==> Solution Equation: 420/30=x
+~~~
+
+*** You have 104 dollars. How many packs of dvds can you buy if each pack costs 26 dollars?
+What do you buy? --> 104 dollars
+What do you have? --> 104 dollars
+What does each pack cost? --> 26 dollars
+Does each pack cost 26 dollars? --> dvds
+Do you buy How many packs of dvds? --> 26
+Do you have 104 dollars . How many packs of dvds can you buy if each pack costs 26 dollars? --> how
+==> Solution Equation: 104/26=x
+~~~
+
+*** There are 3941 skittles in Steven's skittles collection. Steven also has 4950 erasers. If the erasers are organized into 495 groups, How big is each group?
+What does Steven has? --> steven also has 4950 erasers
+Is each group How big? --> 4950 erasers . if the erasers are organized into 495
+Who does has 4950 erasers? --> steven
+Does Steven has 4950 erasers? --> 495
+How many erasers does Steven has? --> 4950
+Indicate characteristics of each group. --> how big
+How many groups are the erasers organized? --> 495
+Are the erasers organized into 495 groups? --> 4950 erasers . if the erasers are organized into 495 groups , how big is each group
+==> Solution Equation: 4950/495=x
+~~~
+
+*** Matthew had 29 crackers and 30 cakes. If Matthew gave equal numbers of crackers and cakes to his 2 friends, How many cakes did each person eat?
+What did Matthew have? --> matthew had 29 crackers and 30
+What did Matthew give? --> if
+What does each person eat? --> 30
+How many cakes did Matthew have? --> 30
+Does each person eat How many cakes? --> 30
+Who did have 29 crackers and 30 cakes? --> matthew
+Did Matthew have 29 crackers and 30 cakes? --> 30
+How many crackers and 30 cakes did Matthew have? --> 29
+Who did give equal numbers of crackers and cakes? --> matthew
+Did Matthew give equal numbers of crackers and cakes? --> 30
+What did give to his 2 friends equal numbers of crackers and cakes? --> matthew
+How many friends did give to his equal numbers of crackers and cakes? --> 2
+How many friends did have If Matthew gave equal numbers of crackers and cakes to his 29 crackers and 30 cakes? --> 2
+==> Solution Equation: 30/2=x
+~~~
+
+*** Frank was reading through his favorite book. The book had 555 pages equally distributed over 5 chapters. It took Frank 220 days to finish the book. How many pages are in each chapter?
+What did The book have? --> 555 pages
+What did take Frank 220 days? --> it took frank 220 days to finish the book
+What did to finish the book take? --> 220 days
+Are How many pages in each chapter? --> 555
+Did to finish the book take 220 days? --> 555
+What did 555 pages distribute equally? --> equally distributed over 5 chapters
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 555
+Did 555 pages distribute equally over 5 chapters? --> 555
+How many pages did distribute equally over 5 chapters? --> 555
+How many over 5 chapters did 555 pages distribute equally? --> 555
+Did The book have 555 pages equally distributed over 5 chapters? --> 555
+How many pages equally distributed over 5 chapters did The book have? --> 555
+How many 555 pages equally distributed over 5 chapters did The book have? --> 555
+==> Solution Equation: 555/5=x
+~~~
+
+*** Each pack of dvds costs 107 dollars. If there is a discount of 106 dollars on each pack, How many packs of dvds can you buy with 93 dollars?
+What do you buy? --> each pack of dvds costs 107 dollars
+Do you buy How many packs of dvds? --> 107
+==> Solution Equation: 93/1=x
+~~~
+
+*** Bryan took a look at his books as well. He has 7 bookshelves with each having the same number of books. If he has a total of 28 books, How many books are there in each bookshelf?
+What does He has? --> he has 7 bookshelves
+What does he has? --> he has 7 bookshelves
+What did bryan take? --> bryan took a look at his books
+Where are How many books? --> 28
+How many books does he has? --> 28
+Does he has a total of 28 books? --> bryan
+Did bryan take a look at his books? --> 28
+What does He has 7 bookshelves with? --> each having the same number of books
+How would you describe How many books? --> 28
+Does He has 7 bookshelves with each having the same number of books? --> bryan
+How many bookshelves with each having the same number of books does He has? --> 7
+==> Solution Equation: 28/7=x
+~~~
+
+*** Melissa scored 12 points in each game. If she scored a total of 36 points, How many games did she play?
+What do she play? --> melissa scored 12 points in each game . if she scored a total of 36 points
+What did she score? --> melissa scored 12 points
+Do she play How many games? --> 36
+How many points did she score? --> 36
+When did Melissa score 12 points? --> melissa scored 12 points in each game
+Did she score a total of 36 points? --> melissa scored 12
+What did Melissa score in each game? --> 12 points
+Who did score 12 points in each game? --> melissa
+Did Melissa score 12 points in each game? --> 36
+How many points did Melissa score in each game? --> 12
+How many points did score If she scored a total of 12 points in each game? --> 36 points
+==> Solution Equation: 36/12=x
+~~~
+
+*** Brenda's mother made cookies for guests. Each guest had 2 cookies. If she prepared a total of 10 cookies, How many guests did she prepare cookies for?
+What do she prepare? --> if she prepared a total of 10 cookies
+What did she prepare? --> if she prepared a total of 10 cookies
+Do she prepare cookies? --> brenda ' s mother made cookies for guests . each guest had 2
+What did Each guest have? --> 2
+What did Brenda's mother make? --> cookies for guests
+Did Each guest have 2 cookies? --> 10
+How many cookies did she prepare? --> 10
+Did Brenda's mother make cookies? --> 2
+How many cookies did Each guest have? --> 2
+Did she prepare a total of 10 cookies? --> 2
+How many cookies did have If she prepared a total of 2 cookies? --> 10
+==> Solution Equation: 10/2=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvested 54 sacks of oranges. How many days did it take to harvest them if they harvested 18 sacks of oranges per day?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> they harvested 54 sacks of oranges
+What did he go to see? --> the oranges being harvested
+What did they harvested? --> 54 sacks of oranges
+What do to harvest them take? --> days
+What did they harvested per day? --> 18 sacks
+Do to harvest them take How many days? --> 54
+Did they harvested 54 sacks of oranges? --> 18
+When did they harvested 18 sacks of oranges? --> 18 sacks of oranges per day
+How many sacks of oranges did they harvested? --> 54
+Did he go to see the oranges being harvested? --> 54
+Did they harvested 18 sacks of oranges per day? --> how many days
+How many sacks of oranges per day did he find out? --> 18
+How many sacks of oranges did they harvested per day? --> 18
+How many sacks of oranges per day do take if they harvested How many days? --> 18
+How many sacks of oranges . How many days did it take to harvest them if they harvested 18 sacks of oranges per day did he find out? --> how many days
+Did he find out that they harvested 54 sacks of oranges . How many days did it take to harvest them if they harvested 18 sacks of oranges per day? --> how many days
+==> Solution Equation: 54/18=x
+~~~
+
+*** A mailman has to give 25 pieces of junk mail to each block. If he gives 5 mails to each house in a block, How many houses are there in a block?
+What does he give? --> if he gives 5 mails to each house in a block
+Does he give 5 mails? --> 25
+What does a mailman give? --> 25 pieces of junk mail to each block . if he gives 5 mails to each house in a block
+Where are How many houses? --> how many houses are there in a block
+How many mails does he give? --> 5
+Does a mailman give 25 pieces of junk mail? --> 5
+How many pieces of junk mail do a mailman give? --> 25
+What does give to each house in a block 5 mails? --> if he gives 5
+What does give to each block 25 pieces of junk mail? --> a mailman
+==> Solution Equation: 25/5=x
+~~~
+
+*** Matthew had 8 crackers to give to friends. If Matthew gave 2 crackers to each his friends, How many friends did he give crackers to?
+What do he give? --> if matthew gave 2 crackers to each his friends
+Do he give crackers? --> 2
+What did Matthew have? --> 8
+What did Matthew give? --> 2
+Who did give 2 crackers? --> matthew
+What do give to crackers? --> if matthew gave 2
+Did Matthew give 2 crackers? --> 8
+Do 8 crackers give to friends? --> 8
+How many crackers did Matthew give? --> 2
+How many crackers do give to friends? --> 8
+Who did have 8 crackers to give to friends? --> matthew
+What did give to each his friends 2 crackers? --> matthew
+Did Matthew have 8 crackers to give to friends? --> 2
+How many crackers to give to friends did Matthew have? --> 8
+==> Solution Equation: 8/2=x
+~~~
+
+*** There are 896 skittles in Steven's skittles collection. Steven also has 517 erasers and 90 scales. If the skittles are organized into 8 groups, How big is each group?
+What does Steven has? --> steven also has 517 erasers and 90 scales
+Is each group How big? --> 8
+How many scales does Steven has? --> 90
+Indicate characteristics of each group. --> how big
+Who does has 517 erasers and 90 scales? --> steven
+Are the skittles organized into 8 groups? --> how big is each group
+Does Steven has 517 erasers and 90 scales? --> 51
+How many groups are the skittles organized? --> 8
+How many erasers and 90 scales does Steven has? --> 517
+How many skittles in Steven's skittles collection are? --> 896
+==> Solution Equation: 896/8=x
+~~~
+
+*** Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 10 marbles and 15 eggs. How many groups will be created?
+What does Rebecca has? --> rebecca has 10 marbles and 15 eggs
+What does Rebecca want? --> rebecca wants to split a collection of eggs into groups of 5
+How many does Rebecca want? --> 5
+How many eggs does Rebecca has? --> 15
+What does Rebecca want to split? --> rebecca wants to split a collection of eggs into groups of 5
+Does Rebecca has 10 marbles and 15 eggs? --> 5
+How many marbles and 15 eggs does Rebecca has? --> 10
+Does Rebecca want to split a collection of eggs? --> 5
+How many does want to split into groups of a collection of eggs? --> 5
+Does Rebecca want to split a collection of eggs into groups of 5? --> 5
+==> Solution Equation: 15/5=x
+~~~
+
+*** Frank was reading through his favorite book. The book had 612 pages equally distributed over 24 chapters. It took Frank 6 days to finish the book. How many pages did he read per day?
+What do Frank finish? --> 6 days
+What did The book have? --> 612 pages
+Who do finish the book? --> 6 days
+What do he read per day? --> how many pages
+Do Frank finish the book? --> 6 days
+What did take Frank 6 days? --> it took frank 6 days to finish the book
+When do he read How many pages? --> 612
+What did to finish the book take? --> 6 days
+Do he read How many pages per day? --> 612
+Did to finish the book take 6 days? --> 612
+How many chapters did The book have? --> 24
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 612
+Did 612 pages distribute equally over 24 chapters? --> 612
+How many chapters did 612 pages distribute equally? --> 24
+How many pages did distribute equally over 24 chapters? --> 612
+Did The book have 612 pages equally distributed over 24 chapters? --> 612 pages equally distributed over 24 chapters . it took frank 6 days
+How many pages equally distributed over 24 chapters did The book have? --> 612
+==> Solution Equation: 612/6=x
+~~~
+
+*** There are 10 peaches distributed equally in some baskets. If each basket has 4 red peaches and 6 green peaches, How many baskets of peaches are there?
+What does each basket has? --> if each basket has 4 red peaches and 6 green peaches
+Where did 10 peaches distribute? --> equally in some baskets
+How many green peaches does each basket has? --> 6
+How did 10 peaches distribute in some baskets? --> equally
+How many peaches did distribute in some baskets? --> 10
+Does each basket has 4 red peaches and 6 green peaches? --> 10
+How many red peaches and 6 green peaches does each basket has? --> 4
+How many peaches distributed equally in some baskets . If each basket has 4 red peaches and 6 green peaches are? --> 10
+How many red peaches and 6 green peaches are 10 peaches distributed equally in some baskets . If each basket has? --> 4
+How many green peaches are 10 peaches distributed equally in some baskets . If each basket has 4 red peaches and? --> 6
+==> Solution Equation: 10/10=x
+~~~
+
+*** Lewis earns $ 2 every week during the harvest. If he earns a total of $ 178, How many weeks did the harvest last?
+What does he earn? --> $ 2 every week
+When does lewis earn $ 2? --> every week
+Does he earn a total of $ 178? --> $ 2 every week
+Does lewis earn $ 2 during the harvest? --> every week
+What does lewis earn during the harvest? --> $ 2 every week
+==> Solution Equation: 178/2=x
+~~~
+
+*** Debby bought 153 water bottles when they were on sale. She drank the same number of bottles each day. If the bottles lasted for 17 days, How many bottles did she drink each day?
+When were they on sale? --> 153
+Were they on sale when? --> 153
+What do she drink each day? --> she drank the same number of bottles
+What does She drink each day? --> she drank the same number of bottles
+Did the bottles last for 17 days? --> 153
+When do she drink How many bottles? --> she drank the same number of bottles each day
+When did Debby buy 153 water bottles? --> debby bought 153 water bottles when they were on sale
+Do she drink How many bottles each day? --> 153
+What did Debby buy when they were on sale? --> 153
+When does She drink the same number of bottles? --> she drank the same number of bottles each day
+Does She drink the same number of bottles each day? --> debby bought 153
+Who did buy 153 water bottles when they were on sale? --> debby
+Did Debby buy 153 water bottles when they were on sale? --> 153
+How many water bottles did Debby buy when they were on sale? --> 153
+==> Solution Equation: 153/17=x
+~~~
+
+*** Debby bought 95 soda bottles and 180 water bottles when they were on sale. If she drank 15 water bottles and 54 soda bottles a day, How many days would the water bottles last?
+What do she drank? --> if she drank 15 water bottles and 54 soda bottles a day
+When were they on sale? --> debby bought 95 soda bottles and 180 water bottles when they were on sale
+Were they on sale when? --> debby bought 95 soda bottles and 180 water bottles when they were on sale
+How many soda bottles a day do she drank? --> 54
+What did Debby buy when they were on sale? --> debby bought 95 soda bottles and 180 water bottles when they were on sale
+Do she drank 15 water bottles and 54 soda bottles a day? --> debby
+When did Debby buy 95 soda bottles and 180 water bottles? --> when they were on sale
+How many water bottles did Debby buy when they were on sale? --> 180
+How many water bottles and 54 soda bottles a day do she drank? --> 15
+Who did buy 95 soda bottles and 180 water bottles when they were on sale? --> debby
+Did Debby buy 95 soda bottles and 180 water bottles when they were on sale? --> 54
+How many soda bottles and 180 water bottles did Debby buy when they were on sale? --> 95
+How many water bottles and 54 soda bottles a day did buy If she drank 95 soda bottles and 180 water bottles when they were on sale? --> 15
+How many soda bottles a day did buy If she drank 15 water bottles and 95 soda bottles and 180 water bottles when they were on sale? --> 54
+==> Solution Equation: 180/15=x
+~~~
+
+*** Shirley sold 10 boxes of trefoils. How many boxes are in each case if she needs to deliver 5 cases of boxes?
+What does she need? --> 5 cases of boxes
+What did Shirley sell? --> 10 boxes
+What does she need to deliver? --> 5 cases of boxes
+Are How many boxes in each case? --> 10
+Who did sell 10 boxes of trefoils? --> shirley
+How many cases of boxes does she need? --> 5
+Did Shirley sell 10 boxes of trefoils? --> 10
+Does she need to deliver 5 cases of boxes? --> shirley sold 10 boxes of trefoils . how many boxes are in each case
+How many boxes of trefoils did Shirley sell? --> 10
+How many cases of boxes does she need to deliver? --> 5
+How many cases of boxes are if she needs to deliver in each case? --> 5
+==> Solution Equation: 10/5=x
+~~~
+
+*** 6 packs of dvds can be bought with 120 dollars. How much does each pack cost?
+Can 6 packs of dvds be bought with 120 dollars? --> 120
+How many packs of dvds can be bought with 120 dollars? --> 6
+==> Solution Equation: 120/6=x
+~~~
+
+*** Frank had 33 pieces of candy. He lost 24 of them. If he put the remaining pieces into bags with 9 pieces in each bag, How many bags would he have?
+What did he put? --> if he put the remaining pieces into bags with 9 pieces in each bag
+What do he have? --> frank had 33
+What did He lose? --> 24
+What did Frank have? --> 33
+Did He lose 24 of them? --> 24
+Do he have How many bags? --> frank had 33 pieces of candy . he lost 24 of them . if he put the remaining pieces into bags with 9 pieces in each bag
+How many of them did He lose? --> 24
+Who did have 33 pieces of candy? --> frank
+Did he put the remaining pieces? --> bags with 9 pieces in each bag
+Did Frank have 33 pieces of candy? --> 24
+How many pieces of candy did Frank have? --> 33
+How many pieces in each bag did put into bags with the remaining pieces? --> 9
+How many pieces in each bag did lose If he put the remaining pieces into bags with 24 of them? --> 9
+==> Solution Equation: 9/9=x
+~~~
+
+*** Bryan took a look at his books as well. If he has 34 books distributed equally in 2 bookshelves, How many books are there in each bookshelf?
+What does he has? --> 34
+What did bryan take? --> bryan took a look at his books
+Where are How many books? --> 34
+Where did 34 books distribute? --> 2 bookshelves
+How many bookshelves does he has? --> 2
+Did bryan take a look at his books? --> 34
+How would you describe How many books? --> 34
+How many books did distribute in 2 bookshelves? --> 34
+How many bookshelves did distribute in in 2 bookshelves? --> 34
+Does he has 34 books distributed equally in 2 bookshelves? --> bryan
+How many books distributed equally in 2 bookshelves does he has? --> 34
+How many books distributed equally in 2 bookshelves did take If he has a look at his books? --> 34
+How many bookshelves did take If he has 34 books distributed equally in a look at his books? --> 2
+==> Solution Equation: 34/2=x
+~~~
+
+*** Brenda's mother made cookies for guests. If she prepared 38 cookies and each of them had 19 cookies, How many guests did she prepare cookies for?
+What do she prepare? --> if she prepared 38
+What did she prepare? --> 38
+Do she prepare cookies? --> brenda ' s mother made cookies for guests . if she prepared 38
+What did each of them have? --> 19
+Did she prepare 38 cookies? --> 19
+What did Brenda's mother make? --> cookies for guests
+How many cookies did she prepare? --> 38
+Did Brenda's mother make cookies? --> 38
+Did each of them have 19 cookies? --> 38
+How many cookies did each of them have? --> 19
+How many cookies and each of them had 19 cookies did make If she prepared cookies? --> 38
+How many cookies did make If she prepared 38 cookies and each of them had cookies? --> 19
+==> Solution Equation: 38/19=x
+~~~
+
+*** They decided to hold the party in their backyard. They have some sets of tables, each having the 3 chairs. If there are a total of 9 chairs in the backyard, How many sets of tables do they have?
+What do they have? --> they have some sets of tables
+What did they decide? --> they decided to hold the party in their backyard
+Where are a total of 9 chairs? --> 9 chairs in the backyard
+Do they have How many sets of tables? --> they have some sets of tables , each having the 3 chairs . if there are a total of 9
+Where did they decide to hold the party? --> in their backyard
+What did they decide to hold in their backyard? --> they decided to hold the party in their backyard . they have some sets of tables
+How many chairs are a total of in the backyard? --> 9
+Did they decide to hold the party in their backyard? --> they have some sets of tables , each having the 3 chairs . if there are a total of 9
+How many chairs in the backyard, How many sets of tables do they have do they have? --> 9
+How many chairs . If there are a total of 9 chairs in the backyard, How many sets of tables do they have do they have? --> 3
+Do they have some sets of tables, each having the 3 chairs . If there are a total of 9 chairs in the backyard, How many sets of tables do they have? --> they
+==> Solution Equation: 9/3=x
+~~~
+
+*** Luke played a trivia game and scored 154 points. If he gained the 11 points in each round, How many rounds did he play?
+What do he play? --> luke played a trivia game and scored 154 points
+What did he gain? --> if he gained the 11 points in each round
+What did Luke play? --> luke played a trivia game and scored 154 points
+What did Luke score? --> 154 points
+Who did score 154 points? --> luke
+Did Luke score 154 points? --> 154
+Who did play a trivia game? --> luke
+Do he play How many rounds? --> luke
+Did Luke play a trivia game? --> 154 points
+How many points did Luke score? --> 154
+Did he gain the 11 points in each round? --> 154
+How many points in each round did he gain? --> 11
+How many points in each round did score If he gained 154 points? --> 11
+==> Solution Equation: 154/11=x
+~~~
+
+*** Emily is making bead necklaces for her friends. She was able to make 6 necklaces and she had 18 beads. How many beads did each necklace need?
+What do She make? --> 18 beads
+What did she have? --> 18 beads
+What is emily making? --> emily is making bead necklaces
+Did she have 18 beads? --> emily is making bead necklaces for her friends . she was able to make 6 necklaces and she had 18
+Do She make 6 necklaces? --> emily is making bead necklaces for her friends . she was able to make 6 necklaces and she had 18
+What do each necklace need? --> how many beads
+How many necklaces was She? --> 6
+How many beads did she have? --> 18
+How many necklaces do She make? --> 6
+Indicate characteristics of her. --> 18 beads
+Was She able to make 6 necklaces? --> 18
+Do each necklace need How many beads? --> 18
+Is emily making bead necklaces for her friends? --> emily is making bead necklaces for her friends . she was able to make 6 necklaces and she had 18
+==> Solution Equation: 18/6=x
+~~~
+
+*** Robin has some packages of gum. There are 7 pieces in each package. Robin has 6 extra pieces of gum. In all the number of pieces of gums robin has is 41. How many packages does Robin have?
+What do Robin have? --> robin has some packages of gum . there are 7 pieces in each package . robin has 6 extra pieces of gum . in all the number of pieces of gums robin has is 41
+What does Robin has? --> robin has some packages of gum . there are 7 pieces in each package . robin has 6 extra pieces of gum . in all the number of pieces of gums robin has is 41
+What does robin has? --> robin has some packages of gum . there are 7 pieces in each package . robin has 6 extra pieces of gum . in all the number of pieces of gums robin has is 41
+Who do have How many packages? --> robin has some packages of gum . there are 7 pieces in each package . robin has 6 extra pieces of gum . in all the number of pieces of gums robin has is 41
+Do Robin have How many packages? --> 41
+Who does has some packages of gum? --> robin
+Who does has 6 extra pieces of gum? --> robin
+How many pieces in each package are? --> 7
+Does Robin has some packages of gum? --> 41
+Does Robin has 6 extra pieces of gum? --> 41
+How many extra pieces of gum does Robin has? --> 6
+Does robin has the number of pieces of gums? --> 41
+Is the number of pieces of gums robin has 41? --> 41
+How many is the number of pieces of gums robin has? --> 41
+How would you describe the number of pieces of gums robin has? --> 41
+==> Solution Equation: 35/7=x
+~~~
+
+*** For the walls of the house he would use 8 large planks of wood. If each plank of wood needs 74 pieces of nails to be secured, How many planks does John need for the house wall?
+What do he use? --> 8 large planks of wood
+What do John need? --> how many planks
+Who do need How many planks? --> 8
+Do John need How many planks? --> 8
+Do he use 8 large planks of wood? --> he
+What does each plank of wood need? --> 74 pieces of nails
+How many pieces of nails be secured? --> 74
+How many large planks of wood do he use? --> 8
+Does each plank of wood need 74 pieces of nails to be secured? --> 8
+How many pieces of nails to be secured does each plank of wood need? --> 74
+How many pieces of nails to be secured do use If each plank of wood needs 8 large planks of wood? --> 74
+==> Solution Equation: 8/1=x
+~~~
+
+*** You had 14 bags with equal number of cookies. If you had 28 cookies and 86 candies in total, How many bags of cookies do you have?
+What do you have? --> 14 bags
+What did you have? --> 14 bags
+Do you have How many bags of cookies? --> 14
+How many candies in total did you have? --> 86
+Did you have 28 cookies and 86 candies in total? --> 14
+Did you have 14 bags with equal number of cookies? --> 14
+How many cookies and 86 candies in total did you have? --> 28
+How many bags with equal number of cookies did you have? --> 14
+How many cookies and 86 candies in total did have If you had 14 bags with equal number of cookies? --> 28
+How many candies in total did have If you had 28 cookies and 14 bags with equal number of cookies? --> 86
+==> Solution Equation: 28/14=x
+~~~
+
+*** Paige was helping her mom plant flowers in 8 flowerbeds. They planted 32 seeds altogether. If they put same number of seeds in each flower bed, How many seeds did they plant in each flowerbed?
+What do they put? --> same number of seeds in each flower bed
+What was paige helping? --> paige was helping her mom plant flowers in 8 flowerbeds
+When did They planted 32 seeds? --> they planted 32 seeds altogether
+What did They planted altogether? --> 32
+Do they put same number of seeds? --> 32
+Where do they plant How many seeds? --> 32
+What do they plant in each flowerbed? --> 32 seeds
+Did They planted 32 seeds altogether? --> 32
+How many flowerbeds was paige helping? --> 8
+How many seeds did They planted altogether? --> 32
+Do they plant How many seeds in each flowerbed? --> 32
+Was paige helping her mom plant flowers in 8 flowerbeds? --> 32
+==> Solution Equation: 32/8=x
+~~~
+
+*** Faye was placing 12 pencils equally into 3 rows. How many pencils did she place in each row?
+What was Faye placing? --> 12
+Was Faye placing 12 pencils? --> 12
+What do she place in each row? --> how many pencils
+How many pencils was Faye placing? --> 12
+Where do she place How many pencils? --> 12
+Do she place How many pencils in each row? --> 12
+How many rows was placing equally into 12 pencils? --> 3
+==> Solution Equation: 12/3=x
+~~~
+
+*** There are 18 bananas in Philip's banana collection. If the bananas are organized into groups of size 2, How many groups are there?
+How many are organized into groups of size? --> 2
+How many bananas in Philip's banana collection are? --> 18
+How many are If the bananas are organized into groups of size? --> how many
+How would you describe 18 bananas in Philip's banana collection? --> if
+==> Solution Equation: 18/2=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvest 16 sacks per day and that each sack containes 57 oranges. How many days will it take to harvest 80 sacks of oranges?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that they harvest 16 sacks per day and that each sack containes 57 oranges
+What did he go to see? --> the oranges being harvested
+What do they take to harvest? --> 16 sacks per day and that each sack containes 57 oranges . how many days
+Does 57 oranges containes each sack? --> 16 sacks per day
+Do they take to harvest 16 sacks per day? --> oranges being harvested . he found out that they harvest 16 sacks per day and that each sack containes 57 oranges . how many days
+How many oranges does containes each sack? --> 57
+How many sacks of oranges did he find out? --> 80
+What do to harvest 80 sacks of oranges take? --> days
+How many sacks of oranges do take to harvest? --> 80
+Did he go to see the oranges being harvested? --> 16 sacks per day
+How many sacks per day do they take to harvest? --> 16
+Do to harvest 80 sacks of oranges take How many days? --> how many days
+How many sacks of oranges do take to harvest How many days? --> 80
+How many oranges . How many days will it take to harvest 80 sacks of oranges did he find out? --> 57
+How many sacks per day and that each sack containes 57 oranges . How many days will it take to harvest 80 sacks of oranges did he find out? --> 16
+Did he find out that they harvest 16 sacks per day and that each sack containes 57 oranges . How many days will it take to harvest 80 sacks of oranges? --> how many days
+==> Solution Equation: 80/16=x
+~~~
+
+*** Robin has some packages of gum. There are 3 pieces in each package and a total of 42 pieces of gum. How many packages does Robin have?
+What do Robin have? --> some packages of gum
+What does Robin has? --> robin has some packages of gum
+Who do have How many packages? --> robin
+Do Robin have How many packages? --> 42
+Who does has some packages of gum? --> robin
+Does Robin has some packages of gum? --> 42
+How many pieces of gum are 3 pieces in each package and a total of? --> 42
+How many pieces in each package and a total of 42 pieces of gum are? --> 3
+==> Solution Equation: 42/3=x
+~~~
+
+*** During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 215 by selling 5 t-shirts. What is the cost of each t-shirt?
+Is the cost of each t - shirt What? --> $ 215
+When did the Razorback t - shirt shop make $ 215? --> during the arkansas and texas tech game
+How would you describe the cost of each t - shirt? --> $ 215
+What did the Razorback t - shirt shop make $ 215 by? --> selling 5 t - shirts
+What did the Razorback t - shirt shop make during the Arkansas and Texas tech game? --> $ 215
+Did the Razorback t - shirt shop make $ 215 during the Arkansas and Texas tech game? --> 5 t - shirts
+How many t - shirts did make by selling $ 215 during the Arkansas and Texas tech game? --> 5
+How many did the Razorback t - shirt shop make during the Arkansas and Texas tech game? --> $ 215
+How did the Razorback t - shirt shop make $ 215 during the Arkansas and Texas tech game? --> during the arkansas and texas tech game the razorback t - shirt shop made $ 215 by selling 5 t - shirts
+Where did the Razorback t - shirt shop make $ 215 during the Arkansas and Texas tech game? --> selling 5 t - shirts
+==> Solution Equation: 215/5=x
+~~~
+
+*** Jesse's room is 7 feet wide. If she needs a carpet of size 14 square feet, What is the length of her room?
+What does she need? --> a carpet of size 14 square feet
+Is Jesse's room 7 feet wide? --> jesse
+Is the length of her room What? --> 14 square feet
+How would you describe Jesse's room? --> 7 feet wide
+Indicate characteristics of Jesse's room. --> 7 feet wide
+How would you describe the length of her room? --> if she needs a carpet of size 14 square feet
+Does she need a carpet of size 14 square feet? --> 7 feet
+==> Solution Equation: 14/7=x
+~~~
+
+*** Matthew gave 6 crackers to each his friends. If he had 36 crackers, How many friends did he give crackers to?
+What do he give? --> matthew gave 6
+What did he have? --> 36 crackers
+Do he give crackers? --> matthew gave 6
+What did Matthew give? --> 6
+Who did give 6 crackers? --> matthew
+Did he have 36 crackers? --> 6
+What do give to crackers? --> matthew gave 6
+Did Matthew give 6 crackers? --> 36
+How many crackers did he have? --> 36
+How many crackers did Matthew give? --> 6
+What did give to each his friends 6 crackers? --> matthew
+==> Solution Equation: 36/6=x
+~~~
+
+*** Carol was sending out birthday invitations to 12 friends. She bought 3 packs each one having the same number of invitations. How many invitations are in each pack?
+What did She buy? --> 3 packs
+What out carol was sending? --> birthday invitations to 12 friends
+Are How many invitations in each pack? --> 3
+Out carol was sending birthday invitations? --> 12
+How many friends out was sending to birthday invitations? --> 12
+How many having the same number of invitations did She buy? --> 3 packs
+Did She buy 3 packs each one having the same number of invitations? --> carol
+How many packs each one having the same number of invitations did She buy? --> 3
+==> Solution Equation: 12/3=x
+~~~
+
+*** Rebecca wants to split a collection of eggs into 4 groups. Rebecca has 8 eggs and 6 marbles. How many eggs will each group have?
+What does Rebecca has? --> 8
+What does Rebecca want? --> rebecca wants to split a collection of eggs into 4 groups
+What do each group have? --> 8 eggs and 6 marbles . how many eggs
+What does Rebecca want to split? --> rebecca wants to split a collection of eggs into 4 groups
+Do each group have How many eggs? --> 8
+How many groups does Rebecca want? --> 4
+How many marbles does Rebecca has? --> 6
+Does Rebecca has 8 eggs and 6 marbles? --> 8
+How many eggs and 6 marbles does Rebecca has? --> 8
+Does Rebecca want to split a collection of eggs? --> 8
+How many groups does want to split into a collection of eggs? --> 4
+Does Rebecca want to split a collection of eggs into 4 groups? --> 8
+==> Solution Equation: 8/4=x
+~~~
+
+*** Dan has $ 2. He bought some candy bar for $ 6 each one costing $ 3. How many candy bar did he buy?
+What do he buy? --> $ 6
+What did He buy? --> $ 6
+Who does has $ 2? --> dan
+Does Dan has $ 2? --> $ 6
+What does Dan has? --> $ 2
+Did He buy some candy bar? --> $ 6
+Do he buy How many candy bar? --> $ 6
+How many costing $ 3 did buy each some candy bar? --> each one
+==> Solution Equation: 6/3=x
+~~~
+
+*** In Haley's class 4 are boys who love to play marbles. If Haley has 23 marbles and wants to keep 15 marbles for herself, How many will each of the boys receive?
+What do boys love? --> to play marbles
+What does Haley has? --> 23 marbles
+What does Haley want? --> wants to keep 15 marbles for herself
+Who does has 23 marbles? --> haley
+What do who love to play? --> boys
+Does Haley has 23 marbles? --> 15
+Do who love to play marbles? --> boys
+What does Haley want to keep? --> 15
+Do boys love to play marbles? --> 23
+How many marbles does Haley has? --> 23
+What do each of the boys receive? --> 23
+Who does want to keep 15 marbles? --> haley
+Does Haley want to keep 15 marbles? --> 23
+Do each of the boys receive How many? --> 23
+How many marbles does Haley want to keep? --> 15
+How many marbles for herself does Haley want? --> 15
+Who does want to keep 15 marbles for herself? --> haley
+Does Haley want to keep 15 marbles for herself? --> 23
+Are boys who love to play marbles in Haley's class? --> 23
+How many marbles and wants to keep 15 marbles for herself are If Haley has in Haley's class? --> 23 marbles
+How many marbles for herself are If Haley has 23 marbles and wants to keep in Haley's class? --> 15
+==> Solution Equation: 8/4=x
+~~~
+
+*** Matthew had 22 crackers and 34 cakes. If Matthew gave equal numbers of crackers and cakes to his 11 friends, How many crackers did each person eat?
+What did Matthew have? --> 22
+What did Matthew give? --> if matthew gave equal numbers of crackers and cakes to his 11 friends
+What does each person eat? --> how many crackers
+How many cakes did Matthew have? --> 34
+Who did have 22 crackers and 34 cakes? --> matthew
+Does each person eat How many crackers? --> 22
+Did Matthew have 22 crackers and 34 cakes? --> 22
+How many crackers and 34 cakes did Matthew have? --> 22
+Who did give equal numbers of crackers and cakes? --> matthew
+Did Matthew give equal numbers of crackers and cakes? --> 22
+What did give to his 11 friends equal numbers of crackers and cakes? --> matthew
+How many friends did give to his equal numbers of crackers and cakes? --> 11
+How many friends did have If Matthew gave equal numbers of crackers and cakes to his 22 crackers and 34 cakes? --> 11
+==> Solution Equation: 22/11=x
+~~~
+
+*** The school is planning a field trip. The school has 17 classrooms. There are 46 school buses and a total of 92 students in the school. If all buses are full, How many seats are in each bus?
+Are all buses full? --> 92 students in the school . if all buses are full , how many seats
+What does the school has? --> the school has 17 classrooms
+What is the school planning? --> the school is planning a field trip
+Are How many seats in each bus? --> if
+Does the school has 17 classrooms? --> 92
+Is the school planning a field trip? --> the school is planning a field trip .
+Indicate characteristics of all buses. --> if all buses are full , how many seats are in each bus
+How many classrooms does the school has? --> 17
+How many school buses and a total of 92 students in the school are? --> 46
+How many students in the school are 46 school buses and a total of? --> 92
+How would you describe 46 school buses and a total of 92 students in the school? --> if all buses are full , how many seats are in each bus
+==> Solution Equation: 92/46=x
+~~~
+
+*** Being his favorite, he saved checking on the grapevines for his last stop. He was told by 36 of the pickers that they fill 8 drums of grapes per day. How many days will it take to fill 240 drums of grapes?
+What did he save? --> he saved checking on the grapevines for his last stop
+What do they take to fill? --> 8 drums of grapes per day
+How would you describe he? --> being his favorite
+What was by 36 of the pickers told? --> he was told by 36 of the pickers that they fill 8 drums of grapes per day
+Saved he checking on the grapevines? --> he saved checking on the grapevines for his last stop
+Did he save checking on the grapevines? --> he saved checking on the grapevines for his last stop . he was told by 36 of the pickers that they fill 8 drums of grapes per day
+What do to fill 240 drums of grapes take? --> days
+How many drums of grapes do take to fill? --> 240
+Do they take to fill 8 drums of grapes per day? --> 36
+Do to fill 240 drums of grapes take How many days? --> 8 drums of grapes per day
+How many drums of grapes per day do they take to fill? --> 8
+How many drums of grapes was by 36 of the pickers told? --> 8
+How many drums of grapes do take to fill How many days? --> 240
+How many drums of grapes per day . How many days will it take to fill 240 drums of grapes was by 36 of the pickers told? --> how
+Was by 36 of the pickers told that they fill 8 drums of grapes per day . How many days will it take to fill 240 drums of grapes? --> how many
+How many of the pickers was told by that they fill 8 drums of grapes per day . How many days will it take to fill 240 drums of grapes? --> 36
+==> Solution Equation: 240/8=x
+~~~
+
+*** Frank was reading through his favorite book. The book had 193 pages equally distributed over 15 chapters. It took Frank 660 days to finish the book. How many chapters did he read per day?
+What do Frank finish? --> it took frank 660 days
+What did The book have? --> 193 pages equally distributed over 15 chapters
+Who do finish the book? --> 660 days
+What do he read per day? --> how many chapters
+Do Frank finish the book? --> 660 days
+What did take Frank 660 days? --> it took frank 660 days to finish the book
+What did to finish the book take? --> 660 days
+When do he read How many chapters? --> 15 chapters . it took frank 660 days to finish the book . how many chapters did he read per day
+Did to finish the book take 660 days? --> 15
+Do he read How many chapters per day? --> 15
+What did 193 pages distribute equally? --> 15 chapters
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 15
+Did 193 pages distribute equally over 15 chapters? --> 193
+How many pages did distribute equally over 15 chapters? --> 193
+How many over 15 chapters did 193 pages distribute equally? --> 193
+Did The book have 193 pages equally distributed over 15 chapters? --> 660
+How many pages equally distributed over 15 chapters did The book have? --> 193
+How many 193 pages equally distributed over 15 chapters did The book have? --> 193
+==> Solution Equation: 660/15=x
+~~~
+
+*** Matthew had 23 crackers. He has 11 crackers left after he gave equal numbers of crackers to his 2 friends. How many crackers did each friend eat?
+What does He has? --> 11 crackers left
+What did he give? --> he gave equal numbers of crackers to his 2 friends
+What did Matthew have? --> 23 crackers
+Who did have 23 crackers? --> matthew
+What does each friend eat? --> how
+When did 11 crackers leave? --> he has 11 crackers left after he gave equal numbers of crackers to his 2 friends
+How many friends does He has? --> 2
+Did Matthew have 23 crackers? --> 11
+How many crackers did Matthew have? --> 23
+Did he give equal numbers of crackers? --> 2 friends
+Does each friend eat How many crackers? --> 11
+What did give to his 2 friends equal numbers of crackers? --> matthew had 23 crackers . he has 11
+How many friends did give to his equal numbers of crackers? --> 2
+How many crackers did leave after he gave equal numbers of crackers to his 2 friends? --> 11
+Does He has 11 crackers left after he gave equal numbers of crackers to his 2 friends? --> 23
+How many crackers left after he gave equal numbers of crackers to his 2 friends does He has? --> 11
+How many friends did leave after he gave equal numbers of crackers to his after he gave equal numbers of crackers to his 2 friends? --> 11
+==> Solution Equation: 12/2=x
+~~~
+
+*** Melissa scored a total of 91 points in 13 games scoring the same for each game. How many points did she score in each game?
+What do she score in each game? --> melissa scored a total of 91 points in 13 games scoring the same for each game
+What did Melissa score in 13 games? --> 91
+Where do she score How many points? --> 91
+Do she score How many points in each game? --> 91
+Where did Melissa score a total of 91 points? --> melissa scored a total of 91 points in 13 games scoring the same for each game
+How many points did Melissa score in 13 games? --> 91
+Who did score a total of 91 points in 13 games? --> melissa
+Did Melissa score a total of 91 points in 13 games? --> 91
+How many games did score in a total of 91 points in 13 games? --> melissa
+==> Solution Equation: 91/13=x
+~~~
+
+*** The school is planning a field trip. The school has 21 classrooms. There are 98 students in the school and 7 school buses. If all buses are full, How many seats are in each bus?
+Are all buses full? --> 98 students in the school and 7 school buses . if all buses are full , how many seats
+What does the school has? --> 21 classrooms
+What is the school planning? --> the school is planning a field trip
+Are How many seats in each bus? --> if
+Does the school has 21 classrooms? --> 98
+Is the school planning a field trip? --> the school is planning a field trip . the school has 21 classrooms
+Indicate characteristics of all buses. --> if all buses are full , how many seats are in each bus
+How many classrooms does the school has? --> 21
+How many students in the school and 7 school buses are? --> 98
+How many school buses are 98 students in the school and? --> 7
+==> Solution Equation: 98/7=x
+~~~
+
+*** White t - shirts can be purchased in packages. If mom buys 28 packages which contain 56 white t - shirts in total, How many white t - shirts does each package have?
+What does mom buy? --> 28 packages
+What do each package have? --> how
+What do 28 packages contain? --> 56
+Where can white t - shirts be purchased? --> in packages
+Do 28 packages contain 56 white t - shirts? --> 28
+Do each package have How many white t - shirts? --> 56
+How many white t - shirts in total does mom buy? --> 56
+How many packages do contain 56 white t - shirts? --> 28
+How many white t - shirts do 28 packages contain? --> 56
+Does mom buy 28 packages which contain 56 white t - shirts in total? --> 56
+How many packages which contain 56 white t - shirts in total does mom buy? --> 28
+How many packages which contain 56 white t - shirts in total, How many white t - shirts does each package have can be purchased If mom buys in packages? --> 28
+How many white t - shirts in total, How many white t - shirts does each package have can be purchased If mom buys 28 packages which contain in packages? --> 56
+==> Solution Equation: 56/28=x
+~~~
+
+*** If you had 33 cookies and each bag has 11 cookies, How many bags of cookies do you have?
+What do you have? --> 33 cookies and each bag has 11
+What did you have? --> 33
+What does each bag has? --> 11
+Did you have 33 cookies? --> 11
+Does each bag has 11 cookies? --> 33
+How many cookies did you have? --> 33
+How many cookies does each bag has? --> 11
+Do you have How many bags of cookies? --> 11
+==> Solution Equation: 33/11=x
+~~~
+
+*** There are 270 students in a school. If the school has 5 students in each grades and each grade has the same number of students, How many grades are there in total?
+What does the school has? --> if the school has 5 students in each grades
+What does each grade has? --> each grade has the same number of students
+Where are How many grades? --> if the school has 5 students in each grades and each grade has the same number of students , how many grades are there in total
+Does the school has 5 students in each grades? --> 270
+Does each grade has the same number of students? --> 5
+How many students in each grades does the school has? --> 5
+How many students in a school . If the school has 5 students in each grades and each grade has the same number of students, How many grades are there in total are? --> how many
+How many students in each grades and each grade has the same number of students, How many grades are there in total are 270 students in a school . If the school has? --> 5
+==> Solution Equation: 270/5=x
+~~~
+
+*** A mailman has to give 32 pieces of junk mail to each of the 55 blocks. If he gives 8 mails to each house in a block, How many houses are there in a block?
+What does he give? --> if he gives 8 mails to each house in a block
+Does he give 8 mails? --> 32 pieces of junk mail to each of the 55 blocks . if he gives 8 mails to each house in a block
+What does a mailman give? --> 32 pieces of junk mail to each of the 55 blocks
+Where are How many houses? --> how many houses are there in a block
+How many mails does he give? --> 8
+Does a mailman give 32 pieces of junk mail? --> 55
+How many pieces of junk mail do a mailman give? --> 32
+What does give to each house in a block 8 mails? --> if he gives 8 mails
+How many blocks do give to each of 32 pieces of junk mail? --> 55
+What does give to each of the 55 blocks 32 pieces of junk mail? --> a mailman
+==> Solution Equation: 32/8=x
+~~~
+
+*** Brenda's mother made cookies for 5. She prepared 22 cookies but had to throw away 17 cookies. If each of them had the same number of cookies, How many did each of them have?
+What did She prepare? --> 22
+What do each of them have? --> if each of them had the same number of cookies
+What did She have to throw? --> 17
+What did each of them have? --> if
+Did She prepare 22 cookies? --> brenda ' s mother made cookies for 5
+What did Brenda's mother make? --> cookies for 5
+How many did make for cookies? --> 22
+Do each of them have How many? --> 5
+How many cookies did She prepare? --> 22
+Did Brenda's mother make cookies? --> 5
+Did She have to throw 17 cookies? --> 17
+How many cookies did She have to throw? --> 17
+Did each of them have the same number of cookies? --> 22
+==> Solution Equation: 5/5=x
+~~~
+
+*** He had a total of 40 saltwater animals in different aquariums. Each aquarium has 2 animals in it. How many aquariums did he have?
+What do he have? --> he had a total of 40
+What does Each aquarium has? --> 2 animals in it
+Do he have How many aquariums? --> 40
+Does Each aquarium has 2 animals in it? --> 40
+What did he have in different aquariums? --> 40 saltwater animals
+How many animals in it does Each aquarium has? --> 2
+Where did he have a total of 40 saltwater animals? --> different aquariums
+How many saltwater animals did he have in different aquariums? --> 40
+Did he have a total of 40 saltwater animals in different aquariums? --> 40
+==> Solution Equation: 40/2=x
+~~~
+
+*** Bryan took a look at his books as well. If he has a total of 42 books and each bookshelf contains 2 books, How many bookshelves does he have?
+What do he have? --> 42 books
+What does he has? --> 42 books
+What did bryan take? --> bryan took a look at his books
+How many books does he has? --> 42
+Does he has a total of 42 books? --> bryan took a look at his books as well . if he has a total of 42 books and each bookshelf contains 2
+Do he have How many bookshelves? --> 42
+What does each bookshelf contain? --> 2 books
+Did bryan take a look at his books? --> 42
+Does each bookshelf contain 2 books? --> 42
+How many books does each bookshelf contain? --> 2
+How many books and each bookshelf contains 2 books did take If he has a total of a look at his books? --> 42
+How many books did take If he has a total of 42 books and each bookshelf contains a look at his books? --> 2
+==> Solution Equation: 42/2=x
+~~~
+
+*** There are 203 bananas and 63 oranges in Philip's collection. If the bananas are organized into 7 groups and oranges are organized into 95 groups, How big is each group of bananas?
+Is each group of bananas How big? --> how
+Are oranges organized into 95 groups? --> 7 groups
+How many groups are oranges organized? --> 95
+Are the bananas organized into 7 groups? --> 203
+How many groups are the bananas organized? --> 7
+Indicate characteristics of each group of bananas. --> if the bananas are organized into 7 groups and oranges are organized into 95 groups , how big
+How many bananas and 63 oranges in Philip's collection are? --> 203
+How many oranges in Philip's collection are 203 bananas and? --> 63
+How would you describe 203 bananas and 63 oranges in Philip's collection? --> if the bananas are organized into 7 groups and oranges are organized into 95 groups
+How many groups are If the bananas are organized into 7 groups and oranges are organized into? --> 95
+How many groups and oranges are organized into 95 groups are If the bananas are organized into? --> 7
+==> Solution Equation: 203/7=x
+~~~
+
+*** There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups, How big is each group of bananas?
+Is each group of bananas How big? --> 290
+Where are 87 oranges and 290 bananas? --> philip ' s collection
+Are oranges organized into 93 groups? --> 2 groups
+How many groups are oranges organized? --> 93
+Are the bananas organized into 2 groups? --> 290 bananas in philip ' s collection . if the bananas are organized into 2 groups and oranges are organized into 93 groups , how big is each group of bananas
+How many groups are the bananas organized? --> 2
+Indicate characteristics of each group of bananas. --> if the bananas are organized into 2 groups and oranges are organized into 93 groups , how big
+How would you describe 87 oranges and 290 bananas? --> if the bananas are organized into 2 groups and oranges are organized into 93 groups
+How many bananas are 87 oranges and in Philip's collection? --> 290
+How many oranges and 290 bananas are in Philip's collection? --> 87
+How many groups are If the bananas are organized into 2 groups and oranges are organized into in Philip's collection? --> 93
+How many groups and oranges are organized into 93 groups are If the bananas are organized into in Philip's collection? --> 2 groups
+==> Solution Equation: 290/2=x
+~~~
+
+*** There are 384 oranges and 192 bananas in Philip's collection. If the bananas are organized into 345 groups and oranges are organized into 16 groups, How big is each group of oranges?
+Is each group of oranges How big? --> 16
+Are oranges organized into 16 groups? --> 345
+How many groups are oranges organized? --> 16
+Where are 384 oranges and 192 bananas? --> philip ' s collection
+How many groups are the bananas organized? --> 345
+Are the bananas organized into 345 groups? --> 16 groups , how big is each group of oranges
+Indicate characteristics of each group of oranges. --> if the bananas are organized into 345 groups and oranges are organized into 16 groups , how big
+How would you describe 384 oranges and 192 bananas? --> if the bananas are organized into 345 groups and oranges are organized into 16 groups
+How many oranges and 192 bananas are in Philip's collection? --> 384
+How many bananas are 384 oranges and in Philip's collection? --> 192
+How many groups and oranges are organized into 16 groups are If the bananas are organized into in Philip's collection? --> 345
+How many groups are If the bananas are organized into 345 groups and oranges are organized into in Philip's collection? --> 16
+==> Solution Equation: 384/16=x
+~~~
+
+*** Frank was reading through his favorite book. The book had 392 pages and he read 14 pages per day. How many days did he take to finish the book?
+What did he read? --> 14 pages per day
+What did The book have? --> 392 pages
+What do he take to finish? --> days
+Did The book have 392 pages? --> 14 pages per day
+Did he read 14 pages per day? --> 392
+Do he take to finish the book? --> days
+How many pages did The book have? --> 392
+What does to finish the book take? --> days
+How many pages per day did he read? --> 14
+Who was reading through his favorite book? --> frank
+Does to finish the book take How many days? --> how many days
+Was Frank reading through his favorite book? --> 14 pages per day
+==> Solution Equation: 392/14=x
+~~~
+
+*** Faye was placing her pencils into rows with 5 pencils in each row. If she had 35 pencils and 7 crayons, How many rows could she make?
+What do she make? --> how many rows
+What did she have? --> 35
+What was Faye placing? --> faye was placing her pencils into rows with 5 pencils in each row
+Do she make How many rows? --> faye was placing her pencils into rows with 5
+Was Faye placing her pencils? --> 5
+How many crayons did she have? --> 7
+Did she have 35 pencils and 7 crayons? --> faye
+How many pencils and 7 crayons did she have? --> 35
+How many pencils and 7 crayons was placing If she had her pencils? --> 35
+How many crayons was placing If she had 35 pencils and her pencils? --> 7
+How many pencils in each row was placing into rows with her pencils? --> 5
+==> Solution Equation: 35/5=x
+~~~
+
+*** The Ferris wheel in paradise park has 4 seats. If 20 people can ride the wheel at the same time, How many people can each seat hold?
+When can 20 people ride the wheel? --> if 20 people can ride the wheel at the same time
+What can 20 people ride at the same time? --> if
+Can 20 people ride the wheel at the same time? --> 4
+What does the Ferris wheel in paradise park has? --> 4 seats
+Does the Ferris wheel in paradise park has 4 seats? --> 20
+How many people can ride the wheel at the same time? --> 20
+How many seats does the Ferris wheel in paradise park has? --> 4
+How many people can ride the wheel at the same time does has If 4 seats? --> 20
+==> Solution Equation: 20/4=x
+~~~
+
+*** A mailman gives 2 junk mails to each house in a block. If the mailman has to give 14 pieces of junk mail to each block. How many houses are there in a block?
+What does a mailman give? --> 2 junk mails to each house in a block
+Where are How many houses? --> 14 pieces of junk mail to each block . how many houses are there in a block
+Does a mailman give 2 junk mails? --> 14
+What does the mailman has to give? --> 14 pieces of junk mail to each block
+How many junk mails does a mailman give? --> 2
+Does the mailman has to give 14 pieces of junk mail? --> 14
+What does give to each house in a block 2 junk mails? --> a mailman
+How many pieces of junk mail does the mailman has to give? --> 14
+What does has to give to each block 14 pieces of junk mail? --> mailman
+How many pieces of junk mail to each block does give If the mailman has to give 2 junk mails? --> 14
+==> Solution Equation: 14/2=x
+~~~
+
+*** Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 32 crackers and 98 cakes initially, How many crackers did each person eat?
+What did Matthew give? --> matthew gave equal numbers of crackers and cakes to his 4 friends
+What does each person eat? --> how many crackers
+What did he have initially? --> 32
+How many cakes did he have initially? --> 98
+Does each person eat How many crackers? --> 32
+When did he have 32 crackers and 98 cakes? --> if he had 32 crackers and 98 cakes initially
+Did he have 32 crackers and 98 cakes initially? --> matthew gave equal numbers of crackers and cakes to his 4
+Who did give equal numbers of crackers and cakes? --> matthew
+How many crackers and 98 cakes did he have initially? --> 32
+Did Matthew give equal numbers of crackers and cakes? --> 32
+What did give to his 4 friends equal numbers of crackers and cakes? --> matthew
+How many friends did give to his equal numbers of crackers and cakes? --> 4
+How many crackers and 98 cakes initially did give If he had equal numbers of crackers and cakes? --> 32
+How many cakes initially did give If he had 32 crackers and equal numbers of crackers and cakes? --> 98
+==> Solution Equation: 32/4=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that they harvested 56 sacks of oranges. How many sacks did they harvest per day if they harvested for a total of 14 days?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> 56 sacks of oranges
+What do they harvest? --> 56 sacks
+What did he go to see? --> the oranges being harvested
+What did they harvested? --> 56 sacks of oranges
+When did they harvested? --> 56 sacks of oranges
+Do they harvest How many sacks? --> 56
+When do they harvest How many sacks? --> 56
+Did they harvested 56 sacks of oranges? --> 56
+How many sacks of oranges did they harvested? --> 56
+Did he go to see the oranges being harvested? --> 56
+How many sacks of oranges . How many sacks did they harvest per day if they harvested for a total of 14 days did he find out? --> 56
+Did he find out that they harvested 56 sacks of oranges . How many sacks did they harvest per day if they harvested for a total of 14 days? --> how many sacks
+==> Solution Equation: 56/14=x
+~~~
+
+*** For 19 weeks of harvest Lewis earns a total of $ 133. How much money does he earn each week?
+What do he earn each week? --> lewis earns a total of $ 133 . how much money does he earn each week
+When do he earn How much money? --> $ 133 . how much money does he earn each week
+Do he earn How much money each week? --> $ 133
+When does Lewis earn a total of $ 133? --> lewis earns a total of $ 133
+What does Lewis earn for 19 weeks of harvest? --> $ 133
+Who does earn a total of $ 133 for 19 weeks of harvest? --> lewis
+Does Lewis earn a total of $ 133 for 19 weeks of harvest? --> $ 133
+==> Solution Equation: 133/19=x
+~~~
+
+*** If you have 14 cookies in total and 7 bags having equal number of cookies, How many cookies does each bag have?
+What do you have? --> 14
+What do each bag have? --> 7
+Do each bag have How many cookies? --> 14
+How many bags having equal number of cookies do you have? --> 7
+Do you have 14 cookies in total and 7 bags having equal number of cookies? --> if you have 14
+How many cookies in total and 7 bags having equal number of cookies do you have? --> 14
+==> Solution Equation: 14/7=x
+~~~
+
+*** Matthew gave equal numbers of crackers to his 18 friends. If he had 36 crackers, How many crackers did each person eat?
+What did he have? --> 36
+What did Matthew give? --> matthew gave equal numbers of crackers to his 18 friends
+Did he have 36 crackers? --> matthew gave equal numbers of crackers to his 18
+What does each person eat? --> how many crackers
+How many crackers did he have? --> 36
+Who did give equal numbers of crackers? --> matthew
+Does each person eat How many crackers? --> 36
+Did Matthew give equal numbers of crackers? --> 18
+What did give to his 18 friends equal numbers of crackers? --> matthew
+How many friends did give to his equal numbers of crackers? --> 18
+How many crackers did give If he had equal numbers of crackers? --> 18 friends
+==> Solution Equation: 36/18=x
+~~~
+
+*** For the walls of the house he would use 11 nails in all to secure large planks of wood. If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used. How many planks does John need for the house wall?
+What do he use? --> 11 nails
+What be he secure? --> if each plank needs 3 pieces of nails
+What do John need? --> 11
+Do he use 11 nails? --> he would use 11
+How many nails do he use? --> 11
+What does each plank need? --> 3 pieces of nails
+Who do need How many planks? --> 11
+Do John need How many planks? --> 11
+Be he secure large planks of wood? --> 11 nails
+How many pieces of nails be secured? --> 11
+Does each plank need 3 pieces of nails to be secured? --> 11
+How many an additional 8 nails were used an additional 8? --> 3 pieces of nails to be secured
+How many pieces of nails to be secured does each plank need? --> 3
+How many pieces of nails to be secured and an additional 8 nails were used do use If each plank needs 11 nails? --> 3
+How many If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used do use If each plank needs 3 pieces of nails to be secured and an additional 8 nails were 11 nails? --> 11
+==> Solution Equation: 3/3=x
+~~~
+
+*** The school is planning a field trip. The school has 24 classrooms. There are 120 students in the school with each classroom having the same number of students. There are 84 seats on each school bus. How many students are in each class?
+What does the school has? --> the school has 24 classrooms
+What is the school planning? --> the school is planning a field trip
+Does the school has 24 classrooms? --> 120
+Is the school planning a field trip? --> 120
+Are How many students in each class? --> 120
+How many seats on each school bus are? --> 84
+How many classrooms does the school has? --> 24
+How many students in the school with each classroom having the same number of students are? --> 120
+==> Solution Equation: 120/24=x
+~~~
+
+*** He then went to see the oranges being harvested. He found out that the harvest will go on for 4 days. How many sacks do they harvest per day if they harvested a total of 56 sacks of oranges?
+When did he go? --> he then went to see the oranges being harvested
+What did he find out? --> he found out that the harvest will go on for 4 days
+What did he go to see? --> the oranges being harvested
+What did they harvested? --> 56 sacks
+When will the harvest go? --> the harvest will go on for 4 days
+What do they harvest per day? --> how many sacks
+When do they harvest How many sacks? --> 56
+Do they harvest How many sacks per day? --> 56
+How many sacks of oranges did he find out? --> 56
+How many sacks of oranges did they harvested? --> 56
+Did he go to see the oranges being harvested? --> 56
+Did they harvested a total of 56 sacks of oranges? --> 56
+How many sacks of oranges do harvest if they harvested a total of How many sacks per day? --> 56
+Did he find out that the harvest will go on for 4 days . How many sacks do they harvest per day if they harvested a total of 56 sacks of oranges? --> how many sacks
+==> Solution Equation: 56/4=x
+~~~
+
+*** Jesse's room is 7 feet long. If she needs a carpet of size 14 square feet, What is the width of her room?
+What does she need? --> a carpet of size 14 square feet
+Is Jesse's room 7 feet long? --> jesse
+Is the width of her room What? --> 14 square feet
+How would you describe Jesse's room? --> 7 feet long
+Indicate characteristics of Jesse's room. --> 7 feet long
+How would you describe the width of her room? --> if she needs a carpet of size 14 square feet
+Does she need a carpet of size 14 square feet? --> 7 feet
+==> Solution Equation: 14/7=x
+~~~
+
+*** They decided to hold the party in their backyard. They have 2 sets of tables, each having the same number of chairs. If there are a total of 12 chairs in the backyard, How many chairs are there for each table?
+What do they have? --> they have 2 sets of tables
+What did they decide? --> they decided to hold the party in their backyard
+Where are a total of 12 chairs? --> if there are a total of 12
+Where did they decide to hold the party? --> in their backyard
+What did they decide to hold in their backyard? --> they decided to hold the party in their backyard
+How many chairs are a total of in the backyard? --> 12
+Did they decide to hold the party in their backyard? --> 12
+How many chairs in the backyard, How many chairs are there for each table do they have? --> 12
+How many chairs in the backyard, How many chairs are there for each table did they decide? --> 12
+Do they have 2 sets of tables, each having the same number of chairs . If there are a total of 12 chairs in the backyard, How many chairs are there for each table? --> 12
+Did they decide to hold the party in their backyard . they have 2 sets of tables, each having the same number of chairs . If there are a total of 12 chairs in the backyard, How many chairs are there for each table? --> how
+==> Solution Equation: 12/2=x
+~~~
+
+*** Debby bought 88 water bottles and 13 soda bottles when they were on sale. If she drank 4 water bottles and 87 soda bottles a day, How many days would the water bottles last?
+What do she drank? --> if she drank 4 water bottles and 87 soda bottles a day
+When were they on sale? --> debby bought 88 water bottles and 13 soda bottles when they were on sale
+Were they on sale when? --> debby bought 88 water bottles and 13 soda bottles when they were on sale
+How many soda bottles a day do she drank? --> 87
+What did Debby buy when they were on sale? --> debby bought 88 water bottles and 13 soda bottles when they were on sale
+Do she drank 4 water bottles and 87 soda bottles a day? --> debby
+When did Debby buy 88 water bottles and 13 soda bottles? --> when they were on sale
+How many soda bottles did Debby buy when they were on sale? --> 13
+How many water bottles and 87 soda bottles a day do she drank? --> 4
+Who did buy 88 water bottles and 13 soda bottles when they were on sale? --> debby
+Did Debby buy 88 water bottles and 13 soda bottles when they were on sale? --> 87 soda bottles a day
+How many water bottles and 13 soda bottles did Debby buy when they were on sale? --> 88
+How many soda bottles a day did buy If she drank 4 water bottles and 88 water bottles and 13 soda bottles when they were on sale? --> 87
+How many water bottles and 87 soda bottles a day did buy If she drank 88 water bottles and 13 soda bottles when they were on sale? --> 4
+==> Solution Equation: 88/4=x
+~~~
+
+*** The bananas in Philip's collection are organized into 196 groups. If there are a total of 392 bananas in Philip's banana collection, How big is each group?
+Is each group How big? --> 196
+Where are a total of 392 bananas? --> how big is each group
+Indicate characteristics of each group. --> 196 groups . if there are a total of 392 bananas in philip ' s banana collection , how big
+How many bananas are a total of in Philip's banana collection? --> 392
+How many groups are the bananas in Philip's collection organized? --> 196
+Are the bananas in Philip's collection organized into 196 groups? --> 196 groups
+How many bananas in Philip's banana collection are organized If there are a total of into 196 groups? --> 392
+==> Solution Equation: 392/196=x
+~~~
+
+*** In Haley's class 13 boys love to play marbles and 50 boys love to play cards. If Haley has 26 marbles, How many will each of the boys receive?
+What does Haley has? --> 26 marbles
+Who does has 26 marbles? --> haley ' s class 13 boys love to play marbles and 50 boys love to play cards . if haley
+Does Haley has 26 marbles? --> 50
+What do 13 boys love to play? --> marbles
+What do 50 boys love to play? --> cards
+Do 50 boys love to play cards? --> 50
+How many marbles does Haley has? --> 26
+Do 13 boys love to play marbles? --> 13
+What do each of the boys receive? --> 26 marbles , how many
+Where do 50 boys love to play cards? --> 26
+Do each of the boys receive How many? --> 26
+What do 13 boys love in Haley's class? --> 13 boys love to play marbles
+What do 50 boys love in Haley's class? --> to play cards
+What do 13 boys love in Haley's class? --> 13 boys love to play marbles
+What do 50 boys love in Haley's class? --> to play cards
+How many boys do love to play marbles? --> 13
+Where do 13 boys love to play marbles? --> in haley ' s class 13 boys love to play marbles and 50 boys love to play cards . if haley has 26
+Do 50 boys love to play cards in Haley's class? --> 50
+Do 13 boys love to play marbles in Haley's class? --> 13
+How many boys do love to play marbles in Haley's class? --> 13
+How many marbles do love If Haley has to play cards in Haley's class? --> 50
+==> Solution Equation: 26/13=x
+~~~
+
+*** Rebecca wants to split a collection of marbles into groups of 4. Rebecca has 10 eggs and 20 marbles. How many groups will be created?
+What does Rebecca has? --> rebecca has 10 eggs and 20 marbles
+What does Rebecca want? --> rebecca wants to split a collection of marbles into groups of 4
+How many does Rebecca want? --> 4
+What does Rebecca want to split? --> rebecca wants to split a collection of marbles into groups of 4
+Does Rebecca has 10 eggs and 20 marbles? --> 4
+How many eggs and 20 marbles does Rebecca has? --> 10
+Does Rebecca want to split a collection of marbles? --> 4
+How many does want to split into groups of a collection of marbles? --> 4
+Does Rebecca want to split a collection of marbles into groups of 4? --> 4
+==> Solution Equation: 20/4=x
+~~~
+
+*** Faye was placing some pencils equally into 2 rows. If she had 6 pencils, How many pencils did she place in each row?
+What did she have? --> 6 pencils
+What was Faye placing? --> faye was placing some pencils equally into 2 rows
+Did she have 6 pencils? --> faye
+What do she place in each row? --> 2 rows
+How many pencils did she have? --> 6
+Was Faye placing some pencils? --> 2 rows
+How was Faye placing some pencils? --> faye was placing some pencils equally into 2 rows
+Where do she place How many pencils? --> if she had 6
+Do she place How many pencils in each row? --> faye was placing some pencils equally into 2 rows . if she had 6
+How many rows was placing into some pencils? --> 2
+How many pencils was placing If she had some pencils? --> 6 pencils
+==> Solution Equation: 6/2=x
+~~~
+
+*** Edward spent $ 6 to buy 2 books each book costing him the same amount of money. Now he has $ 12. How much did each book cost?
+What does he has? --> $ 12
+Does he has $ 12? --> edward spent $ 6 to buy 2 books each book costing him the same amount of money
+What do edward buy? --> 2 books
+How many does he has? --> $ 12
+Did edward spend $ 6? --> buy 2 books each book costing him the same amount of money
+What did edward spend? --> $ 6
+Do edward buy 2 books each book costing him the same amount of money? --> edward spent $ 6
+How many books each book costing him the same amount of money do edward buy? --> 2
+How many books each book costing him the same amount of money did spend to buy $ 6? --> 2
+==> Solution Equation: 6/2=x
+~~~
+
+*** Robin has 28 packages of gum and 14 packages of candy. There are 6 pieces in each package. How many pieces does Robin have?
+What do Robin have? --> robin has 28 packages of gum and 14 packages of candy
+What does Robin has? --> robin has 28 packages of gum and 14 packages of candy
+Who do have How many pieces? --> robin has 28 packages of gum and 14 packages of candy . there are 6
+Do Robin have How many pieces? --> 6
+How many pieces in each package are? --> 6
+How many packages of candy does Robin has? --> 14
+Who does has 28 packages of gum and 14 packages of candy? --> robin
+Does Robin has 28 packages of gum and 14 packages of candy? --> 6
+How many packages of gum and 14 packages of candy does Robin has? --> 28
+==> Solution Equation: 42/6=x
+~~~
+
+*** Jesse's room is 2 feet long and 12 feet wide. If each tile is of size 4 square feet, How many tiles does she need to cover the whole floor?
+What do she need? --> how many tiles
+What do she need to cover? --> how many tiles does she need to cover the whole floor
+Do she need How many tiles? --> how many
+How would you describe each tile? --> if each tile is of size 4 square feet
+Is each tile of size 4 square feet? --> each tile is of size 4
+How would you describe Jesse's room? --> 2 feet long and 12 feet wide
+Do she need to cover the whole floor? --> jesse ' s room is 2 feet long and 12 feet wide . if each tile is of size 4 square feet , how many tiles
+Indicate characteristics of Jesse's room. --> 2 feet long and 12 feet wide
+Is Jesse's room 2 feet long and 12 feet wide? --> jesse
+==> Solution Equation: 24/4=x
+~~~
+
+*** The school is planning a field trip. The school has 66 classrooms. There are 102 students in the school and 8 seats on each school bus. If 22 students do n't want to go for the trip, How many buses are needed to take the trip?
+What does the school has? --> the school has 66 classrooms
+What do 22 students want? --> if 22 students do n ' t want to go for the trip
+What is the school planning? --> the school is planning a field trip
+How many students do want to go? --> 22
+Does the school has 66 classrooms? --> 66
+Is the school planning a field trip? --> the school is planning a field trip . the school has 66 classrooms
+Do 22 students want to go for the trip? --> 22
+How many classrooms does the school has? --> 66
+How many students do want to go for the trip? --> 22
+How many students in the school and 8 seats on each school bus are? --> 102
+How many seats on each school bus are 102 students in the school and? --> 8
+==> Solution Equation: 80/8-=x
+~~~
+
+*** 4 people can ride the Ferris wheel in paradise park at the same time. If each seat on the Ferris wheel can hold 2 people, How many seats does the Ferris wheel have?
+What do the Ferris wheel have? --> 2 people , how many seats
+Do the Ferris wheel have How many seats? --> 2
+What can each seat on the Ferris wheel hold? --> 2 people
+Can each seat on the Ferris wheel hold 2 people? --> 4
+What can people ride in paradise park at the same time? --> 4
+How many people can each seat on the Ferris wheel hold? --> 2
+When can people ride the Ferris wheel in paradise park? --> 4
+Where can people ride the Ferris wheel at the same time? --> 4
+Can people ride the Ferris wheel in paradise park at the same time? --> 4
+How many people can ride If each seat on the Ferris wheel can hold the Ferris wheel in paradise park at the same time? --> 4
+==> Solution Equation: 4/2=x
+~~~
+
+*** Frank was reading through his favorite book. The book had 3 chapters, each with the same number of pages. It has a total of 594 pages. It took Frank 607 days to finish the book. How many pages are in each chapter?
+What does It has? --> it has a total of 594 pages
+What did The book have? --> 3 chapters
+How many pages does It has? --> 594
+What did to finish the book take? --> 607 days
+Does It has a total of 594 pages? --> 594
+Are How many pages in each chapter? --> 594
+Did to finish the book take 607 days? --> 594
+Who was reading through his favorite book? --> frank
+Was Frank reading through his favorite book? --> 594
+Did The book have 3 chapters, each with the same number of pages? --> 594
+How many chapters, each with the same number of pages did The book have? --> 3
+==> Solution Equation: 594/3=x
+~~~
+
+*** Lewis earns a total of $ 1216 during the harvest. If he earns $ 16 each week, How many weeks did the harvest last?
+When does he earn $ 16? --> if he earns $ 16 each week
+What does he earn each week? --> $ 16
+Does he earn $ 16 each week? --> lewis earns a total of $ 1216
+When does lewis earn a total of $ 1216? --> lewis earns a total of $ 1216 during the harvest . if he earns $ 16 each week
+What does lewis earn during the harvest? --> $ 1216
+Does lewis earn a total of $ 1216 during the harvest? --> $ 16 each week
+==> Solution Equation: 1216/16=x
+~~~
+
+*** The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars. How much did they make per day?
+What do they make per day? --> how much did they make per day
+When do they make How much? --> 165 dollars . how much did they make per day
+What did they earn in 5 days? --> 165 dollars
+Do they make How much per day? --> 165 dollars
+When did they earn 165 dollars? --> in total in 5 days they earned 165 dollars
+Did they earn 165 dollars in 5 days? --> 165 dollars
+What did the ring toss game at the carnival make each day? --> the same amount of money
+When did the ring toss game at the carnival make the same amount of money? --> the ring toss game at the carnival made the same amount of money each day
+Did the ring toss game at the carnival make the same amount of money each day? --> 165 dollars
+==> Solution Equation: 165/5=x
+~~~
+
+*** The Ferris wheel in paradise park has some seats. Each seat can hold 9 people. If 18 people can ride the wheel at the same time, How many seats does the Ferris wheel have?
+What can Each seat hold? --> 9 people
+Can Each seat hold 9 people? --> 18
+What do the Ferris wheel have? --> each seat can hold 9 people
+When can 18 people ride the wheel? --> if 18 people can ride the wheel at the same time
+How many people can Each seat hold? --> 9
+Do the Ferris wheel have How many seats? --> 9
+What can 18 people ride at the same time? --> if
+Can 18 people ride the wheel at the same time? --> 9
+What does the Ferris wheel in paradise park has? --> each seat can hold 9 people
+How many people can ride the wheel at the same time? --> 18
+Does the Ferris wheel in paradise park has some seats? --> each seat can hold 9 people
+How many people can ride the wheel at the same time can hold If 9 people? --> 18
+==> Solution Equation: 18/9=x
+~~~
+
+*** With 28 dollars 2 packs of dvds can be bought. How much does each pack cost?
+How can 2 packs of dvds be bought? --> 28 dollars
+==> Solution Equation: 28/2=x
+~~~
+
+*** If each bag has 3 cookies and you had 21 cookies in total, How many bags of cookies do you have?
+What do you have? --> 21
+What does each bag has? --> 3
+What did you have in total? --> 21
+Does each bag has 3 cookies? --> 21
+When did you have 21 cookies? --> 21 cookies in total
+Did you have 21 cookies in total? --> 3
+How many cookies does each bag has? --> 21
+Do you have How many bags of cookies? --> 21
+How many cookies did you have in total? --> 21
+==> Solution Equation: 21/3=x
+~~~
+
+*** Being his favorite, he saved checking on the grapevines for his last stop. He was told by 94 of the pickers that they fill 90 drums of grapes in 6 days. How many drums of grapes would be filled per day?
+What did he save? --> he saved checking on the grapevines
+How would you describe he? --> his favorite
+What would they be fill in 6 days? --> 90
+What was by 94 of the pickers told? --> he was told by 94 of the pickers that they fill 90 drums of grapes in 6 days
+Saved he checking on the grapevines? --> he saved checking on the grapevines for his last stop
+Did he save checking on the grapevines? --> 90
+When would they be fill 90 drums of grapes? --> they fill 90 drums of grapes in 6 days
+When would How many drums of grapes be filled? --> 90
+Would they be fill 90 drums of grapes in 6 days? --> he was told by 94 of the pickers
+How many drums of grapes would they be fill in 6 days? --> 90
+How many drums of grapes in 6 days . How many drums of grapes would be filled per day was by 94 of the pickers told? --> 90
+Was by 94 of the pickers told that they fill 90 drums of grapes in 6 days . How many drums of grapes would be filled per day? --> how many
+How many of the pickers was told by that they fill 90 drums of grapes in 6 days . How many drums of grapes would be filled per day? --> 94
+==> Solution Equation: 90/6=x
+~~~
+
+*** A mailman has to give 38 pieces of junk mail to each of the 78 blocks. If there are 19 houses on a block, How many pieces of junk mail should he give each house?
+What do he give? --> 38
+What does a mailman give? --> 38
+How many houses on a block are? --> 19
+Do he give How many pieces of junk mail? --> 38
+Does a mailman give 38 pieces of junk mail? --> 38
+How many pieces of junk mail do a mailman give? --> 38
+How many blocks do give to each of 38 pieces of junk mail? --> 78
+What does give to each of the 78 blocks 38 pieces of junk mail? --> a mailman
+==> Solution Equation: 38/19=x
+~~~
+
+*** Jesse needs a carpet of size 10 square feet to cover her room. If her room is 5 feet long, What is the width of her room?
+What does jesse need? --> a carpet of size 10 square feet
+Is her room 5 feet long? --> jesse needs a carpet of size 10 square feet to cover her room . if her room is 5 feet long , what is the width
+Is the width of her room What? --> 5
+Indicate characteristics of her room. --> 5 feet long , what is the width
+How would you describe the width of her room? --> if her room is 5 feet long
+Does her room cover a carpet of size 10 square feet? --> 5 feet
+Does jesse need a carpet of size 10 square feet to cover her room? --> 5 feet
+==> Solution Equation: 10/5=x
+~~~
+
+*** There are 4502 skittles in Steven's skittles collection. Steven also has 4276 erasers. If the skittles and erasers are organized into 154 groups, How big is each group?
+What does Steven has? --> steven also has 4276 erasers
+Is each group How big? --> 154
+Who does has 4276 erasers? --> steven
+Does Steven has 4276 erasers? --> 154
+How many erasers does Steven has? --> 4276
+Indicate characteristics of each group. --> how big
+How many groups are the skittles and erasers organized? --> 154
+Are the skittles and erasers organized into 154 groups? --> how
+==> Solution Equation: 8778/154=x
+~~~
+
+*** Frank was reading through some books. Each book had 66 pages and it took Frank 12 days to finish each book. If he takes 492 days to finish all books, How many books did he read?
+What do he read? --> frank was reading through some books
+What do Frank finish? --> 12 days
+What did Each book have? --> 66 pages
+Who do finish each book? --> 12 days
+Do Frank finish each book? --> 12 days
+Do he read How many books? --> frank was reading through some books . each book had 66
+Who was reading some books? --> frank
+Did Each book have 66 pages? --> 66
+Was Frank reading some books? --> 66
+How many pages did Each book have? --> 66
+What does to finish all books take? --> 492 days
+Did to finish each book take 12 days? --> 66
+Does to finish all books take 492 days? --> 12 days
+When did to finish each book take 12 days? --> it took frank 12 days
+==> Solution Equation: 492/12=x
+~~~
+
+*** In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boy, How many boys did she give the marbles to?
+What do she give? --> she gave 5 marbles to each boy
+What did she give? --> she gave 5 marbles to each boy
+What does Haley has? --> if haley has 10 marbles
+Did she give 5 marbles? --> haley has 10 marbles and she gave 5 marbles to each boy
+Who does has 10 marbles? --> haley
+Do she give the marbles? --> 5 marbles to each boy
+Does Haley has 10 marbles? --> 5
+How many marbles did she give? --> 5
+What do some boys love to play? --> marbles
+How many marbles does Haley has? --> 10
+Do some boys love to play marbles? --> 5
+What did give to each boy 5 marbles? --> haley
+What do some boys love in Haley's class? --> to play marbles
+Where do some boys love to play marbles? --> in haley ' s class
+Do some boys love to play marbles in Haley's class? --> 5
+How many marbles and she gave 5 marbles to each boy do love If Haley has to play marbles in Haley's class? --> 10 marbles
+How many marbles to each boy do love If Haley has 10 marbles and she gave to play marbles in Haley's class? --> 5
+==> Solution Equation: 10/5=x
+~~~
+
+*** Luke scored 84 points after playing 2 rounds of a trivia game. If he gained the same number of points each round, How many points did he score per round?
+What did he gain? --> if he gained the same number of points each round
+What do he score? --> 84 points
+Do he score How many points? --> 84
+When did Luke score 84 points? --> luke scored 84 points
+What did Luke score 84 points after? --> luke scored 84 points after playing 2 rounds of a trivia game
+Did he gain the same number of points each round? --> luke scored 84
+Who did score 84 points after playing 2 rounds of a trivia game? --> luke
+Did Luke score 84 points after playing 2 rounds of a trivia game? --> 84
+How many points did Luke score after playing 2 rounds of a trivia game? --> 84
+How many rounds of a trivia game did score after playing 84 points after playing 2 rounds of a trivia game? --> 84 points
+==> Solution Equation: 84/2=x
+~~~
+
+*** Paige was helping her mom plant flowers and together they planted 36 seeds. They put 12 seeds in each flower bed and only 58 seeds grew into flowers in each flower bed. How many flower beds did they have?
+What do They put? --> they put 12 seeds in each flower bed
+What do they have? --> flower beds
+Do They put 12 seeds? --> paige was helping her mom plant flowers and together they planted 36 seeds . they put 12 seeds in each flower bed
+What did they planted? --> 36 seeds
+What was paige helping? --> paige was helping her mom plant flowers
+Did they planted 36 seeds? --> paige was helping her mom plant flowers and together they planted 36 seeds . they put 12 seeds in each flower bed and only 58
+How many seeds do They put? --> 36
+How did they planted 36 seeds? --> paige was helping her mom plant flowers and together they planted 36 seeds
+How many seeds did they planted? --> 36
+Do they have How many flower beds? --> 36
+Was paige helping her mom plant flowers? --> 36
+Did only 58 seeds grow into flowers in each flower bed? --> 12
+How many only 58 seeds did grow only 58 into flowers in each flower bed? --> they put 12 seeds in each flower bed
+==> Solution Equation: 36/12=x
+~~~
+

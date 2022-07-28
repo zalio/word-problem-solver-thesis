@@ -1,0 +1,2961 @@
+*** A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?
+What did a waiter have? --> 12
+What did he have still? --> 12
+What did a waiter have? --> 12
+What did he have still? --> 12
+What do he have at the start? --> how many customers
+How many customers did leave? --> 9
+Did a waiter have some customers? --> 12
+Where do he have How many customers? --> 12
+Do he have How many customers at the start? --> 12
+When did he have 12 customers . How many customers did he have at the start? --> how many
+Did he have 12 customers . How many customers did he have at the start still? --> how many
+How many customers . How many customers did he have at the start did he have still? --> 12
+==> Solution Equation: 9+12=x
+~~~
+
+*** 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?
+What do 8 more storks join? --> 4 more birds
+Do 8 more storks join them? --> 8
+Are 6 birds sitting on the fence? --> 6
+How many more storks did come and? --> 8
+How many more storks do join them? --> 8
+How many birds are sitting on the fence? --> 6
+Are How many birds sitting on the fence? --> 6
+==> Solution Equation: 6+4=x
+~~~
+
+*** In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school. How many girls are there in the school now?
+Where are How many girls now? --> 732
+Where are 732 girls and 761 boys? --> in a school there are 732 girls and 761 boys
+When are How many girls in the school? --> 732
+How many girls and 761 boys are in a school? --> 732
+How many boys are 732 girls and in a school? --> 761
+What did 682 more girls and 8 more boys join? --> 682 more girls and 8 more boys joined the school
+Did 682 more girls and 8 more boys join the school? --> 732
+How many more girls and 8 more boys did join the school? --> 682
+How many more boys did join 682 more girls and the school? --> 8
+==> Solution Equation: 732+682=x
+~~~
+
+*** Baker made 121 cakes. He sold 105 of them and bought 170 new cakes. How many cakes does baker still have?
+What did He buy? --> 170
+What did He sell? --> 105
+What did Baker make? --> 121
+Who did make 121 cakes? --> baker
+Did He sell 105 of them? --> 121 cakes . he sold 105
+What do baker have still? --> 121
+Did Baker make 121 cakes? --> 121 cakes . he sold 105 of them and bought 170
+Did He buy 170 new cakes? --> 170
+How many of them did He sell? --> 105
+How many cakes did Baker make? --> 121
+How many new cakes did He buy? --> 170
+When do baker have How many cakes? --> 121
+Do baker have How many cakes still? --> 170
+==> Solution Equation: 16+170=x
+~~~
+
+*** Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate, How many students participated in the suggestion of new food items?
+What did Sofia ask? --> sofia asked the students to suggest specific types of food
+What did 38 suggest? --> 38 suggested adding bacon to the menu
+What do the students suggest? --> 450 students suggested adding mashed potatoes
+What did 450 students suggest? --> adding mashed potatoes
+How many choices did Sofia ask? --> 66
+Suggested bacon adding to the menu? --> 38
+Did 38 suggest adding bacon to the menu? --> 450
+How many choices do the students suggest? --> 66
+How many did suggest adding bacon to the menu? --> 38
+Did 450 students suggest adding mashed potatoes? --> 38 suggested adding bacon to the menu
+How many students did suggest adding mashed potatoes? --> 450
+Did How many students participate in the suggestion of new food items? --> 450
+Do the students suggest specific types of food from a total of 66 choices? --> 450
+Did Sofia ask to suggest specific types of food from a total of 66 choices? --> 450
+Why did Sofia ask to suggest specific types of food from a total of 66 choices? --> if 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate
+How many students suggested adding mashed do suggest If specific types of food from a total of 66 choices? --> 450
+How many students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate did ask If to suggest specific types of food from a total of 66 choices? --> 450
+How many suggested adding bacon to the menu and the rest did not participate did ask If 450 students suggested adding mashed potatoes to suggest specific types of food from a total of 66 choices? --> 38
+==> Solution Equation: 450+38=x
+~~~
+
+*** A grocery store had 49 bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda. How many bottles of regular soda and diet soda did they have altogether?
+What do they have? --> 49 bottles of regular soda , 40 bottles of diet soda and 6 bottles of lite soda . how many bottles of regular soda and diet soda did they have altogether
+What did a grocery store have? --> 49
+How many bottles of lite soda did a grocery store have? --> 6
+Do they have How many bottles of regular soda and diet soda? --> 49
+How many bottles of diet soda and 6 bottles of lite soda did a grocery store have? --> 40
+Did a grocery store have 49 bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda? --> 49
+How many bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda did a grocery store have? --> 49
+==> Solution Equation: 40+49=x
+~~~
+
+*** After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day, How many visited the Buckingham palace within 25 days?
+When did they go? --> they went to see the buckingham palace
+When were 246 visitors? --> if there were 246 visitors on that day
+What did they go to see? --> buckingham palace
+What did Rachel learned There? --> rachel learned that 703 visitors came to the buckingham palace on the previous day
+How many visitors were on that day? --> 246
+What did How many visited within 25 days? --> 246
+Did they go to see the Buckingham palace? --> 703
+Where did they go after eating a hearty meal? --> to see the buckingham palace
+When did How many visited the Buckingham palace? --> 703
+When did 703 visitors come to the Buckingham palace? --> 703 visitors came to the buckingham palace on the previous day
+Did How many visited the Buckingham palace within 25 days? --> 246
+Did 703 visitors come to the Buckingham palace on the previous day? --> 246
+Where did they go to see the Buckingham the Buckingham the Buckingham? --> after eating a hearty meal they went to see the buckingham palace
+How many visitors did come to the Buckingham palace on the previous day? --> 703
+Where did How many visited the Buckingham the Buckingham the Buckingham within 25 days? --> 246
+Where did 703 visitors come the Buckingham to the Buckingham the Buckingham on the previous day? --> buckingham palace . there , rachel learned that 703 visitors came to the buckingham palace
+How many visitors on that day did come If there were to the Buckingham palace on the previous day? --> 703
+How many visitors on that day, How many visited the Buckingham palace within 25 days did Rachel learned There? --> 246
+Who did learned that 703 visitors came to the Buckingham palace on the previous day . If there were 246 visitors on that day, How many visited the Buckingham palace within 25 days There? --> rachel
+How many visitors came to the Buckingham palace on the previous day . If there were 246 visitors on that day, How many visited the Buckingham palace within 25 days did Rachel learned There? --> 703
+Where did Rachel learned that 703 visitors came to the Buckingham palace on the previous day . If there were 246 visitors on that day, How many visited the Buckingham palace within 25 days? --> after eating a hearty meal they went to see the buckingham palace
+Did Rachel learned that 703 visitors came to the Buckingham palace on the previous day . If there were 246 visitors on that day, How many visited the Buckingham palace within 25 days There? --> how
+Where did Rachel learned the Buckingham palace that 703 visitors came to the Buckingham palace on the previous day . If there were 246 visitors on that day, How many visited the Buckingham palace within 25? --> rachel learned that 703 visitors came to the buckingham palace on the previous day . if there were 246 visitors on that day , how many visited the buckingham palace within 25 days
+==> Solution Equation: 246+703=x
+~~~
+
+*** Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?
+When did 8 receive 4 emails? --> 8 emails in the evening
+What did 8 receive in the evening? --> 8
+When do Jack receive How many emails? --> jack received 4 emails in the morning , 5
+Did 8 receive 4 emails in the evening? --> 8
+How many emails did 8 receive in the evening? --> 8
+What do Jack receive in the afternoon and evening? --> 5
+Who do receive How many emails in the afternoon and evening? --> jack received 4 emails in the morning , 5
+Do Jack receive How many emails in the afternoon and evening? --> 5
+==> Solution Equation: 5+8=x
+~~~
+
+*** Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. She spent a total of 34 hours to play tag on both days. How many kids did she play with altogether?
+What do she play? --> julia played tag with 12 kids on monday . she played tag with 14
+When do She play tag? --> julia played tag with 12 kids on monday
+Do she play How many kids? --> 14
+What did She play on tuesday? --> 14
+Do She play tag on both days? --> 14
+What did Julia play on monday? --> 12
+What do She play on both days? --> she spent a total of 34 hours to play tag on both days
+How do she play How many kids? --> 14
+When did She play tag with 14 kids? --> she played tag with 14 kids on tuesday
+When did a total of 34 hours spend? --> she spent a total of 34 hours to play tag on both days
+When did Julia play tag with 12 kids? --> monday
+How many kids did She play on tuesday? --> 14
+How many kids did Julia play on monday? --> 12
+Did She play tag with 14 kids on tuesday? --> 12
+Did Julia play tag with 12 kids on monday? --> 14
+==> Solution Equation: 12+14=x
+~~~
+
+*** A waiter had 12 customers. After some left he still had 14 customers. Then he got 10 new customers, How many customers does he have now?
+What did he get? --> 10 new customers
+What do he have now? --> how many customers
+What did a waiter have? --> 12 customers
+What did he have still? --> 14
+What did a waiter have? --> 12 customers
+What did he have still? --> 14
+Did he get 10 new customers? --> 14
+When did he have 14 customers? --> after some left he still had 14 customers
+Did a waiter have 12 customers? --> 14
+Did he have 14 customers still? --> after some left he still had 14
+How many new customers did he get? --> 10
+Do he have How many customers now? --> 14
+When do he have How many customers? --> 14
+How many customers did a waiter have? --> 12
+How many customers did he have still? --> 14
+==> Solution Equation: 14+10=x
+~~~
+
+*** A farmer had 90 tomatoes in his garden. If he picked 154 of them yesterday and 50 today. How many tomatoes did he pick in all?
+What do he pick? --> 90
+What did he picked yesterday? --> 154
+Do he pick How many tomatoes? --> 50
+When did he picked 154 of them? --> 154 of them yesterday
+Where did a farmer have 90 tomatoes? --> 154
+Did he picked 154 of them yesterday? --> 90
+What did a farmer have in his garden? --> 90
+How many of them did he picked yesterday? --> 154
+Did a farmer have 90 tomatoes in his garden? --> 154
+When did a farmer have 90 tomatoes in his garden? --> 90
+How many tomatoes did a farmer have in his garden? --> 90
+How many of them yesterday and 50 today . How many tomatoes did he pick in all did have If he picked 90 tomatoes in his garden? --> 154
+How many today . How many tomatoes did he pick in all did have If he picked 154 of them yesterday and 90 tomatoes in his garden? --> 50
+==> Solution Equation: 154+50=x
+~~~
+
+*** 5 red peaches, 14 yellow peaches and 6 green peaches are in the basket. How many green and yellow peaches are in the basket?
+Are How many green and yellow peaches in the basket? --> 6
+Are 14 yellow peaches and 6 green peaches in the basket? --> 14
+How many yellow peaches and 6 green peaches are in the basket? --> 14
+How many green peaches are 14 yellow peaches and in the basket? --> 6
+==> Solution Equation: 6+14=x
+~~~
+
+*** Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her, How much money did she have initially?
+What do she have? --> 33 dollars left with her
+What does she has? --> 33 dollars left with her
+Do she have How much money? --> 33 dollars
+Where did olivia spend 78 dollars? --> a supermarket
+Does she has 33 dollars left with her? --> 78 dollars
+What did olivia spend at a supermarket? --> 78 dollars
+Did olivia spend 78 dollars at a supermarket? --> 33
+==> Solution Equation: 78+33=x
+~~~
+
+*** Jack received 3 emails and 64 letters in the morning. He then received 5 emails and 54 letters in the afternoon. How many emails did jack receive in the day?
+What did Jack receive in the morning? --> 3
+What did He receive in the afternoon? --> 5
+What did Jack receive in the morning? --> 3
+What did He receive in the afternoon? --> 5
+When does jack receive How many emails? --> jack received 3
+Who do receive How many emails in the day? --> jack received 3
+When did He receive 5 emails and 54 letters? --> he then received 5 emails and 54 letters in the afternoon
+Does jack receive How many emails in the day? --> 3
+When did Jack receive 3 emails and 64 letters? --> jack received 3 emails and 64 letters in the morning
+How many letters did Jack receive in the morning? --> 64
+How many letters did He receive in the afternoon? --> 54
+Who did receive 3 emails and 64 letters in the morning? --> jack received 3
+Did Jack receive 3 emails and 64 letters in the morning? --> 3
+Did He receive 5 emails and 54 letters in the afternoon? --> 3
+How many emails and 64 letters did Jack receive in the morning? --> 3
+==> Solution Equation: 3+5=x
+~~~
+
+*** Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookies, How many cookies did Paco have left?
+What did He eat? --> 2
+What did he buy? --> 37 more cookies
+What did Paco have? --> 40
+What have Paco left? --> paco had 40
+Did He eat 2 of them? --> 40
+Did Paco have 40 cookies? --> 37
+Did he buy 37 more cookies? --> 40
+How many of them did He eat? --> 2
+How many cookies did Paco have? --> 40
+Have Paco left How many cookies? --> 40
+How many more cookies did he buy? --> 37
+==> Solution Equation: 38+37=x
+~~~
+
+*** Because of the decision Sofia asked the students to suggest specific types of food. If 218 students suggested adding mashed potatoes as well as bacon while 351 suggested adding only bacon to the menu, How many students suggested adding bacon?
+What did Sofia ask? --> 351
+What did 351 suggest? --> 351 suggested adding only bacon
+What do the students suggest? --> 218 students suggested adding mashed potatoes as well as bacon
+What did 218 students suggest? --> 218 students suggested adding mashed potatoes as well as bacon
+What did How many students suggest? --> 218
+Suggested only bacon adding to the menu? --> 351
+Did How many students suggest adding bacon? --> 351
+Did 351 suggest adding only bacon to the menu? --> 218
+Do the students suggest specific types of food? --> 218
+Did Sofia ask to suggest specific types of food? --> 218
+How many did suggest adding only bacon to the menu? --> 351
+Why did Sofia ask to suggest specific types of food? --> if 218 students suggested adding mashed potatoes as well as bacon while 351
+Did 218 students suggest adding mashed potatoes as well as bacon? --> 351
+How many students did suggest adding mashed potatoes as well as bacon? --> 218
+How many suggested adding only bacon to the menu did suggest while adding mashed potatoes as well as bacon? --> 351
+How many students suggested adding mashed potatoes as well as bacon while 351 suggested adding only bacon to the menu did ask If to suggest specific types of food? --> 218
+How many suggested adding only bacon to the menu did ask If 218 students suggested adding mashed potatoes as well as bacon while to suggest specific types of food? --> 351
+==> Solution Equation: 218+351=x
+~~~
+
+*** Allan brought 5 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park. How many balloons did Allan bring to the park?
+What did Jake bring? --> 4
+What do Allan bring? --> 5 balloons
+What did Allan bring? --> 5 balloons
+Who did bring 4 balloons? --> jake
+Who did bring 5 balloons? --> allan
+Did Jake bring 4 balloons? --> 5 balloons and jake brought 4
+Did Allan bring 5 balloons? --> allan brought 5
+Who do bring How many balloons? --> allan brought 5
+How many balloons did Jake bring? --> 4
+Do Allan bring How many balloons? --> 5
+How many balloons did Allan bring? --> 5
+What did Allan buy at the park then? --> allan then bought 3 more balloons
+What did bring to the park 4 balloons? --> jake
+Where did Allan buy 3 more balloons then? --> allan then bought 3 more balloons at the park
+Who did buy 3 more balloons at the park then? --> allan
+When did Allan buy 3 more balloons at the park? --> allan
+Did Allan buy 3 more balloons at the park then? --> 5
+How many more balloons did Allan buy at the park then? --> 3
+==> Solution Equation: 3+5=x
+~~~
+
+*** The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The frog jumped 10 inches farther than the grasshopper and the mouse jumped 20 inches farther than the frog. How much farther did the mouse jump than the grasshopper?
+Did the mouse jump 20 inches? --> 20 inches farther than the frog
+Did the grasshopper jump 19 inches? --> 20 inches
+What did the frog and the mouse have? --> a jumping contest
+Did the frog and the mouse have a jumping contest? --> 20 inches
+Did the frog jump 10 inches farther than the grasshopper? --> the frog jumped 10 inches farther than the grasshopper and the mouse jumped 20 inches
+==> Solution Equation: 10+20=x
+~~~
+
+*** Allan brought 3 balloons and Jake brought 5 balloons to the park. Allan then bought 2 more balloons at the park. How many balloons did Allan and Jake have in the park?
+What did Jake bring? --> 5
+What did Allan bring? --> 3 balloons
+Who did bring 5 balloons? --> jake
+Who did bring 3 balloons? --> allan
+Who did bring 5 balloons? --> jake
+Did Jake bring 5 balloons? --> 5
+Did Allan bring 3 balloons? --> 5
+How many balloons did Jake bring? --> 5
+How many balloons did Allan bring? --> 3
+What did Allan buy at the park then? --> 2 more balloons
+What did bring to the park 5 balloons? --> jake
+Where did Allan buy 2 more balloons then? --> allan then bought 2 more balloons at the park
+Who did buy 2 more balloons at the park then? --> allan
+When did Allan buy 2 more balloons at the park? --> allan
+Where do Allan and Jake have How many balloons? --> 5
+Did Allan buy 2 more balloons at the park then? --> 5
+Do Allan and Jake have How many balloons in the park? --> 5
+How many more balloons did Allan buy at the park then? --> 2
+==> Solution Equation: 8+2=x
+~~~
+
+*** Last week Fred had 47 dollars and Jason had 99 dollars. Over the weekend Fred delivered newspapers earning 111 dollars and washed cars earning 34 dollars. How much money does Fred have now?
+What did Jason have? --> 99 dollars
+What do Fred have now? --> how much money
+Did Jason have 99 dollars? --> jason
+What did Fred have last week? --> 47 dollars
+When did Fred have 47 dollars? --> last week fred had 47 dollars
+Who do have How much money now? --> fred had 47 dollars and jason had 99 dollars . over the weekend fred delivered newspapers earning 111 dollars and washed cars earning 34 dollars . how much money does fred
+Do Fred have How much money now? --> 47 dollars
+When do Fred have How much money? --> how
+Who did have 47 dollars last week? --> fred
+Did Fred have 47 dollars last week? --> last week fred had 47 dollars
+What did Fred delivered Over the weekend? --> newspapers
+When did Fred delivered newspapers earning 111 dollars? --> over the weekend fred delivered newspapers earning 111 dollars
+Who did delivered newspapers earning 111 dollars Over the weekend? --> fred
+Did Fred delivered newspapers earning 111 dollars Over the weekend? --> 47 dollars
+==> Solution Equation: 158+34=x
+~~~
+
+*** A book has 3 chapters. The first chapter is 66 pages long the second chapter is 35 pages long and the third chapter is 24 pages long. How many pages does the book have altogether?
+What does a book has? --> a book has 3 chapters
+What do the book have? --> a book has 3 chapters
+Does a book has 3 chapters? --> 66
+Do the book have How many pages? --> 66
+How many chapters does a book has? --> 3
+Is The first chapter 66 pages long? --> 66
+Is the third chapter 24 pages long? --> 66
+Is the second chapter 35 pages long? --> 66
+How many pages long is The first chapter? --> 66
+How many pages long is the third chapter? --> 24
+How many pages long is the second chapter? --> 35
+Indicate characteristics of The first chapter. --> 66 pages long
+Indicate characteristics of the third chapter. --> 24
+Indicate characteristics of The first chapter. --> 66 pages long
+Indicate characteristics of the third chapter. --> 24
+Indicate characteristics of the second chapter. --> 35 pages long
+==> Solution Equation: 101+24=x
+~~~
+
+*** 7 red peaches, 15 yellow peaches and 8 green peaches are in the basket. How many peaches are in the basket?
+Are How many peaches in the basket? --> 7
+Are 15 yellow peaches and 8 green peaches in the basket? --> 7
+How many yellow peaches and 8 green peaches are in the basket? --> 15
+How many green peaches are 15 yellow peaches and in the basket? --> 8
+==> Solution Equation: 22+8=x
+~~~
+
+*** In a school there are 135 girls and 214 boys. 496 more girls and 910 more boys joined the school. How many boys are there in the school now?
+Where are How many boys now? --> 214
+Where are 135 girls and 214 boys? --> in a school there are 135 girls and 214 boys
+When are How many boys in the school? --> 910
+How many girls and 214 boys are in a school? --> 135
+How many boys are 135 girls and in a school? --> 214
+What did 496 more girls and 910 more boys join? --> 496 more girls and 910 more boys joined the school
+Did 496 more girls and 910 more boys join the school? --> 214
+How many more girls and 910 more boys did join the school? --> 496
+How many more boys did join 496 more girls and the school? --> 910
+==> Solution Equation: 214+910=x
+~~~
+
+*** Marco and his dad went strawberry picking. Together their strawberries weighed 4 pounds. Marco's strawberries weighed 19 pounds. How much more did his strawberries weigh than his dad's?
+What did their strawberries weigh? --> 4 pounds
+What did Marco's strawberries weigh? --> 19 pounds
+Did their strawberries weigh 4 pounds? --> marco and his dad went strawberry picking . together their strawberries weighed 4 pounds . marco ' s strawberries weighed 19 pounds
+Did Marco's strawberries weigh 19 pounds? --> how
+How did their strawberries weigh 4 pounds? --> marco and his dad went strawberry picking . together their strawberries weighed 4 pounds
+Did Marco and his dad go strawberry picking? --> 4 pounds
+Indicate characteristics of Marco and his dad. --> marco
+==> Solution Equation: 19+15=x
+~~~
+
+*** Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations. How many friends can she invite?
+What did she buy? --> 6 packs
+What do she invite? --> carol was sending out birthday invitations to her friends . each package of invitations she bought had 14 invitations in it and she bought 6 packs . then she bought 11
+Did she buy 6 packs? --> 14
+Did she buy invitations? --> 14
+What out carol was sending? --> birthday invitations
+How many packs did she buy? --> 6
+Do she invite How many friends? --> 14 invitations in it and she bought 6 packs . then she bought 11
+Did she buy 11 extra invitations? --> carol was sending out birthday invitations to her friends . each package of invitations she bought had 14 invitations in it and she bought 6 packs . then she bought 11
+How many extra invitations did she buy? --> 11
+Out carol was sending birthday invitations? --> 14
+What did Each package of invitations she bought have? --> 14
+Did Each package of invitations she bought have 14 invitations in it? --> carol was sending out birthday invitations to her friends . each package of invitations she bought had 14
+How many invitations in it did Each package of invitations she bought have? --> 14
+==> Solution Equation: 84+11=x
+~~~
+
+*** During summer break 644997 kids from Lawrence county stayed home and the other 893835 kids went to camp. An additional 78 kids from outside the county attended the camp. How many kids are in Lawrence county?
+Where are How many kids Lawrence? --> 644997
+Did the other 893835 kids go to camp? --> 644997
+Are How many kids in Lawrence county? --> 644997
+When did kids from Lawrence county stay home? --> 644997
+Where did kids from Lawrence county stay during summer break? --> 644997
+What did An additional 78 kids from outside the county attend? --> an additional 78 kids from outside the county attended the camp
+Did An additional 78 kids from outside the county attend the camp? --> 644997
+How many An additional 78 kids from outside the county did attend An additional 78 kids from outside the camp? --> 644997
+==> Solution Equation: 893835+644997=x
+~~~
+
+*** Jack received 6 emails in the morning, 3 emails in the afternoon and 5 emails in the evening. How many emails did Jack receive in the day?
+When did 5 receive 6 emails? --> 5 emails in the evening
+What do Jack receive in the day? --> jack received 6 emails
+What did 5 receive in the evening? --> 5
+When do Jack receive How many emails? --> jack received 6
+Did 5 receive 6 emails in the evening? --> 6
+Who do receive How many emails in the day? --> jack received 6
+Do Jack receive How many emails in the day? --> 6
+How many emails did 5 receive in the evening? --> 5
+How many did receive 6 emails in the evening? --> 5
+==> Solution Equation: 9+5=x
+~~~
+
+*** For the walls of the house he would use 13 large planks of wood. If each plank of wood needs 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks. How many nails does John need for the house wall?
+What do he use? --> 13 large planks of wood
+What do John need? --> 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks . how many nails
+How many nails are needed? --> 17 pieces of nails to be secured and in addition 8
+Who do need How many nails? --> 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks . how many nails does john need for the house wall
+Do John need How many nails? --> 8
+What does each plank of wood need? --> 17 pieces of nails
+Do he use 13 large planks of wood? --> he
+How many pieces of nails be secured? --> 17
+for what purpose are 8 nails needed? --> some smaller planks
+How many large planks of wood do he use? --> 13
+Does each plank of wood need 17 pieces of nails to be secured? --> 13
+How many pieces of nails to be secured does each plank of wood need? --> 17
+How many pieces of nails to be secured and in addition 8 nails are needed for some smaller planks do use If each plank of wood needs 13 large planks of wood? --> 17
+How many nails are needed for some smaller planks do use If each plank of wood needs 17 pieces of nails to be secured and in addition 13 large planks of wood? --> 8
+==> Solution Equation: 221+8=x
+~~~
+
+*** A grocery store had 4 bottles of diet soda. If they had 79 more bottles of regular soda than diet soda, How many bottles of regular soda did they have?
+What do they have? --> 79
+What did they have? --> 79
+What did a grocery store have? --> 4 bottles of diet soda
+Do they have How many bottles of regular soda? --> 79
+Did a grocery store have 4 bottles of diet soda? --> 79
+How many bottles of diet soda did a grocery store have? --> 4
+Did they have 79 more bottles of regular soda than diet soda? --> 4
+How many more bottles of regular soda than diet soda did they have? --> 79
+How many more bottles of regular soda than diet soda did have If they had 4 bottles of diet soda? --> 79
+==> Solution Equation: 4+79=x
+~~~
+
+*** Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially, How many more bird families flew away for the winter than those that stayed behind?
+Is winter almost here? --> winter
+Did those stay behind? --> 86 bird families
+When did 86 bird families fly? --> 86 bird families flew away for the winter
+When did How many more bird families fly? --> 86
+How many bird families did fly for the winter? --> 86
+How many bird families living near the mountain were? --> 45
+How many bird families living near the mountain initially, did fly If there were for the winter? --> 86
+==> Solution Equation: 86+41=x
+~~~
+
+*** Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework. How many pages of math and biology homework did she have to complete?
+What do she have to complete? --> rachel had to complete 8 pages
+What do Rachel have to complete? --> 8 pages
+How many more pages of biology homework do Rachel have to complete? --> 3
+Do she have to complete How many pages of math and biology homework? --> 3
+How many pages of reading homework and 3 more pages of biology homework do Rachel have to complete? --> 7
+Who do have to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework? --> rachel
+Do Rachel have to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework? --> rachel
+How many pages of math homework, 7 pages of reading homework and 3 more pages of biology homework do Rachel have to complete? --> 8
+==> Solution Equation: 8+3=x
+~~~
+
+*** Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 31 cookies yesterday 270 cookies this morning and 419 cookies the day before yesterday. How many cookies did Helen bake till last night?
+When did Helen baked 31 cookies? --> yesterday
+What did Helen baked this morning? --> 270
+Who did baked 31 cookies this morning? --> 270
+Did Helen baked 31 cookies this morning? --> 270
+How many cookies did Helen baked this morning? --> 270
+How many cookies did baked 31 cookies this morning? --> 270
+Where are Helen the hippo and her friends preparing for thanksgiving? --> helen ' s house
+Are Helen the hippo and her friends preparing for thanksgiving at Helen's house? --> 31
+==> Solution Equation: 31+419=x
+~~~
+
+*** Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 144 chocolate chip cookies and 397 raisin cookies yesterday. And she baked 85 raisin cookies and 403 chocolate chip cookies this morning. How many raisin cookies did Helen bake?
+What did Helen baked yesterday? --> 397
+What did she baked this morning? --> 85
+How many raisin cookies did Helen baked yesterday? --> 397
+How many chocolate chip cookies did she baked this morning? --> 403
+When did she baked 85 raisin cookies and 403 chocolate chip cookies? --> 397 raisin cookies yesterday . and she baked 85 raisin cookies and 403 chocolate chip cookies this morning
+Where are Helen the hippo and her friends preparing for thanksgiving? --> helen ' s house
+When did Helen baked 144 chocolate chip cookies and 397 raisin cookies? --> helen baked 144 chocolate chip cookies and 397 raisin cookies yesterday
+Who did baked 144 chocolate chip cookies and 397 raisin cookies yesterday? --> helen
+Did Helen baked 144 chocolate chip cookies and 397 raisin cookies yesterday? --> 397
+Did she baked 85 raisin cookies and 403 chocolate chip cookies this morning? --> 397
+Are Helen the hippo and her friends preparing for thanksgiving at Helen's house? --> 397
+How many chocolate chip cookies and 397 raisin cookies did Helen baked yesterday? --> 144
+How many raisin cookies and 403 chocolate chip cookies did she baked this morning? --> 85
+==> Solution Equation: 397+85=x
+~~~
+
+*** Rachel picked 2 ripe apples from her tree. Now the tree has 7 apples still on it. If 6 of those are ripe and the rest are unripe, How many ripe apples did the tree have to begin with?
+Are 6 of those ripe? --> 7
+Are the rest unripe? --> 7
+What did rachel picked? --> 2
+What does the tree has Now? --> 7 apples still on it
+How many of those are ripe? --> 6
+Did rachel picked 2 ripe apples? --> 7
+Indicate characteristics of the rest. --> unripe
+Indicate characteristics of 6 of those. --> ripe
+How many ripe apples did rachel picked? --> 2
+Does the tree has 7 apples still on it Now? --> 2 ripe apples from her tree . now the tree has 7 apples still on it . if 6
+When does the tree has 7 apples still on it? --> now the tree has 7 apples still on it
+Do the tree have to begin How many ripe apples? --> 6
+How many apples still on it does the tree has Now? --> 7
+==> Solution Equation: 2+6=x
+~~~
+
+*** Randy has some blocks. He uses 52 blocks to build a tower. If there are 38 blocks left, How many blocks did he have at the start?
+What does He use? --> 52 blocks
+What do He build? --> he uses 52 blocks
+What does randy has? --> randy has some blocks
+Do He build a tower? --> 52
+Does He use 52 blocks? --> randy has some blocks . he uses 52
+How many blocks left are? --> 38
+How many blocks did leave? --> 38
+Does randy has some blocks? --> 52
+How many blocks does He use? --> 52
+What do he have at the start? --> how many blocks
+Where do he have How many blocks? --> if
+Do he have How many blocks at the start? --> 52
+==> Solution Equation: 52+38=x
+~~~
+
+*** They decided to hold the party in their backyard. They have 12 sets of tables and each set has 14 chairs. There are also 6 chairs extra. How many chairs do they have for the guests?
+What do they have? --> they have 12 sets of tables and each set has 14 chairs
+What did they decide? --> they decided to hold the party in their backyard
+What does each set has? --> 14
+How many chairs extra are? --> 6
+Does each set has 14 chairs? --> 6
+Do they have How many chairs? --> 14 chairs . there are also 6
+Do they have 12 sets of tables? --> they have 12 sets of tables and each set has 14
+How many chairs does each set has? --> 14
+How many sets of tables do they have? --> 12
+Where did they decide to hold the party? --> in their backyard
+What did they decide to hold in their backyard? --> they decided to hold the party in their backyard . they have 12 sets of tables and each set has 14
+Did they decide to hold the party in their backyard? --> 14
+How many chairs extra . How many chairs do they have for the guests did they decide? --> 6
+How many chairs . There are also 6 chairs extra . How many chairs do they have for the guests did they decide? --> 14 chairs . there are also 6 chairs extra . how many
+How many sets of tables and each set has 14 chairs . There are also 6 chairs extra . How many chairs do they have for the guests did they decide? --> how many
+Did they decide to hold the party in their backyard . they have 12 sets of tables and each set has 14 chairs . There are also 6 chairs extra . How many chairs do they have for the guests? --> 6
+==> Solution Equation: 168+6=x
+~~~
+
+*** Winter is almost here and most animals are migrating to warmer countries. There are 3 bird families living near the mountain. 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter. How many bird families were left near the mountain?
+Is winter almost here? --> winter
+When did 2 bird families fly? --> 2 bird families flew away further south for winter
+How many bird families did fly? --> 2
+Where did 26 new bird come to live? --> near the mountain from the arctic
+How many new bird families did come? --> 26
+Where were How many bird families left? --> 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter . how many bird families were left near the mountain
+How many new bird did come to live from the arctic? --> 26
+How many new bird families came to live near the mountain from the arctic while are 3 bird families living near the mountain ? --> 26
+How many bird families living near the mountain . 26 new bird families came to live near the mountain from the arctic while are? --> 2 bird families flew away further south for winter
+==> Solution Equation: 1+26=x
+~~~
+
+*** Rachel had to complete 10 pages of math homework. If she had to complete 3 more pages of reading homework than math homework, How many pages did she have to complete in all?
+What do she have to complete? --> 10 pages
+What do Rachel have to complete? --> 10 pages
+Do she have to complete How many pages? --> 10
+What did she have to complete 3 more pages of? --> reading homework than math homework
+What did Rachel have to complete 3 more pages of? --> reading homework
+Who do have to complete 10 pages of math homework? --> rachel
+Do Rachel have to complete 10 pages of math homework? --> rachel
+How many pages of math homework do Rachel have to complete? --> 10
+Do she have to complete 3 more pages of reading homework than math homework? --> rachel
+How many more pages of reading homework than math homework do she have to complete? --> 3
+How many more pages of reading homework than math homework do have to complete If she had to complete 10 pages of math homework? --> 3
+==> Solution Equation: 20+3=x
+~~~
+
+*** In a school there are 700 girls and the rest are boys. If there are 142 more boys than girls, How many pupils are there in that school?
+Are the rest boys? --> 142
+Where are 700 girls? --> in a school
+Where are How many pupils? --> if there are 142 more boys than girls
+How many girls are in a school? --> 700
+How would you describe the rest? --> boys
+How many more boys than girls are? --> 142
+==> Solution Equation: 1400+142=x
+~~~
+
+*** Lucy went to the grocery store. She bought 2 packs of cookie and 12 packs of cake. In the end she had 56 amount of change remaining. How many packs of groceries did she buy in all?
+What do she buy? --> she bought 2 packs of cookie and 12 packs of cake
+What did She buy? --> she bought 2 packs of cookie and 12 packs of cake
+What did she have In the end? --> 56 amount of change remaining
+Who did go to the grocery store? --> lucy
+Did Lucy go to the grocery store? --> 2 packs of cookie and 12 packs of cake
+How many packs of cake did She buy? --> 12
+Do she buy How many packs of groceries? --> lucy
+When did she have 56 amount of change remaining? --> in the end she had 56 amount of change remaining
+Did She buy 2 packs of cookie and 12 packs of cake? --> lucy
+Did she have 56 amount of change remaining In the end? --> lucy went to the grocery store . she bought 2 packs of cookie and 12 packs of cake . in the end she had 56
+How many amount of change remaining did she have In the end? --> 56
+==> Solution Equation: 2+12=x
+~~~
+
+*** Marco and his dad went strawberry picking. His strawberries weighed 8 pounds while his dad's strawberries weighed 32 pounds. Together how much did their strawberries weigh?
+What did His strawberries weigh? --> 8 pounds
+Did His strawberries weigh 8 pounds? --> marco and his dad went strawberry picking . his strawberries weighed 8 pounds while his dad ' s strawberries weighed 32 pounds
+What did his dad's strawberries weigh? --> 32 pounds
+Did his dad's strawberries weigh 32 pounds? --> 8 pounds
+Did Marco and his dad go strawberry picking? --> 8 pounds
+==> Solution Equation: 8+32=x
+~~~
+
+*** Kelly gives away 91 nintendo games. How many did she have initially if she still has 92 games left?
+What does Kelly give? --> 91
+What does she has still? --> 92
+How many games did leave? --> 92
+When do she have How many? --> 92
+What do she have initially? --> how
+Do she have How many initially? --> 91
+Who does give 91 nintendo games? --> kelly
+When does she has 92 games left? --> 92 games left
+Does she has 92 games left still? --> 91
+Does Kelly give 91 nintendo games? --> 92
+How many games left does she has still? --> 92
+How many nintendo games does Kelly give? --> 91
+How many games left do have if she still has How many initially? --> 92
+==> Solution Equation: 91+92=x
+~~~
+
+*** Robin has 43 packages of gum. There are 23 pieces in each package. Robin has 8 extra pieces of gum. How many pieces of gum does Robin have?
+What do Robin have? --> 43 packages of gum
+What does Robin has? --> robin has 43 packages of gum
+Who does has 43 packages of gum? --> robin
+Does Robin has 43 packages of gum? --> 23
+Who does has 8 extra pieces of gum? --> robin
+Who do have How many pieces of gum? --> robin has 43 packages of gum . there are 23 pieces in each package . robin has 8
+Who does has 8 extra pieces of gum? --> robin
+Who do have How many pieces of gum? --> robin has 43 packages of gum . there are 23 pieces in each package . robin has 8
+Who does has 8 extra pieces of gum? --> robin
+Who do have How many pieces of gum? --> robin has 43 packages of gum . there are 23 pieces in each package . robin has 8
+How many pieces in each package are? --> 23
+Does Robin has 8 extra pieces of gum? --> 23
+Do Robin have How many pieces of gum? --> 8
+How many packages of gum does Robin has? --> 43
+How many extra pieces of gum does Robin has? --> 8
+==> Solution Equation: 989+8=x
+~~~
+
+*** For the walls of the house he would use 12 large planks of wood and 17 small planks. If each large plank of wood needs 14 pieces of nails to be secured and each small plank needs 25 nails. How many planks does John need for the house wall?
+What do he use? --> 12 large planks of wood and 17 small planks
+What do John need? --> 12 large planks of wood and 17 small planks . if each large plank of wood needs 14 pieces of nails to be secured and each small plank needs 25 nails . how many planks does john need for the house wall
+Who do need How many planks? --> 12
+Do John need How many planks? --> 12
+What does each small plank need? --> 25 nails
+How many small planks do he use? --> 17
+How many pieces of nails be secured? --> 14
+Does each small plank need 25 nails? --> 17
+What does each large plank of wood need? --> 14 pieces of nails
+How many nails does each small plank need? --> 25
+Do he use 12 large planks of wood and 17 small planks? --> he
+How many large planks of wood and 17 small planks do he use? --> 12
+Does each large plank of wood need 14 pieces of nails to be secured? --> 12
+How many pieces of nails to be secured does each large plank of wood need? --> 14
+How many nails do use If each large plank of wood needs 14 pieces of nails to be secured and each small plank needs 12 large planks of wood and 17 small planks? --> 25 nails
+How many pieces of nails to be secured and each small plank needs 25 nails does use If each large plank of wood needs 12 large planks of wood and 17 small planks? --> 14
+==> Solution Equation: 12+17=x
+~~~
+
+*** Baker made some cakes. He sold 145 of them. If he still has 72 cakes left, How many cakes did baker make?
+What did He sell? --> 145
+What did Baker make? --> baker made some cakes . he sold 145
+What does baker make? --> baker made some cakes
+What does he has still? --> 72
+Who did make some cakes? --> baker
+Did He sell 145 of them? --> 72
+How many cakes did leave? --> 72
+Did Baker make some cakes? --> 145
+How many of them did He sell? --> 145
+When does he has 72 cakes left? --> if
+Does baker make How many cakes? --> 145
+Does he has 72 cakes left still? --> 145
+How many cakes left does he has still? --> 72
+How many cakes left did sell If he still has 145 of them? --> 72
+==> Solution Equation: 145+72=x
+~~~
+
+*** Jessie currently weighs 9 kilograms. After she started to go jogging everyday she lost 62 kilograms in the first week and 140 kilograms in the second week. How much did she weigh before starting to jog?
+When do she weigh? --> 9 kilograms
+What did she start? --> after she started to go jogging everyday
+What do she weigh before? --> before
+When did she lose 62 kilograms? --> she lost 62 kilograms in the first week
+What does Jessie weigh currently? --> 9 kilograms
+When did she start to go jogging? --> after she started to go jogging everyday
+What did she start to go everyday? --> after she started to go jogging everyday
+When does Jessie weigh 9 kilograms? --> jessie currently weighs 9 kilograms
+What did she lose in the first week? --> 62 kilograms
+Who does weigh 9 kilograms currently? --> jessie
+Did she start to go jogging everyday? --> 62 kilograms
+Does Jessie weigh 9 kilograms currently? --> 62
+Did she lose 62 kilograms in the first week? --> jessie currently weighs 9 kilograms . after she started to go jogging everyday she lost 62 kilograms
+==> Solution Equation: 71+140=x
+~~~
+
+*** 13 campers went rowing and 59 campers went hiking in the morning. 21 campers went rowing in the afternoon. How many campers went rowing in all?
+What did 13 campers go? --> rowing
+Did 13 campers go rowing? --> 13
+When went 21 campers rowing? --> 21
+What did How many campers go? --> 13
+When did 59 campers go hiking? --> 59 campers went hiking in the morning
+When did 21 campers go rowing? --> 21 campers went rowing in the afternoon
+How many campers did go rowing? --> 13
+Did How many campers go rowing? --> 13
+What did 59 campers go in the morning? --> hiking
+What did 21 campers go in the afternoon? --> 21
+Did 59 campers go hiking in the morning? --> 13
+Did 21 campers go rowing in the afternoon? --> 13
+How many campers did go hiking in the morning? --> 59
+How many campers went rowing in the afternoon? --> 21
+How many campers did go rowing in the afternoon? --> 21
+==> Solution Equation: 13+21=x
+~~~
+
+*** Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?
+What did he lose? --> 5
+What do he have now? --> 22
+Did he lose 5 marbles? --> 13
+How many marbles did he lose? --> 5
+Where did Josh have 22 marbles? --> josh had 22 marbles in his collection
+Do he have How many marbles now? --> 22
+When did He find 13 marbles ones? --> he found 13
+When do he have How many marbles? --> 22
+What did Josh have in his collection? --> 22
+What did He find while he lost 5 marbles? --> 13
+Who did have 22 marbles in his collection? --> josh
+Did Josh have 22 marbles in his collection? --> 22
+How many marbles did Josh have in his collection? --> 22
+Did He find 13 marbles ones while he lost 5 marbles? --> 22
+How many marbles ones did He find while he lost 5 marbles? --> 13
+How many marbles did find while he lost 13 marbles ones while he lost 5 marbles? --> 22
+==> Solution Equation: 17+13=x
+~~~
+
+*** For the walls of the house he would use 12 large planks of wood and 10 small planks. If large planks together need 15 pieces of nails to be secured and small planks together need 5 nails. How many nails does John need for the house wall?
+What do he use? --> 12 large planks of wood and 10 small planks
+What do John need? --> how many nails
+Who do need How many nails? --> john need for the house wall
+Do John need How many nails? --> 5
+How many small planks do he use? --> 10
+What do large planks together need? --> 15 pieces of nails
+What do small planks together need? --> 5
+What do large planks together need? --> 15 pieces of nails
+What do small planks together need? --> 5
+How many pieces of nails be secured? --> 15
+Do small planks together need 5 nails? --> small planks
+How many nails do small planks together need? --> 5
+Do he use 12 large planks of wood and 10 small planks? --> he
+How many large planks of wood and 10 small planks do he use? --> 12
+Do large planks together need 15 pieces of nails to be secured? --> large
+How many pieces of nails to be secured do large planks together need? --> 15
+How many pieces of nails to be secured and small planks together need 5 nails do use If large planks together need 12 large planks of wood and 10 small planks? --> 15
+How many nails do use If large planks together need 15 pieces of nails to be secured and small planks together need 12 large planks of wood and 10 small planks? --> if large planks together need 15 pieces of nails to be secured and small planks together need 5 nails
+==> Solution Equation: 15+5=x
+~~~
+
+*** After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 557 visitors came to the Buckingham palace that day. If there were 188 visitors the previous day, How many visited the Buckingham palace within 57 days?
+When did they go? --> they went to see the buckingham palace
+When were 188 visitors? --> if there were 188 visitors the previous day
+What did they go to see? --> buckingham palace
+What did Rachel learned? --> rachel learned that 557 visitors came to the buckingham palace that day
+Where were 71 paintings? --> buckingham palace . there were 71 paintings in the buckingham palace
+How many visitors were the previous day? --> 188
+What did How many visited within 57 days? --> 188
+Did they go to see the Buckingham palace? --> after eating a hearty meal
+Where did they go after eating a hearty meal? --> to see the buckingham palace
+When did How many visited the Buckingham palace? --> 557
+How many paintings were in the Buckingham palace? --> 71
+When did 557 visitors come to the Buckingham palace? --> 557 visitors came to the buckingham palace that day
+Did 557 visitors come to the Buckingham palace that day? --> 188
+Did How many visited the Buckingham palace within 57 days? --> 188
+How many visitors did come to the Buckingham palace that day? --> 557
+Where did they go to see the Buckingham in the Buckingham the Buckingham the Buckingham? --> after eating a hearty meal they went to see the buckingham palace
+How many visitors the previous day did come If there were to the Buckingham palace that day? --> 188
+Where did 557 visitors come the Buckingham in the Buckingham to the Buckingham the Buckingham that day? --> rachel
+Where did How many visited the Buckingham in the Buckingham the Buckingham the Buckingham within 57 days? --> 188
+How many visitors the previous day, How many visited the Buckingham palace within 57 days did Rachel learned? --> 188
+Who did learned that 557 visitors came to the Buckingham palace that day . If there were 188 visitors the previous day, How many visited the Buckingham palace within 57 days? --> rachel
+How many visitors came to the Buckingham palace that day . If there were 188 visitors the previous day, How many visited the Buckingham palace within 57 days did Rachel learned? --> 557
+Did Rachel learned that 557 visitors came to the Buckingham palace that day . If there were 188 visitors the previous day, How many visited the Buckingham palace within 57 days? --> how
+Where did Rachel learned the Buckingham palace in the Buckingham palace that 557 visitors came to the Buckingham palace that day . If there were 188 visitors the previous day, How many visited the Buckingham palace within 57? --> how
+==> Solution Equation: 557+188=x
+~~~
+
+*** Julia played tag with 17 kids on monday, 15 kids on tuesday and 2 kids on wednesday. How many kids did she play with altogether?
+What do she play? --> julia played tag
+Do she play How many kids? --> 17
+What did Julia play on monday? --> 17
+How do she play How many kids? --> julia played tag with 17 kids on monday , 15 kids on tuesday and 2 kids on wednesday . how many kids did she play with altogether
+When did Julia play tag with 17 kids? --> monday
+How many kids did Julia play on monday? --> 17
+Did Julia play tag with 17 kids on monday? --> 17
+How many kids did play tag with 17 kids on monday? --> julia played tag with 17
+==> Solution Equation: 32+2=x
+~~~
+
+*** The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 18 inches farther than the grasshopper and the mouse jumped 2 inches farther than the frog. How far did the mouse jump?
+Did the mouse jump 2 inches? --> 2 inches farther than the frog
+Did the grasshopper jump 25 inches? --> 2
+What did the frog and the mouse have? --> a jumping contest
+Did the frog and the mouse have a jumping contest? --> 2 inches farther than the frog
+Did the frog jump 18 inches farther than the grasshopper? --> the frog jumped 18 inches farther than the grasshopper
+==> Solution Equation: 43+2=x
+~~~
+
+*** Jake has 13 more apples and 17 fewer peaches than Steven. Steven has 8 peaches and 12 apples. How many apples does Jake have?
+What do Jake have? --> 13
+What does Jake has? --> 13
+What does Steven has? --> 12
+Do Jake have How many apples? --> 13
+How many apples does Steven has? --> 12
+Who does has 8 peaches and 12 apples? --> steven
+Does Steven has 8 peaches and 12 apples? --> 13
+How many peaches and 12 apples does Steven has? --> 8
+How many fewer peaches than Steven does Jake has? --> 17
+Does Jake has 13 more apples and 17 fewer peaches than Steven? --> 13
+How many more apples and 17 fewer peaches than Steven does Jake has? --> 13
+==> Solution Equation: 13+12=x
+~~~
+
+*** Last week Fred had 86 dollars and Jason had 5 dollars. Fred washed cars over the weekend and now has 9 dollars and Jason did not work. How much money do they have together now?
+Who did not work? --> jason
+What did Jason have? --> 5 dollars
+What do they have now? --> how much money do they have together now
+What does Fred has now? --> 9 dollars
+Who did have 5 dollars? --> jason
+Did Jason have 5 dollars? --> jason had 5 dollars
+When did Fred washed cars? --> fred washed cars over the weekend and now has 9 dollars
+Does Fred has 9 dollars now? --> fred washed cars over the weekend and now has 9 dollars
+What did Fred have last week? --> 86 dollars
+When does Fred has 9 dollars? --> fred washed cars over the weekend and now has 9 dollars
+When did Fred have 86 dollars? --> last week fred had 86 dollars
+Do they have How much money now? --> fred had 86 dollars and jason had 5 dollars . fred washed cars over the weekend and now has 9 dollars
+When do they have How much money? --> how much money do they have together now
+Did Fred have 86 dollars last week? --> fred had 86 dollars and jason had 5 dollars . fred washed cars over the weekend and now has 9 dollars
+What did Fred washed over the weekend? --> fred washed cars
+Did Fred washed cars over the weekend? --> 9 dollars
+==> Solution Equation: 5+9=x
+~~~
+
+*** Tiffany was collecting cans for recycling. On monday she had 10 bags of cans. She found 3 bags of cans on the next day and 7 bags of cans the day after that. How many bags did she have altogether?
+What do she have? --> 10 bags of cans
+Do she have How many bags? --> 10
+What was tiffany collecting? --> tiffany was collecting cans for recycling
+What did she have On monday? --> 10
+Was tiffany collecting cans? --> 10
+When did she have 10 bags of cans? --> on monday she had 10 bags of cans
+What did She find the day after that? --> 7
+Did she have 10 bags of cans On monday? --> tiffany was collecting cans for recycling . on monday she had 10
+How many bags of cans did she have On monday? --> 10
+How many bags of cans did She find the day after that? --> 7
+When did She find 3 bags of cans on the next day and 7 bags of cans? --> she found 3
+Did She find 3 bags of cans on the next day and 7 bags of cans the day after that? --> 10
+How many bags of cans on the next day and 7 bags of cans did She find the day after that? --> 3
+==> Solution Equation: 13+7=x
+~~~
+
+*** The grasshopper and the frog had a jumping contest. The grasshopper jumped 31 inches and the frog jumped 35 inches. How much did they jump altogether?
+Did the frog jump 35 inches? --> 31 inches
+Did the grasshopper jump 31 inches? --> the grasshopper jumped 31 inches and the frog jumped 35 inches
+What did the grasshopper and the frog have? --> a jumping contest
+Did the grasshopper and the frog have a jumping contest? --> 31 inches and the frog jumped 35 inches
+==> Solution Equation: 31+35=x
+~~~
+
+*** 3 birds and 4 storks were sitting on the fence. 6 more storks came to join them. How many birds and storks are sitting on the fence?
+What do 6 more storks join? --> 6
+Do 6 more storks join them? --> 6
+How many more storks did come? --> 6
+How many more storks do join them? --> 6
+Are 3 birds and 4 storks sitting on the fence? --> 3 birds and 4 storks were sitting on the fence . 6
+Are How many birds and storks sitting on the fence? --> 3
+How many birds and 4 storks are sitting on the fence? --> 3
+How many storks are sitting 3 birds and on the fence? --> 4
+==> Solution Equation: 7+6=x
+~~~
+
+*** Edward spent $ 6 to buy books and $ 16 to buy pens. Now he has $ 19. How much did Edward have before he spent his money?
+Who do buy pens? --> $ 16
+Who do buy books? --> $ 6
+What did he spend? --> $ 6
+Who did spend $ 6? --> edward
+What do Edward buy? --> books and $ 16 to buy pens
+Do Edward buy pens? --> $ 16
+Do Edward buy books? --> $ 6
+What does he has Now? --> $ 19
+Did Edward spend $ 6? --> buy books and $ 16 to buy pens
+Does he has $ 19 Now? --> $ 6
+What did Edward spend? --> $ 6
+When does he has $ 19? --> now he has $ 19
+Did he spend his money? --> $ 6
+When do Edward have How much? --> $ 19
+What do Edward have before he spent his money? --> how much
+Who do have How much before he spent his money? --> how much
+Do Edward have How much before he spent his money? --> how much
+==> Solution Equation: 22+19=x
+~~~
+
+*** Rachel had to complete 5 pages of math homework, 10 pages of reading homework and 6 more pages of biology homework. How many pages of reading and biology homework did she have to complete?
+What do she have to complete? --> rachel had to complete 5 pages
+What do Rachel have to complete? --> rachel had to complete 5 pages
+How many more pages of biology homework do Rachel have to complete? --> 6
+Do she have to complete How many pages of reading and biology homework? --> 10 pages of reading homework and 6
+How many pages of reading homework and 6 more pages of biology homework do Rachel have to complete? --> 10
+Who do have to complete 5 pages of math homework, 10 pages of reading homework and 6 more pages of biology homework? --> rachel
+Do Rachel have to complete 5 pages of math homework, 10 pages of reading homework and 6 more pages of biology homework? --> rachel
+How many pages of math homework, 10 pages of reading homework and 6 more pages of biology homework do Rachel have to complete? --> 5
+What she had to complete 5 pages of math homework, 10 pages of reading homework and 6 more pages of biology homework . How many pages of? --> 6
+What Rachel had to complete 5 pages of math homework, 10 pages of reading homework and 6 more pages of biology homework . How many pages of? --> 6
+==> Solution Equation: 10+6=x
+~~~
+
+*** Haley grew some trees in her backyard. After a typhoon 5 died. If 12 trees were left, How many trees did she grow?
+When did 5 die? --> after a typhoon 5 died
+What do she grow? --> haley grew some trees
+How many trees were left? --> 12
+Do she grow How many trees? --> haley grew some trees in her backyard . after a typhoon 5 died . if 12
+Where did Haley grow some trees? --> her backyard
+How many did die After a typhoon? --> 5
+What did Haley grow in her backyard? --> some trees
+Who did grow some trees in her backyard? --> haley
+Did Haley grow some trees in her backyard? --> 5
+How many trees were left did die If After a typhoon? --> 5
+==> Solution Equation: 5+12=x
+~~~
+
+*** Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 527 chocolate chip cookies and 86 raisin cookies yesterday. And she baked 86 raisin cookies and 554 chocolate chip cookies this morning. How many chocolate chip cookies did Helen bake?
+What did Helen baked yesterday? --> 527
+What did she baked this morning? --> 554
+How many raisin cookies did Helen baked yesterday? --> 86
+How many chocolate chip cookies did she baked this morning? --> 554
+When did she baked 86 raisin cookies and 554 chocolate chip cookies? --> 527
+Where are Helen the hippo and her friends preparing for thanksgiving? --> helen ' s house
+When did Helen baked 527 chocolate chip cookies and 86 raisin cookies? --> 527 chocolate chip cookies and 86 raisin cookies yesterday
+Who did baked 527 chocolate chip cookies and 86 raisin cookies yesterday? --> helen
+Did Helen baked 527 chocolate chip cookies and 86 raisin cookies yesterday? --> 527
+Did she baked 86 raisin cookies and 554 chocolate chip cookies this morning? --> 527
+How many chocolate chip cookies and 86 raisin cookies did Helen baked yesterday? --> 527
+Are Helen the hippo and her friends preparing for thanksgiving at Helen's house? --> 527
+How many raisin cookies and 554 chocolate chip cookies did she baked this morning? --> 86
+==> Solution Equation: 527+554=x
+~~~
+
+*** 3 red peaches, and some more green peaches are in the basket. If there are 10 more green peaches than red peaches in the basket, How many green peaches are in the basket?
+Are How many green peaches in the basket? --> 10
+Are some more green peaches in the basket? --> 10
+How would you describe some more green peaches? --> 10
+How many more green peaches than red peaches in the basket are? --> 10
+How many more green peaches than red peaches in the basket, How many green peaches are in the basket are If there are in the basket? --> 10
+==> Solution Equation: 3+10=x
+~~~
+
+*** After a typhoon, 13 trees in Haley's backyard died. If she had grown 3 trees initially, How many more trees died in the typhoon than those that survived?
+When had she grown 3 trees? --> if she had grown 3 trees initially
+What had she grown initially? --> 3 trees
+Had she grown 3 trees initially? --> haley
+Where did How many more trees die? --> how many more trees died in the typhoon than those that survived
+How many trees had she grown initially? --> 3
+When did 13 trees in Haley's backyard die? --> after a typhoon , 13 trees in haley ' s backyard died
+How many trees in Haley's backyard did die after a typhoon? --> 13
+How many trees initially did die If she had grown after a typhoon? --> 3
+==> Solution Equation: 13+10=x
+~~~
+
+*** At the arcade Dave had won some tickets. He used 12 tickets to buy some toys. If he still has 14 tickets left, How many tickets did Dave win at the arcade?
+What do He buy? --> he used 12 tickets to buy some toys
+What did He use? --> 12 tickets
+Do He buy some toys? --> 12
+Did He use 12 tickets? --> he used 12 tickets to buy some toys
+What does he has still? --> 14 tickets left
+How many tickets did leave? --> 14
+How many tickets did He use? --> 12
+What do Dave win at the arcade? --> dave had won some tickets
+What had Dave won at the arcade? --> dave had won some tickets
+Where had Dave won some tickets? --> at the arcade
+When does he has 14 tickets left? --> if he still has 14 tickets left
+Does he has 14 tickets left still? --> 12
+Where do Dave win How many tickets? --> 12
+Who had won some tickets at the arcade? --> dave
+How many tickets left does he has still? --> 14
+Had Dave won some tickets at the arcade? --> 12
+Who do win How many tickets at the arcade? --> dave had won some tickets . he used 12
+Do Dave win How many tickets at the arcade? --> dave had won some tickets . he used 12
+==> Solution Equation: 12+14=x
+~~~
+
+*** Jake has 9 fewer peaches than Steven and 18 more peaches than Jill. Steven has 16 peaches. How many more peaches does Steven have than Jill?
+What does Jake has? --> 18
+What does Steven has? --> 16
+Who does has 16 peaches? --> steven
+Does Steven has 16 peaches? --> 18
+How many peaches does Steven has? --> 16
+Who do have How many more peaches? --> 18
+Do Steven have How many more peaches? --> 18
+How many more peaches than Jill does Jake has? --> 18
+Does Jake has 9 fewer peaches than Steven and 18 more peaches than Jill? --> 18
+How many fewer peaches than Steven and 18 more peaches than Jill does Jake has? --> 9
+==> Solution Equation: 9+18=x
+~~~
+
+*** Zachary did 44 push-ups in gym class today. David did 58 more push-ups than zachary. How many push-ups did Zachary and David do altogether?
+What did David do? --> 58
+What did Zachary do today? --> 44
+Who did do 58 more push - ups than zachary? --> david
+Who did do 44 push - ups in gym class today? --> zachary
+Do Zachary and David do How many push - ups? --> 58
+Did David do 58 more push - ups than zachary? --> 44
+When did Zachary do 44 push - ups in gym class? --> 44
+Did Zachary do 44 push - ups in gym class today? --> 58
+How many more push - ups than zachary did David do? --> 58
+==> Solution Equation: 88+58=x
+~~~
+
+*** Edward spent $ 4 to buy books and $ 3 to buy pens. Now he has $ 12. How much did Edward spend on books and pens?
+Who do buy pens? --> $ 3
+Who do buy books? --> $ 4
+Who did spend $ 4? --> edward
+What do Edward buy? --> $ 4 to buy books and $ 3 to buy pens
+Do Edward buy pens? --> $ 3
+Do Edward buy books? --> $ 4
+What does he has Now? --> $ 12
+Did Edward spend $ 4? --> $ 4
+Does he has $ 12 Now? --> $ 4
+What did Edward spend? --> $ 4
+When does he has $ 12? --> now he has $ 12
+Who do spend on books and pens? --> edward
+Do Edward spend on books and pens? --> edward spent $ 4
+==> Solution Equation: 4+3=x
+~~~
+
+*** Edward spent $ 17. Then he received $ 10 from his friend. Now he has $ 7. How much did Edward have before he spent his money?
+Does he has $ 7? --> $ 17
+What does he has? --> $ 7
+What did he spend? --> $ 17
+Who did spend $ 17? --> edward
+What did Edward spend? --> $ 17
+Did Edward spend $ 17? --> $ 10
+Did he spend his money? --> $ 17
+What did he receive Then? --> $ 10
+When did he receive $ 10? --> $
+Did he receive $ 10 Then? --> $ 17
+When do Edward have How much? --> $ 7
+What do Edward have before he spent his money? --> $ 17 . then he received $ 10 from his friend . now he has $ 7 . how much
+Who do have How much before he spent his money? --> how much
+Do Edward have How much before he spent his money? --> $ 17 . then he received $ 10 from his friend . now he has $ 7 . how much
+==> Solution Equation: 7+7=x
+~~~
+
+*** 6 red peaches, 90 yellow peaches and 16 green peaches are in the basket. How many red and green peaches are in the basket?
+Are How many red and green peaches in the basket? --> 16
+Are 90 yellow peaches and 16 green peaches in the basket? --> 6
+How many green peaches are 90 yellow peaches and in the basket? --> 16
+How many yellow peaches and 16 green peaches are in the basket? --> 90
+How many green peaches are 90 yellow peaches and in the basket? --> 16
+==> Solution Equation: 6+16=x
+~~~
+
+*** Robin's hair was 19 inches long. If he grew 18 more inches, How long is his hair now?
+Is his hair How long now? --> if he grew 18 more inches
+When is his hair How long? --> 19 inches
+Did he grow 18 more inches? --> 19 inches
+Was Robin's hair 19 inches long? --> 19 inches
+Indicate characteristics of Robin's hair. --> 19 inches
+==> Solution Equation: 19+18=x
+~~~
+
+*** In a school there are 706 girls and 222 boys. 418 more girls joined the school. How many pupils are there in the school now?
+What did 418 more girls join? --> 418 more girls joined the school
+Where are How many pupils now? --> 706 girls and 222 boys . 418 more girls joined the school . how many pupils are there in the school
+Where are 706 girls and 222 boys? --> in a school there are 706 girls and 222 boys
+Did 418 more girls join the school? --> 706
+When are How many pupils in the school? --> 706 girls and 222 boys . 418 more girls joined the school . how many pupils are there in the school now
+How many more girls did join the school? --> 418
+How many girls and 222 boys are in a school? --> 706
+How many boys are 706 girls and in a school? --> 222
+==> Solution Equation: 928+418=x
+~~~
+
+*** Nell collects baseball cards. She gave 301 of her cards to Jeff and now has 154 cards left. How many cards did Nell have initially?
+What did She give? --> 301
+What do Nell have? --> 154
+What does She has now? --> 154
+What does Nell collect? --> nell collects baseball cards
+How many cards did leave? --> 154
+Do Nell have How many cards? --> 154
+Did She give 301 of her cards? --> 301
+Does She has 154 cards left now? --> 301
+When does She has 154 cards left? --> now has 154 cards left
+Does Nell collect baseball cards? --> 301
+How many of her cards did She give? --> 301
+How many cards left does She has now? --> 154
+What did give to Jeff 301 of her cards? --> nell
+==> Solution Equation: 154+301=x
+~~~
+
+*** Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?
+When do she play? --> julia played tag
+What did Julia play on monday? --> 15
+When did Julia play tag with 15 kids? --> 15 kids on monday
+How many kids did Julia play on monday? --> 15
+Did Julia play tag with 15 kids on monday? --> 15
+How many kids on tuesday and 97 kids on wednesday did play tag with 15 kids on monday? --> 18
+How many kids on wednesday did play 18 kids on tuesday and tag with 15 kids on monday? --> 97
+==> Solution Equation: 15+18=x
+~~~
+
+*** 36 campers went rowing in the morning 13 campers went rowing in the afternoon and 49 campers went rowing in the evening. How many campers went rowing in all?
+What did 36 campers go? --> 36 campers went rowing in the morning
+When went 36 campers rowing? --> 49
+When went 13 campers rowing? --> 13
+When went 49 campers rowing? --> 49
+What did How many campers go? --> 36
+When did 13 campers go rowing? --> 13
+When did 49 campers go rowing? --> 49 campers went rowing in the evening
+Did How many campers go rowing? --> 36
+What did 49 campers go in the evening? --> 49
+What did 13 campers go in the afternoon? --> 13
+Did 36 campers go rowing in the morning? --> 36
+Did 49 campers go rowing in the evening? --> 13 campers went rowing in the afternoon and 49
+Did 13 campers go rowing in the afternoon? --> 49
+How many campers went rowing in the morning? --> 36
+How many campers went rowing in the evening? --> 49
+How many campers did go rowing in the morning? --> 36
+How many campers went rowing in the afternoon? --> 13
+How many campers did go rowing in the evening? --> 49
+How many campers did go rowing in the afternoon? --> 13
+==> Solution Equation: 49+49=x
+~~~
+
+*** Allan brought 7 balloons and 5 balls while Jake brought 6 balloons and 4 balls to the park. How many balls did Allan and Jake have in the park?
+What did Jake bring? --> 6 balloons and 4
+What did Allan bring? --> 7 balloons and 5 balls
+How many balls did Jake bring? --> 4
+How many balls did Allan bring? --> 5
+Who did bring 7 balloons and 5 balls? --> allan
+Who did bring 6 balloons and 4 balls? --> jake
+Did Jake bring 6 balloons and 4 balls? --> 6
+Did Allan bring 7 balloons and 5 balls? --> allan brought 7
+Where do Allan and Jake have How many balls? --> 5
+Where did Allan bring 7 balloons and 5 balls? --> allan
+How many balloons and 4 balls did Jake bring? --> 6
+How many balloons and 5 balls did Allan bring? --> 7
+What did bring to the park 6 balloons and 4 balls? --> jake
+Do Allan and Jake have How many balls in the park? --> 4
+How many balloons and 4 balls to the park did bring while Jake brought 7 balloons and 5 balls? --> allan
+How many balls to the park did bring while Jake brought 6 balloons and 7 balloons and 5 balls? --> allan
+==> Solution Equation: 5+4=x
+~~~
+
+*** There were 10 roses in the vase. Jessica cut 8 more roses from her flower garden and put them in the vase. How many roses are there in the vase now?
+What did Jessica cut? --> 8 more roses
+What did Jessica put? --> 8 more roses from her flower garden and put them in the vase
+Did Jessica put them? --> 8
+Where are How many roses now? --> 8 more roses from her flower garden and put them in the vase . how many roses are there in the vase
+Did Jessica cut 8 more roses? --> 10
+How many roses in the vase were? --> 10
+How many more roses did Jessica cut? --> 8
+When are How many roses in the vase? --> 10
+==> Solution Equation: 10+8=x
+~~~
+
+*** Bobby ate 33 pieces of candy. Then he ate 4 more. He also ate 14 pieces of chocolate. How many pieces of candy and chocolate did Bobby eat altogether?
+What did He eat? --> bobby ate 33 pieces of candy . then he ate 4 more
+What did he eat? --> bobby ate 33 pieces of candy . then he ate 4 more
+What did He eat? --> bobby ate 33 pieces of candy . then he ate 4 more
+What do Bobby eat? --> 33
+Did he eat 4 more? --> 33
+What did Bobby eat? --> 33
+Who did eat 33 pieces of candy? --> bobby
+Did Bobby eat 33 pieces of candy? --> 33
+Did He eat 14 pieces of chocolate? --> 33
+How many pieces of chocolate did He eat? --> 14
+Who do eat How many pieces of candy and chocolate? --> bobby ate 33 pieces of candy . then he ate 4 more . he also ate 14
+Do Bobby eat How many pieces of candy and chocolate? --> 14
+==> Solution Equation: 37+14=x
+~~~
+
+*** Rachel had to complete 8 pages of math homework. If she had to complete 6 more pages of reading homework than math homework, How many pages of reading homework did she have to complete?
+What do she have to complete? --> 8 pages
+What do Rachel have to complete? --> 8 pages
+Who do have to complete 8 pages of math homework? --> rachel
+Do Rachel have to complete 8 pages of math homework? --> rachel
+How many pages of math homework do Rachel have to complete? --> 8
+Do she have to complete How many pages of reading homework? --> 6
+Do she have to complete 6 more pages of reading homework than math homework? --> rachel
+How many more pages of reading homework than math homework do she have to complete? --> 6
+What did she have to complete 6 more pages of reading homework than math homework, How many pages of? --> how many pages of reading homework did she have to complete
+What did Rachel have to complete 6 more pages of reading homework than math homework, How many pages of? --> how many pages of reading homework did she have to complete
+How many more pages of reading homework than math homework do have to complete If she had to complete 8 pages of math homework? --> 6
+==> Solution Equation: 8+6=x
+~~~
+
+*** Jack received 6 emails and sent 91 letters in the morning. He then received 2 emails and sent 74 letters in the afternoon. How many emails did Jack receive in the day?
+What did Jack receive? --> 6
+What did He receive then? --> 2 emails
+Who did receive 6 emails? --> jack
+Did Jack receive 6 emails? --> 6
+When did He send 74 letters? --> he then received 2 emails and sent 74 letters in the afternoon
+When did He receive 2 emails? --> he then received 2 emails and sent 74 letters in the afternoon
+Did He receive 2 emails then? --> 2 emails and sent 74 letters in the afternoon
+When did Jack send 91 letters? --> jack received 6 emails and sent 91 letters in the morning
+What do Jack receive in the day? --> 6
+How many emails did Jack receive? --> 6
+What did Jack send in the morning? --> 91 letters
+What did He send in the afternoon? --> 74
+What did Jack send in the morning? --> 91 letters
+What did He send in the afternoon? --> 74
+How many emails did He receive then? --> 6
+When do Jack receive How many emails? --> 6
+Who did send 91 letters in the morning? --> jack
+Did Jack send 91 letters in the morning? --> 6
+Did He send 74 letters in the afternoon? --> 91 letters in the morning . he then received 2
+Who do receive How many emails in the day? --> jack received 6
+Do Jack receive How many emails in the day? --> jack received 6
+How many letters did Jack send in the morning? --> 91
+How many letters did He send in the afternoon? --> 74
+==> Solution Equation: 6+2=x
+~~~
+
+*** Katie had 91 ds games and her new friends had 88 games and old friends had 53 games. How many games do her friends have in all?
+What did Katie have? --> 91
+What do her friends have? --> 88
+Who did have 91 ds games? --> katie
+What did old friends have? --> 53
+Did Katie have 91 ds games? --> 88
+What did her new friends have? --> 88
+Did old friends have 53 games? --> 53
+How many ds games did Katie have? --> 91
+Did her new friends have 88 games? --> 88
+Do her friends have How many games? --> 88
+How many games did old friends have? --> 53
+How many games did her new friends have? --> 88
+==> Solution Equation: 88+53=x
+~~~
+
+*** Paul got a box of some crayons for his birthday. During the school year he gave 52 crayons to his friends while he lost 535 crayons. If he only had 492 crayons left, How many crayons had been lost or given away?
+What did he have? --> paul got a box of some crayons for his birthday . during the school year he gave 52 crayons to his friends while he lost 535 crayons . if he only had 492 crayons left
+What did Paul get? --> a box of some crayons for his birthday
+What had he been lost? --> he lost 535 crayons
+How many crayons did leave? --> 492
+When did he give 52 crayons? --> he gave 52 crayons to his friends
+Had he been lost 535 crayons? --> he lost 535 crayons
+Did he have 492 crayons left? --> paul got a box of some crayons for his birthday . during the school year he gave 52 crayons to his friends while he lost 535
+How many crayons had he been lost? --> 535
+How many crayons left did he have? --> 492
+What did he give while he lost 535 crayons? --> he gave 52 crayons to his friends
+Did he give 52 crayons while he lost 535 crayons? --> paul got a box of some crayons for his birthday . during the school year he gave 52 crayons to his friends
+Did Paul get a box of some crayons for his birthday? --> 53
+What did give to his friends 52 crayons while he lost 535 crayons? --> paul
+How many crayons did give while he lost 52 crayons while he lost 535 crayons? --> 52 crayons to his friends
+==> Solution Equation: 52+535=x
+~~~
+
+*** 4 birds and 46 storks were sitting on the fence. 6 more birds came to join them. How many birds are sitting on the fence?
+How many more birds did come? --> 6
+What did 6 more birds come to join? --> 6
+Did 6 more birds come to join them? --> 4 birds and 46 storks
+Are How many birds sitting on the fence? --> 4
+How many more birds did come to join them? --> 6
+Are 4 birds and 46 storks sitting on the fence? --> 4 birds and 46 storks were sitting on the fence . 6
+How many storks are sitting 4 birds and on the fence? --> 46
+==> Solution Equation: 4+6=x
+~~~
+
+*** 41 campers went rowing and 4 campers went hiking in the morning. 26 campers went rowing in the afternoon. How many campers went rowing and hiking in all?
+What did 41 campers go? --> rowing
+Did 41 campers go rowing? --> 41
+When went 26 campers rowing? --> 26
+What did How many campers go? --> how
+How many campers went rowing? --> 41
+When did 4 campers go hiking? --> 4
+When did 26 campers go rowing? --> 26 campers went rowing in the afternoon
+How many campers did go rowing? --> 41
+What did 4 campers go in the morning? --> hiking
+Did 4 campers go hiking in the morning? --> 41
+What did 26 campers go in the afternoon? --> 26 campers went rowing
+Did 26 campers go rowing in the afternoon? --> 41
+Did How many campers go rowing and hiking? --> 4
+How many campers did go hiking in the morning? --> 4
+How many campers went rowing in the afternoon? --> 26
+How many campers did go rowing in the afternoon? --> 26
+==> Solution Equation: 67+4=x
+~~~
+
+*** Zachary did 19 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 13 push-ups less than david. How many push-ups did David do?
+What did John do? --> 13
+What do David do? --> 39
+What did David do? --> 39
+Who did do 13 push - ups? --> john
+What did Zachary do today? --> 19
+Did John do 13 push - ups? --> 39 more push - ups than zachary . john did 13
+Who do do How many push - ups? --> david did 39
+How many push - ups did John do? --> 13
+Do David do How many push - ups? --> david did 39
+Who did do 39 more push - ups than Zachary? --> david
+Where did David do push - 39 more push - ups? --> 39 more push - ups than zachary . john did 13
+Did David do 39 more push - ups than Zachary? --> 39
+When did Zachary do 19 push - ups in gym class? --> zachary did 19
+Did Zachary do 19 push - ups in gym class today? --> 39
+How many more push - ups than Zachary did David do? --> 39
+How many push - ups in gym class did Zachary do today? --> 19
+==> Solution Equation: 19+39=x
+~~~
+
+*** The ring toss game at the carnival made 382 dollars in the first 44 days and 374 dollars in the remaining 10 days. How much did they make in all?
+What do they make? --> the ring toss game at the carnival made 382 dollars
+Where do ring toss? --> 382 dollars
+Do they make How much? --> 382 dollars
+When did the ring toss game at the carnival make 382 dollars? --> 382 dollars in the first 44 days
+What did the ring toss game at the carnival make in the first 44 days? --> 382 dollars
+Did the ring toss game at the carnival make 382 dollars in the first 44 days? --> 37
+==> Solution Equation: 382+374=x
+~~~
+
+*** The grasshopper and the frog had a jumping contest. The grasshopper jumped 35 inches. The grasshopper jumped 4 inches farther than the frog. How much did they jump altogether?
+Did the grasshopper jump 4 inches? --> 35 inches
+Did the grasshopper jump 35 inches? --> 4 inches
+What did the grasshopper and the frog have? --> a jumping contest
+Did the grasshopper and the frog have a jumping contest? --> 35 inches
+==> Solution Equation: 35+31=x
+~~~
+
+*** Bobby had 20 pieces of candy. He ate 34 pieces of candy. Then he ate 18 more. How many pieces of candy did Bobby eat?
+What did He eat? --> 34
+What did he eat? --> 34
+What do Bobby eat? --> 34
+Did he eat 18 more? --> 34
+What did Bobby have? --> 20
+How many more did he eat? --> 18
+Did He eat 34 pieces of candy? --> 20
+Who did have 20 pieces of candy? --> bobby
+Did Bobby have 20 pieces of candy? --> 34
+How many pieces of candy did He eat? --> 34
+Who do eat How many pieces of candy? --> 34
+Do Bobby eat How many pieces of candy? --> 34
+How many pieces of candy did Bobby have? --> 20
+==> Solution Equation: 34+18=x
+~~~
+
+*** Julia played tag with 5 kids on monday, 9 kids on tuesday and 15 kids on wednesday. How many kids did she play with on monday and wednesday?
+When do she play? --> julia played tag
+What did Julia play on monday? --> 5
+When did Julia play tag with 5 kids? --> 5 kids on monday
+How many kids did Julia play on monday? --> 5
+Did Julia play tag with 5 kids on monday? --> 5
+How many kids did play tag with 5 kids on monday? --> julia played tag with 5
+==> Solution Equation: 5+15=x
+~~~
+
+*** Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. She found 10 bags of cans on the next day and 4 bags of cans the day after that. How many bags did she find after monday?
+What was tiffany collecting? --> tiffany was collecting cans for recycling
+What did she have On monday? --> 8 bags of cans
+Was tiffany collecting cans? --> 4
+What do she find after monday? --> how many bags
+When do she find How many bags? --> 4
+When did she have 8 bags of cans? --> on monday she had 8 bags of cans
+What did She find the day after that? --> 4
+Did she have 8 bags of cans On monday? --> 4
+Do she find How many bags after monday? --> 4
+How many bags of cans did she have On monday? --> 8
+How many bags of cans did She find the day after that? --> 4
+When did She find 10 bags of cans on the next day and 4 bags of cans? --> she found 10
+Did She find 10 bags of cans on the next day and 4 bags of cans the day after that? --> 4
+How many bags of cans on the next day and 4 bags of cans did She find the day after that? --> 10
+==> Solution Equation: 10+4=x
+~~~
+
+*** There were 73 parents, 724 pupils and 744 teachers in the program. How many people were present in the program?
+Where were How many people present? --> how many people were present in the program
+Indicate characteristics of How many people. --> 73
+Were How many people present in the program? --> 73 parents , 724 pupils and 744
+How many pupils and 744 teachers in the program . How many people were present in the program were 73 parents? --> 724
+How many teachers in the program . How many people were present in the program were 73 parents, 724 pupils and? --> 744
+How many parents, 724 pupils and 744 teachers in the program . How many people were present in the program were? --> how
+==> Solution Equation: 797+744=x
+~~~
+
+*** At the stop 8 more people got on the train. Initially there were 11 people on the train. How many people are there on the train now?
+Where are How many people now? --> 11 people on the train . how many people are there on the train
+When are How many people on the train? --> 11
+Where did 8 more people get on the train Initially? --> 11
+When did 8 more people get on the train at the stop? --> at the stop 8 more people got on the train
+Did 8 more people get on the train at the stop Initially? --> 11
+How many more people did get on the train at the stop Initially? --> 8
+When were 11 people on the train . How many people are there on the train? --> how many people are there on the train now
+How many people on the train . How many people are there on the train were Initially? --> 11
+==> Solution Equation: 11+8=x
+~~~
+
+*** There are 65 baskets of peaches. Each basket has 7 red peaches and 3 green peaches. How many peaches are in each basket?
+What does Each basket has? --> each basket has 7 red peaches and 3 green peaches
+How many baskets of peaches are? --> 65
+Are How many peaches in each basket? --> 65
+How many green peaches does Each basket has? --> 3
+Does Each basket has 7 red peaches and 3 green peaches? --> 65
+How many red peaches and 3 green peaches does Each basket has? --> 7
+==> Solution Equation: 7+3=x
+~~~
+
+*** Josh had some marbles in his collection. He lost 21 marbles. If he has 12 marbles now, How many marbles did he have in his collection?
+What did He lose? --> 21 marbles
+What does he has now? --> 12 marbles
+Did He lose 21 marbles? --> 21
+Does he has 12 marbles now? --> 21
+When does he has 12 marbles? --> if he has 12 marbles now
+How many marbles did He lose? --> 21
+How many marbles does he has now? --> 12
+Where did Josh have some marbles? --> he lost 21
+What do he have in his collection? --> josh had some marbles
+Where do he have How many marbles? --> if he has 12
+What did Josh have in his collection? --> some marbles
+Who did have some marbles in his collection? --> josh
+Did Josh have some marbles in his collection? --> 21
+Do he have How many marbles in his collection? --> 21
+How many marbles now did lose If he has 21 marbles? --> 12
+==> Solution Equation: 21+12=x
+~~~
+
+*** Jessie currently weighs 27 kilograms. After she started to go jogging everyday she lost 101 kilograms. How much did she weigh before starting to jog?
+When do she weigh? --> 27 kilograms
+What did she start? --> after she started to go jogging everyday
+What did she start to go? --> jogging everyday she lost 101 kilograms
+What do she weigh before? --> before
+Did she start to go jogging? --> 101 kilograms
+When did she lose 101 kilograms? --> after she started to go jogging everyday she lost 101 kilograms
+What does Jessie weigh currently? --> 27 kilograms
+When did she start to go jogging? --> after she started to go jogging everyday she lost 101 kilograms
+When does Jessie weigh 27 kilograms? --> jessie currently weighs 27 kilograms
+Did she start to go jogging everyday? --> 101 kilograms
+Who does weigh 27 kilograms currently? --> jessie
+Does Jessie weigh 27 kilograms currently? --> 101 kilograms
+What did she lose After she started to go jogging? --> 101 kilograms
+Did she lose 101 kilograms After she started to go jogging? --> 27 kilograms
+==> Solution Equation: 27+101=x
+~~~
+
+*** Dan has $ 3 left with him after he bought a candy bar for $ 2. How much money did he have initially?
+What did he buy? --> $ 2
+What do he have? --> $ 3
+What does Dan has? --> $ 3
+When did $ 3 leave? --> dan
+Did he buy a candy bar? --> $ 2
+Do he have How much money? --> $ 3
+Who does has $ 3 left with him after he bought a candy bar for $ 2 . How much money did he have initially? --> how
+Does Dan has $ 3 left with him after he bought a candy bar for $ 2 . How much money did he have initially? --> how much
+==> Solution Equation: 3+2=x
+~~~
+
+*** Zachary did 53 push-ups and 14 crunches in gym class today. David did 17 more push-ups but 10 less crunches than zachary. How many push-ups and crunches did Zachary do?
+What did David do? --> 17 more push - ups
+What do Zachary do? --> 53 push - ups and 14 crunches
+What did Zachary do in gym class today? --> 53 push - ups and 14 crunches
+Who do do How many push - ups and crunches? --> 53
+Do Zachary do How many push - ups and crunches? --> 53
+How many less crunches than zachary did David do? --> 10
+How many crunches did Zachary do in gym class today? --> 14
+Where did Zachary do 53 push - ups and 14 crunches today? --> gym class
+Who did do 53 push - ups and 14 crunches in gym class today? --> zachary did 53
+When did Zachary do 53 push - ups and 14 crunches in gym class? --> zachary did 53
+Who did do 17 more push - ups but 10 less crunches than zachary? --> david
+Did Zachary do 53 push - ups and 14 crunches in gym class today? --> 53
+Did David do 17 more push - ups but 10 less crunches than zachary? --> david
+How many push - ups and 14 crunches did Zachary do in gym class today? --> 53
+How many more push - ups but 10 less crunches than zachary did David do? --> 17
+==> Solution Equation: 53+14=x
+~~~
+
+*** Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?
+What do she have? --> 3 bags of cans
+What was tiffany collecting? --> tiffany was collecting cans for recycling
+What did she have On monday? --> 3 bags of cans
+Was tiffany collecting cans? --> 3
+What did she find The next day? --> 7 more bags of cans and 44 bags of bottles
+When did she have 3 bags of cans? --> on monday she had 3 bags of cans
+Do she have How many bags of cans? --> 3
+Did she have 3 bags of cans On monday? --> tiffany
+How many bags of cans did she have On monday? --> 3
+How many bags of bottles did she find The next day? --> 44
+When did she find 7 more bags of cans and 44 bags of bottles? --> the next day
+Did she find 7 more bags of cans and 44 bags of bottles The next day? --> tiffany was collecting cans for recycling . on monday she had 3 bags of cans . the next day she found 7
+How many more bags of cans and 44 bags of bottles did she find The next day? --> 7
+==> Solution Equation: 3+7=x
+~~~
+
+*** Every day Ryan spends 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish. How many hours does he spend on learning english, chinese and spanish in all?
+What do he spend on? --> 6 hours
+When does Ryan spend 6 hours? --> every day
+What does Ryan spend every day? --> 6 hours
+Does Ryan spend 6 hours every day? --> 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish
+Where do he spend on learning english, chinese and spanish? --> 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish . how many hours
+Do he spend on learning english, chinese and spanish in all? --> ryan spends 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish . how many hours
+What Ryan spends 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish . How many hours does he spend on? --> how many hours does he spend on learning english , chinese and spanish in all
+==> Solution Equation: 13+3=x
+~~~
+
+*** In a school there are 635 girls and the rest are boys. If there are 510 more boys than girls, How many boys are there in that school?
+Are the rest boys? --> boys
+Where are 635 girls? --> in a school there are 635 girls and the rest are boys
+Where are How many boys? --> 510
+How many girls are in a school? --> 635
+How would you describe the rest? --> boys
+How many more boys than girls are? --> 510
+==> Solution Equation: 635+510=x
+~~~
+
+*** Rachel had to complete 9 pages of math homework, 11 pages of reading homework and 29 more pages of biology homework. How many pages of math and reading homework did she have to complete?
+What do she have to complete? --> rachel had to complete 9 pages
+What do Rachel have to complete? --> rachel had to complete 9 pages
+How many more pages of biology homework do Rachel have to complete? --> 29
+Do she have to complete How many pages of math and reading homework? --> 11
+How many pages of reading homework and 29 more pages of biology homework do Rachel have to complete? --> 11
+Who do have to complete 9 pages of math homework, 11 pages of reading homework and 29 more pages of biology homework? --> rachel
+Do Rachel have to complete 9 pages of math homework, 11 pages of reading homework and 29 more pages of biology homework? --> rachel
+What she had to complete 9 pages of math homework, 11 pages of reading homework and 29 more pages of biology homework . How many pages of? --> 29
+What Rachel had to complete 9 pages of math homework, 11 pages of reading homework and 29 more pages of biology homework . How many pages of? --> 29
+==> Solution Equation: 9+11=x
+~~~
+
+*** Every day Ryan spends 5 hours on learning chinese and some more hours on learning english. If he spends 2 hours more on learning english than on learning chinese, How many hours does he spend on learning english?
+What does he spend? --> 5 hours
+What do he spend on? --> 5 hours
+Does he spend 2 hours? --> 5
+When does Ryan spend 5 hours? --> every day
+What does Ryan spend every day? --> 5 hours
+Do he spend on learning english? --> 2
+Does Ryan spend 5 hours every day? --> 5
+What spends he 2 hours more on learning english than on learning chinese, How many hours does he spend on? --> learning english
+What spends Ryan 2 hours more on learning english than on learning chinese, How many hours does he spend on? --> learning english
+==> Solution Equation: 5+2=x
+~~~
+
+*** Julia played tag with 2 kids on monday, 14 kids on tuesday and 16 kids on wednesday. How many kids did she play with on tuesday and wednesday?
+When do she play? --> julia played tag
+What did Julia play on monday? --> 2
+When did Julia play tag with 2 kids? --> 14
+How many kids did Julia play on monday? --> 2
+Did Julia play tag with 2 kids on monday? --> 14
+How many kids on did play tag with 2 kids on monday? --> julia played tag with 2
+==> Solution Equation: 14+16=x
+~~~
+
+*** Paul got a box of some crayons for his birthday. By the end of the school year he only had 291 crayons left since he had either lost or given away 315 of them. How many crayons did he get for his birthday?
+What did Paul get? --> a box of some crayons for his birthday
+How many crayons did leave? --> 291
+Had he either lost 315 of them? --> 315
+What do he get for his birthday? --> paul got a box of some crayons
+When do he get How many crayons? --> 291
+What had he either lost or given? --> 315
+When did he have 291 crayons left? --> he only had 291 crayons left
+How many of them had he either lost? --> 315
+Had he either lost or given 315 of them? --> 291
+Do he get How many crayons for his birthday? --> paul got a box of some crayons for his birthday . by the end of the school year he only had 291
+How many of them had he either lost or given? --> 315
+What did he have By the end of the school year? --> 291
+Did Paul get a box of some crayons for his birthday? --> 291
+Did he have 291 crayons left By the end of the school year? --> 315
+Why did he have 291 crayons left By the end of the school year? --> he only had 291 crayons left
+How many crayons left did he have By the end of the school year? --> 291
+==> Solution Equation: 315+291=x
+~~~
+
+*** Jack received 5 emails and 6 letters in the morning. He then received 9 emails and 7 letters in the afternoon. How many letters did jack receive in the day?
+What does jack receive in the day? --> jack received 5 emails and 6 letters
+What did Jack receive in the morning? --> 6
+What did He receive in the afternoon? --> 7
+What did Jack receive in the morning? --> 6
+What did He receive in the afternoon? --> 7
+When does jack receive How many letters? --> jack received 5 emails and 6
+Who do receive How many letters in the day? --> jack received 5 emails and 6
+When did He receive 9 emails and 7 letters? --> he then received 9 emails and 7 letters in the afternoon
+When did Jack receive 5 emails and 6 letters? --> jack received 5 emails and 6 letters in the morning
+Does jack receive How many letters in the day? --> 6
+How many letters did Jack receive in the morning? --> 6
+How many letters did He receive in the afternoon? --> 7
+Who did receive 5 emails and 6 letters in the morning? --> jack
+Did Jack receive 5 emails and 6 letters in the morning? --> 6
+Did He receive 9 emails and 7 letters in the afternoon? --> 6
+How many emails and 6 letters did Jack receive in the morning? --> 5
+How many emails and 7 letters did He receive in the afternoon? --> 9
+==> Solution Equation: 6+7=x
+~~~
+
+*** Ed had 10 more marbles than Doug. Doug lost 11 of his marbles at the playground. If Ed had 45 marbles, How many more marbles did Ed have than Doug then?
+What do Ed have? --> 10
+What did Ed have? --> 10
+Did Ed have 45 marbles? --> 10
+Who did have 45 marbles? --> ed
+How many marbles did Ed have? --> 45
+Do Ed have How many more marbles? --> 10
+Who do have How many more marbles? --> ed had 10
+What did Doug lose at the playground? --> 11
+Where did Doug lose 11 of his marbles? --> at the playground
+Did Ed have 10 more marbles than Doug? --> 45
+Who did have 10 more marbles than Doug? --> ed
+How many more marbles than Doug did Ed have? --> 10
+Who did lose 11 of his marbles at the playground? --> doug
+Did Doug lose 11 of his marbles at the playground? --> 10 more marbles than doug . doug lost 11
+How many of his marbles did Doug lose at the playground? --> 11
+==> Solution Equation: 10+11=x
+~~~
+
+*** Bobby ate 28 pieces of candy. Then he ate 42 more. He also ate 63 pieces of chocolate. How many pieces of candy did Bobby eat?
+What did He eat? --> 28
+What did he eat? --> 28
+What did He eat? --> 28
+What do Bobby eat? --> 28
+What did Bobby eat? --> 28
+Did he eat 42 more? --> 28
+How many more did he eat? --> 42
+Who did eat 28 pieces of candy? --> bobby
+Did Bobby eat 28 pieces of candy? --> 28 pieces of candy . then he ate 42
+Did He eat 63 pieces of chocolate? --> 28
+Who do eat How many pieces of candy? --> 28
+Do Bobby eat How many pieces of candy? --> 28
+How many pieces of candy did Bobby eat? --> 28
+How many pieces of chocolate did He eat? --> 63
+==> Solution Equation: 28+42=x
+~~~
+
+*** There were 61 parents in the program and 177 pupils too. The program could seat 44 people, How many people were present in the program?
+What could The program seat? --> the program could seat 44 people
+Could The program seat 44 people? --> the program could seat 44 people
+How many people could The program seat? --> 44
+Indicate characteristics of How many people. --> 44
+Were How many people present in the program? --> 44
+How many pupils too . The program could seat 44 people, How many people were present in the program were 61 parents in the program and? --> 177
+How many parents in the program and 177 pupils too . The program could seat 44 people, How many people were present in the program were? --> 61
+How many people, How many people were present in the program were 61 parents in the program and 177 pupils too . The program could seat? --> 44 people
+==> Solution Equation: 61+177=x
+~~~
+
+*** Every day Ryan spends 4 hours on learning english and 6 hours on learning chinese. If he learns for 86 days, How many hours does he spend on learning english and chinese each day?
+When does he learn? --> ryan spends 4 hours
+What do he spend on? --> 4 hours on learning english and 6 hours on learning chinese
+What does Ryan spend every day? --> 4 hours
+When do he spend on learning english and chinese? --> 4 hours
+Do he spend on learning english and chinese each day? --> 4 hours
+When does Ryan spend 4 hours on learning english and 6 hours? --> every day
+Does Ryan spend 4 hours on learning english and 6 hours every day? --> 4
+What Ryan spends 4 hours on learning english and 6 hours on learning chinese . If he learns for 86 days, How many hours does he spend on? --> learning english and chinese each day
+==> Solution Equation: 4+6=x
+~~~
+
+*** A grocery store had 30 bottles of regular soda, 8 bottles of diet soda and 41 apples. How many bottles did they have total?
+What do they have? --> 30 bottles of regular soda , 8 bottles of diet soda and 41 apples . how many bottles
+What did a grocery store have? --> 30 bottles of regular soda , 8 bottles of diet soda and 41 apples
+Do they have How many bottles? --> 30
+How many apples did a grocery store have? --> 41
+How many bottles of diet soda and 41 apples did a grocery store have? --> 8
+Did a grocery store have 30 bottles of regular soda, 8 bottles of diet soda and 41 apples? --> 30
+How many bottles of regular soda, 8 bottles of diet soda and 41 apples did a grocery store have? --> 30
+==> Solution Equation: 30+8=x
+~~~
+
+*** Next on his checklist is wax to stick the feathers together. If he has 557 g of wax and right now he just needs 17 g, Total how many grams of wax do the feathers require?
+What does he has? --> 557 g
+When does he need 17 g? --> right now he just needs 17 g
+Does he has 557 g of wax? --> 17 g
+What does he need right now? --> 17 g
+Does he need 17 g right now? --> 557 g
+What do the feathers require? --> 17 g
+How many g of wax does he has? --> 557 g of wax and right now he just needs 17
+Do the feathers stick together? --> 17 g
+How many g does he need right now? --> 17
+How many g of wax does stick If he has together? --> 557 g of wax and right now he just needs 17
+Do the feathers require Total how many grams of wax? --> 17
+Is wax to stick the feathers together . If he has 557 g of wax and right now he just needs 17 g next on his checklist? --> wax
+How many g of wax and right now he just needs 17 g is wax to stick the feathers together . If he has next on his checklist? --> 557
+How many g is wax to stick the feathers together . If he has 557 g of wax and right now he just needs next on his checklist? --> 17
+==> Solution Equation: 557+17=x
+~~~
+
+*** 26 children were riding on the bus. At the bus stop 38 more children got on the bus. How many children are on the bus now?
+Did 38 more children get on the bus? --> 26
+Are How many children on the bus now? --> 38
+When are How many children on the bus? --> 26
+Where were 26 children riding on the bus? --> 26 children were riding on the bus . at the bus stop 38
+How many more children did get on the bus? --> 38
+Were 26 children riding on the bus At the bus stop? --> 38
+How many children were riding on the bus At the bus stop? --> 38
+==> Solution Equation: 26+38=x
+~~~
+
+*** Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+What did He find? --> 7
+What do he have now? --> 21
+Did He find 7 marbles? --> 21
+How many marbles did He find? --> 7
+Where did Josh have 21 marbles? --> 7
+Do he have How many marbles now? --> 21
+When do he have How many marbles? --> josh had 21
+What did Josh have in his collection? --> 21
+Who did have 21 marbles in his collection? --> josh
+Did Josh have 21 marbles in his collection? --> 7
+How many marbles did Josh have in his collection? --> 21
+==> Solution Equation: 21+7=x
+~~~
+
+*** During summer break 610769 kids from Lawrence county go to camp and the other 590796 kids stay home. An additional 22 kids from outside the county attended the camp. About how many kids are in Lawrence county?
+Where are how many kids Lawrence? --> 610769
+Where do the other 590796 kids stay? --> home
+Are how many kids in Lawrence county? --> about
+When do kids from Lawrence county go to camp? --> 610769
+Do kids from Lawrence county go to camp during summer break? --> 610769
+What did An additional 22 kids from outside the county attend? --> an additional 22 kids from outside the county attended the camp
+Did An additional 22 kids from outside the county attend the camp? --> 610769
+How many An additional 22 kids from outside the county did attend An additional 22 kids from outside the camp? --> 590796 kids stay home . an additional 22 kids from outside the county attended the camp
+==> Solution Equation: 610769+590796=x
+~~~
+
+*** Edward spent $ 16 to buy 92 books each book costing him the same amount of money. Now he has $ 6. How much did Edward have before he spent his money?
+Does he has $ 6? --> $ 16
+What does he has? --> $ 6
+What did he spend? --> $ 16
+What do Edward buy? --> 92 books
+Who did spend $ 16? --> edward
+What did Edward spend? --> $ 16
+Did Edward spend $ 16? --> $ 6
+Did he spend his money? --> $ 16
+When do Edward have How much? --> $ 6
+What do Edward have before he spent his money? --> how much
+Who do have How much before he spent his money? --> how much
+Do Edward have How much before he spent his money? --> $ 16
+Who do buy 92 books each book costing him the same amount of money? --> edward spent $ 16
+Do Edward buy 92 books each book costing him the same amount of money? --> edward spent $ 16
+How many books each book costing him the same amount of money do Edward buy? --> 92
+How many books each book costing him the same amount of money did spend to buy $ 16? --> 92
+==> Solution Equation: 16+6=x
+~~~
+
+*** During summer break 34044 kids from Lawrence county go to camp and the other 134867 kids stay home. An additional 424944 kids from outside the county attended the camp. How many kids in total attended the camp?
+Do the other 134867 kids stay home? --> 34044
+What did How many kids in total attend? --> 424944
+Did How many kids in total attend the camp? --> 424944
+When do kids from Lawrence county go to camp? --> 34044
+Do kids from Lawrence county go to camp during summer break? --> 34044
+What did An additional 424944 kids from outside the county attend? --> an additional 424944 kids from outside the county attended the camp
+Did An additional 424944 kids from outside the county attend the camp? --> 34044
+==> Solution Equation: 34044+424944=x
+~~~
+
+*** Jake has 13 fewer peaches and 3 more apples than Steven. Steven has 9 peaches and 8 apples. How many apples does Jake have?
+What do Jake have? --> 3 more apples
+What does Jake has? --> jake has 13 fewer peaches and 3 more apples
+What does Steven has? --> 8
+Do Jake have How many apples? --> 3
+How many apples does Steven has? --> 8
+Who does has 9 peaches and 8 apples? --> steven
+Does Steven has 9 peaches and 8 apples? --> 3
+How many peaches and 8 apples does Steven has? --> 9
+How many more apples than Steven does Jake has? --> 3
+Does Jake has 13 fewer peaches and 3 more apples than Steven? --> 13
+How many fewer peaches and 3 more apples than Steven does Jake has? --> 13
+==> Solution Equation: 3+8=x
+~~~
+
+*** Josh had 22 marbles in his collection. Jack gave him 20 marbles. How many marbles does Josh have now?
+What did Jack give? --> 20
+What do Josh have now? --> 22
+Who did give 20 marbles? --> jack
+Did Jack give 20 marbles? --> 22
+What did give him 20 marbles? --> jack
+How many marbles did Jack give? --> 20
+Where did Josh have 22 marbles? --> 20
+Who do have How many marbles now? --> 22
+Do Josh have How many marbles now? --> 22
+When do Josh have How many marbles? --> 22
+What did Josh have in his collection? --> 22
+Who did have 22 marbles in his collection? --> josh
+Did Josh have 22 marbles in his collection? --> 20
+How many marbles did Josh have in his collection? --> 22
+==> Solution Equation: 22+20=x
+~~~
+
+*** Jack received 4 emails and sent 2 letters in the morning. He then received 6 emails and sent 8 letters in the afternoon. How many emails did Jack send in the day?
+What did Jack receive? --> 4 emails
+What did He receive then? --> he then received 6 emails
+Who did receive 4 emails? --> jack
+Did Jack receive 4 emails? --> 4
+When did He send 8 letters? --> he then received 6 emails and sent 8 letters in the afternoon
+What do Jack send in the day? --> jack received 4 emails and sent 2 letters in the morning . he then received 6 emails and sent 8 letters in the afternoon . how many emails
+When did Jack send 2 letters? --> jack received 4 emails and sent 2 letters in the morning
+When did He receive 6 emails? --> he then received 6 emails and sent 8 letters in the afternoon
+Did He receive 6 emails then? --> 4 emails and sent 2 letters in the morning . he then received 6 emails and sent 8 letters in the afternoon
+How many emails did Jack receive? --> 4
+What did Jack send in the morning? --> 2 letters
+What did He send in the afternoon? --> 8 letters
+What did Jack send in the morning? --> 2 letters
+What did He send in the afternoon? --> 8 letters
+When do Jack send How many emails? --> 4
+How many emails did He receive then? --> 6
+Who did send 2 letters in the morning? --> jack
+Who do send How many emails in the day? --> jack
+Did Jack send 2 letters in the morning? --> 4
+Did He send 8 letters in the afternoon? --> 6
+Do Jack send How many emails in the day? --> jack received 4 emails and sent 2 letters in the morning . he then received 6
+How many letters did Jack send in the morning? --> 2
+How many letters did He send in the afternoon? --> 8
+==> Solution Equation: 2+8=x
+~~~
+
+*** Lucy went to the grocery store. She bought 4 packs of cookie, 22 packs of cake and 16 packs of chocolate. How many packs of groceries did she buy in all?
+What do she buy? --> she bought 4 packs of cookie , 22 packs of cake and 16 packs of chocolate
+What did She buy? --> she bought 4 packs of cookie , 22 packs of cake and 16 packs of chocolate
+Who did go to the grocery store? --> lucy
+Did Lucy go to the grocery store? --> 4
+Do she buy How many packs of groceries? --> lucy
+How many packs of chocolate did She buy? --> 16
+How many packs of cake and 16 packs of chocolate did She buy? --> 22
+Did She buy 4 packs of cookie, 22 packs of cake and 16 packs of chocolate? --> lucy
+How many packs of cookie, 22 packs of cake and 16 packs of chocolate did She buy? --> 4
+==> Solution Equation: 26+16=x
+~~~
+
+*** After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 92 visitors came to the Buckingham palace that day. If there were 419 visitors the previous day and 103 visitors the day before that, How many visited the Buckingham palace before that day?
+When did they go? --> they went to see the buckingham palace
+When were 419 visitors? --> 419 visitors the previous day
+What did they go to see? --> buckingham palace
+What did Rachel learned There? --> rachel learned that 92 visitors came to the buckingham palace that day
+Did they go to see the Buckingham palace? --> 92
+What did How many visited before that day? --> 103
+How many visitors were the day before that? --> 103
+Where did they go after eating a hearty meal? --> see the buckingham palace
+When did How many visited the Buckingham palace? --> 103
+When did 92 visitors come to the Buckingham palace? --> 92 visitors came to the buckingham palace that day
+Did 92 visitors come to the Buckingham palace that day? --> 103
+Did How many visited the Buckingham palace before that day? --> 103
+How many visitors did come to the Buckingham palace that day? --> 92
+Where did they go to see the Buckingham the Buckingham the Buckingham? --> after eating a hearty meal they went to see the buckingham palace
+Where did 92 visitors come the Buckingham to the Buckingham the Buckingham that day? --> 92 visitors came to the buckingham palace
+Where did How many visited the Buckingham the Buckingham the Buckingham before that day? --> 103
+How many visitors the day before that, How many visited the Buckingham palace before that day did Rachel learned There? --> 103
+How many visitors the previous day and 103 visitors the day before that did come If there were to the Buckingham palace that day? --> 419
+How many visitors the day before that did come If there were 419 visitors the previous day and to the Buckingham palace that day? --> 103
+How many visitors the previous day and 103 visitors the day before that, How many visited the Buckingham palace before that day did Rachel learned There? --> 419
+Who did learned that 92 visitors came to the Buckingham palace that day . If there were 419 visitors the previous day and 103 visitors the day before that, How many visited the Buckingham palace before that day There? --> rachel
+Where did Rachel learned that 92 visitors came to the Buckingham palace that day . If there were 419 visitors the previous day and 103 visitors the day before that, How many visited the Buckingham palace before that day? --> how many
+Did Rachel learned that 92 visitors came to the Buckingham palace that day . If there were 419 visitors the previous day and 103 visitors the day before that, How many visited the Buckingham palace before that day There? --> how many
+How many visitors came to the Buckingham palace that day . If there were 419 visitors the previous day and 103 visitors the day before that, How many visited the Buckingham palace before that day did Rachel learned There? --> how
+Where did Rachel learned the Buckingham palace that 92 visitors came to the Buckingham palace that day . If there were 419 visitors the previous day and 103 visitors the day before that, How many visited the Buckingham palace before that? --> how many
+==> Solution Equation: 419+103=x
+~~~
+
+*** Rachel has 3 apple trees. She picked 8 apples from each of her trees. Now the trees have a total 9 apples still on them. How many apples were there on all trees initially?
+What did She picked? --> 8
+What does Rachel has? --> rachel has 3 apple trees
+What do the trees have? --> 9 apples still on them
+Did She picked 8 apples? --> rachel has 3 apple trees . she picked 8
+Does Rachel has 3 apple trees? --> 8
+How many apples did She picked? --> 8
+How many apple trees does Rachel has? --> 3
+Where were How many apples initially? --> 8
+When were How many apples on all trees? --> 8 apples from each of her trees . now the trees have a total 9
+How many apples still on them do the trees have? --> 9
+Do the trees have a total 9 apples still on them? --> rachel has 3 apple trees . she picked 8
+==> Solution Equation: 24+9=x
+~~~
+
+*** For Gwen's birthday she received some dollars. She spent 8 dollars and has 6 dollars left with her. How much money did Gwen receive for her birthday?
+What does She has? --> 6 dollars left with her
+What did She spend? --> 8 dollars
+What did she receive? --> some dollars
+What do Gwen receive? --> some dollars
+Did She spend 8 dollars? --> she spent 8 dollars
+Did she receive some dollars? --> 8 dollars
+Who do receive How much money? --> 8 dollars
+Do Gwen receive How much money? --> 8 dollars
+Does She has 6 dollars left with her? --> 8 dollars
+==> Solution Equation: 8+6=x
+~~~
+
+*** Danny collects bottle caps. He lost 66 bottle caps at the park. Now he has 25 bottle caps in his collection. How many bottle caps did danny have at first?
+What does Danny collect? --> danny collects bottle caps . he lost 66
+What did He lose at the park? --> 66
+Who does collect bottle caps? --> danny
+Does Danny collect bottle caps? --> 66
+Where did He lose 66 bottle caps? --> at the park
+Where does he has 25 bottle caps Now? --> 66
+What does he has in his collection Now? --> 25
+Did He lose 66 bottle caps at the park? --> 66
+When does danny have How many bottle caps? --> 25
+How many bottle caps did He lose at the park? --> 66
+Does danny have How many bottle caps at first? --> 66
+Does he has 25 bottle caps in his collection Now? --> 66
+When does he has 25 bottle caps in his collection? --> 66
+How many bottle caps does he has in his collection Now? --> 25
+==> Solution Equation: 66+25=x
+~~~
+
+*** During summer break 907611 kids from Lawrence county stay home and the other 455682 kids go to camp. About how many kids are in Lawrence county?
+Where are how many kids Lawrence? --> about
+Do the other 455682 kids go to camp? --> 907611
+Are how many kids in Lawrence county? --> about
+Where do kids from Lawrence county stay? --> 907611 kids from lawrence county stay home
+==> Solution Equation: 455682+907611=x
+~~~
+
+*** Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?
+What did he add Later? --> 10 more books
+When did he add 10 more books? --> jerry had 8 action figures and 9 books on a shelf in his room . later he added 10 more books to the shelf
+Did he add 10 more books Later? --> jerry had 8 action figures and 9 books on a shelf in his room . later he added 10 more books to the shelf
+Were How many books on his shelf? --> 9
+How many more books did he add Later? --> 10
+What did Jerry have on a shelf in his room? --> 9 books
+Where did Jerry have 8 action figures and 9 books? --> jerry had 8 action figures and 9 books on a shelf in his room
+How many books did Jerry have on a shelf in his room? --> 9
+Did Jerry have 8 action figures and 9 books on a shelf in his room? --> 9 books on a shelf in his room . later he added 10
+How many action figures and 9 books did Jerry have on a shelf in his room? --> 8
+==> Solution Equation: 10+9=x
+~~~
+
+*** 4 birds and 6 storks were sitting on the fence. 2 more storks came to join them. How many storks are sitting on the fence?
+What do 2 more storks join? --> 2
+Do 2 more storks join them? --> 2
+How many more storks did come? --> 2
+How many more storks do join them? --> 2
+Are How many storks sitting on the fence? --> 6
+Are 4 birds and 6 storks sitting on the fence? --> 4 birds and 6
+How many birds and 6 storks are sitting on the fence? --> 4
+How many storks are sitting 4 birds and on the fence? --> 6
+==> Solution Equation: 6+2=x
+~~~
+
+*** Dan has $ 4. He bought a candy bar for $ 7 and a chocolate for $ 6. How much money did he spend buying the candy bar and chocolate?
+What did He buy? --> he bought a candy bar for $ 7
+What do he spend? --> dan has $ 4
+Who does has $ 4? --> dan
+Does Dan has $ 4? --> $ 4
+What does Dan has? --> $ 4
+What spend he buying? --> dan has $ 4
+Spend he buying the candy bar and chocolate? --> dan has $ 4 . he bought a candy bar for $ 7
+Do he spend buying the candy bar and chocolate? --> dan
+Did He buy a candy bar for $ 7 and a chocolate for $ 6? --> dan has $ 4
+==> Solution Equation: 7+6=x
+~~~
+
+*** Jerry had 4 action figures and 22 books on a shelf in his room. Later he added 6 more action figures to the shelf. How many action figures were on his shelf in all?
+What did he add Later? --> 6 more action figures
+When did he add 6 more action figures? --> jerry had 4 action figures and 22 books on a shelf in his room . later he added 6 more action figures to the shelf
+Did he add 6 more action figures Later? --> jerry had 4 action figures and 22 books on a shelf in his room . later he added 6 more action figures to the shelf
+What did Jerry have on a shelf in his room? --> 4 action figures and 22 books
+How many more action figures did he add Later? --> 6
+Where were How many action figures on his shelf? --> 4
+Were How many action figures on his shelf in all? --> 4 action figures and 22 books on a shelf in his room . later he added 6
+Where did Jerry have 4 action figures and 22 books? --> jerry had 4 action figures and 22 books on a shelf in his room
+How many books did Jerry have on a shelf in his room? --> 22
+Did Jerry have 4 action figures and 22 books on a shelf in his room? --> 6
+How many action figures and 22 books did Jerry have on a shelf in his room? --> 4
+==> Solution Equation: 4+6=x
+~~~
+
+*** Mary is baking a cake. The recipe calls for 11 cups of sugar and some more cups of flour. She already put in 3 cups of flour. If she still needs to add 6 more cups of flour, How many cups of flour did the recipe require?
+What is mary baking? --> mary is baking a cake
+Is mary baking a cake? --> mary
+What did She put already? --> 3 cups of flour
+What does she need still? --> 6 more cups of flour
+What does she need to add? --> 6 more cups of flour
+Did She put already 3 cups of flour? --> mary is baking a cake . the recipe calls for 11 cups of sugar and some more cups of flour . she already put in 3 cups of flour
+When did She put already 3 cups of flour? --> she already put in 3 cups of flour
+Does she need to add 6 more cups of flour? --> 3
+How many cups of flour did She put already? --> 3
+When does she need to add 6 more cups of flour? --> if she still needs to add 6 more cups of flour
+How many more cups of flour does she need still? --> 6
+Does she need to add 6 more cups of flour still? --> 3
+How many more cups of flour does she need to add? --> 6
+Does The recipe call for 11 cups of sugar and some more cups of flour? --> 11 cups of sugar and some more cups of flour
+How many cups of sugar and some more cups of flour does The recipe call? --> 11
+How many more cups of flour did put already If she still needs to add 3 cups of flour? --> 6
+==> Solution Equation: 3+6=x
+~~~
+
+*** 3 birds and 2 storks were sitting on the fence. 5 more birds came to join them. How many birds and storks are sitting on the fence?
+How many more birds did come? --> 5
+What did 5 more birds come to join? --> 5
+Did 5 more birds come to join them? --> 3
+How many more birds did come to join them? --> 5
+Are 3 birds and 2 storks sitting on the fence? --> 3 birds and 2 storks were sitting on the fence . 5
+Are How many birds and storks sitting on the fence? --> 3
+How many birds and 2 storks are sitting on the fence? --> 3
+How many storks are sitting 3 birds and on the fence? --> 2
+==> Solution Equation: 8+2=x
+~~~
+
+*** Julia played tag with 7 kids on monday and 13 kids on tuesday. She played cards wtih 20 kids on wednesday. How many kids did she play tag with altogether?
+What do She wtih? --> she played cards wtih 20 kids on wednesday
+Do She wtih 20 kids? --> julia
+How many kids do She wtih? --> 20 kids
+Do she play How many kids? --> 7 kids on monday and 13
+What did Julia play on monday? --> 7
+What did She play on wednesday? --> 20 kids
+When did Julia play tag with 7 kids? --> monday
+When did She play cards wtih 20 kids? --> she played cards wtih 20 kids on wednesday
+How many kids did Julia play on monday? --> 7
+How many kids did She play on wednesday? --> 20
+Did Julia play tag with 7 kids on monday? --> 7
+Did She play cards wtih 20 kids on wednesday? --> julia played tag with 7 kids on monday and 13
+==> Solution Equation: 7+13=x
+~~~
+
+*** Robin's hair was 16 inches long. He cut off 11 inches. Then it again grew by 12 inches. How long is his hair now?
+What did He cut off? --> 11 inches
+Did He cut off 11 inches? --> 16 inches
+Is his hair How long now? --> 16 inches
+When is his hair How long? --> 16 inches
+When did it grow by 12 inches? --> robin ' s hair was 16 inches long . he cut off 11 inches . then it again grew by 12 inches
+Was Robin's hair 16 inches long? --> 16 inches long
+Indicate characteristics of Robin's hair. --> 16 inches long
+Did it grow by 12 inches How long is his hair now? --> robin ' s hair was 16 inches
+==> Solution Equation: 5+12=x
+~~~
+
+*** Winter is almost here and most animals are migrating to warmer countries. There are 18 bird families living near the mountain. If 38 bird families flew away to africa and 80 bird families flew away to asia, How many bird families flew away for the winter?
+Is winter almost here? --> winter
+How many bird families did fly? --> 38
+When did How many bird families fly? --> if 38 bird families flew away to africa and 80 bird families flew away to asia
+Are most animals migrating to warmer countries? --> winter
+How many bird families living near the mountain are? --> 18
+==> Solution Equation: 38+80=x
+~~~
+
+*** Rachel's tree had 4 apples. She picked 2 apples from her tree. Thereafter 3 new apples grew on the tree. How many apples are there on the tree now?
+What did She picked? --> 2
+Did She picked 2 apples? --> 4
+What did Rachel's tree have? --> 4 apples
+Where are How many apples now? --> 4 apples . she picked 2 apples from her tree . thereafter 3 new apples grew on the tree . how many apples are there on the tree
+How many apples did She picked? --> 2
+Did Rachel's tree have 4 apples? --> 4
+Did 3 new apples grow on the tree? --> 4
+When are How many apples on the tree? --> 4
+How many apples did Rachel's tree have? --> 4
+How many new apples did grow on the tree? --> 3
+==> Solution Equation: 2+3=x
+~~~
+
+*** Summer is almost here and most animals are migrating back to cooler countries. There are 87 bird families living near a mountain. If 18 new bird families joined them, How many bird families live near the mountain now?
+Is summer almost here? --> summer
+What did 18 new bird families join? --> if
+Did 18 new bird families join them? --> 87
+How many new bird families did join them? --> 18
+Where do How many bird families live now? --> 87
+How many bird families living near a mountain are? --> 87
+When do How many bird families live near the mountain? --> 87
+==> Solution Equation: 87+18=x
+~~~
+
+*** Randy has 58 blocks. He uses 27 blocks to build a tower and 53 blocks to build a house. How many blocks did he use to build the tower and the house altogether?
+What do he use? --> 58 blocks
+What does He use? --> 58 blocks
+What does randy has? --> 58 blocks
+Does He use 27 blocks? --> 27
+What do He use to build? --> 27
+What do he use to build? --> 27
+What do He use to build? --> 27
+What do he use to build? --> 27
+What do He use to build? --> 27
+What do he use to build? --> 27
+Does randy has 58 blocks? --> 27 blocks to build a tower and 53
+Do he use How many blocks? --> 27
+Do He use to build a tower? --> 27
+Do He use to build a house? --> 53
+How many blocks does He use? --> 58
+How many blocks does randy has? --> 58
+Do he use to build the tower and the house? --> 27 blocks
+How many blocks to build a house does use to build a tower and 27 blocks? --> 53
+==> Solution Equation: 27+53x
+~~~
+
+*** He has 9 apples more than Adam and Jackie together do. Adam and Jackie have 7 apples between them. How many apples does He have?
+What do he have? --> 9 apples
+What does he has? --> 9 apples
+Do he have How many apples? --> 9
+Where do Adam and Jackie have 7 apples? --> 9
+What do Adam and Jackie have between them? --> 7
+Do Adam and Jackie have 7 apples between them? --> 9
+How many apples do Adam and Jackie have between them? --> 7
+Does he has 9 apples more than Adam and Jackie together do? --> 9
+How many apples more than Adam and Jackie together do does he has? --> 9
+==> Solution Equation: 7+9=x
+~~~
+
+*** Katie had 78 new games and 86 old games. Her friends had 48 new games. How many new games do they have together?
+What do they have? --> 48
+What did Katie have? --> 78 new games and 86 old games
+What did Her friends have? --> 48
+Do they have How many new games? --> 78
+How many old games did Katie have? --> 86
+Who did have 78 new games and 86 old games? --> katie
+Did Katie have 78 new games and 86 old games? --> 48
+How many new games and 86 old games did Katie have? --> 78
+Did Her friends have 48 new games . How many new games do they have together? --> how many
+How many new games . How many new games do they have together did Her friends have? --> 48
+==> Solution Equation: 78+48-=x
+~~~
+
+*** Josh had 19 marbles in his collection. He lost 11 marbles and found 5 new ones. How many marbles does he have now?
+What did He lose? --> 11
+What did He find? --> 5 new ones
+What do he have now? --> 19
+Did He lose 11 marbles? --> 19
+Did He find 5 new ones? --> 11
+How many marbles did He lose? --> 11
+How many new ones did He find? --> 5
+Where did Josh have 19 marbles? --> josh had 19 marbles in his collection
+Do he have How many marbles now? --> 19
+When do he have How many marbles? --> 19
+What did Josh have in his collection? --> 19
+Who did have 19 marbles in his collection? --> josh
+Did Josh have 19 marbles in his collection? --> 19
+How many marbles did Josh have in his collection? --> 19
+==> Solution Equation: 8+5=x
+~~~
+
+*** Rachel has 52 apple trees. She picked 2 apples from 1 of her trees. Now the tree has 7 apples still on it. How many apples did the tree have to begin with?
+What did She picked? --> 2
+What does Rachel has? --> 52 apple trees
+Did She picked 2 apples? --> rachel has 52
+What does the tree has Now? --> 7
+How many apples did She picked? --> 2
+Does Rachel has 52 apple trees? --> 2
+How many apple trees does Rachel has? --> 52
+Do the tree have to begin How many apples? --> 7
+Does the tree has 7 apples still on it Now? --> 2
+When does the tree has 7 apples still on it? --> now the tree has 7
+How many of her trees did picked from 2 apples? --> 7
+How many apples still on it does the tree has Now? --> 7
+==> Solution Equation: 2+7=x
+~~~
+
+*** Because of the decision Sofia asked the students to suggest specific types of food. 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 166 more students suggested adding bacon than those that suggested mashed potatoes, How many students suggested bacon?
+What did Sofia ask? --> 182
+What did those suggest? --> if
+What did others suggest? --> others suggested adding bacon to the menu
+What do the students suggest? --> 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu
+What did 182 students suggest? --> adding mashed potatoes
+Did those suggest mashed potatoes? --> 182
+What did 166 more students suggest? --> if 166 more students suggested adding bacon
+What did How many students suggest? --> 166
+Suggested bacon adding to the menu? --> 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu . if 166
+Did How many students suggest bacon? --> 182
+Did others suggest adding bacon to the menu? --> 182
+Do the students suggest specific types of food? --> 182
+Did Sofia ask to suggest specific types of food? --> 182
+Did 182 students suggest adding mashed potatoes? --> 182
+Why did Sofia ask to suggest specific types of food? --> 182
+Why did 182 students suggest adding mashed potatoes? --> 182
+How many students did suggest adding mashed potatoes? --> 182
+Where did 182 students suggest adding mashed potatoes? --> 166
+Did 166 more students suggest adding bacon than those that suggested mashed potatoes? --> 182
+How many more students did suggest adding bacon than those that suggested mashed potatoes? --> 166
+How many more students suggested adding bacon than those that suggested mashed potatoes, How many students suggested did suggest while others suggested adding bacon to the menu . If adding mashed potatoes? --> 166
+==> Solution Equation: 182+166=x
+~~~
+
+*** Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 90 chocolate chip cookies yesterday and 51 raisin cookies and 484 chocolate chip cookies this morning. How many chocolate chip cookies did Helen bake?
+What did Helen baked this morning? --> 484
+When did Helen baked 90 chocolate chip cookies? --> yesterday
+Who did baked 90 chocolate chip cookies this morning? --> 484
+Did Helen baked 90 chocolate chip cookies this morning? --> 484
+How many chocolate chip cookies did Helen baked this morning? --> 484
+Where are Helen the hippo and her friends preparing for thanksgiving? --> helen ' s house
+Are Helen the hippo and her friends preparing for thanksgiving at Helen's house? --> 90
+==> Solution Equation: 90+484=x
+~~~
+
+*** Paul got a box of 65 crayons for his birthday. During the school year he gave 213 crayons to his friends while he lost 16 crayons. How many crayons had been lost or given away?
+What had he been lost? --> he lost 16 crayons
+Had he been lost 16 crayons? --> 16
+When did he give 213 crayons? --> he gave 213 crayons to his friends
+How many 16 crayons had he been lost? --> 16
+What did Paul get During the school year? --> 213
+What did he give while he lost 16 crayons? --> he gave 213 crayons
+Did he give 213 crayons while he lost 16 crayons? --> 213
+How many crayons did he give while he lost 16 crayons? --> 213
+When did Paul get a box of 65 crayons for his birthday? --> paul got a box of 65 crayons for his birthday
+What did give to his friends 213 crayons while he lost 16 crayons? --> he gave 213
+How many crayons for his birthday did Paul get During the school year? --> 65
+Did Paul get a box of 65 crayons for his birthday During the school year? --> 213
+How many while he lost 16 crayons did give while he lost 16 213 crayons while he lost 16 crayons? --> 213 crayons to his friends
+==> Solution Equation: 213+16=x
+~~~
+
+*** Rachel picked 7 apples from her tree. Thereafter 2 new apples grew on the tree. Now the tree has 6 apples still on it. How many apples did the tree have to begin with?
+What did rachel picked? --> 7
+What does the tree has Now? --> 6
+Did rachel picked 7 apples? --> 7
+How many apples did rachel picked? --> 7
+Did 2 new apples grow on the tree? --> 7
+How many new apples did grow on the tree? --> 2
+Do the tree have to begin How many apples? --> 7
+Does the tree has 6 apples still on it Now? --> 7
+When does the tree has 6 apples still on it? --> now the tree has 6
+How many apples still on it does the tree has Now? --> 6
+==> Solution Equation: 4+7=x
+~~~
+
+*** Baker made 173 cakes. He bought 103 new cakes and sold 86 cakes. How many cakes does baker still have?
+What did He buy? --> 103 new cakes
+What did He sell? --> 86
+What did Baker make? --> 173
+Did He sell 86 cakes? --> 103
+Who did make 173 cakes? --> baker
+What do baker have still? --> 86
+Did Baker make 173 cakes? --> 86
+Did He buy 103 new cakes? --> 86
+How many cakes did He sell? --> 86
+How many cakes did Baker make? --> 173
+How many new cakes did He buy? --> 103
+When do baker have How many cakes? --> 173
+Do baker have How many cakes still? --> 86
+==> Solution Equation: 87+103=x
+~~~
+
+*** After Jessie started to go jogging everyday she lost 126 kilograms. She currently weighs 66 kilograms. How much did she weigh before starting to jog?
+What did Jessie start? --> jessie started to go jogging everyday
+What do she weigh before? --> 126 kilograms
+When do she weigh How much? --> 66 kilograms
+What does She weigh currently? --> 66 kilograms
+When did she lose 126 kilograms? --> after jessie started to go jogging everyday she lost 126 kilograms
+When does She weigh 66 kilograms? --> 126 kilograms
+When did Jessie start to go jogging? --> 126 kilograms
+What did Jessie start to go everyday? --> 126 kilograms
+Who did start to go jogging everyday? --> jessie started to go jogging everyday she lost 126 kilograms
+Does She weigh 66 kilograms currently? --> 126 kilograms
+Did Jessie start to go jogging everyday? --> 126 kilograms
+What do she weigh before starting to jog? --> 126 kilograms
+Do she weigh How much before starting to jog? --> 126 kilograms
+What did she lose after Jessie started to go jogging? --> 126 kilograms
+Did she lose 126 kilograms after Jessie started to go jogging? --> 66
+==> Solution Equation: 66+126=x
+~~~
+
+*** Paul got a box of some crayons for his birthday. By the end of the school year he had either lost or given away 551 of them and only had 177 left. How many crayons did he get for his birthday?
+What do he get? --> paul got a box of some crayons for his birthday
+What did Paul get? --> a box of some crayons for his birthday
+How many did leave? --> 177
+Do he get How many crayons? --> 551
+When did he have only 177 left? --> he had either lost or given away 551
+When had he either lost 551 of them? --> he had either lost or given away 551
+When had he either lost or given 551 of them? --> he had either lost or given away
+What did he have only By the end of the school year? --> 177
+Did Paul get a box of some crayons for his birthday? --> 551 of them and only had 177
+Did he have only 177 left By the end of the school year? --> 551
+How many left did he have only By the end of the school year? --> 177
+Had he either lost 551 of them By the end of the school year? --> crayons
+What had he either lost or given By the end of the school year? --> he had either lost or given away 551
+How many of them had he either lost By the end of the school year? --> 551
+Had he either lost or given 551 of them By the end of the school year? --> crayons
+How many of them had he either lost or given By the end of the school year? --> 551
+==> Solution Equation: 551+177=x
+~~~
+
+*** Jake has 11 fewer peaches than Steven. If Jake has 17 peaches. How many peaches does Steven have?
+What does Jake has? --> 17
+What do Steven have? --> how many peaches
+Who does has 17 peaches? --> jake
+Does Jake has 17 peaches? --> 11
+Who do have How many peaches? --> jake has 11 fewer peaches than steven . if jake has 17
+How many peaches does Jake has? --> 17
+Do Steven have How many peaches? --> 11
+Who does has 11 fewer peaches than Steven? --> jake
+Does Jake has 11 fewer peaches than Steven? --> 17
+Where does Jake has 11 fewer peaches than Steven? --> 17
+How many fewer peaches than Steven does Jake has? --> 11
+How many peaches . How many peaches does Steven have does has If Jake has 11 fewer peaches than Steven? --> 17
+==> Solution Equation: 11+17=x
+~~~
+
+*** If the cave is 919 feet deep and they need to travel 1307 feet, How far is the end of the cave?
+What do they need? --> 1307 feet
+Is the cave 919 feet deep? --> 1307 feet
+Is the end of the cave How far? --> 1307 feet
+Do they need to travel 1307 feet? --> if the cave is 919 feet deep
+Indicate characteristics of the cave. --> 919 feet deep
+==> Solution Equation: 919+1307=x
+~~~
+
+*** Zachary did 59 push-ups and 44 crunches in gym class today. David did 19 more push-ups but 27 less crunches than zachary. How many push-ups did David do?
+What do David do? --> 19 more push - ups
+What did David do? --> 19 more push - ups
+Who do do How many push - ups? --> 59
+Do David do How many push - ups? --> 59
+What did zachary do in gym class today? --> 59
+How many less crunches than zachary did David do? --> 27
+How many crunches did zachary do in gym class today? --> 44
+Where did zachary do 59 push - ups and 44 crunches today? --> gym class
+When did zachary do 59 push - ups and 44 crunches in gym class? --> zachary did 59
+Who did do 19 more push - ups but 27 less crunches than zachary? --> david
+Did zachary do 59 push - ups and 44 crunches in gym class today? --> 19
+Did David do 19 more push - ups but 27 less crunches than zachary? --> 19
+How many push - ups and 44 crunches did zachary do in gym class today? --> 59
+How many more push - ups but 27 less crunches than zachary did David do? --> 19
+==> Solution Equation: 59+19=x
+~~~
+
+*** Katie had 62 new games and 80 old games. Her friends had 73 new games and 41 old games. How many old games do they have?
+What do they have? --> 41
+What did Katie have? --> katie had 62 new games and 80
+What did Her friends have? --> 41
+Do they have How many old games? --> 41
+How many old games did Katie have? --> 80
+How many old games did Her friends have? --> 41
+Who did have 62 new games and 80 old games? --> katie
+Did Katie have 62 new games and 80 old games? --> 41
+How many new games and 80 old games did Katie have? --> 62
+Did Her friends have 73 new games and 41 old games? --> 41
+How many new games and 41 old games did Her friends have? --> 73
+==> Solution Equation: 80+41=x
+~~~
+
+*** Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie. How many apples does He have?
+What do He have? --> 9
+What does He has? --> 9
+What does Adam has? --> 9 apples more than adam and jackie together do . adam has 8 more apples than jackie
+Do He have How many apples? --> 9
+What do Adam and Jackie have? --> 12 apples
+Do Adam and Jackie have 12 apples? --> 9
+How do Adam and Jackie have 12 apples? --> together adam and jackie have 12 apples
+Who does has 8 more apples than Jackie? --> adam
+How many apples do Adam and Jackie have? --> 12
+Does Adam has 8 more apples than Jackie? --> 9
+How many more apples than Jackie does Adam has? --> 8
+Does He has 9 apples more than Adam and Jackie together do? --> 12
+How does He has 9 apples more than Adam and Jackie together do? --> he has 9
+How many apples more than Adam and Jackie together do does He has? --> 9
+==> Solution Equation: 12+9=x
+~~~
+
+*** Rachel picked 6 ripe apples from her tree. Now the tree has 2 ripe apples and 4 unripe apples. How many apples did the tree have to begin with?
+What did rachel picked? --> 6
+What does the tree has Now? --> the tree has 2 ripe apples and 4 unripe apples
+Did rachel picked 6 ripe apples? --> 6
+How many ripe apples did rachel picked? --> 6
+Do the tree have to begin How many apples? --> 6
+How many unripe apples does the tree has Now? --> 4
+Does the tree has 2 ripe apples and 4 unripe apples Now? --> 6
+When does the tree has 2 ripe apples and 4 unripe apples? --> 6
+How many ripe apples and 4 unripe apples does the tree has Now? --> 2
+==> Solution Equation: 8+4=x
+~~~
+
+*** Ed had 24 more marbles than Doug. Doug lost 27 of his marbles at the playground while Ed found 9 more marbles. How many more marbles did Ed have than Doug then?
+What do Ed have? --> 24
+What did Ed have? --> 24
+What did Ed find? --> 9
+Did Ed find 9 more marbles? --> 24
+Who did find 9 more marbles? --> ed
+Do Ed have How many more marbles? --> 9
+How many more marbles did Ed find? --> 9
+Who do have How many more marbles? --> ed had 24 more marbles than doug . doug lost 27 of his marbles at the playground while ed found 9
+Did Ed have 24 more marbles than Doug? --> 9
+Who did have 24 more marbles than Doug? --> ed
+How many more marbles than Doug did Ed have? --> 24
+When did Doug lose 27 of his marbles at the playground? --> doug lost 27
+What did Doug lose at the playground while Ed found 9 more marbles? --> 27
+Where did Doug lose 27 of his marbles while Ed found 9 more marbles? --> doug
+Who did lose 27 of his marbles at the playground while Ed found 9 more marbles? --> doug
+Did Doug lose 27 of his marbles at the playground while Ed found 9 more marbles? --> 24
+How many of his marbles did Doug lose at the playground while Ed found 9 more marbles? --> 27
+How many more marbles did lose while Ed found 27 of his marbles at the playground while Ed found 9 more marbles? --> 24
+==> Solution Equation: 51+9=x
+~~~
+
+*** Danny has 12 bottle caps in his collection. He found 53 bottle caps at the park. How many bottle caps does he have now?
+What do he have now? --> 12
+What did He find at the park? --> 53
+Where did He find 53 bottle caps? --> at the park
+Where does Danny has 12 bottle caps? --> danny has 12 bottle caps in his collection
+Do he have How many bottle caps now? --> 12
+When do he have How many bottle caps? --> 12
+What does Danny has in his collection? --> 12
+Did He find 53 bottle caps at the park? --> 12
+How many bottle caps did He find at the park? --> 53
+Does Danny has 12 bottle caps in his collection? --> 53
+How many bottle caps does Danny has in his collection? --> 12
+==> Solution Equation: 12+53=x
+~~~
+
+*** Rachel had to complete 2 pages of math homework, 3 pages of reading homework and 10 more pages of biology homework. How many pages did she have to complete in all?
+What do she have to complete? --> rachel had to complete 2 pages of math homework , 3 pages of reading homework and 10 more pages of biology homework . how many pages
+What do Rachel have to complete? --> rachel had to complete 2 pages
+Do she have to complete How many pages? --> 10
+How many more pages of biology homework do Rachel have to complete? --> 10
+How many pages of reading homework and 10 more pages of biology homework do Rachel have to complete? --> 3
+What Rachel had to complete 2 pages of math homework, 3 pages of reading homework and 10 more pages of? --> biology homework
+Who do have to complete 2 pages of math homework, 3 pages of reading homework and 10 more pages of biology homework? --> rachel
+Do Rachel have to complete 2 pages of math homework, 3 pages of reading homework and 10 more pages of biology homework? --> rachel
+How many pages of math homework, 3 pages of reading homework and 10 more pages of biology homework do Rachel have to complete? --> 2 pages
+==> Solution Equation: 5+10=x
+~~~
+
+*** Baker made 110 cakes. He sold 75 of them. Then he made 76 more cakes. How many cakes would baker still have?
+What did he make? --> 110 cakes
+What did He sell? --> 75
+What did he make? --> 110 cakes
+What did Baker make? --> 110
+Who did make 110 cakes? --> baker
+Did He sell 75 of them? --> 110
+What do baker have still? --> 110 cakes . he sold 75 of them . then he made 76
+Did Baker make 110 cakes? --> 110 cakes . he sold 75
+Did he make 76 more cakes? --> 110
+How many of them did He sell? --> 75
+How many cakes did Baker make? --> 110
+How many more cakes did he make? --> 76
+Do baker have still How many cakes? --> 110
+When do baker have still How many cakes? --> 110
+==> Solution Equation: 35+76=x
+~~~
+
+*** A waiter had 3 customers. After some left he still had 4 customers. How many more customers stayed behind than those that left?
+What did a waiter have? --> 3 customers
+What did he have still? --> 4
+What did a waiter have? --> 3 customers
+What did he have still? --> 4
+Did a waiter have 3 customers? --> 4
+How many customers did a waiter have? --> 3
+Did How many more customers stay behind? --> 4
+When did he have 4 customers . How many more customers stayed behind than those that left? --> how many
+Did he have 4 customers . How many more customers stayed behind than those that left still? --> how many
+How many customers . How many more customers stayed behind than those that left did he have still? --> 4
+==> Solution Equation: 4+1=x
+~~~
+
+*** Julia played tag with 14 kids on tuesday. If she played tag with 8 more kids on monday than on tuesday, How many kids did she play with on monday?
+When do she play with? --> 14 kids
+Do she play with on monday? --> 14
+What did she play on monday? --> 8
+What did Julia play on tuesday? --> 14
+When did Julia play tag with 14 kids? --> julia played tag with 14 kids on tuesday
+When did she play tag with 8 more kids? --> if
+How many kids did Julia play on tuesday? --> 14
+How many more kids did she play on monday? --> 8
+Did Julia play tag with 14 kids on tuesday? --> 8
+Did she play tag with 8 more kids on monday? --> 14
+How many more kids on monday than on tuesday did play If she played tag with tag with 14 kids on tuesday? --> 8
+==> Solution Equation: 14+8=x
+~~~
+
+*** Allan brought 5 balloons to the park. If Jake brought 6 more balloons than the number of balloons that Allan brought, How many balloons did Jake bring to the park?
+What do Jake bring? --> 6 more balloons
+What did Jake bring? --> 6 more balloons
+What did Allan bring? --> 5 balloons
+Who did bring 5 balloons? --> allan
+Did Allan bring 5 balloons? --> 6
+Who do bring How many balloons? --> jake
+Do Jake bring How many balloons? --> 6
+Where did Allan bring 5 balloons? --> 6
+How many balloons did Allan bring? --> 5
+Who did bring the number of balloons? --> jake brought 6 more balloons
+Did Allan bring the number of balloons? --> 5
+Who did bring 6 more balloons than the number of balloons that Allan brought? --> jake
+Did Jake bring 6 more balloons than the number of balloons that Allan brought? --> 5
+How many more balloons than the number of balloons that Allan brought did Jake bring? --> 6
+Where did Jake bring Allan brought 6 more balloons than the number of balloons that Allan? --> if
+How many more balloons than the number of balloons that Allan brought did bring If Jake brought 5 balloons? --> 6
+==> Solution Equation: 5+6=x
+~~~
+
+*** 18 red peaches, 14 yellow peaches and 17 green peaches are in the basket. How many red and yellow peaches are in the basket?
+Are How many red and yellow peaches in the basket? --> 14
+Are 14 yellow peaches and 17 green peaches in the basket? --> 18
+How many yellow peaches and 17 green peaches are in the basket? --> 14
+How many green peaches are 14 yellow peaches and in the basket? --> 17
+==> Solution Equation: 18+14=x
+~~~
+
+*** Adam has 4 more apples than Jackie. Together Adam and Jackie have 14 apples. Bob has 6 apples more than Adam and Jackie together do. How many apples does Bob have?
+What do Bob have? --> 6
+What does Bob has? --> 6
+What does Adam has? --> 4 more apples
+Who do have How many apples? --> 6
+Do Bob have How many apples? --> 6
+What do Adam and Jackie have? --> 14
+Do Adam and Jackie have 14 apples? --> 6
+How do Adam and Jackie have 14 apples? --> 6
+Who does has 4 more apples than Jackie? --> adam
+How many apples do Adam and Jackie have? --> 14
+Does Adam has 4 more apples than Jackie? --> 6
+How many more apples than Jackie does Adam has? --> 4
+Who does has 6 apples more than Adam and Jackie together do? --> bob
+Does Bob has 6 apples more than Adam and Jackie together do? --> 6
+How many apples more than Adam and Jackie together do does Bob has? --> 6
+==> Solution Equation: 14+6=x
+~~~
+
+*** Mary is baking a cake. The recipe calls for 6 cups of flour and 13 cups of sugar. She already put in some cups of flour. If she still needs 8 more cups of flour than sugar, How many more cups of flour does she need to add?
+What do she need? --> 8 more cups of flour than sugar
+What is mary baking? --> mary is baking a cake
+Is mary baking a cake? --> mary
+What does she need still? --> 8 more cups of flour than sugar
+What did She put in already? --> she already put in some cups of flour
+When did She put in some cups of flour? --> she already put in some cups of flour
+Do she need How many more cups of flour? --> 8
+Did She put in some cups of flour already? --> mary is baking a cake . the recipe calls for 6 cups of flour and 13 cups of sugar . she already put in some cups of flour
+How many cups of sugar does The recipe call? --> 13
+Do she need to add How many more cups of flour? --> 8
+When does she need 8 more cups of flour than sugar? --> if she still needs 8 more cups of flour than sugar
+Does she need 8 more cups of flour than sugar still? --> mary is baking a cake . the recipe calls for 6 cups of flour and 13 cups of sugar . she already put in some cups of flour
+How many more cups of flour than sugar does she need still? --> 8
+Does The recipe call for 6 cups of flour and 13 cups of sugar? --> 6 cups of flour and 13 cups of sugar
+How many cups of flour and 13 cups of sugar does The recipe call? --> 6
+How many more cups of flour than sugar did put in If she still needs some cups of flour already? --> 8
+==> Solution Equation: 13+8=x
+~~~
+
+*** Paul got a box of some crayons for his birthday. During the school year he gave 563 crayons to his friends while he lost 558 crayons. If he only had 332 crayons left, How many crayons did he get for his birthday?
+What do he get? --> paul got a box of some crayons for his birthday
+What did he lose? --> 558 crayons
+What did he have? --> 332 crayons left
+What did Paul get? --> a box of some crayons for his birthday
+Did he lose 558 crayons? --> he lost 558 crayons
+How many crayons did leave? --> 558
+Do he get How many crayons? --> 563
+How many crayons did he lose? --> 558
+When did he give 563 crayons? --> he gave 563 crayons to his friends
+Did he have 332 crayons left? --> paul got a box of some crayons for his birthday . during the school year he gave 563 crayons to his friends while he lost 558
+How many crayons left did he have? --> 332
+What did he give while he lost 558 crayons? --> he gave 563 crayons to his friends
+Did he give 563 crayons while he lost 558 crayons? --> paul got a box of some crayons for his birthday . during the school year he gave 563 crayons to his friends
+Did Paul get a box of some crayons for his birthday? --> 563 crayons to his friends while he lost 558
+How many crayons did he give while he lost 558 crayons? --> 563
+What did give to his friends 563 crayons while he lost 558 crayons? --> paul
+How many crayons did give while he lost 563 crayons while he lost 558 crayons? --> 563 crayons to his friends
+==> Solution Equation: 1121+332=x
+~~~
+
+*** At the stop 13 more people got on the bus. Initially there were 4 people on the bus. How many people are there on the bus now?
+When were 4 people on the bus? --> initially there were 4 people on the bus
+Where are How many people now? --> 13 more people got on the bus . initially there were 4 people on the bus . how many people are there on the bus
+When are How many people on the bus? --> 13 more people got on the bus . initially there were 4
+Where did 13 more people get on the bus? --> at the stop 13 more people got on the bus . initially there were 4 people on the bus
+How many people on the bus were Initially? --> 4
+Did 13 more people get on the bus at the stop? --> 4
+How many more people did get on the bus at the stop? --> 13
+==> Solution Equation: 4+13=x
+~~~
+
+*** Paul had some books. After selling 137 in a garage sale he had 105 left. How many books did he have at the start?
+What did Paul have? --> paul had some books . after selling 137 in a garage sale he had 105
+How many did leave? --> 105
+Did Paul have some books? --> 105
+When did he have 105 left? --> 137
+What do he have at the start? --> how many books
+Where do he have How many books? --> 105
+What did he have some books . After? --> paul had some books . after selling 137
+Do he have How many books at the start? --> 105
+What did he have After selling 137 in a garage sale? --> 105
+Did he have 105 left After selling 137 in a garage sale? --> 105
+How many left did he have After selling 137 in a garage sale? --> 105
+How many in a garage sale did have After selling 105 left After selling 137 in a garage sale? --> books
+==> Solution Equation: 137+105=x
+~~~
+
+*** Last week Fred had 33 dollars and Jason had 95 dollars. Over the weekend Fred delivered newspapers earning 16 dollars and washed cars earning 74 dollars. How much money did Fred earn over the weekend?
+What did Jason have? --> 95 dollars
+Did Jason have 95 dollars? --> jason had 95 dollars
+What did Fred have last week? --> 33 dollars
+When did Fred have 33 dollars? --> last week fred had 33 dollars
+When do Fred earn How much money? --> over the weekend fred delivered newspapers earning 16 dollars and washed cars earning 74 dollars . how much money did fred earn over the weekend
+Who did have 33 dollars last week? --> fred
+What do Fred earn over the weekend? --> fred delivered newspapers earning 16 dollars
+Did Fred have 33 dollars last week? --> fred had 33 dollars and jason had 95 dollars . over the weekend fred delivered newspapers earning 16 dollars
+What did Fred delivered Over the weekend? --> newspapers earning 16 dollars
+Who do earn How much money over the weekend? --> fred
+Do Fred earn How much money over the weekend? --> 33 dollars and jason had 95 dollars . over the weekend fred delivered newspapers earning 16 dollars
+When did Fred delivered newspapers earning 16 dollars? --> over the weekend fred delivered newspapers earning 16 dollars
+Who did delivered newspapers earning 16 dollars Over the weekend? --> fred
+Did Fred delivered newspapers earning 16 dollars Over the weekend? --> 33 dollars and jason had 95 dollars . over the weekend fred delivered newspapers earning 16 dollars
+==> Solution Equation: 16+74=x
+~~~
+
+*** Because of the decision Sofia asked the students to suggest specific types of food. If 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes, How many students participated in the suggestion of new food items?
+What did Sofia ask? --> sofia asked the students to suggest specific types of food
+What did 374 suggest? --> adding bacon to the menu
+What did 128 suggest? --> adding tomatoes
+What did 374 suggest? --> adding bacon to the menu
+What did 128 suggest? --> adding tomatoes
+What did 374 suggest? --> adding bacon to the menu
+What did 128 suggest? --> adding tomatoes
+What do the students suggest? --> 324 students suggested adding mashed potatoes
+What did 324 students suggest? --> adding mashed potatoes
+Did 128 suggest adding tomatoes? --> 128
+Suggested bacon adding to the menu? --> 374
+How many did suggest adding tomatoes? --> 128
+Did 374 suggest adding bacon to the menu? --> 324
+How many did suggest adding bacon to the menu? --> 374
+Do the students suggest specific types of food? --> 324
+Did Sofia ask to suggest specific types of food? --> 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes
+Did 324 students suggest adding mashed potatoes? --> 374 suggested adding bacon to the menu
+Why did Sofia ask to suggest specific types of food? --> if
+How many students did suggest adding mashed potatoes? --> 324
+Did How many students participate in the suggestion of new food items? --> 324
+How many students suggested adding mashed potatoes did suggest If adding bacon to the menu? --> 374
+How many students suggested adding mashed potatoes did ask If to suggest specific types of food? --> 324
+==> Solution Equation: 698+128=x
+~~~
+
+*** There were 12 people on the bus. At the next stop 4 more people got on the bus. Each bus can not have more than 36 people. How many people are there on the bus now?
+What can not Each bus have? --> 36 people
+Where are How many people now? --> 36
+When are How many people on the bus? --> 12
+Where did 4 more people get on the bus? --> at the next stop 4 more people got on the bus
+Can not Each bus have more than 36 people? --> each
+Did 4 more people get on the bus At the next stop? --> 36
+How many more than 36 people can not Each bus have? --> 12
+How many more people did get on the bus At the next stop? --> 4
+How many people on the bus . At the next stop 4 more people got on the bus . Each bus can not have more than 36 people . How many people are there on the bus now were? --> 12
+How many more people got on the bus . Each bus can not have more than 36 people . How many people are there on the bus now were 12 people on the bus . At the next stop? --> 4
+How many 12 people on the bus . At the next stop 4 more people got on the bus . Each bus can not have more than 36 people . How many people are there on the bus now were 12 people on the bus . At the next stop 4 more people got on the bus . Each bus can not have more than 36 people . How many people are there on the bus? --> how
+==> Solution Equation: 12+4=x
+~~~
+
+*** A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. How many bottles did they have total?
+What do they have? --> 57 bottles of regular soda , 26 bottles of diet soda and 27 bottles of lite soda . how many bottles
+What did a grocery store have? --> 57
+Do they have How many bottles? --> 57
+How many bottles of lite soda did a grocery store have? --> 27
+How many bottles of diet soda and 27 bottles of lite soda did a grocery store have? --> 26
+Did a grocery store have 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda? --> 27
+How many bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda did a grocery store have? --> 57
+==> Solution Equation: 83+27=x
+~~~
+
+*** Edward spent $ 9. Then he spent $ 8 more. Now he has $ 17. How much did Edward have before he spent his money?
+What does he has? --> $ 17
+Does he has $ 17? --> $ 9
+What did he spend? --> $ 9
+Who did spend $ 9? --> edward
+Did Edward spend $ 9? --> $
+What did Edward spend? --> $ 9
+What did he spend Then? --> $ 8 more
+Did he spend his money? --> $ 9
+When did he spend $ 8 more? --> $ 9 . then he spent $ 8 more
+Did he spend $ 8 more Then? --> $ 9
+When do Edward have How much? --> $ 17
+What do Edward have before he spent his money? --> $ 9
+Who do have How much before he spent his money? --> $ 9
+Do Edward have How much before he spent his money? --> $ 9
+==> Solution Equation: 17+17=x
+~~~
+
+*** In a school there are 902 girls and 811 boys. 44 more girls joined the school. How many girls are there in the school now?
+What did 44 more girls join? --> 44 more girls joined the school
+Where are How many girls now? --> 902
+Where are 902 girls and 811 boys? --> in a school there are 902 girls and 811 boys
+Did 44 more girls join the school? --> 902
+When are How many girls in the school? --> 902
+How many more girls did join the school? --> 44
+How many girls and 811 boys are in a school? --> 902
+How many boys are 902 girls and in a school? --> 811
+==> Solution Equation: 902+44=x
+~~~
+
+*** Together Adam and Jackie have 6 apples. He has 4 apples more than adam and jackie together do. How many apples does he have?
+What do he have? --> 4
+What does He has? --> 4
+Do he have How many apples? --> 4
+What do Adam and Jackie have? --> 6
+Do Adam and Jackie have 6 apples? --> 4
+How do Adam and Jackie have 6 apples? --> he has 4
+How many apples do Adam and Jackie have? --> 6
+Does He has 4 apples more than adam and jackie together do? --> 6
+How many apples more than adam and jackie together do does He has? --> 4
+==> Solution Equation: 6+4=x
+~~~
+
+*** Allan brought 5 balloons and Jake brought 6 balloons to the park. Jake then bought 3 more balloons at the park. How many balloons did Jake bring to the park?
+What do Jake bring? --> 6
+What did Jake bring? --> 6
+What did Allan bring? --> 5 balloons
+Who did bring 6 balloons? --> jake
+Did Jake bring 6 balloons? --> 6
+Did Allan bring 5 balloons? --> 6
+Who do bring How many balloons? --> jake brought 6
+Do Jake bring How many balloons? --> 6
+How many balloons did Jake bring? --> 6
+How many balloons did Allan bring? --> 5
+What did Jake buy at the park then? --> jake then bought 3 more balloons
+Where did Jake buy 3 more balloons then? --> jake then bought 3 more balloons at the park
+Who did buy 3 more balloons at the park then? --> jake
+When did Jake buy 3 more balloons at the park? --> jake
+Did Jake buy 3 more balloons at the park then? --> 6
+How many more balloons did Jake buy at the park then? --> 3
+==> Solution Equation: 6+3=x
+~~~
+
+*** Jack received 3 emails in the morning, 4 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the morning and evening?
+When did Jack receive 3 emails? --> jack received 3 emails in the morning
+What did Jack receive in the evening? --> 8
+When do Jack receive How many emails? --> jack received 3 emails in the morning , 4 emails in the afternoon and 8 emails in the evening
+Who did receive 3 emails in the evening? --> 8
+Did Jack receive 3 emails in the evening? --> 8
+What do Jack receive in the morning and evening? --> jack received 3 emails in the morning , 4 emails in the afternoon and 8
+How many emails did Jack receive in the evening? --> 8
+Who do receive How many emails in the morning and evening? --> jack
+Do Jack receive How many emails in the morning and evening? --> 8
+==> Solution Equation: 3+8=x
+~~~
+
+*** Allan brought 3 balloons and 20 balls while Jake brought 5 balloons and 59 balls to the park. How many balloons did Allan and Jake have in the park?
+What did Jake bring? --> 5
+What did Allan bring? --> 3
+How many balls did Jake bring? --> 59
+How many balls did Allan bring? --> 20
+Who did bring 3 balloons and 20 balls? --> allan
+Who did bring 5 balloons and 59 balls? --> jake
+Did Jake bring 5 balloons and 59 balls? --> jake brought 5
+Did Allan bring 3 balloons and 20 balls? --> allan
+Where did Allan bring 3 balloons and 20 balls? --> allan
+How many balloons and 20 balls did Allan bring? --> 3
+Where do Allan and Jake have How many balloons? --> 5
+What did bring to the park 5 balloons and 59 balls? --> jake
+Do Allan and Jake have How many balloons in the park? --> 5
+How many balls to the park did bring while Jake brought 5 balloons and 3 balloons and 20 balls? --> 59
+==> Solution Equation: 3+5=x
+~~~
+
+*** Jack received 5 emails in the morning, 8 emails in the afternoon and 72 emails in the evening. How many emails did Jack receive in the morning and afternoon?
+When did Jack receive 5 emails? --> jack received 5 emails in the morning
+What did Jack receive in the evening? --> 72
+When do Jack receive How many emails? --> jack received 5 emails
+Who did receive 5 emails in the evening? --> 72
+Did Jack receive 5 emails in the evening? --> 72
+How many emails did Jack receive in the evening? --> 72
+What do Jack receive in the morning and afternoon? --> 8
+Who do receive How many emails in the morning and afternoon? --> jack received 5 emails in the morning , 8
+Do Jack receive How many emails in the morning and afternoon? --> 8
+==> Solution Equation: 5+8=x
+~~~
+
+*** Haley grew 9 trees in her backyard. After a typhoon 4 died. Then she grew 5 more trees. How many trees does she have left?
+When did 4 die? --> after a typhoon 4 died
+What did she grow? --> haley grew 9 trees
+What have she left? --> haley grew 9 trees in her backyard . after a typhoon 4 died . then she grew 5 more trees . how many trees does she have left
+Did she grow 5 more trees? --> haley grew 9
+Where did Haley grow 9 trees? --> after
+Have she left How many trees? --> 9
+How many did die After a typhoon? --> 4
+How many more trees did she grow? --> 5
+What did Haley grow in her backyard? --> 9
+Who did grow 9 trees in her backyard? --> haley
+Did Haley grow 9 trees in her backyard? --> 4
+How many trees did Haley grow in her backyard? --> 9
+==> Solution Equation: 5+5=x
+~~~
+
+*** Robin cut off 20 inches of his hair. If his hair is now 10 inches long, How long was his hair before he cut?
+What did Robin cut? --> robin cut off 20 inches
+When was his hair How long? --> 10 inches
+Who did cut 20 inches of his hair? --> robin
+Was his hair is 10 inches long now? --> 20 inches
+When was his hair is 10 inches long? --> if his hair is now 10 inches long
+Did Robin cut 20 inches of his hair? --> 10 inches
+Was his hair How long before he cut? --> 20 inches
+==> Solution Equation: 20+10=x
+~~~
+
+*** The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 36 inches. The frog jumped 17 inches farther than the grasshopper and the mouse jumped 15 inches farther than the frog. How far did the frog jump?
+Did the mouse jump 15 inches? --> the mouse jumped 15 inches farther than the frog
+Did the grasshopper jump 36 inches? --> 17 inches
+What did the frog and the mouse have? --> a jumping contest
+Did the frog and the mouse have a jumping contest? --> 17
+Did the frog jump 17 inches farther than the grasshopper? --> the
+==> Solution Equation: 36+17=x
+~~~
+
+*** There are many different books in the ' crazy silly school ' series. If you have read 13 of the books and are yet to read 8 books, How many books are there in the ' crazy silly school ' series?
+What are you yet to read? --> 8 books
+Where are How many books? --> if you have read 13
+Are you yet to read 8 books? --> 13
+Are you yet to read 13 of the books? --> 8
+How many of the books are you yet to read? --> 8
+How many of the books and are yet to read 8 books are If you have read? --> 13
+How would you describe many different books in the "crazy silly school" series? --> if you have read 13
+==> Solution Equation: 13+8=x
+~~~
+
+*** The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?
+Did the grasshopper jump 21 inches? --> 25 inches
+Did the grasshopper jump 25 inches? --> farther than the frog
+What did the frog and the mouse have? --> jumping contest
+Did the frog and the mouse have a jumping contest? --> 25 inches
+Did the mouse jump 16 inches lesser than the frog? --> 25 inches
+==> Solution Equation: 25+16=x
+~~~
+
+*** After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 512 visitors came to the Buckingham palace that day. If there were 471 visitors the previous day and 808 visitors the day before that, How many visited the Buckingham palace within the past 89 days?
+When did they go? --> they went to see the buckingham palace
+What did they go to see? --> buckingham palace
+What did Rachel learned There? --> rachel learned that 512 visitors came to the buckingham palace that day
+Did they go to see the Buckingham palace? --> 512
+Where did they go after eating a hearty meal? --> see the buckingham palace
+When did How many visited the Buckingham palace? --> 512
+What did How many visited within the past 89 days? --> how
+When did 512 visitors come to the Buckingham palace? --> 512 visitors came to the buckingham palace that day
+Did 512 visitors come to the Buckingham palace that day? --> 512
+How many visitors did come to the Buckingham palace that day? --> 512
+Did How many visited the Buckingham palace within the past 89 days? --> 512
+Where did they go to see the Buckingham the Buckingham the Buckingham? --> after eating a hearty meal they went to see the buckingham palace
+How many visitors the previous day and 808 visitors the day before that were? --> 471
+How many visitors the day before that were 471 visitors the previous day and? --> 808
+Where did 512 visitors come the Buckingham to the Buckingham the Buckingham that day? --> 512 visitors came to the buckingham palace
+Where did How many visited the Buckingham the Buckingham the Buckingham within the past 89 days? --> 512
+How many visitors the day before that, How many visited the Buckingham palace within the past 89 days did Rachel learned There? --> 808
+How many visitors the previous day and 808 visitors the day before that did come If there were to the Buckingham palace that day? --> 471
+How many visitors the day before that did come If there were 471 visitors the previous day and to the Buckingham palace that day? --> 808
+How many visitors the previous day and 808 visitors the day before that, How many visited the Buckingham palace within the past 89 days did Rachel learned There? --> 471
+Who did learned that 512 visitors came to the Buckingham palace that day . If there were 471 visitors the previous day and 808 visitors the day before that, How many visited the Buckingham palace within the past 89 days There? --> rachel
+How many visitors came to the Buckingham palace that day . If there were 471 visitors the previous day and 808 visitors the day before that, How many visited the Buckingham palace within the past 89 days did Rachel learned There? --> 512
+Where did Rachel learned that 512 visitors came to the Buckingham palace that day . If there were 471 visitors the previous day and 808 visitors the day before that, How many visited the Buckingham palace within the past 89 days? --> after eating a hearty meal they went to see the buckingham palace
+Did Rachel learned that 512 visitors came to the Buckingham palace that day . If there were 471 visitors the previous day and 808 visitors the day before that, How many visited the Buckingham palace within the past 89 days There? --> how many
+Where did Rachel learned the Buckingham palace that 512 visitors came to the Buckingham palace that day . If there were 471 visitors the previous day and 808 visitors the day before that, How many visited the Buckingham palace within the past 89? --> rachel learned that 512 visitors came to the buckingham palace that day . if there were 471 visitors the previous day and 808 visitors the day before that , how many visited the buckingham palace within the past 89 days
+==> Solution Equation: 983+808=x
+~~~
+
+*** Dave had some apps on his phone. After deleting 18 of them he had 5 left. How many apps did he have on his phone at the start?
+What did Dave have? --> some apps
+How many did leave? --> 5
+When did he have 5 left? --> he had 5 left
+Who did have some apps on his phone? --> dave
+Did Dave have some apps on his phone? --> 18
+What do he have on his phone at the start? --> dave had some apps on his phone . after deleting 18 of them he had 5 left . how many apps
+What did he have After deleting 18 of them? --> 5
+When do he have How many apps on his phone? --> dave had some apps on his phone . after deleting 18 of them he had 5
+Where do he have How many apps at the start? --> dave had some apps on his phone . after deleting 18
+Did he have 5 left After deleting 18 of them? --> dave had some apps on his phone . after deleting 18
+What did he have some apps on his phone . After? --> deleting 18 of them
+Do he have How many apps on his phone at the start? --> dave
+How many left did he have After deleting 18 of them? --> 5
+How many of them did have After deleting 5 left After deleting 18 of them? --> apps
+==> Solution Equation: 18+5=x
+~~~
+
+*** The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The frog jumped 39 inches farther than the grasshopper and the mouse jumped 94 inches lesser than the frog. How far did the frog jump?
+Did the grasshopper jump 19 inches? --> 39 inches
+What did the frog and the mouse have? --> a jumping contest
+Did the frog and the mouse have a jumping contest? --> 39
+Did the mouse jump 94 inches lesser than the frog? --> 39 inches
+Did the frog jump 39 inches farther than the grasshopper? --> 19 inches
+==> Solution Equation: 19+39=x
+~~~
+
+*** Adam has 5 more apples than Jackie. Jackie has 89 oranges and 11 apples. How many apples does Adam have?
+What do Adam have? --> 5 more apples
+What does Adam has? --> 5 more apples
+What does Jackie has? --> 11
+Who do have How many apples? --> adam has 5
+Do Adam have How many apples? --> adam has 5
+How many apples does Jackie has? --> 11
+Who does has 5 more apples than Jackie? --> adam
+Does Adam has 5 more apples than Jackie? --> 11
+Does Jackie has 89 oranges and 11 apples? --> 5
+How many more apples than Jackie does Adam has? --> 5
+How many oranges and 11 apples does Jackie has? --> 89
+==> Solution Equation: 5+11=x
+~~~
+
+*** Paco ate 19 cookies and had 35 cookies left. How many cookies did he have in the beginning?
+What did Paco eat? --> 19
+What did Paco have? --> 35
+Did Paco eat 19 cookies? --> 35
+How many cookies did leave? --> 35
+How many cookies did Paco eat? --> 19
+Did Paco have 35 cookies left? --> 19
+What do he have in the beginning? --> how many cookies
+When do he have How many cookies? --> 35
+How many cookies left did Paco have? --> 35
+Do he have How many cookies in the beginning? --> paco ate 19
+==> Solution Equation: 19+35=x
+~~~
+
+*** Katie had 84 new games and 19 old games. Her friends had 8 new games and 69 old games. How many new games do they have together?
+What do they have? --> 8
+What did Katie have? --> 84
+What did Her friends have? --> 8 new games and 69 old games
+Do they have How many new games? --> 84
+How many old games did Katie have? --> 19
+How many old games did Her friends have? --> 69
+Who did have 84 new games and 19 old games? --> katie
+Did Katie have 84 new games and 19 old games? --> 84
+Did Her friends have 8 new games and 69 old games? --> 84
+How many new games and 19 old games did Katie have? --> 84
+How many new games and 69 old games did Her friends have? --> 8
+==> Solution Equation: 84+8=x
+~~~
+
+*** Julia played tag with 13 kids on monday and 10 kids on tuesday. She played cards with 15 kids on wednesday. How many kids did she play with altogether?
+What do she play? --> julia played tag with 13 kids on monday and 10 kids on tuesday . she played cards with 15 kids on wednesday
+When did She play cards? --> 15 kids on wednesday
+Do she play How many kids? --> 13
+What did Julia play on monday? --> 13
+What did She play on wednesday? --> 15
+Did She play cards on wednesday? --> 15
+When did Julia play tag with 13 kids? --> monday
+How many kids did Julia play on monday? --> 13
+Did Julia play tag with 13 kids on monday? --> 13
+How many kids did play with cards on wednesday? --> 15
+==> Solution Equation: 23+15=x
+~~~
+
+*** Winter is almost here and most animals are migrating to warmer countries. There are some bird families living near the mountain. 20 bird families flew away for winter while 14 bird families stayed behind. How many bird families were living near the mountain at the start?
+Is winter almost here? --> winter
+When did 20 bird families fly? --> 20 bird families flew away for winter
+Did 14 bird families stay behind? --> 20
+Where were some bird families living? --> near the mountain
+How many bird families did stay behind? --> 14
+Where were How many bird families living? --> 14
+Are most animals migrating to warmer countries? --> 20
+How many bird families did fly while 14 bird families stayed behind? --> 20
+How many bird families stayed behind did fly while while 14 bird families stayed behind? --> 20
+How many bird families flew away for winter while 14 bird families stayed behind are some bird families living near the mountain ? --> 20
+How many bird families stayed behind are some bird families living near the mountain . 20 bird families flew away for winter while? --> 14
+==> Solution Equation: 20+14=x
+~~~
+
+*** In a school there are 315 girls and 309 boys. There are also 772 teachers, How many people are there in that school?
+How many teachers are? --> 772
+Where are How many people? --> 315 girls and 309 boys . there are also 772 teachers
+Where are 315 girls and 309 boys? --> in a school
+How many girls and 309 boys are in a school? --> 315
+How many boys are 315 girls and in a school? --> 309
+==> Solution Equation: 624+772=x
+~~~
+
+*** Rachel picked 3 ripe apples from her tree. Now the tree has 2 ripe apples and 27 unripe apples. How many ripe apples did the tree have to begin with?
+What did rachel picked? --> 3 ripe apples
+What does the tree has Now? --> the tree has 2 ripe apples and 27 unripe apples
+Did rachel picked 3 ripe apples? --> 2
+How many ripe apples did rachel picked? --> 3
+How many unripe apples does the tree has Now? --> 27
+Do the tree have to begin How many ripe apples? --> 2
+Does the tree has 2 ripe apples and 27 unripe apples Now? --> 3
+When does the tree has 2 ripe apples and 27 unripe apples? --> now the tree has 2
+==> Solution Equation: 3+2=x
+~~~
+
+*** In a school there are 308 girls and 318 boys. There are also 36 teachers, How many pupils are there in that school?
+How many teachers are? --> 36
+Where are How many pupils? --> 308 girls and 318 boys
+Where are 308 girls and 318 boys? --> in a school
+How many girls and 318 boys are in a school? --> 308
+How many boys are 308 girls and in a school? --> 318
+==> Solution Equation: 308+318=x
+~~~
+

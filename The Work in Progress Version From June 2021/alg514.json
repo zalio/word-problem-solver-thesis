@@ -56,7 +56,7 @@
    {
       "iIndex":1075,
       "lEquations":[
-         "0.07*fundone+0.06*fundtwo=405.0",
+         "7*0.01*fundone+6*0.01*fundtwo=405.0",
          "fundone+fundtwo=6100.0"
       ],
       "sQuestion":"Bob invested 6100 dollars in 2 funds , which pay 7 % and 6 % simple interest respectively. The combined interest he earned for both funds was 405 dollars for one year. How many dollars was invested at 7 %? How much was invested at 6 %? ",
@@ -65,11 +65,11 @@
          2200
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":267,
@@ -176,35 +176,35 @@
    {
       "iIndex":6370,
       "lEquations":[
-         "0.05*five_percent_fund+0.07*seven_percent_fund=630.0",
+         "5*0.01*five_percent_fund+7*0.01*seven_percent_fund=630.0",
          "five_percent_fund+seven_percent_fund=10000.0"
       ],
-      "sQuestion":"A total of 10000 dollars is invested in 2 funds paying 5 % and 7 % annual interest. The combined annual interest is 630 dollars. How much of the 10000 dollars is invested at 5 %? How much at 7 %? ",
+      "sQuestion":"A total of 10,000 dollars is invested in 2 funds paying 5 % and 7 % annual interest. The combined annual interest is 630 dollars. How much of the 10,000 dollars is invested at 5 %? How much at 7 %? ",
       "lSolutions":[
          3500,
          6500
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":3240,
       "lEquations":[
-         "2.0+0.12*minutes=23.36"
+         "2.0+12.0*0.01*minutes=23.36"
       ],
       "sQuestion":"For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute. Last month , Milan 's long distance bill was 23.36 dollars. For how many minutes was Milan billed for? ",
       "lSolutions":[
          178
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":5073,
@@ -226,7 +226,7 @@
    {
       "iIndex":6238,
       "lEquations":[
-         "0.15*fifteen_solution+0.40*forty_solution=0.25*30.0",
+         "15.0*0.01*fifteen_solution+40.0*0.01*forty_solution=25.0*0.01*30.0",
          "fifteen_solution+forty_solution=30.0"
       ],
       "sQuestion":"A chemist needs to make 30 ounces of a 25 % alcohol solution by mixing together a 15 % alcohol solution with a 40 % alcohol solution. How many ounces of the 15 % solution should he use? How many ounces of the 40 % solution?",
@@ -235,18 +235,18 @@
          12
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":5077,
       "lEquations":[
          "16000.0/0.8=last"
       ],
-      "sQuestion":"The value of a sport utility vehicle this year is 16000 dollars , which is 0.8 of what its value was last year. Find the value of the vehicle last year. ",
+      "sQuestion":"The value of a sport utility vehicle this year is 16,000 dollars , which is 0.8 of what its value was last year. Find the value of the vehicle last year. ",
       "lSolutions":[
          20000
       ],
@@ -259,7 +259,7 @@
    {
       "iIndex":1675,
       "lEquations":[
-         "0.25*twentyfive_solution+0.50*fifty_solution=0.45*1000.0",
+         "25.0*0.01*twentyfive_solution+50.0*0.01*fifty_solution=45.0*0.01*1000.0",
          "twentyfive_solution+fifty_solution=1000.0"
       ],
       "sQuestion":"Arianne is mixing a solution for Chemistry class. She has a 25 % copper solution and a 50 % copper solution. How many milliliters of the 25 % solution and 50 % solution should she mix to make 1000 milliliters of a 45 % solution?",
@@ -268,11 +268,11 @@
          800
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":3394,
@@ -331,7 +331,7 @@
    {
       "iIndex":6521,
       "lEquations":[
-         "0.06*six_acid+0.14*fourteen_acid=0.12*50.0",
+         "6.0*0.01*six_acid+14.0*0.01*fourteen_acid=12.0*0.01*50.0",
          "six_acid+fourteen_acid=50.0"
       ],
       "sQuestion":"Find the amount of 6 percent acid solution and the amount of a 14 percent acid solution that Pat should combine to prepare 50 cubic-centimeters of 12 percent solution.",
@@ -340,11 +340,11 @@
          37.5
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2493,
@@ -367,17 +367,17 @@
    {
       "iIndex":6779,
       "lEquations":[
-         "190.0+0.04*sales=500.0"
+         "190.0+4.0*0.01*sales=500.0"
       ],
       "sQuestion":"Trenton sells electronic supplies. Each week he earns 190 dollars plus commission equal to 4 % of his sales. This week his goal is to earn no less than 500 dollars. Write and solve an inequality to find the amount of sales he must make to reach his goal.",
       "lSolutions":[
          7750
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":5955,
@@ -399,7 +399,7 @@
    {
       "iIndex":1444,
       "lEquations":[
-         "0.20*twenty_alloy+0.27*twentyseven_alloy=100.0*0.249",
+         "20.0*0.01*twenty_alloy+27.0*0.01*twentyseven_alloy=100.0*24.9*0.01",
          "twenty_alloy+twentyseven_alloy=100.0"
       ],
       "sQuestion":"Anne and Nancy use a metal alloy that is 24.9 % copper to make jewelry. How many ounces of a 20 % alloy must be mixed with a 27 % alloy to form 100 ounces of the desired alloy?",
@@ -407,11 +407,11 @@
          30
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":7364,
@@ -532,9 +532,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":5043,
@@ -549,9 +549,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":1962,
@@ -567,9 +567,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":3560,
@@ -595,7 +595,7 @@
          "9.0*students+11.0*non_students=20960.0",
          "students+non_students=2000.0"
       ],
-      "sQuestion":"Tickets for a concert were priced at 9 dollars for students and 11 dollars for non-students. There were 2000 tickets sold for a total of 20,960 dollars. How many student ticket were sold? ",
+      "sQuestion":"Tickets for a concert were priced at 9 dollars for students and 11 dollars for non-students. There were 2,000 tickets sold for a total of 20,960 dollars. How many student ticket were sold? ",
       "lSolutions":[
          520
       ],
@@ -617,9 +617,9 @@
       ],
       "template":[
          "n1*x+n2*x=n3",
-         19
+         24
       ],
-      "templateType":19
+      "templateType":24
    },
    {
       "iIndex":5540,
@@ -658,20 +658,20 @@
    {
       "iIndex":2102,
       "lEquations":[
-         "0.11*junk_bonds+0.05*government_bonds=740.0",
+         "11.0*0.01*junk_bonds+5.0*0.01*government_bonds=740.0",
          "junk_bonds+government_bonds=10000.0"
       ],
-      "sQuestion":"A total of 10000 dollars was invested in two bond mutual funds , a junk bond fund and a government bond fund. The junk fund is risky and yields 11 % interest. The safer government bond fund yields only 5 %. The year 's total income from the two investments was 740 dollars. How much was invested in each fund? ",
+      "sQuestion":"A total of 10,000 dollars was invested in two bond mutual funds , a junk bond fund and a government bond fund. The junk fund is risky and yields 11 % interest. The safer government bond fund yields only 5 %. The year 's total income from the two investments was 740 dollars. How much was invested in each fund? ",
       "lSolutions":[
          4000,
          6000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":2866,
@@ -717,9 +717,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":5133,
@@ -735,9 +735,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x-y=n4",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":7021,
@@ -793,7 +793,7 @@
    {
       "iIndex":5191,
       "lEquations":[
-         "0.60*ordinary_time+0.90*overtime=32.4",
+         "60.0*0.01*ordinary_time+90.0*0.01*overtime=32.4",
          "ordinary_time+overtime=50.0"
       ],
       "sQuestion":"A worker gets 60 cents an hour for ordinary time and 90 cents an hour for overtime. If she gets 32.40 dollars for a 50 hour week , how many hours are overtime? ",
@@ -801,11 +801,11 @@
          8
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":3542,
@@ -878,7 +878,7 @@
    {
       "iIndex":5765,
       "lEquations":[
-         "0.75*left+0.50*drained=0.65*1.0",
+         "75.0*0.01*left+50.0*0.01*drained=65*0.01*1.0",
          "left+drained=1.0"
       ],
       "sQuestion":"One gallon container is full of a 75 % alcohol solution. How much must be drained off and replaced by a 50 % alcohol solution to produce one gallon of 65 % alcohol solution?",
@@ -886,16 +886,16 @@
          0.4
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2199,
       "lEquations":[
-         "0.03*low_interest+0.04*high_interest=550.0",
+         "3.0*0.01*low_interest+4.0*0.01*high_interest=550.0",
          "low_interest+high_interest=15000.0"
       ],
       "sQuestion":"An investor will invest a total of 15000 dollars in 2 accounts , one paying 4 % annual simple interest and the other 3 %. If he wants to earn 550 dollars annual interest , how much should he invest at 4 %? How much at 3 %? ",
@@ -904,29 +904,29 @@
          5000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":1379,
       "lEquations":[
-         "0.04*four+0.18*eighteen=1380.0",
+         "4.0*0.01*four+18.0*0.01*eighteen=1380.0",
          "four+eighteen=17000.0"
       ],
-      "sQuestion":"Stan invested 17000 dollars , part at 18 % and part at 4 %. If the total interest at the end of the year is 1,380 dollars , how much did he invest at 18 %? How much at 4 %? ",
+      "sQuestion":"Stan invested 17,000 dollars , part at 18 % and part at 4 %. If the total interest at the end of the year is 1,380 dollars , how much did he invest at 18 %? How much at 4 %? ",
       "lSolutions":[
          5000,
          12000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":3246,
@@ -976,9 +976,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":6759,
@@ -1033,7 +1033,7 @@
    {
       "iIndex":1948,
       "lEquations":[
-         "0.09*nine+0.08*eight=770.0",
+         "9.0*0.01*nine+8.0*0.01*eight=770.0",
          "nine+eight=9000.0"
       ],
       "sQuestion":"Walt made an extra 9000 dollars last year from a part-time job. He invested part of the money at 9 % and the rest at 8 %. He made a total of 770 dollars in interest. How much was invested at 8 %?",
@@ -1041,11 +1041,11 @@
          4000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":2086,
@@ -1080,17 +1080,17 @@
    {
       "iIndex":1119,
       "lEquations":[
-         "30.0+0.23*miles=76.0"
+         "30.0+23*0.01*miles=76.0"
       ],
       "sQuestion":"A car rents for 30 dollars per day plus 23 cents per mile. You are on a daily budget of 76 dollars. What mileage can you go and stay within your budget?",
       "lSolutions":[
          200
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":5878,
@@ -1166,17 +1166,17 @@
    {
       "iIndex":576,
       "lEquations":[
-         "20.99+0.25*miles=95.74"
+         "20.99+25.0*0.01*miles=95.74"
       ],
       "sQuestion":"Michael rented a truck for one day. There was a rental fee of 20.99 dollars , and there also was a charge of 25 cents for each mile. Michael paid 95.74 dollars when he returned the truck. For how many miles did he drive the truck? ",
       "lSolutions":[
          299
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":7134,
@@ -1255,9 +1255,9 @@
       ],
       "template":[
          "n1*x+n2*x=n3",
-         19
+         24
       ],
-      "templateType":19
+      "templateType":24
    },
    {
       "iIndex":1583,
@@ -1269,10 +1269,10 @@
          -10
       ],
       "template":[
-         "n1*x-n2=n3",
-         4
+         "n1*x-y-n2=y-n3",
+         25
       ],
-      "templateType":4
+      "templateType":25
    },
    {
       "iIndex":1558,
@@ -1294,7 +1294,7 @@
    {
       "iIndex":2517,
       "lEquations":[
-         "0.10*colored_copy+0.05*white_copy=22.5",
+         "10*0.1*colored_copy+5*0.1*white_copy=22.5",
          "colored_copy+white_copy=400.0"
       ],
       "sQuestion":"Colored copies cost 10 cents per copy and white copies cost 5 cents per copy. Sandy made 400 copies , some of which were colored and the rest white. Her total bill was 22.50 dollars. How many colored copies and white copies did she make? ",
@@ -1303,11 +1303,11 @@
          350
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":3200,
@@ -1315,7 +1315,7 @@
          "15.0*total_professors=total_students",
          "total_students+total_professors=40000.0"
       ],
-      "sQuestion":"In college there are 15 times as many students as professors. If together the students and professors number 40000 , how many students are there in college? ",
+      "sQuestion":"In college there are 15 times as many students as professors. If together the students and professors number 40,000 , how many students are there in college? ",
       "lSolutions":[
          37500
       ],
@@ -1329,7 +1329,7 @@
    {
       "iIndex":2010,
       "lEquations":[
-         "0.20*souvenir_one+0.25*souvenir_two=220.0",
+         "20*0.1*souvenir_one+25*0.1*souvenir_two=220.0",
          "souvenir_one+souvenir_two=1000.0"
       ],
       "sQuestion":"At its Grand Opening , the Guthrie Market distributed two different types of souvenirs. One type cost 20 cents each , and the other type cost 25 cents each. One thousand souvenirs were distributed in all. If the cost of these souvenirs was 220 dollars. How many of 20 cents and 25 cents souveniers were distributed? ",
@@ -1338,11 +1338,11 @@
          400
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":3354,
@@ -1432,17 +1432,17 @@
    {
       "iIndex":6027,
       "lEquations":[
-         "-60.0/0.833=number"
+         "0.833*number=-60.0"
       ],
       "sQuestion":".833 of a number is -60. What is the number?",
       "lSolutions":[
          -72
       ],
       "template":[
-         "n1/n2=x",
-         7
+         "n1*x=y-n2",
+         6
       ],
-      "templateType":7
+      "templateType":6
    },
    {
       "iIndex":3289,
@@ -1491,14 +1491,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "y=x-n4",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":2113,
       "lEquations":[
-         "0.60*sixty_liters+0.75*seventy_five_liters=0.72*20.0",
+         "60*0.01*sixty_liters+75*0.01*seventy_five_liters=72*0.01*20.0",
          "sixty_liters+seventy_five_liters=20"
       ],
       "sQuestion":"How many liters of a 60 % acid solution must be mixed with a 75 % acid solution to get 20 liters of a 72 % solution?",
@@ -1506,11 +1506,11 @@
          4
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2120,
@@ -1526,9 +1526,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":823,
@@ -1597,9 +1597,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":2488,
@@ -1687,9 +1687,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":5701,
@@ -1730,7 +1730,7 @@
    {
       "iIndex":2100,
       "lEquations":[
-         "0.25*twentyfive_solution+0.50*fifty_solution=0.40*30.0",
+         "25.0*0.01*twentyfive_solution+50.0*0.01*fifty_solution=40.0*0.01*30.0",
          "twentyfive_solution+fifty_solution=30.0"
       ],
       "sQuestion":"An embossing shop etches metal with acid solutions. The owner is discussing a certain job with the job supervisor , and they decide to use 30 ounces of a 40 % solution. Upon checking the acid solution supplies , the supervisor has found some 25 % acid solution and some 50 % acid solution , but there is no 40 % acid solution. The owner explains to the supervisor how the two existing solutions can be mixed to obtain a 40 % acid solution. How much of each solution is needed? ",
@@ -1739,11 +1739,11 @@
          12
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":1739,
@@ -1853,7 +1853,7 @@
          "first+second=3635000.0",
          "first=2750000.0+second"
       ],
-      "sQuestion":"A company 's profit for the first half of the year is 2750000 dollars greater than the profit for the second half. If the total annual profit is 3635000 dollars , find the profit for the first half-year and the second half-year. ",
+      "sQuestion":"A company 's profit for the first half of the year is 2,750,000 dollars greater than the profit for the second half. If the total annual profit is 3,635,000 dollars , find the profit for the first half-year and the second half-year. ",
       "lSolutions":[
          3192500,
          442500
@@ -1868,37 +1868,37 @@
    {
       "iIndex":2157,
       "lEquations":[
-         "(speed_boat+speed_current)*4.0=24.0",
-         "(speed_boat-speed_current)*6.0=24.0"
+         "speed_boat+speed_current*4.0=24.0",
+         "speed_boat-speed_current*6.0=24.0"
       ],
       "sQuestion":"It takes a boat 4 hours to travel 24 miles down a river and 6 hours to return upstream to its starting point. What is the rate of the current in the river?",
       "lSolutions":[
          1
       ],
       "template":[
-         "(x+y)*n1=n2",
-         "(x-y)*n3=n4",
-         16
+         "x+y*n1=n2",
+         "x-y*n3=n4",
+         26
       ],
-      "templateType":16
+      "templateType":26
    },
    {
       "iIndex":3585,
       "lEquations":[
-         "0.08*low_investment+0.10*high_investment=256.0",
+         "8.0*0.01*low_investment+10.0*0.01*high_investment=256.0",
          "low_investment+high_investment=3000.0"
       ],
-      "sQuestion":"Pat invested a total of 3000 dollars. Part of the money yields 10 percent interest per year and the rest yields 8 percent interest per year. If the total yearly interest from this investment is 256 dollars , how much did Pat invest at 10 percent and how much at 8 percent? ",
+      "sQuestion":"Pat invested a total of 3,000 dollars. Part of the money yields 10 percent interest per year and the rest yields 8 percent interest per year. If the total yearly interest from this investment is 256 dollars , how much did Pat invest at 10 percent and how much at 8 percent? ",
       "lSolutions":[
          800,
          2200
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6765,
@@ -1914,9 +1914,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4+y=x",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":724,
@@ -2094,9 +2094,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":1375,
@@ -2166,9 +2166,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":1702,
@@ -2188,7 +2188,7 @@
    {
       "iIndex":2184,
       "lEquations":[
-         "0.30*first+0.05*second=25.0*0.10",
+         "30.0*first*0.01+5.0*second*0.01=25.0*10.0*0.01",
          "first+second=25.0"
       ],
       "sQuestion":"One canned juice drink is 30 % orange juice ; another is 5 % orange juice. How many liters of each should be mixed together in order to get 25 liters that is 10 % orange juice?",
@@ -2197,17 +2197,16 @@
          20
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*x*n2+n3*y*n4=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":1658,
       "lEquations":[
-         "4.0*first_speed+1.0*second_speed=244.0",
-	 "2.0*first_speed+3.0*second_speed=252.0"
+         "4.0*first_speed+1.0*second_speed=244.0"
       ],
       "sQuestion":"A motorist drove 2 hours at one speed and then for 3 hours at another speed. He covered a distance of 252 kilometers. If he had travelled 4 hours at the first speed and 1 hour at the second speed , he would have covered 244 kilometers. Find two speeds? ",
       "lSolutions":[
@@ -2217,24 +2216,24 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":5020,
       "lEquations":[
-         "1600.0+0.04*sales=1800.0"
+         "1600.0+4*0.01*sales=1800.0"
       ],
       "sQuestion":"Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month. For what amount of sales will the 2 choices be equal?",
       "lSolutions":[
          5000
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":3499,
@@ -2272,7 +2271,7 @@
    {
       "iIndex":760,
       "lEquations":[
-         "0.25*pencils+0.80*pens=20.0",
+         "25.0*0.1*pencils+80.0*0.01*pens=20.0",
          "pencils+pens=36.0"
       ],
       "sQuestion":"Pencils cost 25 cents a piece. Pens cost 80 cents a piece. Susan spent 20 dollars for a total of 36 pens and pencils. How many pencils did she buy?",
@@ -2280,11 +2279,11 @@
          16
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":432,
@@ -2304,20 +2303,20 @@
    {
       "iIndex":542,
       "lEquations":[
-         "0.03*three+0.05*five=660.0",
+         "3*0.01*three+5*0.01*five=660.0",
          "three+five=18000.0"
       ],
-      "sQuestion":"Angus invested 18000 dollars , part at 3 % and part at 5 %. If the total interest at the end of the year is 660 dollars , how much did he invest at 3 %? At 5 %? ",
+      "sQuestion":"Angus invested 18,000 dollars , part at 3 % and part at 5 %. If the total interest at the end of the year is 660 dollars , how much did he invest at 3 %? At 5 %? ",
       "lSolutions":[
          12000,
          6000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5939,
@@ -2348,9 +2347,9 @@
       ],
       "template":[
          "n1*x+n2*x=n3",
-         19
+         24
       ],
-      "templateType":19
+      "templateType":24
    },
    {
       "iIndex":3683,
@@ -2401,9 +2400,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":2174,
@@ -2425,8 +2424,8 @@
    {
       "iIndex":5829,
       "lEquations":[
-         "(rowan_speed+current)*2.0=26.0",
-         "(rowan_speed-current)*4.0=26.0"
+         "rowan_speed+current*2.0=26.0",
+         "rowan_speed-current*4.0=26.0"
       ],
       "sQuestion":"Rowan can row 26 kilometers downstream in 2 hours. Returning upstream it takes 4 hours to complete the trip. Find his rate in still water in kilometers per hour and the rate of the current.",
       "lSolutions":[
@@ -2434,11 +2433,11 @@
          3.25
       ],
       "template":[
-         "(x+y)*n1=n2",
-         "(x-y)*n3=n4",
-         16
+         "x+y*n1=n2",
+         "x-y*n3=n4",
+         26
       ],
-      "templateType":16
+      "templateType":26
    },
    {
       "iIndex":658,
@@ -2508,7 +2507,7 @@
    {
       "iIndex":5163,
       "lEquations":[
-         "0.024*low_interest_loan+0.047*high_interest_loan=14761.81",
+         "2.4*0.01*low_interest_loan+4.7*0.01*high_interest_loan=14761.81",
          "low_interest_loan+high_interest_loan=318338.0"
       ],
       "sQuestion":"To buy both a new car and a new house , Tina sought two loans totaling 318,338 dollars. The simple interest rate on the first loan was 2.4 % , while the simple interest rate on the second loan was 4.7 %. At the end of the first year , Tina paid a combined interest payment of 14,761.81 dollars. What were the amounts of the two loans? ",
@@ -2517,11 +2516,11 @@
          309642.35
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":2626,
@@ -2543,7 +2542,7 @@
    {
       "iIndex":107,
       "lEquations":[
-         "0.085*first+0.064*second=575.0",
+         "8.5*0.1*first+6.4*0.1*second=575.0",
          "first+second=8000.0"
       ],
       "sQuestion":"Two investments earn an annual income of 575 dollars. One investment earns an annual simple interest rate of 8.5 % , and the other investment earns an annual simple interest rate of 6.4 %. The amount invested is 8000 dollars. How much money is invested in the first investment and second investment respectively? ",
@@ -2552,11 +2551,11 @@
          5000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5171,
@@ -2590,9 +2589,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x-n4=y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":5706,
@@ -2630,8 +2629,8 @@
    {
       "iIndex":6208,
       "lEquations":[
-         "piece_one+piece_two=22.0",
-         "piece_one=2.0*piece_two+1.0"
+         "piece_1+piece_2=22.0",
+         "piece_1=2.0*piece_2+1.0"
       ],
       "sQuestion":"The carpenter saws a board that is 22 feet long into two pieces. One piece is to be 1 foot longer than twice the length of the shorter piece. Find the Length of each piece.",
       "lSolutions":[
@@ -2659,14 +2658,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":5581,
       "lEquations":[
-         "0.16*soybean_meal+0.08*cornmeal=320.0*0.15",
+         "16.0*0.01*soybean_meal+8.0*0.01*cornmeal=320.0*15.0*0.01",
          "soybean_meal+cornmeal=320.0"
       ],
       "sQuestion":"Soybean meal is 16 % protein and cornmeal is 8 %. How many pounds of each should be mixed together in order to get a 320 pound mixture that is 15 % protein?",
@@ -2675,11 +2674,11 @@
          40
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":5580,
@@ -2695,14 +2694,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6095,
       "lEquations":[
-         "0.18*soybean_meal+0.09*cornmeal=360.0*0.17",
+         "18.0*0.01*soybean_meal+9.0*0.01*cornmeal=360.0*17.0*0.01",
          "soybean_meal+cornmeal=360.0"
       ],
       "sQuestion":"Soybean meal is 18 % protein , cornmeal is 9 % protein. How many pounds of each Soybean meal and how many pounds of cornmeal should be mixed together in order to get 360-pound mixture that is 17 % protein? ",
@@ -2711,11 +2710,11 @@
          40
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":438,
@@ -2838,7 +2837,7 @@
    {
       "iIndex":7037,
       "lEquations":[
-         "0.03*reduced_milk+0.23*cream=1000.0*0.04",
+         "3.0*reduced_milk*0.01+23.0*cream*0.01=1000.0*4.0*0.01",
          "reduced_milk+cream=1000.0"
       ],
       "sQuestion":"One thousand quarts of milk testing 4 % butterfat are to be reduced to 3 %. How many quarts of cream testing 23 % butterfat must be separated from the milk to produce the required result?",
@@ -2846,28 +2845,28 @@
          50
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*x*n2+n3*y*n4=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2500,
       "lEquations":[
-         "(speed_plane+speed_wind)*3.0=900.0",
-         "(speed_plane-speed_wind)*4.0=900.0"
+         "speed_plane+speed_wind*3.0=900.0",
+         "speed_plane-speed_wind*4.0=900.0"
       ],
       "sQuestion":"A plane flies 900 miles with a tail wind in 3 hours. The same plane takes 4 hours to make the return trip against the wind. What is the speed of the plane in still air? ",
       "lSolutions":[
          262.5
       ],
       "template":[
-         "(x+y)*n1=n2",
-         "(x-y)*n3=n4",
-         16
+         "x+y*n1=n2",
+         "x-y*n3=n4",
+         26
       ],
-      "templateType":16
+      "templateType":26
    },
    {
       "iIndex":2354,
@@ -3088,14 +3087,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":2562,
       "lEquations":[
-         "0.15*fifteen_acid+0.25*twentyfive_acid=0.18*100.0",
+         "15.0*0.01*fifteen_acid+25.0*0.01*twentyfive_acid=18.0*0.01*100.0",
          "fifteen_acid+twentyfive_acid=100.0"
       ],
       "sQuestion":"A chemist has one solution that is 15 % acid and a second that is 25 % acid. How many liters of each should be mixed together to get 100 liters that is 18 % acid?",
@@ -3104,11 +3103,11 @@
          30
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":5094,
@@ -3220,7 +3219,7 @@
          "20.0*twenty+30.0*thirty=191000.0",
          "twenty+thirty=7400.0"
       ],
-      "sQuestion":"A jazz concert brought in 191000 dollars with the sale of 7400 tickets. If tickets were sold for 20 dollars and 30 dollars each , how many 20-dollar tickets were sold? How many 30-dollar tickets? ",
+      "sQuestion":"A jazz concert brought in 191,000 dollars with the sale of 7400 tickets. If tickets were sold for 20 dollars and 30 dollars each , how many 20-dollar tickets were sold? How many 30-dollar tickets? ",
       "lSolutions":[
          3100,
          4300
@@ -3238,7 +3237,7 @@
          "truck+trailer=7000.0",
          "trailer=0.5*truck-200.0"
       ],
-      "sQuestion":"A truck and trailer together weigh 7000 pounds. The trailer weighs 200 pounds less than 0.5 as much as the truck. Find the truck 's weight. Find the trailer 's weight. ",
+      "sQuestion":"A truck and trailer together weigh 7,000 pounds. The trailer weighs 200 pounds less than 0.5 as much as the truck. Find the truck 's weight. Find the trailer 's weight. ",
       "lSolutions":[
          4800,
          2200
@@ -3412,7 +3411,7 @@
    {
       "iIndex":443,
       "lEquations":[
-         "0.95*baldwin+0.90*mcinotosh=11.0",
+         "95*0.1*baldwin+90*0.1*mcinotosh=11.0",
          "baldwin+mcinotosh=12.0"
       ],
       "sQuestion":"A grocer bought 12 bushels of Baldwin and McInotosh apples. Baldwins costs 95 cents a bushel , but McIntosh cost only 90 cents a bushel. If he paid 11.00 dollars for the lot , how many bushels of Baldwins did he get? How many bushels of McIntosh? ",
@@ -3421,11 +3420,11 @@
          8
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":1564,
@@ -3448,8 +3447,8 @@
    {
       "iIndex":6355,
       "lEquations":[
-         "number_one+number_two=46.0",
-         "number_one-number_two=9.0"
+         "number_1+number_2=46.0",
+         "number_1-number_2=9.0"
       ],
       "sQuestion":"The difference between two numbers is 9. Find the numbers , if their sum is 46. ",
       "lSolutions":[
@@ -3476,9 +3475,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4*y",
-         21
+         27
       ],
-      "templateType":21
+      "templateType":27
    },
    {
       "iIndex":7938,
@@ -3512,9 +3511,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":817,
@@ -3566,14 +3565,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":2523,
       "lEquations":[
-         "1.0*hundred_antifreeze+0.10*ten_antifreeze=55.0*0.20",
+         "100.0*0.01*hundred_antifreeze+10.0*0.01*ten_antifreeze=55.0*20.0*0.01",
          "hundred_antifreeze+ten_antifreeze=55.0"
       ],
       "sQuestion":"A garage owner wants to fill a 55 gallon drum with a 20 percent winter mixture of antifreeze for his customers. How many gallons of 100 percent antifreeze should he mix with some 10 percent antifreeze mixture in order to fill the drum?",
@@ -3581,11 +3580,11 @@
          6.11
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":5767,
@@ -3637,9 +3636,9 @@
       "template":[
          "x+y=n1",
          "y=n2*x",
-         11
+         21
       ],
-      "templateType":11
+      "templateType":21
    },
    {
       "iIndex":82,
@@ -3715,17 +3714,17 @@
    {
       "iIndex":580,
       "lEquations":[
-         "5.0+0.25*minutes=12.02"
+         "5.0+25.0*0.01*minutes=12.02"
       ],
       "sQuestion":"For his long distance phone calls , John pays a 5 dollars monthly fee plus 25 cents per minute. Last month , John 's long distance bill was 12.02 dollars. For how many minutes was John billed? ",
       "lSolutions":[
          28.08
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":6336,
@@ -3851,17 +3850,17 @@
    {
       "iIndex":6348,
       "lEquations":[
-         "50.0+0.20*miles=88.0"
+         "50.0+20.0*0.01*miles=88.0"
       ],
       "sQuestion":"A car rents for 50 dollars a day plus 20 cents a mile. You are on a daily budget of 88 dollars. What maximum mileage will allow you to stay within your budget?",
       "lSolutions":[
          190
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":6096,
@@ -3977,26 +3976,26 @@
       ],
       "template":[
          "n1*x+n2*x=n3",
-         19
+         24
       ],
-      "templateType":19
+      "templateType":24
    },
    {
       "iIndex":665,
       "lEquations":[
-         "0.08*first+0.07*second=1710.0",
+         "8.0*0.01*first+7.0*0.01*second=1710.0",
          "first+second=22000.0"
       ],
-      "sQuestion":"Lane invested 22000 dollars , part at 8 % and part at 7 %. If the total interest at the end of the year is 1,710 dollars , how much did she invest at 8 %? ",
+      "sQuestion":"Lane invested 22,000 dollars , part at 8 % and part at 7 %. If the total interest at the end of the year is 1,710 dollars , how much did she invest at 8 %? ",
       "lSolutions":[
          17000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6290,
@@ -4114,9 +4113,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6688,
@@ -4132,9 +4131,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":2653,
@@ -4149,9 +4148,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":7,
@@ -4196,14 +4195,14 @@
       ],
       "template":[
          "n1*x+n2*x=n3",
-         19
+         24
       ],
-      "templateType":19
+      "templateType":24
    },
    {
       "iIndex":5653,
       "lEquations":[
-         "0.16*sixteen_investment+0.14*fourteen_investment=1326.0",
+         "16.0*0.01*sixteen_investment+14.0*0.01*fourteen_investment=1326.0",
          "sixteen_investment+fourteen_investment=8800.0"
       ],
       "sQuestion":"2 investments are made totaling 8800 dollars. For a certain year , these investments yield 1326 dollars in simple interest. Part of the 8800 dollars is invested at 16 % and part at 14 %. Find the amount invested at 16 % and 14 %. ",
@@ -4212,17 +4211,17 @@
          4100
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6118,
       "lEquations":[
-         "(jet+wind)*4.0=2000.0",
-         "(jet-wind)*5.0=2000.0"
+         "jet+wind*4.0=2000.0",
+         "jet-wind*5.0=2000.0"
       ],
       "sQuestion":"With a tail wind , a jet flew 2000 miles in 4 hours. The jet 's return trip against the same wind required 5 hours. Find the jet 's speed and the wind speed. ",
       "lSolutions":[
@@ -4230,11 +4229,11 @@
          50
       ],
       "template":[
-         "(x+y)*n1=n2",
-         "(x-y)*n3=n4",
-         16
+         "x+y*n1=n2",
+         "x-y*n3=n4",
+         26
       ],
-      "templateType":16
+      "templateType":26
    },
    {
       "iIndex":5925,
@@ -4254,7 +4253,7 @@
    {
       "iIndex":5365,
       "lEquations":[
-         "0.20*twenty_mix+0.80*eighty_mix=10.0*0.62",
+         "20.0*0.01*twenty_mix+80.0*0.01*eighty_mix=10.0*62.0*0.01",
          "twenty_mix+eighty_mix=10.0"
       ],
       "sQuestion":"You are making 10 tons of concrete that is 62 % cement by mixing a 20 % cement mixture with a 80 % cement mixture. How much of the 80 % cement mixture must you use? Answer in units of tons.",
@@ -4262,11 +4261,11 @@
          7
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
          "x+y=n8",
-         18
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":3790,
@@ -4300,9 +4299,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "y=n4*x",
-         21
+         27
       ],
-      "templateType":21
+      "templateType":27
    },
    {
       "iIndex":5206,
@@ -4437,9 +4436,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=y-n4",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":6478,
@@ -4510,19 +4509,19 @@
    {
       "iIndex":3471,
       "lEquations":[
-         "0.065*low_investment+0.08*high_investment=678.87",
+         "6.5*0.01*low_investment+8.0*0.01*high_investment=678.87",
          "low_investment+high_investment=9000.0"
       ],
-      "sQuestion":"A woman invested a total of 9000 dollars in 2 accounts , one earning 6.5 % annual interest and the other earning 8 % annual interest. After 1 year , her combined interest was 678.87 dollars. How much did she invest in the account paying 8 % interest , in dollars? ",
+      "sQuestion":"A woman invested a total of 9,000 dollars in 2 accounts , one earning 6.5 % annual interest and the other earning 8 % annual interest. After 1 year , her combined interest was 678.87 dollars. How much did she invest in the account paying 8 % interest , in dollars? ",
       "lSolutions":[
          6258
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6672,
@@ -4595,7 +4594,7 @@
    {
       "iIndex":5533,
       "lEquations":[
-         "0.05*five_saline+0.25*twentyfive_saline=0.18*10.0",
+         "5.0*0.01*five_saline+25.0*0.01*twentyfive_saline=18.0*0.01*10.0",
          "five_saline+twentyfive_saline=10.0"
       ],
       "sQuestion":"How many liters of 5 % saline solution and 25 % saline solution must be mixed together to get 10 liters of 18 % saline solution?",
@@ -4604,11 +4603,11 @@
          6.5
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":1975,
@@ -4730,17 +4729,17 @@
    {
       "iIndex":2031,
       "lEquations":[
-         "30.0+0.18*mile=75.0"
+         "30.0+18*0.01*mile=75.0"
       ],
       "sQuestion":"A car rents for 30 dollars per day plus 18 cents per mile. You are on a budget of 75 dollars. What mileage would allow you to stay within your budget?",
       "lSolutions":[
          250
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":6008,
@@ -4921,7 +4920,7 @@
    {
       "iIndex":5841,
       "lEquations":[
-         "0.04*four_investment+0.06*six_investment=1980.0",
+         "4.0*0.01*four_investment+6.0*0.01*six_investment=1980.0",
          "four_investment+six_investment=39000.0"
       ],
       "sQuestion":"Phyllis invested 39000 dollars , a portion earning a simple interest rate of 4 % per year and the rest earning a rate of 6 % per year. After 1 year the total interest earned on these investments was 1980 dollars. How many dollars did she invest at 4 %? At 6 %? ",
@@ -4930,11 +4929,11 @@
          21000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":1889,
@@ -4986,14 +4985,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":7019,
       "lEquations":[
-         "0.60*adults+0.25*children=140.0",
+         "60*0.1*adults+25*0.1*children=140.0",
          "adults+children=280.0"
       ],
       "sQuestion":"Admission tickets to a theater were 60 cents for adults and 25 cents for children. Receipts for the day showed that 280 persons attended and 140 dollars was collected. How many children attended that day?",
@@ -5001,17 +5000,17 @@
          80
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":3215,
       "lEquations":[
          "smaller_number+larger_number=70.0",
-         "larger_number=3.0*smaller_number+10.0"
+         "larger_number=10.0+3.0*smaller_number"
       ],
       "sQuestion":"The sum of 2 numbers is 70. The second is 10 more than 3 times the first. Find the smaller number. Find the larger number.",
       "lSolutions":[
@@ -5028,8 +5027,8 @@
    {
       "iIndex":313,
       "lEquations":[
-         "(boat_speed+stream_speed)*3.0=45.0",
-         "(boat_speed-stream_speed)*5.0=45.0"
+         "boat_speed+stream_speed*3.0=45.0",
+         "boat_speed-stream_speed*5.0=45.0"
       ],
       "sQuestion":"A boat travels 45 miles upstream in 5 hours. The boat travels the same distance downstream in 3 hours. What is the speed of the boat in still water in miles per hour? What is the speed of the current in miles per hour? ",
       "lSolutions":[
@@ -5037,16 +5036,16 @@
          3
       ],
       "template":[
-         "(x+y)*n1=n2",
-         "(x-y)*n3=n4",
-         16
+         "x+y*n1=n2",
+         "x-y*n3=n4",
+         26
       ],
-      "templateType":16
+      "templateType":26
    },
    {
       "iIndex":1923,
       "lEquations":[
-         "0.10*ten_antifreeze+0.80*eighty_antifreeze=4.0*0.50",
+         "10.0*0.01*ten_antifreeze+80.0*0.01*eighty_antifreeze=4.0*50.0*0.01",
          "ten_antifreeze+eighty_antifreeze=4.0"
       ],
       "sQuestion":"A mixture of water and antifreeze in a car is 10 % antifreeze. In colder climates this mixture should contain 50 % antifreeze. If the radiator contains 4 gallons of fluid , how many gallons of radiator fluid should be drained and replaced with a mixture containing 80 % antifreeze? ",
@@ -5054,11 +5053,11 @@
          2.2857
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":6878,
@@ -5081,7 +5080,7 @@
    {
       "iIndex":5068,
       "lEquations":[
-         "0.40*solution_one_liters+0.25*solution_two_liters=0.34*129.0",
+         "40.0*0.01*solution_one_liters+25.0*0.01*solution_two_liters=34.0*0.01*129.0",
          "solution_one_liters+solution_two_liters=129.0"
       ],
       "sQuestion":"A chemist has two solutions. One has 40 % the other 25 % concentrate. How many liters of each solution must be mixed to obtain 129 liters of 34 % solution?",
@@ -5090,11 +5089,11 @@
          51.6
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":6087,
@@ -5183,7 +5182,7 @@
    {
       "iIndex":139,
       "lEquations":[
-         "0.18*eighteen_liters+0.50*fifty_liters=0.30*80.0",
+         "18*0.1*eighteen_liters+50*0.1*fifty_liters=30*0.01*80.0",
          "eighteen_liters+fifty_liters=80.0"
       ],
       "sQuestion":"A chemist has a solution that is 18 % alcohol and one that is 50 % alcohol. He wants to make 80 liters of a 30 % solution. How many liters of the 18 % solution should he add? How many liters of the 30 % solution should he add? ",
@@ -5192,11 +5191,11 @@
          30
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":154,
@@ -5227,9 +5226,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6135,
@@ -5277,9 +5276,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4*y",
-         21
+         27
       ],
-      "templateType":21
+      "templateType":27
    },
    {
       "iIndex":1294,
@@ -5295,9 +5294,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "y=x-n4",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":17,
@@ -5402,9 +5401,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6945,
@@ -5427,20 +5426,20 @@
    {
       "iIndex":5626,
       "lEquations":[
-         "0.028*low_interest+0.045*high_interest=1024.4",
+         "2.8*0.01*low_interest+4.5*0.01*high_interest=1024.4",
          "low_interest+high_interest=31000.0"
       ],
-      "sQuestion":"Cole 's student loans totaled 31000 dollars. One of his loans was at 2.8 % simple interest and the other at 4.5 %. After one year , Cole owed 1024.40 dollars in interest. What was the amount of each loan? ",
+      "sQuestion":"Cole 's student loans totaled 31,000 dollars. One of his loans was at 2.8 % simple interest and the other at 4.5 %. After one year , Cole owed 1024.40 dollars in interest. What was the amount of each loan? ",
       "lSolutions":[
          21800,
          9200
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6369,
@@ -5580,9 +5579,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":3839,
@@ -5640,7 +5639,7 @@
    {
       "iIndex":2121,
       "lEquations":[
-         "4.9+0.275*years=2.5+0.7*years"
+         "4.9+0.275000.0*years=2.5+0.7*years"
       ],
       "sQuestion":"About 4.9 million households had one brand of personal computers in 2001. The use of these computers grew at an average rate of 0.275 million households a year. In 2001 , about 2.5 millions households used another type of computer. The use of these computers grew at an average rate of 0.7 million households a year. How long will it take for the two types of computers to be in the same number of households? ",
       "lSolutions":[
@@ -5740,7 +5739,7 @@
    {
       "iIndex":5261,
       "lEquations":[
-         "0.50*fifty_alcohol+0.80*eighty_alcohol=0.70*10.5",
+         "50.0*0.01*fifty_alcohol+80.0*0.01*eighty_alcohol=70.0*0.01*10.5",
          "fifty_alcohol+eighty_alcohol=10.5"
       ],
       "sQuestion":"One solution contains 50 % alcohol and another solution contains 80 % alcohol. How many liters of 50 % alcohol and 80 % alcohol should be mixed to produce 10.5 liters of a 70 % alcohol solution?",
@@ -5749,16 +5748,16 @@
          7
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":6226,
       "lEquations":[
-         "0.20*small_ones+0.35*large_ones=7.5",
+         "20*0.1*small_ones+35*0.1*large_ones=7.5",
          "small_ones+large_ones=30.0"
       ],
       "sQuestion":"Joe sold 30 peaches from his tree for a total of 7.50 dollars. He sold the small ones for 20 cents each and the large ones for 35 cents each. How many small ones did he sell? How many large ones did he sell?",
@@ -5767,11 +5766,11 @@
          10
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5629,
@@ -5787,24 +5786,24 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":2617,
       "lEquations":[
-         "26.48+0.16*minutes=30.0"
+         "16*.01*minutes=30.0-26.48"
       ],
       "sQuestion":"Latoya purchased a prepaid phone card for 30 dollars. Long distance calls cost 16 cents a minute using this card. Latoya used her card only once to make a long distance call. If the remaining credit on her card is 26.48 dollars , how many minutes did her call last? ",
       "lSolutions":[
          22
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1*x*y=n2-n3",
+         8
       ],
-      "templateType":5
+      "templateType":8
    },
    {
       "iIndex":32,
@@ -5820,9 +5819,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4*y",
-         21
+         27
       ],
-      "templateType":21
+      "templateType":27
    },
    {
       "iIndex":2596,
@@ -5838,9 +5837,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "y=n4+x",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":5870,
@@ -5891,9 +5890,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4+x=y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":3631,
@@ -6017,25 +6016,25 @@
    {
       "iIndex":6417,
       "lEquations":[
-         "0.0575*low_investment+0.0625*high_investment=1900.0",
+         "5.75*0.01*low_investment+6.25*0.01*high_investment=1900.0",
          "low_investment+high_investment=32000.0"
       ],
-      "sQuestion":"A total of 32000 dollars is invested in 2 municipal bonds that pay 5.75 % and 6.25 % simple interest. The investor wants an annual interest income of 1900 dollars from the investments. What amount should be invested in the 5.75 % bond? ",
+      "sQuestion":"A total of 32,000 dollars is invested in 2 municipal bonds that pay 5.75 % and 6.25 % simple interest. The investor wants an annual interest income of 1900 dollars from the investments. What amount should be invested in the 5.75 % bond? ",
       "lSolutions":[
          20000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5894,
       "lEquations":[
-         "number_one+number_two=30.0",
-         "number_two-number_one=2.0"
+         "number_1+number_2=30.0",
+         "number_2-number_1=2.0"
       ],
       "sQuestion":"The sum of two consecutive even integers is at most 30. What are the greatest possible consecutive even integers?",
       "lSolutions":[
@@ -6099,9 +6098,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6383,
@@ -6175,7 +6174,7 @@
    {
       "iIndex":2584,
       "lEquations":[
-         "0.06*six_interest+0.09*nine_interest=189.0",
+         "6.0*0.01*six_interest+9.0*0.01*nine_interest=189.0",
          "six_interest+nine_interest=2400.0"
       ],
       "sQuestion":"A person wishes to invest 2,400.00 dollars , part at 9 % and part at 6 %. If the total interest desired at the end of the year is 189.00 dollars , how much should be invested at each rate? ",
@@ -6184,11 +6183,11 @@
          900
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":371,
@@ -6221,9 +6220,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6322,
@@ -6246,7 +6245,7 @@
    {
       "iIndex":6716,
       "lEquations":[
-         "0.10*ml_ten_HCL+0.60*ml_sixty_HCL=0.30*50.0",
+         "10.0*0.01*ml_ten_HCL+60.0*0.01*ml_sixty_HCL=30.0*0.01*50.0",
          "ml_ten_HCL+ml_sixty_HCL=50.0"
       ],
       "sQuestion":"How many milliliters of a 10 % HCL solution should be combined with a 60 % HCL solution in order to get 50 milliliters of a 30 % HCL solution?",
@@ -6254,16 +6253,16 @@
          30
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":7053,
       "lEquations":[
-         "0.02*low_interest+0.03*high_interest=11.0",
+         "2.0*0.01*low_interest+3.0*0.01*high_interest=11.0",
          "low_interest+high_interest=450.0"
       ],
       "sQuestion":"A woman has 450 dollars invested , part at 2 % and the remainder at 3 % simple interest. If the total annual income is 11 dollars , how much is invested at 2 % , in dollars? How much is invested at 3 %? ",
@@ -6272,16 +6271,16 @@
          200
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6925,
       "lEquations":[
-         "0.60*noof_adults+0.25*noof_childrens=140.0",
+         "60*0.1*noof_adults+25*0.1*noof_childrens=140.0",
          "noof_adults+noof_childrens=280.0"
       ],
       "sQuestion":"Admission tickets to a football game were 60 cents for adults and 25 cents for children. Receipts for the day showed that 280 persons attended and 140 dollars was collected. How many adults attended? How many children attended?",
@@ -6290,11 +6289,11 @@
          80
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":353,
@@ -6432,14 +6431,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":5711,
       "lEquations":[
-         "0.10*invest_ten+0.08*invest_eight=460.0",
+         "10.0*0.01*invest_ten+8.0*0.01*invest_eight=460.0",
          "invest_ten+invest_eight=5000.0"
       ],
       "sQuestion":"A student inherited 5000 dollars. She invested part of it at 10 % and the rest at 8 %. If her total interest amounted to 460 dollars , how much did she invest at 10 %? At 8 %? ",
@@ -6448,11 +6447,11 @@
          2000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5089,
@@ -6486,9 +6485,9 @@
       "template":[
          "x+y=n1",
          "y=n2*x",
-         11
+         21
       ],
-      "templateType":11
+      "templateType":21
    },
    {
       "iIndex":6300,
@@ -6511,19 +6510,19 @@
    {
       "iIndex":1362,
       "lEquations":[
-         "0.10*part_a+0.01*part_b=1390.0",
+         "10.0*0.01*part_a+1.0*0.01*part_b=1390.0",
          "part_a+part_b=31000.0"
       ],
-      "sQuestion":"Janet invested 31000 dollars , part at 10 % and part at 1 %. If the total interest at the end of the year is 1,390 dollars , how much did she invest at 10 %? ",
+      "sQuestion":"Janet invested 31,000 dollars , part at 10 % and part at 1 %. If the total interest at the end of the year is 1,390 dollars , how much did she invest at 10 %? ",
       "lSolutions":[
          12000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6666,
@@ -6626,15 +6625,15 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6853,
       "lEquations":[
-         "(plane+wind)*8.0=4000.0",
-         "(plane-wind)*10.0=4000.0"
+         "plane+wind*8.0=4000.0",
+         "plane-wind*10.0=4000.0"
       ],
       "sQuestion":"A direct flight on delta air lines from Atlanta to Paris is 4000 miles and takes approximately 8 hours going East and 10 hours going West. Although the plane averages the same airspeed , there is a headwind while traveling East , resulting in a different air speeds. What is the average air speed of the plane in miles per hour and the average wind speed? ",
       "lSolutions":[
@@ -6642,11 +6641,11 @@
          50
       ],
       "template":[
-         "(x+y)*n1=n2",
-         "(x-y)*n3=n4",
-         16
+         "x+y*n1=n2",
+         "x-y*n3=n4",
+         26
       ],
-      "templateType":16
+      "templateType":26
    },
    {
       "iIndex":6317,
@@ -6668,8 +6667,8 @@
    {
       "iIndex":2222,
       "lEquations":[
-         "(plane+wind)*1.5=780.0",
-         "(plane-wind)*2.0=780.0"
+         "plane+wind*1.5=780.0",
+         "plane-wind*2.0=780.0"
       ],
       "sQuestion":"Dave and Sandy fly from Philly to Chicago , it takes 2 hours to go West and 1.5 hours to fly East. The trip is 780 miles one way. If the wind speed is the same on each trip , find the speed of the wind and find the speed of the plane in the still air , in miles per hour. ",
       "lSolutions":[
@@ -6677,16 +6676,16 @@
          455
       ],
       "template":[
-         "(x+y)*n1=n2",
-         "(x-y)*n3=n4",
-         16
+         "x+y*n1=n2",
+         "x-y*n3=n4",
+         26
       ],
-      "templateType":16
+      "templateType":26
    },
    {
       "iIndex":3159,
       "lEquations":[
-         "0.05*five_solution+0.10*ten_solution=0.09*50.0",
+         "5.0*0.01*five_solution+10.0*0.01*ten_solution=9.0*0.01*50.0",
          "five_solution+ten_solution=50.0"
       ],
       "sQuestion":"Maria added a white vinegar solution of acetic acid in water. There are 2 strengths of white vinegar, a 5 % solution and a 10 % solution. How many milliliters of the 5 % solution and the 10% solution must she mix to make 50 milliliters of a 9 % vinegar solution?",
@@ -6695,11 +6694,11 @@
          40
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":3079,
@@ -6782,9 +6781,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":767,
@@ -6825,8 +6824,8 @@
    {
       "iIndex":1939,
       "lEquations":[
-         "5.0*mpthree+8.0*headphone=840.0",
-         "3.0*mpthree+4.0*headphone=480.0"
+         "5.0*mp3+8.0*headphone=840.0",
+         "3.0*mp3+4.0*headphone=480.0"
       ],
       "sQuestion":"A customer walks into an electronics store and buys 5 MP3 players and 8 sets of headphones , paying 840 dollars. A 2nd customer buys 3 MP3 players and 4 sets of headphones , and pays 480 dollars. How much does an MP3 player cost? How much does a set of headphones cost? ",
       "lSolutions":[
@@ -6836,9 +6835,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":5007,
@@ -6890,14 +6889,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":2291,
       "lEquations":[
-         "0.45*fortyfive_aluminum+0.70*seventy_aluminum=10.0*0.60",
+         "45.0*0.01*fortyfive_aluminum+70.0*0.01*seventy_aluminum=10.0*60.0*0.01",
          "fortyfive_aluminum+seventy_aluminum=10.0"
       ],
       "sQuestion":"To make 10 kilograms of aluminum alloy with 60 % aluminum , a scientist wants to use 2 metals with 45 % and 70 % aluminum content respectively. How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix?",
@@ -6906,11 +6905,11 @@
          6
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2040,
@@ -6933,7 +6932,7 @@
    {
       "iIndex":6459,
       "lEquations":[
-         "0.32*thirtytwo_solution+0.12*twelve_solution=0.20*50.0",
+         "32.0*0.01*thirtytwo_solution+12.0*0.01*twelve_solution=20.0*0.01*50.0",
          "thirtytwo_solution+twelve_solution=50.0"
       ],
       "sQuestion":"A chemist is mixing a solution that is 32 % sodium and another solution that is 12 % sodium. How many liters of 32 % and 12 % solution should the chemist use to produce 50 liters of the solution that is 20 % sodium?",
@@ -6942,11 +6941,11 @@
          30
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2570,
@@ -6986,20 +6985,20 @@
    {
       "iIndex":2567,
       "lEquations":[
-         "0.0225*low_interest+0.04*high_interest=970.0",
+         "2.25*0.01*low_interest+4.0*0.01*high_interest=970.0",
          "low_interest+high_interest=33000.0"
       ],
-      "sQuestion":"Donna invested her 33000 dollars bonus and received a total of 970 dollars in interest after one year. If part of the money returned 4 % and the remainder 2.25 % then how much did she invest at each rate? ",
+      "sQuestion":"Donna invested her 33,000 dollars bonus and received a total of 970 dollars in interest after one year. If part of the money returned 4 % and the remainder 2.25 % then how much did she invest at each rate? ",
       "lSolutions":[
          13000,
          20000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5117,
@@ -7040,7 +7039,7 @@
    {
       "iIndex":7070,
       "lEquations":[
-         "0.05*five_vinegar+0.10*ten_vinegar=0.09*50.0",
+         "5.0*0.01*five_vinegar+10.0*0.01*ten_vinegar=9.0*0.01*50.0",
          "five_vinegar+ten_vinegar=50.0"
       ],
       "sQuestion":"White vinegar is a solution of acetic acid in water. There are two strengths of white vinegar , a 5 % solution and a 10 % solution. How many milliliters of each solution must be mixed to make 50 milliliters of a 9 % vinegar solution? ",
@@ -7049,11 +7048,11 @@
          40
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":1707,
@@ -7111,8 +7110,8 @@
    {
       "iIndex":6139,
       "lEquations":[
-         "3.0*number_one=8.0*number_two",
-         "number_one+number_two=143.0"
+         "3.0*number_1=8.0*number_2",
+         "number_1+number_2=143.0"
       ],
       "sQuestion":"Two numbers are in the ratio 8 to 3. If the sum of numbers is 143 , find the numbers. ",
       "lSolutions":[
@@ -7137,9 +7136,9 @@
       ],
       "template":[
          "n1*x+n2*x=n3",
-         19
+         24
       ],
-      "templateType":19
+      "templateType":24
    },
    {
       "iIndex":3648,
@@ -7226,14 +7225,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4*y",
-         21
+         27
       ],
-      "templateType":21
+      "templateType":27
    },
    {
       "iIndex":586,
       "lEquations":[
-         "0.40*forty_acid+0.55*fiftyfive_acid=0.45*60",
+         "40.0*0.01*forty_acid+55.0*0.01*fiftyfive_acid=45.0*0.01*60",
          "forty_acid+fiftyfive_acid=60.0"
       ],
       "sQuestion":"A 40 % acid solution and a 55 % acid solution must be mixed to produce 60 liters of a 45 % acid solution. How many liters of 40 % acid solution should be used? How many liters of 55 % acid solution should be used?",
@@ -7242,29 +7241,29 @@
          20
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":27,
       "lEquations":[
-         "0.06*six_percent+0.09*nine_percent=684.0",
+         "6*0.1*six_percent+9*0.1*nine_percent=684.0",
          "six_percent+nine_percent=10000.0"
       ],
-      "sQuestion":"Suppose you invested 10000 dollars , part at 6 % annual interest and the rest at 9 % annual interest. If you received 684 dollars in interest after one year , how much did you invest at 6 % annual interest and at 9 % annual interest? ",
+      "sQuestion":"Suppose you invested 10,000 dollars , part at 6 % annual interest and the rest at 9 % annual interest. If you received 684 dollars in interest after one year , how much did you invest at 6 % annual interest and at 9 % annual interest? ",
       "lSolutions":[
          7200,
          2800
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":6540,
@@ -7316,22 +7315,22 @@
    {
       "iIndex":1035,
       "lEquations":[
-         "1250.0+0.05*sales=1500.0"
+         "1250.0+5*0.01*sales=1500.0"
       ],
       "sQuestion":"Jordan 's salary is 1250 dollars a month plus a 5 % commission on all of his sales. What must the amount of his sales be , in dollars , for him to earn at least 1500 dollars each month? ",
       "lSolutions":[
          5000
       ],
       "template":[
-         "n1+n2*x=n3",
-         5
+         "n1+n2*n3*x=n4",
+         19
       ],
-      "templateType":5
+      "templateType":19
    },
    {
       "iIndex":6546,
       "lEquations":[
-         "0.25*first_source+0.75*second_source=50.0*0.55",
+         "25.0*0.01*first_source+75.0*0.01*second_source=50.0*55.0*0.01",
          "first_source+second_source=50.0"
       ],
       "sQuestion":"A petroleum company has two different sources of crude oil. The first source provides crude oil that is 25 % hydrocarbons and the second one provides crude oil that is 75 % hydrocarbons. In order to obtain 50 gallons of crude oil that is 55 % hydrocarbons , how many gallons of crude oil must be used from each of the two sources? ",
@@ -7340,11 +7339,11 @@
          30
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":370,
@@ -7381,7 +7380,7 @@
    {
       "iIndex":1669,
       "lEquations":[
-         "0.40*forty_solution+0.85*eightyfive_solution=0.60*1800",
+         "40.0*0.01*forty_solution+85.0*0.01*eightyfive_solution=60*0.01*1800",
          "forty_solution+eightyfive_solution=1800.0"
       ],
       "sQuestion":"A 40 % sugar solution is added to an 85 % sugar solution to create 1800 milliliters of a 60 % solution. How many milliliters of the 40 % solution should be used? How many millileters of the 85 % solution?",
@@ -7390,11 +7389,11 @@
          800
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":1404,
@@ -7517,7 +7516,7 @@
    {
       "iIndex":2455,
       "lEquations":[
-         "2.0*largenumber=3.0*smallnumber+16.0",
+         "2.0*largenumber=16.0+3.0*smallnumber",
          "smallnumber+largenumber=43.0"
       ],
       "sQuestion":"The sum of 2 numbers is 43. Twice the larger number exceeds 3 times the smaller number by 16. Find the number.",
@@ -7561,9 +7560,9 @@
       "template":[
          "x+y=n1",
          "y=n2*x",
-         11
+         21
       ],
-      "templateType":11
+      "templateType":21
    },
    {
       "iIndex":271,
@@ -7668,9 +7667,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4+x=y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":6279,
@@ -7756,9 +7755,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6999,
@@ -7774,14 +7773,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=y-n4",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":6102,
       "lEquations":[
-         "0.80*eighty_base+0.30*thirty_base=0.62*150.0",
+         "80.0*0.01*eighty_base+30.0*0.01*thirty_base=62.0*0.01*150.0",
          "eighty_base+thirty_base=150.0"
       ],
       "sQuestion":"E-Chem Testing has a solution that is 80 % base and another that is 30 % base. A technician needs 150 liters of a solution that is 62 % base. The 150 liters will be prepared by mixing the two solutions on hand. How much of the 80 % base and the 30 % base should be used?",
@@ -7790,28 +7789,28 @@
          54
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2802,
       "lEquations":[
-         "0.07*low_investment+0.09*high_investment=970.0",
+         "7.0*0.01*low_investment+9.0*0.01*high_investment=970.0",
          "low_investment+high_investment=12000.0"
       ],
-      "sQuestion":"One year Walt invested 12000 dollars. He invested part of the money at 7 % and the rest at 9 %. He made a total of 970 dollars in interest. How much was invested at 7 %? ",
+      "sQuestion":"One year Walt invested 12,000 dollars. He invested part of the money at 7 % and the rest at 9 %. He made a total of 970 dollars in interest. How much was invested at 7 %? ",
       "lSolutions":[
          5500
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":2708,
@@ -7827,14 +7826,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "y=n4+x",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":6158,
       "lEquations":[
-         "0.02*two_acid+0.05*five_acid=0.04*24.0",
+         "2.0*0.01*two_acid+5.0*0.01*five_acid=4.0*0.01*24.0",
          "two_acid+five_acid=24.0"
       ],
       "sQuestion":"To make a weak solution of 24 liters of 4 % acid , a lab technician will use some premixed solutions : one is 2 % acid and the other is 5 % acid. How many liters of each , respectively , should he use to obtain the desired solution? ",
@@ -7843,11 +7842,11 @@
          16
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":2940,
@@ -7870,7 +7869,7 @@
    {
       "iIndex":5717,
       "lEquations":[
-         "0.16*soybean_meal+0.08*cornmeal=320.0*0.13",
+         "16.0*0.01*soybean_meal+8.0*0.01*cornmeal=320.0*13.0*0.01",
          "soybean_meal+cornmeal=320.0"
       ],
       "sQuestion":"Soybean meal is 16 % protein ; cornmeal is 8 % protein. How many pounds of each should be mixed together in order to get a 320-pound mixture that is 13 % protein?",
@@ -7879,11 +7878,11 @@
          120
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":5824,
@@ -7962,7 +7961,7 @@
          "55.0*main+45.0*back=955000.0",
          "main+back=20000.0"
       ],
-      "sQuestion":"A concert sells out a 20000 seat arena. Main seat tickets cost 55 dollars , and back seat tickets for 45 dollars. The concert made 955000 dollars. How many main seat tickets and back seat tickets were sold? ",
+      "sQuestion":"A concert sells out a 20,000 seat arena. Main seat tickets cost 55 dollars , and back seat tickets for 45 dollars. The concert made 955,000 dollars. How many main seat tickets and back seat tickets were sold? ",
       "lSolutions":[
          5500,
          14500
@@ -8005,9 +8004,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6826,
@@ -8023,9 +8022,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4*y",
-         21
+         27
       ],
-      "templateType":21
+      "templateType":27
    },
    {
       "iIndex":3219,
@@ -8056,9 +8055,9 @@
       ],
       "template":[
          "n1*x+n2*x=n3",
-         19
+         24
       ],
-      "templateType":19
+      "templateType":24
    },
    {
       "iIndex":2892,
@@ -8171,20 +8170,20 @@
    {
       "iIndex":1220,
       "lEquations":[
-         "0.075*account_one+0.06*account_two=840.0",
+         "7.5*0.01*account_one+6.0*0.01*account_two=840.0",
          "account_one+account_two=12000.0"
       ],
-      "sQuestion":"Didi invested a total of 12000 dollars in two accounts paying 7.5 % and 6 % simple interest. If her total return at the end of the first year was 840 dollars , how much did she invest in each account? ",
+      "sQuestion":"Didi invested a total of 12,000 dollars in two accounts paying 7.5 % and 6 % simple interest. If her total return at the end of the first year was 840 dollars , how much did she invest in each account? ",
       "lSolutions":[
          8000,
          4000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":920,
@@ -8218,9 +8217,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":262,
@@ -8275,7 +8274,7 @@
    {
       "iIndex":6196,
       "lEquations":[
-         "0.04*low_investment+0.065*high_investment=245.0",
+         "4.0*0.01*low_investment+6.5*0.01*high_investment=245.0",
          "low_investment+high_investment=5000.0"
       ],
       "sQuestion":"Mario has 5000 pence to invest and decides to invest part of it at 4 % and the rest of it at 6.5 %. If the total interest for the year is  245 pence, how much does Mario has to invest at 4 % rate and how much does she has to invest at 6.5 % rate? ",
@@ -8284,11 +8283,11 @@
          1800
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":7143,
@@ -8356,9 +8355,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":2990,
@@ -8373,9 +8372,9 @@
       "template":[
          "x+y=n1",
          "y=n2*x",
-         11
+         21
       ],
-      "templateType":11
+      "templateType":21
    },
    {
       "iIndex":1366,
@@ -8460,9 +8459,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":2142,
@@ -8496,14 +8495,14 @@
       "template":[
          "n1*x+n2*y=n3",
          "n4*x+n5*y=n6",
-         8
+         22
       ],
-      "templateType":8
+      "templateType":22
    },
    {
       "iIndex":6170,
       "lEquations":[
-         "0.20*twenty_acid+0.60*sixty_acid=0.45*80.0",
+         "20.0*0.01*twenty_acid+60.0*0.01*sixty_acid=45.0*0.01*80.0",
          "twenty_acid+sixty_acid=80.0"
       ],
       "sQuestion":"A chemist has two acid solutions. One solution is 20 % pure acid and the other is 60 % pure acid. How much of 20 % pure acid and 60 % pure acid is needed to produce 80 square-centimeters of a solution that is 45 % pure acid?",
@@ -8512,16 +8511,16 @@
          50
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":3682,
       "lEquations":[
-         "0.07*seven_peroxide+0.04*four_peroxide=0.05*300.0",
+         "7.0*0.01*seven_peroxide+4.0*0.01*four_peroxide=5.0*0.01*300.0",
          "seven_peroxide+four_peroxide=300.0"
       ],
       "sQuestion":"A cosmetologist has a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution. The cosmetologist needs 300 milliliters of a 5 % hydrogen peroxide solution. Find how many milliliters of each solution the cosmetologist needs to mix together.",
@@ -8530,11 +8529,11 @@
          200
       ],
       "template":[
-         "n1*x+n2*y=n3*n4",
-         "x+y=n5",
-         18
+         "n1*n2*x+n3*n4*y=n5*n6*n7",
+         "x+y=n8",
+         21
       ],
-      "templateType":18
+      "templateType":21
    },
    {
       "iIndex":3285,
@@ -8554,24 +8553,24 @@
    {
       "iIndex":1486,
       "lEquations":[
-         "0.18*part_a+0.14*part_b=3360.0",
+         "18.0*0.01*part_a+14.0*0.01*part_b=3360.0",
          "part_a+part_b=22000.0"
       ],
-      "sQuestion":"Bob invested 22000 dollars , part at 18 % and part at 14 %. If the total interest at the end of the year is 3,360 dollars , how much did he invest at 18 %? ",
+      "sQuestion":"Bob invested 22,000 dollars , part at 18 % and part at 14 %. If the total interest at the end of the year is 3,360 dollars , how much did he invest at 18 %? ",
       "lSolutions":[
          7000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5538,
       "lEquations":[
-         "0.25*first_tank+0.375*second_tank=11.2",
+         "25.0*0.01*first_tank+37.5*0.01*second_tank=11.2",
          "first_tank+second_tank=36.0"
       ],
       "sQuestion":"An airplane begins a flight with a total of 36.0 gallons of fuel stored in two separate wing tanks. During the flight , 25.0 % of the fuel in one tank is used , and in the other tank , 37.5 % of the fuel is used. If the total fuel used is 11.2 gallons , what are the amounts x and y stored in each tank. ",
@@ -8580,11 +8579,11 @@
          17.6
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":15,
@@ -8592,7 +8591,7 @@
          "small+large=21.0",
          "2400.0*small+1800.0*large=48000.0"
       ],
-      "sQuestion":"John is writing an article. The article is limited to 48000 words. He decides to use two types of font. Large font is 1,800 words per page , small font is 2,400 words per page. He is allowed 21 pages for this article. How many pages are in small font? How many pages are in large font? ",
+      "sQuestion":"John is writing an article. The article is limited to 48,000 words. He decides to use two types of font. Large font is 1,800 words per page , small font is 2,400 words per page. He is allowed 21 pages for this article. How many pages are in small font? How many pages are in large font? ",
       "lSolutions":[
          17,
          4
@@ -8635,9 +8634,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4*y",
-         21
+         27
       ],
-      "templateType":21
+      "templateType":27
    },
    {
       "iIndex":2559,
@@ -8675,8 +8674,8 @@
    {
       "iIndex":6957,
       "lEquations":[
-         "piece_one+piece_two=177.0",
-         "piece_one=2.0*piece_two"
+         "piece1+piece2=177.0",
+         "piece1=2.0*piece2"
       ],
       "sQuestion":"A 177-inch pipe is cut into two pieces. One piece is two times the length of the other. Find the lengths of the two pieces.",
       "lSolutions":[
@@ -8694,7 +8693,7 @@
       "iIndex":376,
       "lEquations":[
          "baseball+football=125.0",
-         "baseball=3.0*football+5.0"
+         "baseball=5.0+3.0*football"
       ],
       "sQuestion":"Jack collects baseball and football cards. He has 125 cards total. The number of baseball cards he has is five more than three times the number of football cards. How many baseball and football cards does he have? ",
       "lSolutions":[
@@ -8726,27 +8725,27 @@
    {
       "iIndex":5197,
       "lEquations":[
-         "0.075*high_interest_investment+0.06*low_interest_investment=1023.0",
+         "7.5*0.01*high_interest_investment+6.0*0.01*low_interest_investment=1023.0",
          "high_interest_investment+low_interest_investment=15000.0"
       ],
-      "sQuestion":"A self-employed contractor nearing retirement made two investments totaling 15000 dollars. In one year , these investments yielded 1023 dollars in simple interest. Part of the money was invested at 6 % and the rest at 7.5 %. How much was invested at each rate? ",
+      "sQuestion":"A self-employed contractor nearing retirement made two investments totaling 15,000 dollars. In one year , these investments yielded 1023 dollars in simple interest. Part of the money was invested at 6 % and the rest at 7.5 %. How much was invested at each rate? ",
       "lSolutions":[
          8200,
          6800
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5286,
       "lEquations":[
          "81000.0+7000.0*x=16000.0*x"
       ],
-      "sQuestion":"Steve invests in a circus production. The coast includes an overhead of 81000 dollars , plus production costs of 7000 dollars per performance. A sold-out performance brings in 16000 dollars , Determine the number of sold-out performances , x , needed to break even. ",
+      "sQuestion":"Steve invests in a circus production. The coast includes an overhead of 81,000 dollars , plus production costs of 7,000 dollars per performance. A sold-out performance brings in 16,000 dollars , Determine the number of sold-out performances , x , needed to break even. ",
       "lSolutions":[
          9
       ],
@@ -8776,7 +8775,7 @@
    {
       "iIndex":5702,
       "lEquations":[
-         "0.04*low_interest+0.05*high_interest=380.0",
+         "4.0*0.01*low_interest+5.0*0.01*high_interest=380.0",
          "low_interest+high_interest=8000.0"
       ],
       "sQuestion":"Lisa invested 8000 dollars , part at 4 % and the rest at 5 % per year. How much did she invest at 4 % and 5 % if her total return per year on the investments was 380 dollars? ",
@@ -8785,11 +8784,11 @@
          6000
       ],
       "template":[
-         "n1*x+n2*y=n3",
-         "x+y=n4",
-         15
+         "n1*n2*x+n3*n4*y=n5",
+         "x+y=n6",
+         16
       ],
-      "templateType":15
+      "templateType":16
    },
    {
       "iIndex":5480,
@@ -8840,9 +8839,9 @@
       "template":[
          "n1*x+n2*y=n3",
          "x=n4+y",
-         6
+         23
       ],
-      "templateType":6
+      "templateType":23
    },
    {
       "iIndex":2481,
